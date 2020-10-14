@@ -1,4 +1,4 @@
-### Workflow for creating, updating, and uploading your final report
+### Workflow for creating and updating your deliverables
 
 - Fork this repo.
 - Create a new branch (named with your studentID).
