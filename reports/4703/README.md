@@ -1,6 +1,6 @@
 # Παραδοτέα και Τελική αναφορά
 
-## Γιαννίκος Ιωάννης 4703
+## Γιαννίκος Ιωάννης, 4703
 
 ## Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων
 
@@ -20,3 +20,11 @@
 | 12 | Τελική αναφορά* |
 
 ## Introduction
+
+As a reacent post-graduated student form Computer Informatics Department, my goal is to falmiliarize myself with the established technologies of the profesion and learn how to optimaly use them.
+
+Since my experience on the field is limited, i like to emphasize in technical matters in order to gain skills and experties.
+
+My goal is to become a developer with emphasis in the front-end technologies, so i would like to see my skills in front end thechnologies like javascript and css develop during the weeks of the course.
+
+Since i do not consider myself especially familiar with github, another goal is to make use o it lees akwardly than i currently do!
