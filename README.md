@@ -17,6 +17,8 @@
 | 11 | αίτημα ενσωμάτωσης |
 | 12 | Τελική αναφορά* |
 
+[Προθεσμίες παραδοτέων και τελική αναφορά](https://courses-ionio.github.io/help/deliverables/)
+
 [Οδηγίες και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/) για την παράδοση της εργασίας.
 
 [Ανακοινώσεις, απορίες, και πρόγραμμα συναντήσεων](https://github.com/upatras-hci/iv/issues)
