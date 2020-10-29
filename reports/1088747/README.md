@@ -22,9 +22,9 @@
 
 ## Exercice1 
 
-mpla mpla mpla 
-https://github.com/irozg/site/blob/master/_remix/image-zoom.md
+Στην άσκηση προγραμματισμού της δεύτερης εβδομάδας, υλοποίησα μία άσκηση οπτικοποίησης, χρησιμοποιότας τα φίλτρα του css, (filter). Το παράδειγμα επισυνάπτεται παρακάτω στο link:
+https://codepen.io/irozg/pen/RwRxmOJ 
 
-https://codepen.io/irozg/pen/RwRxmOJ
+https://github.com/irozg/site/blob/master/_remix/image-zoom.md
 
 TO DO netfly https://github.com/irozg/site.git  ++ >  link απο https://pibook.epidro.me/remix/image-zoom/ (myVersion)
