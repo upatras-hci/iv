@@ -3,7 +3,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή](#Intro) |
-| 2 | [Άσκηση προγραμματισμού](https://github.com/irozg/site/blob/master/_remix/image-zoom.md) |
+| 2 | [Άσκηση προγραμματισμού](#Exercice1) |
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
 | 5 | Άσκηση γραμμής εντολών |
@@ -19,3 +19,12 @@
 ## Intro
 
 Ονομάζομαι Ηρώ Ζαγκότα και είμαι UI/UX designer. Ασχολούμαι εντατικά με την οπτικοποίηση της πληροφορίας και έχω ιδιαίτερο ενδιαφέρον για την οπτικοποίηση στατιστικών δεδομένων. Από το μάθημα αυτό προσδοκώ να εξοικειωθώ περισσότερο με το github καθώς και με τις διάφορες τεχνολογίες και βιβλιοθήκες που υπάρχουν για οπτικοποίηση. 
+
+## Exercice1 
+
+mpla mpla mpla 
+https://github.com/irozg/site/blob/master/_remix/image-zoom.md
+
+https://codepen.io/irozg/pen/RwRxmOJ
+
+TO DO netfly https://github.com/irozg/site.git  ++ >  link απο https://pibook.epidro.me/remix/image-zoom/ (myVersion)
