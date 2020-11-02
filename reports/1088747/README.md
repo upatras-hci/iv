@@ -24,8 +24,6 @@
 Στην άσκηση προγραμματισμού της δεύτερης εβδομάδας, υλοποίησα μία άσκηση οπτικοποίησης, χρησιμοποιότας τα φίλτρα του css, (filter). 
 Το παράδειγμα επισυνάπτεται παρακάτω στο [σύνδεσμο](https://codepen.io/irozg/pen/RwRxmOJ )
 
-[ο σύνδεσμος του αποθετηρίου](https://github.com/irozg/site/blob/master/_remix/image-zoom.md)  
-
-[ο σύνδεσμος στο βιβλίο](https://iv-book-2020.netlify.app/remix/image-zoom/)
+[ο σύνδεσμος του αποθετηρίου](https://github.com/irozg/site/blob/master/_remix/image-zoom.md)   [ο σύνδεσμος στο βιβλίο](https://iv-book-2020.netlify.app/remix/image-zoom/)
 
 
