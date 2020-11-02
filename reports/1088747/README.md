@@ -21,9 +21,10 @@
 
 ## Exercice1 
 
-Στην άσκηση προγραμματισμού της δεύτερης εβδομάδας, υλοποίησα μία άσκηση οπτικοποίησης, χρησιμοποιότας τα φίλτρα του css, (filter). Το παράδειγμα επισυνάπτεται παρακάτω στο link:
-https://codepen.io/irozg/pen/RwRxmOJ 
+Στην άσκηση προγραμματισμού της δεύτερης εβδομάδας, υλοποίησα μία άσκηση οπτικοποίησης, χρησιμοποιότας τα φίλτρα του css, (filter). 
+Το παράδειγμα επισυνάπτεται παρακάτω στο [σύνδεσμο](https://codepen.io/irozg/pen/RwRxmOJ )
 
-https://github.com/irozg/site/blob/master/_remix/image-zoom.md
+[ο σύνδεσμος του αποθετηρίου ](https://github.com/irozg/site/blob/master/_remix/image-zoom.md) 
+[ο σύνδεσμος στο βιβλίο])(https://iv-book-2020.netlify.app/remix/image-zoom/)
 
-TO DO netfly https://github.com/irozg/site.git  ++ >  link απο https://pibook.epidro.me/remix/image-zoom/ (myVersion)
+
