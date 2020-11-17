@@ -6,7 +6,7 @@
 | 2 | [Άσκηση 1](#Exercice1) |
 | 3 | [βιογραφικό site](#resume-CV)|
 | 4 | αίτημα ενσωμάτωσης |
-| 5 | Άσκηση προγραμματισμού |
+| 5 | [Άσκηση 2](#Exercise2) |
 | 6 | συμμετοχικό περιεχόμενο |
 | 7 | βιογραφικό pdf |
 | 8 | αίτημα ενσωμάτωσης |
@@ -24,7 +24,7 @@
 Στην άσκηση προγραμματισμού της δεύτερης εβδομάδας, υλοποίησα μία άσκηση οπτικοποίησης, χρησιμοποιότας τα φίλτρα του css, (filter). 
 Το παράδειγμα επισυνάπτεται παρακάτω στο [σύνδεσμο](https://codepen.io/irozg/pen/RwRxmOJ )
 
-[ο σύνδεσμος του αποθετηρίου](https://github.com/irozg/site/blob/master/_remix/image-zoom.md) 
+[ο σύνδεσμος του αποθετηρίου](https://github.com/irozg/iv-site/blob/master/_remix/image-zoom.md) 
 
 [ο σύνδεσμος στο βιβλίο](https://iv-book-2020.netlify.app/remix/image-zoom/)
 
@@ -34,4 +34,12 @@
 [ο σύνδεσμος του αποθετηρίου](https://github.com/irozg/cv) 
 
 [ο σύνδεσμος στο site](https://irozg.github.io/cv/) 
+
+## Exercise2
+
+Σε αυτή την άσκηση χρησιμοποίησα media-queries για να αλλάξω το χρώμα και το μέγεθος της γραμματοσειράς ανάλογα με το μέγεθος της οθόνης. 
+
+[ο σύνδεσμος του αποθετηρίου](https://github.com/irozg/iv-site/blob/master/_remix/css-queries.md)
+
+[ο σύνδεσμος στο βιβλίο](https://iv-book-2020.netlify.app/remix/css-queries/)
 
