@@ -8,7 +8,7 @@
 | 3 | Άσκηση προγραμματισμού ή βιογραφικό (SW) | [Curriculum](#curriculum)
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό (SW) | [Pull Request](#pull-request)
 | 5 | Άσκηση γραμμής εντολών | 
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
+| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |[Programming Exercise](#programming-exercise-2)
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -35,3 +35,7 @@
 Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα άτομο sintori.md εκανα νεο αίτημα για pull στο upatras-hci/site
 [upatras-hci/site](https://github.com/upatras-hci/site)  
 [skartz0/site-1](https://github.com/skartz0/site-1)  
+
+# Programming Exercise 2
+Στη παρακατω εργασία χρησιμοποίησα ενα svg, στο οποιο προσθεσα κατάλληλη css με animation ωστε να αλλαζει χρώμα "on hover" 
+[Image](https://codepen.io/skartzos/pen/xxOeejj)
