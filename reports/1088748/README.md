@@ -39,5 +39,5 @@
 
 # Programming Exercise 2
 Στη παρακατω εργασία χρησιμοποίησα ενα svg, στο οποιο προσθεσα κατάλληλη css με animation ωστε να αλλαζει χρώμα "on hover"   
-[Image](https://codepen.io/skartzos/pen/xxOeejj)
+[Image](https://codepen.io/skartzos/pen/xxOeejj)  
 [site repo](https://github.com/skartz0/site-iv/blob/master/_remix/image.md)
