@@ -25,6 +25,7 @@
 # Programming Exercise
 Για τις ανάγκες της συγκεκριμένης εργασίας δημιουργήθηκε μια καινούργια βάση δεδομένων firebase ή οποια συνδεθήκε με το λογαριασμό μου στο codepen. Χρησιμοποιόντας html, bootstrap και το api της firebase δημιουργήθηκε μια φόρμα νεου μαθητή snowboard, η οποια αποθηκευεται ενω όλες οι εγγραφές παράγωνται σε πραγματικό χρονο στην ιδια σελίδα  
 [Firebase Form](https://codepen.io/skartzos/pen/ExyvagK?editors=1010)
+[site repo](https://github.com/skartz0/site-iv/blob/master/_remix/firebase-form.md)
 
 # Curriculum
 Για την υλοποίηση του online βιογραφικού δημιουργισα ενα νεο repo το οποιο περιλαμβανει την εγκατάσταση του Jekyll αρχειο yml για την καταγραφη των πληροφοριων του cv. Το repo ειναι συνδεδεμενο με το netlify οπου οριστηκε και custom domain  
@@ -37,5 +38,6 @@
 [skartz0/site-1](https://github.com/skartz0/site-1)  
 
 # Programming Exercise 2
-Στη παρακατω εργασία χρησιμοποίησα ενα svg, στο οποιο προσθεσα κατάλληλη css με animation ωστε να αλλαζει χρώμα "on hover" 
+Στη παρακατω εργασία χρησιμοποίησα ενα svg, στο οποιο προσθεσα κατάλληλη css με animation ωστε να αλλαζει χρώμα "on hover"   
 [Image](https://codepen.io/skartzos/pen/xxOeejj)
+[site repo](https://github.com/skartz0/site-iv/blob/master/_remix/image.md)
