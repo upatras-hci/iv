@@ -5,7 +5,7 @@
 | 1 | [Εισαγωγή](#Intro) |
 | 2 | [Άσκηση 1](#Exercice1) |
 | 3 | [βιογραφικό site](#resume-CV)|
-| 4 | αίτημα ενσωμάτωσης |
+| 4 | [αίτημα ενσωμάτωσης](#Merge) |
 | 5 | [Άσκηση 2](#Exercise2) |
 | 6 | συμμετοχικό περιεχόμενο |
 | 7 | βιογραφικό pdf |
@@ -37,7 +37,9 @@
 
 ## Merge request
 Άνοιξα ένα issue για τα μαθήματα του εξαμήνου που χρειάζονται να προστεθούν στο site.  Έφτιαξα αρχεία md για τα μαθήματα του πρώτου εξαμήνου στο φακελο courses και έκανα pull-request
+
 [o σύνδερμος για το issue](https://github.com/upatras-hci/site/issues/133)
+
 [ο σύνδεσμος του merge request](https://github.com/upatras-hci/site/pull/132)
 
 ## Exercise2
