@@ -50,3 +50,21 @@
 
 [ο σύνδεσμος στο βιβλίο](https://iv-book-2020.netlify.app/remix/css-queries/)
 
+## Contenct 
+
+Σε αυτή την εργασία, πρόσθεσα 2 εικόνες με τα thumbnails τους στο φακελό images, καθώς και ένα αρχείο md, με την περιγραφή για την κάθε μία στο φακελο gallery:
+
+[φωτο 1 - eniac](https://github.com/irozg/_gallery/blob/master/eniac.md)
+
+[φώτο 2 - BRESLEC II ](https://github.com/irozg/_gallery/blob/master/brlescI-ii.md)
+
+μετά τα σύνδεσα με το χρονολόγιο και τα slides:
+https://github.com/irozg/iv-site/blob/master/_slides/programming.md
+
+https://github.com/irozg/iv-site/blob/master/_slides/archetypes.md
+
+και στο χρονολόγιο αντίστοιχα 
+https://github.com/irozg/iv-site/blob/master/_timeline/computer.md
+
+
+
