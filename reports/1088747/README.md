@@ -7,7 +7,7 @@
 | 3 | [βιογραφικό site](#resume-CV)|
 | 4 | [αίτημα ενσωμάτωσης](#Merge-request) |
 | 5 | [Άσκηση 2](#Exercise2) |
-| 6 | συμμετοχικό περιεχόμενο |
+| 6 | [συμμετοχικό περιεχόμενο](#content) |
 | 7 | βιογραφικό pdf |
 | 8 | αίτημα ενσωμάτωσης |
 | 9 | αίτημα ενσωμάτωσης |
@@ -50,15 +50,16 @@
 
 [ο σύνδεσμος στο βιβλίο](https://iv-book-2020.netlify.app/remix/css-queries/)
 
-## Contenct 
+## Content 
 
 Σε αυτή την εργασία, πρόσθεσα 2 εικόνες με τα thumbnails τους στο φακελό images, καθώς και ένα αρχείο md, με την περιγραφή για την κάθε μία στο φακελο gallery:
 
-[φωτο 1 - eniac](https://github.com/irozg/_gallery/blob/master/eniac.md)
+[αρχείο του αποθετηρίου με φωτο 1 - eniac](https://github.com/irozg/_gallery/blob/master/eniac.md)
 
-[φώτο 2 - BRESLEC II ](https://github.com/irozg/_gallery/blob/master/brlescI-ii.md)
+[αρχείο του αποθετηρίου με φώτο 2 - BRESLEC II ](https://github.com/irozg/_gallery/blob/master/brlescI-ii.md)
 
 μετά τα σύνδεσα με το χρονολόγιο και τα slides:
+
 https://github.com/irozg/iv-site/blob/master/_slides/programming.md
 
 https://github.com/irozg/iv-site/blob/master/_slides/archetypes.md
