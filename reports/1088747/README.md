@@ -35,6 +35,11 @@
 
 [ο σύνδεσμος στο site](https://irozg.github.io/cv/) 
 
+## Merge request
+Άνοιξα ένα issue για τα μαθήματα του εξαμήνου που χρειάζονται να προστεθούν στο site.  Έφτιαξα αρχεία md για τα μαθήματα του πρώτου εξαμήνου στο φακελο courses και έκανα pull-request
+[o σύνδερμος για το issue](https://github.com/upatras-hci/site/issues/133)
+[ο σύνδεσμος του merge request](https://github.com/upatras-hci/site/pull/132)
+
 ## Exercise2
 
 Σε αυτή την άσκηση χρησιμοποίησα media-queries για να αλλάξω το χρώμα και το μέγεθος της γραμματοσειράς ανάλογα με το μέγεθος της οθόνης. 
