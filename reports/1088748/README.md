@@ -44,7 +44,7 @@
 
 # Participatory content
 Για την προσθήκη του συμμετοχικού περιεχομένου, το πρωτη βήμα ηταν η δημιουργία δύο νεω θεμάτων(issues) στο σχετικό αποθετήριο pibook/_gallery. Έγινε commit δυο νέων εικόνων 160px, με θεματική εμφαση στην διάδραση.Προστέθηκε και σχετκός τίτλος και περιγραφή  
-[pibook/_gallery]https://github.com/pibook/_gallery  
+[pibook/_gallery](https://github.com/pibook/_gallery)  
 [pibook/images](https://github.com/pibook/images)  
 [site issues](https://github.com/pibook/_gallery/issues)
 
