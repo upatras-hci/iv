@@ -8,7 +8,7 @@
 | 3 | Άσκηση προγραμματισμού ή βιογραφικό (SW) | [Curriculum](#curriculum)
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό (SW) | [Pull Request](#pull-request)
 | 5 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |[Programming Exercise](#programming-exercise-2)
-| 6 | συμμετοχικό περιεχόμενο | 
+| 6 | συμμετοχικό περιεχόμενο | [Participatory content](#participatory-content)
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -41,3 +41,11 @@
 Στη παρακατω εργασία χρησιμοποίησα ενα svg, στο οποιο προσθεσα κατάλληλη css με animation ωστε να αλλαζει χρώμα "on hover"   
 [Image](https://codepen.io/skartzos/pen/xxOeejj)  
 [site repo](https://github.com/skartz0/site-iv/blob/master/_remix/image.md)
+
+# Participatory content
+Για την προσθήκη του συμμετοχικού περιεχομένου, το πρωτη βήμα ηταν η δημιουργία δύο νεω θεμάτων(issues) στο σχετικό αποθετήριο pibook/_gallery. Έγινε commit δυο νέων εικόνων 160px, με θεματική εμφαση στην διάδραση.Προστέθηκε και σχετκός τίτλος και περιγραφή  
+[pibook/_gallery]https://github.com/pibook/_gallery  
+[pibook/images](https://github.com/pibook/images)  
+[site issues](https://github.com/pibook/_gallery/issues)
+
+
