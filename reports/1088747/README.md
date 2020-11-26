@@ -53,6 +53,8 @@
 ## Content 
 
 Σε αυτή την εργασία, πρόσθεσα 2 εικόνες με τα thumbnails τους στο φακελό images, καθώς και ένα αρχείο md, με την περιγραφή για την κάθε μία στο φακελο gallery:
+      
+[τα commits με τις φωτογραφίες](https://github.com/irozg/images/commits/master)
 
 [αρχείο του αποθετηρίου με φωτο 1 - eniac](https://github.com/irozg/_gallery/blob/master/eniac.md)
 
