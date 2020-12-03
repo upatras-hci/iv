@@ -58,7 +58,7 @@
 
 [αρχείο του αποθετηρίου με φωτο 1 - eniac](https://github.com/irozg/_gallery/blob/master/eniac.md)
 
-[αρχείο του αποθετηρίου με φώτο 2 - BRESLEC II ](https://github.com/irozg/_gallery/blob/master/brlescI-ii.md)
+[αρχείο του αποθετηρίου με φώτο 2 - Grace Hopper ](https://github.com/irozg/_gallery/blob/master/grace_hopper.md)
 
 μετά τα σύνδεσα με το χρονολόγιο και τα slides:
 
