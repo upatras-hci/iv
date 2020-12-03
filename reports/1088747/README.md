@@ -68,7 +68,7 @@ https://github.com/irozg/iv-site/blob/master/_slides/archetypes.md
 
 και στο χρονολόγιο αντίστοιχα:
 
-https://github.com/irozg/iv-site/blob/master/_timeline/computer.md
+https://github.com/irozg/iv-site/blob/master/_timeline/programming.md
 
 
 
