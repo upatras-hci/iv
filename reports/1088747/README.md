@@ -62,9 +62,13 @@
 
 μετά τα σύνδεσα με το χρονολόγιο και τα slides:
 
+https://dreamy-yonath-c69c81.netlify.app/slides/programming/
+
 https://github.com/irozg/iv-site/blob/master/_slides/programming.md
 
 και στο χρονολόγιο αντίστοιχα:
+
+https://dreamy-yonath-c69c81.netlify.app/timeline/programming/
 
 https://github.com/irozg/iv-site/blob/master/_timeline/programming.md
 
