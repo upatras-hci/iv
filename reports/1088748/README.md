@@ -49,7 +49,7 @@
 [skartz0/gallery](https://github.com/skartz0/_gallery/tree/master)  
 [skartz0/timeline](https://pibook.epidro.me/timeline/systems/)
 
-# Pull Request 
+# Pull Request 2
 Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα νεο issue για προσθηκη "news" εκανα νεο αίτημα για pull στο upatras-hci/site
 [upatras-hci/site](https://github.com/upatras-hci/site)  
 [skartz0/site](https://github.com/skartz0/site) 
