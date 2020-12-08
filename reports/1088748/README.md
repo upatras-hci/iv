@@ -9,7 +9,7 @@
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό (SW) | [Pull Request](#pull-request)
 | 5 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |[Programming Exercise](#programming-exercise-2)
 | 6 | συμμετοχικό περιεχόμενο | [Participatory content](#participatory-content)
-| 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) | [Pull Request](#pull-request-2)
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
@@ -48,5 +48,11 @@
 [skartz0/images](https://github.com/skartz0/images)  
 [skartz0/gallery](https://github.com/skartz0/_gallery/tree/master)  
 [skartz0/timeline](https://pibook.epidro.me/timeline/systems/)
+
+# Pull Request 
+Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα νεο issue για προσθηκη "news" εκανα νεο αίτημα για pull στο upatras-hci/site
+[upatras-hci/site](https://github.com/upatras-hci/site)  
+[skartz0/site](https://github.com/skartz0/site) 
+[skartz0/news_file](https://github.com/skartz0/site/tree/master/_news)
 
 
