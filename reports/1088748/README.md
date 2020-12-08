@@ -46,6 +46,7 @@
 Για την προσθήκη του συμμετοχικού περιεχομένου, το πρώτο βήμα ήταν η δημιουργία δύο νεω θεμάτων(issues) στο σχετικό αποθετήριο pibook/_gallery. Έγινε commit δυο νέων εικόνων 160px, με θεματική εμφαση στην διάδραση.Προστέθηκε και σχετκός τίτλος και περιγραφή  
 [site](https://site-skartz0.netlify.app/gallery/)  
 [skartz0/images](https://github.com/skartz0/images)  
-[skartz0/gallery](https://github.com/skartz0/_gallery/tree/master)
+[skartz0/gallery](https://github.com/skartz0/_gallery/tree/master)  
+[skartz0/timeline](https://pibook.epidro.me/timeline/systems/)
 
 
