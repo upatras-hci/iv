@@ -44,7 +44,6 @@
 
 # Participatory content
 Για την προσθήκη του συμμετοχικού περιεχομένου, το πρώτο βήμα ήταν η δημιουργία δύο νεω θεμάτων(issues) στο σχετικό αποθετήριο pibook/_gallery. Έγινε commit δυο νέων εικόνων 160px, με θεματική εμφαση στην διάδραση.Προστέθηκε και σχετκός τίτλος και περιγραφή  
-[site](https://site-skartz0.netlify.app/gallery/)  
 [skartz0/images](https://github.com/skartz0/images)   
 [skartz0/gallery_touchscreens](https://github.com/skartz0/_gallery/blob/master/spaceship_touchscreens.md)    
 [skartz0/gallery_neuralink](https://github.com/skartz0/_gallery/blob/master/neuralink.md)    
