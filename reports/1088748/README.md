@@ -45,14 +45,14 @@
 # Participatory content
 Για την προσθήκη του συμμετοχικού περιεχομένου, το πρώτο βήμα ήταν η δημιουργία δύο νεω θεμάτων(issues) στο σχετικό αποθετήριο pibook/_gallery. Έγινε commit δυο νέων εικόνων 160px, με θεματική εμφαση στην διάδραση.Προστέθηκε και σχετκός τίτλος και περιγραφή  
 [site](https://site-skartz0.netlify.app/gallery/)  
-[skartz0/images](https://github.com/skartz0/images)  
-[skartz0/gallery](https://github.com/skartz0/_gallery/tree/master)  
-[skartz0/timeline](https://pibook.epidro.me/timeline/systems/)
+[skartz0/images](https://github.com/skartz0/images)   
+[skartz0/gallery_touchscreens](https://github.com/skartz0/_gallery/blob/master/spaceship_touchscreens.md)    
+[skartz0/gallery_neuralink](https://github.com/skartz0/_gallery/blob/master/neuralink.md)    
 
 # Pull Request 2
 Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα νεο issue για προσθηκη "news" εκανα νεο αίτημα για pull στο upatras-hci/site  
-[upatras-hci/site](https://github.com/upatras-hci/site)  
-[skartz0/site](https://github.com/skartz0/site) 
-[skartz0/news_file](https://github.com/skartz0/site/tree/master/_news)
+[upatras-hci/site](https://github.com/upatras-hci/site)   
+[skartz0/site](https://github.com/skartz0/site)  
+[skartz0/news_file](https://github.com/skartz0/site/tree/master/_news)  
 
 
