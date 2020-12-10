@@ -51,8 +51,7 @@
 
 # Pull Request 2
 Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα νεο issue για προσθηκη "news" εκανα νεο αίτημα για pull στο upatras-hci/site  
-[upatras-hci/site](https://github.com/upatras-hci/site)   
 [skartz0/site](https://github.com/skartz0/site)  
-[skartz0/news_file](https://github.com/skartz0/site/tree/master/_news)  
+[skartz0/news_file](https://github.com/skartz0/site/blob/master/_news/2020-7-15-Student%20projects%20to%20be%20presented%20at%20the%20PCI%E2%80%992020%20conference.md)  
 
 
