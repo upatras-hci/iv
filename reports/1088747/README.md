@@ -9,7 +9,7 @@
 | 5 | [Άσκηση 2](#Exercise2) |
 | 6 | [συμμετοχικό περιεχόμενο](#content) |
 | 7 | βιογραφικό pdf |
-| 8 | αίτημα ενσωμάτωσης |
+| 8 |[αίτημα ενσωμάτωσης](#Merge-request2) |
 | 9 | αίτημα ενσωμάτωσης |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης |
@@ -73,4 +73,10 @@ https://dreamy-yonath-c69c81.netlify.app/timeline/programming/
 https://github.com/irozg/iv-site/blob/master/_timeline/programming.md
 
 
+## Merge-request2
+Άνοιξα ένα issue για την προσθηκη της σελίδας των μαθημάτων για να εμφανίζεται στο site.  Έφτιαξα ένα αρχείο md με τα περιεχόμενα των μαθημάτων και έκανα pull-request
+
+[o σύνδερμος για το issue](https://github.com/upatras-hci/site/issues/143)
+
+[ο σύνδεσμος του merge request](https://github.com/upatras-hci/site/pull/144)
 
