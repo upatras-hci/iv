@@ -25,27 +25,27 @@
 # Programming Exercise
 Για τις ανάγκες της συγκεκριμένης εργασίας δημιουργήθηκε μια καινούργια βάση δεδομένων firebase ή οποια συνδεθήκε με το λογαριασμό μου στο codepen. Χρησιμοποιόντας html, bootstrap και το api της firebase δημιουργήθηκε μια φόρμα νεου μαθητή snowboard, η οποια αποθηκευεται ενω όλες οι εγγραφές παράγωνται σε πραγματικό χρονο στην ιδια σελίδα.   
 [Firebase Form](https://codepen.io/skartzos/pen/ExyvagK?editors=1010)  
-[site repo](https://github.com/skartz0/site-iv/blob/master/_remix/firebase-form.md)
+[site repo](https://github.com/skartz0/site-iv/blob/master/_remix/firebase-form.md)  
 
 # Curriculum
-Για την υλοποίηση του online βιογραφικού δημιουργισα ενα νεο repo το οποιο περιλαμβανει την εγκατάσταση του Jekyll αρχειο yml για την καταγραφη των πληροφοριων του cv. Το repo ειναι συνδεδεμενο με το netlify οπου οριστηκε και custom domain  
+Για την υλοποίηση του online βιογραφικού δημιούργησα ενα νεο repo το οποίο περιλαμβάνει την εγκατάσταση του Jekyll αρχειο yml για την καταγραφη των πληροφοριων του cv. Το repo είναι συνδεδεμένο με το Νetlify στο οποίο ορίστηκε custom domain.  
 [alex.skarmintzos.com](https://alex.skarmintzos.com)  
 [Repository](https://github.com/skartz0/curriculum/tree/master)  
 
-# Pull Request 
-Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα άτομο sintori.md εκανα νεο αίτημα για pull στο upatras-hci/site
+# Pull Request  
+Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα άτομο sintori.md εκανα νεο αίτημα για pull στο upatras-hci/site.
 [upatras-hci/site](https://github.com/upatras-hci/site)  
-[skartz0/site-1](https://github.com/skartz0/site-1)  
+[skartz0/site-1](https://github.com/skartz0/site/blob/master/_people/sintoris.md)  
 
 # Programming Exercise 2
-Στη παρακατω εργασία χρησιμοποίησα ενα svg, στο οποιο προσθεσα κατάλληλη css με animation ωστε να αλλαζει χρώμα "on hover"   
+Στη παρακάτω εργασία χρησιμοποίησα ενα svg, στο οποιο πρόσθεσα κατάλληλο css με animation ώστε να αλλάζει χρώμα "on hover"  
 [Image](https://codepen.io/skartzos/pen/xxOeejj)  
-[site repo](https://github.com/skartz0/site-iv/blob/master/_remix/image.md)
+[site repo](https://github.com/skartz0/site-iv/blob/master/_remix/image.md)  
 
 # Participatory content
 Για την προσθήκη του συμμετοχικού περιεχομένου, το πρώτο βήμα ήταν η δημιουργία δύο νεω θεμάτων(issues) στο σχετικό αποθετήριο pibook/_gallery. Έγινε commit δυο νέων εικόνων 160px, με θεματική εμφαση στην διάδραση.Προστέθηκε και σχετκός τίτλος και περιγραφή  
-[skartz0/images](https://github.com/skartz0/images)   
-[skartz0/gallery_touchscreens](https://github.com/skartz0/_gallery/blob/master/spaceship_touchscreens.md)    
+[skartz0/images](https://github.com/skartz0/images)  
+[skartz0/gallery_touchscreens](https://github.com/skartz0/_gallery/blob/master/spaceship_touchscreens.md)  
 [skartz0/gallery_neuralink](https://github.com/skartz0/_gallery/blob/master/neuralink.md)    
 
 # Pull Request 2
