@@ -58,7 +58,7 @@
 
 [αρχείο του αποθετηρίου με φωτο 1 - eniac](https://iv-site-irozg.netlify.app/gallery/eniac/)
 
-[η σελίδα του βιβλίου με τη φωτο 2](https://iv-site-irozg.netlify.app/gallery/gracehopper/)
+[η σελίδα του βιβλίου με τη φωτο 2 - grace hopper](https://iv-site-irozg.netlify.app/gallery/gracehopper/)
 
 μετά τα σύνδεσα με τη σελίδα slides:
 
