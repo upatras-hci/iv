@@ -54,23 +54,19 @@
 
 Σε αυτή την εργασία, πρόσθεσα 2 εικόνες με τα thumbnails τους στο φακελό images, καθώς και ένα αρχείο md, με την περιγραφή για την κάθε μία στο φακελο gallery. Οι φώτο σχετίζονται με την συμβολή των γυναικών στις αρχές της επιστήμης του προγραμματισμού
       
-[τα commits με τις φωτογραφίες](https://github.com/irozg/images/commits/master)
+[τα commits με τις φωτογραφίες](https://github.com/irozg/iv-site/commits/master)
 
-[αρχείο του αποθετηρίου με φωτο 1 - eniac](https://github.com/irozg/_gallery/blob/master/eniac.md)
+[αρχείο του αποθετηρίου με φωτο 1 - eniac](https://iv-site-irozg.netlify.app/gallery/eniac/)
 
-[αρχείο του αποθετηρίου με φώτο 2 - Grace Hopper ](https://github.com/irozg/_gallery/blob/master/grace_hopper.md)
+[η σελίδα του βιβλίου με τη φωτο 2](https://iv-site-irozg.netlify.app/gallery/gracehopper/)
 
-μετά τα σύνδεσα με το χρονολόγιο και τα slides:
+μετά τα σύνδεσα με τη σελίδα slides:
 
-https://dreamy-yonath-c69c81.netlify.app/slides/programming/
+https://iv-site-irozg.netlify.app/slides/programming/
 
-https://github.com/irozg/iv-site/blob/master/_slides/programming.md
+και με τη σελίδα χρονολόγιο αντίστοιχα:
 
-και στο χρονολόγιο αντίστοιχα:
-
-https://dreamy-yonath-c69c81.netlify.app/timeline/programming/
-
-https://github.com/irozg/iv-site/blob/master/_timeline/programming.md
+https://iv-site-irozg.netlify.app/timeline/programming/
 
 
 ## Merge-request2
