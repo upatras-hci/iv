@@ -11,7 +11,7 @@
 | 6 | συμμετοχικό περιεχόμενο | [Participatory content](#participatory-content)
 | 7 | Άσκηση προγραμματισμού ή βιογραφικό (SW) |
 | 8 | Αίτημα ενσωμάτωσης (CSCW, IV) | [Pull Request](#pull-request-2)
-| 9 | Αίτημα ενσωμάτωσης (CSCW, IV) |
+| 9 | Αίτημα ενσωμάτωσης (CSCW, IV) | [Pull Request](#pull-request-3)
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
 | 12 | Τελική αναφορά* |
@@ -54,5 +54,12 @@
 Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα νεο issue για προσθηκη "news" εκανα νεο αίτημα για pull στο upatras-hci/site  
 [skartz0/site](https://github.com/skartz0/site)  
 [skartz0/news_file](https://github.com/skartz0/site/blob/master/_news/2020-7-15-Student%20projects%20to%20be%20presented%20at%20the%20PCI%E2%80%992020%20conference.md)  
+
+
+# Pull Request 3
+Έγινε προσθήκη του "news" layout ακολουθόντας τις οδηγειες του minimal mistake documatation.  
+[skartz0/site](https://github.com/skartz0/site)  
+[skartz0/site/news](https://skartz0.github.io/site/news/)  
+
 
 
