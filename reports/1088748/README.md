@@ -12,8 +12,8 @@
 | 7 | Άσκηση προγραμματισμού ή βιογραφικό (SW) |
 | 8 | Αίτημα ενσωμάτωσης (CSCW, IV) | [Pull Request](#pull-request-2)
 | 9 | Αίτημα ενσωμάτωσης (CSCW, IV) | [Pull Request](#pull-request-3)
-| 10 | συμμετοχικό περιεχόμενο |
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 10 | συμμετοχικό περιεχόμενο | [Participatory content](#participatory-content-2)
+| 11 | αίτημα ενσωμάτωσης (CSCW, IV) | (#pull-request-4)
 | 12 | Τελική αναφορά* |
 
   
@@ -49,17 +49,25 @@
 [skartz0/gallery_neuralink](https://github.com/skartz0/_gallery/blob/master/neuralink.md)   
 [View on netlify](https://site-skartz0.netlify.app/gallery/) 
 
-
 # Pull Request 2
 Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα νεο issue για προσθηκη "news" εκανα νεο αίτημα για pull στο upatras-hci/site  
 [skartz0/site](https://github.com/skartz0/site)  
 [skartz0/news_file](https://github.com/skartz0/site/blob/master/_news/2020-7-15-Student%20projects%20to%20be%20presented%20at%20the%20PCI%E2%80%992020%20conference.md)  
-
 
 # Pull Request 3
 Έγινε προσθήκη του "news" layout ακολουθόντας τις οδηγειες του minimal mistake documatation.  
 [skartz0/site](https://github.com/skartz0/site)  
 [skartz0/site/news](https://skartz0.github.io/site/news/)  
 
+# Participatory content 2  
+Σε αυτη τη συνεισφορά, στόχος ήταν η προσθήκη περιεχομένου στην αρχική σελίδα τις ιστοσελίδας του τμήματος. Με δεδομένο οτι το themeing ειναι "remote_theme" οπως ορίζεται στο _config.yml file, χρησιμοποίησα τις παρακάτω εντολές για να ελέγξω την ονομασία των βασικών αρχείων.
+```bat
+bundle info --path minima
+open $(bundle info --path minima)
+```
+Στη συνέχεια δημιούργησα νεο αρχείο στο φάκελο _layouts με τη σχετική ονομασια και οπου πρόσθεσα την καταλληλη html για προσθηκη responsive size video στην αρχική σελίδα.  
+[skartz0/site](https://github.com/skartz0/site)  
 
-
+# Pull Request 4
+Aιτημα ενσωματωσης των αλλαγών στο αρχείο του site
+[pull request](https://github.com/upatras-hci/site/compare/master...skartz0:master#diff-e73b35364c60ba845bb11a95b54e7b8e0439b5aafc61723021cd0ea7b56a709c)  
