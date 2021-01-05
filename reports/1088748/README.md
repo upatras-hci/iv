@@ -13,7 +13,7 @@
 | 8 | Αίτημα ενσωμάτωσης (CSCW, IV) | [Pull Request](#pull-request-2)
 | 9 | Αίτημα ενσωμάτωσης (CSCW, IV) | [Pull Request](#pull-request-3)
 | 10 | συμμετοχικό περιεχόμενο | [Participatory content](#participatory-content-2)
-| 11 | αίτημα ενσωμάτωσης (CSCW, IV) | (#pull-request-4)
+| 11 | αίτημα ενσωμάτωσης (CSCW, IV) | [Pull Request](#pull-request-4)
 | 12 | Τελική αναφορά* |
 
   
@@ -69,5 +69,5 @@ open $(bundle info --path minima)
 [skartz0/site](https://github.com/skartz0/site)  
 
 # Pull Request 4
-Aιτημα ενσωματωσης των αλλαγών στο αρχείο του site
+Aιτημα ενσωματωσης των αλλαγών στο upatras-hci/site 
 [pull request](https://github.com/upatras-hci/site/compare/master...skartz0:master#diff-e73b35364c60ba845bb11a95b54e7b8e0439b5aafc61723021cd0ea7b56a709c)  
