@@ -14,7 +14,7 @@
 | 9 | Αίτημα ενσωμάτωσης (CSCW, IV) | [Pull Request](#pull-request-3)
 | 10 | συμμετοχικό περιεχόμενο | [Participatory content](#participatory-content-2)
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) | [Pull Request](#pull-request-4)
-| 12 | Τελική αναφορά* |
+| 12 | Τελική αναφορά* | 
 
   
   
@@ -34,12 +34,11 @@
 # Curriculum. 
 Για την υλοποίηση του online βιογραφικού δημιούργησα ενα νεο repo το οποίο περιλαμβάνει την εγκατάσταση του Jekyll αρχειο yml για την καταγραφη των πληροφοριων του cv. Το repo είναι συνδεδεμένο με το Νetlify στο οποίο ορίστηκε custom domain.  
 [alex.skarmintzos.com](https://alex.skarmintzos.com)  
-[Repository](https://github.com/skartz0/curriculum/tree/master)  
+[First_commit](https://github.com/skartz0/curriculum/commit/f27777ef32f16fa63a29d8b728a7adf5fe1bab57)  
 
 
 # Pull Request  
-Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα άτομο sintori.md εκανα νεο αίτημα για pull στο upatras-hci/site.
-[upatras-hci/site](https://github.com/upatras-hci/site)  
+Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα άτομο sintori.md εκανα νεο αίτημα για pull στο upatras-hci/site.   
 [skartz0/site-1](https://github.com/skartz0/site/blob/master/_people/sintoris.md)  
 
 
@@ -58,7 +57,7 @@
 
 # Curriculum 2
 Έγινε προσπάθεια εξαγωγης των περιεχομένων της σελιδας σε pdf με χρήση latex. Τοπικα η εξαγωγή λειτούργησε και έγινε δημιουργία αρχείου, χωρίς όμως να επιστρέφει τα επιθυμητα αποτελέσματα.  
-[_timeline commit](https://github.com/skartz0/site-iv/commit/ca95454062dbfe2ca9cbacc7a999a6effa0f8748)
+[_timeline commit](https://github.com/skartz0/curriculum/commit/e8a89e13dd820a52714aeca927569f55c0e0daf4)
 
 
 # Pull Request 2
