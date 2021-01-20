@@ -39,7 +39,8 @@
 
 # Pull Request  
 Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα άτομο sintori.md εκανα νεο αίτημα για pull στο upatras-hci/site.   
-[skartz0/site-1](https://github.com/skartz0/site/blob/master/_people/sintoris.md)  
+[skartz0/site-1](https://github.com/skartz0/site/blob/master/_people/sintoris.md)   
+[commit](https://github.com/skartz0/site/commit/50d6de25d1476a9cc8438684161e45b6ef385cd2)
 
 
 # Programming Exercise 2. 
@@ -63,7 +64,7 @@
 # Pull Request 2
 Κατέβασα τοπικά και έκανα αλλαγές στο forked repo. Αφού πρόσθεσα ενα νεο issue για προσθηκη "news" εκανα νεο αίτημα για pull στο upatras-hci/site  
 [skartz0/site](https://github.com/skartz0/site)  
-[skartz0/news_file](https://github.com/skartz0/site/blob/master/_news/2020-7-15-Student%20projects%20to%20be%20presented%20at%20the%20PCI%E2%80%992020%20conference.md)  
+[commit](https://github.com/skartz0/site/commit/2e327cb3c11ebb2d156e3171dc2e9abbe151511b)  
 
 
 # Pull Request 3   
@@ -85,4 +86,4 @@ bundle info --path minima
 open $(bundle info --path minima)
 ```
 Στη συνέχεια δημιούργησα νεο αρχείο στο φάκελο _layouts με τη σχετική ονομασια και οπου πρόσθεσα την καταλληλη html για προσθηκη responsive size video στην αρχική σελίδα.  
-[skartz0/site](https://github.com/skartz0/site/commit/f551abdd5e18ae183bce45829f546ad76b01cb80)  
+[commit](https://github.com/skartz0/site/commit/f551abdd5e18ae183bce45829f546ad76b01cb80)  
