@@ -12,7 +12,7 @@
 | 8 |[αίτημα ενσωμάτωσης](#Merge-request2) |
 | 9 | [αίτημα ενσωμάτωσης](#Merge-request3) |
 | 10 | συμμετοχικό περιεχόμενο |
-| 11 | αίτημα ενσωμάτωσης |
+| 11 | [αίτημα ενσωμάτωσης](#Merge-request4) |
 | 12 | Τελική αναφορά* |
  
 ## Intro
@@ -77,8 +77,17 @@ https://iv-site-irozg.netlify.app/timeline/programming/
 [ο σύνδεσμος του merge request](https://github.com/upatras-hci/site/pull/144)
 
 ## Merge-request3
-Σύμφωνα με το issue [home page content layout #145](https://github.com/upatras-hci/site/issues/145) πρόσθεσα περιεχόμενο στην πρώτη σελίδα. Έφτιαξα ένα branch "Add Hompage layout". Ανεβασα φωτογραφίες στο φακελο assets, και πρόσθεσα ένα header και ένα feature row στο index.html ως περιεχόμενο. Ταυτόχρονα πρόσθεσα το στα assets το file main.scss για να διορθώσω το header image css style. Τέλος έκανα pull-request το branch. 
+Σύμφωνα με το issue [home page content layout #145](https://github.com/upatras-hci/site/issues/145) πρόσθεσα περιεχόμενο στην πρώτη σελίδα. Έφτιαξα ένα branch "Add Hompage layout". Ανεβασα φωτογραφίες στο φακελο assets, και πρόσθεσα ένα header photo και ένα feature row στο index.html ως περιεχόμενο. Ταυτόχρονα πρόσθεσα στα assets το file main.scss για να διορθώσω το header image css style. Τέλος έκανα pull-request το branch. 
 
 [ο σύνδεσμος του merge request](https://github.com/upatras-hci/site/pull/150)
+
+[η homepage όπως εμφανίζεται στο github pages](https://irozg.github.io/site/) 
+
+## Merge-request4
+Ανοιξα ένα issue για το styling των γραμματοσειρών στο theme μαζί με ένα νέο branch "styling-pages-with-css". Προσθεσα στο φάκελο _includes/deads τα web fonts links. Μετά κατέβασα το scss αρχείο με τα varaibles απο το remote theme minimal-mistakes, δημιούργησα το αρχείο main.scss στο asset/css/ φάκελο για τα overrides των styles και εκεί εκχώρησα τις νέες τιμές των μεταβλητών header και body font, καθώς πρόσθεσα και εντολές για τα βάρη (font-weight) των γραμματοσειρών. Τέλος άλλαξα τη σελίδα people και news layout σε wide, και αναπροσάρμοσα τα media queries στα overrides για να εφαρμοζεί σωστά. 
+
+[o σύνδερμος για το issue](https://github.com/upatras-hci/site/issues/151)
+
+[ο σύνδεσμος του merge request](https://github.com/upatras-hci/site/pull/152)
 
 [η homepage όπως εμφανίζεται στο github pages](https://irozg.github.io/site/) 
