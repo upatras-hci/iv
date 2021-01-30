@@ -10,7 +10,7 @@
 | 6 | [συμμετοχικό περιεχόμενο](#content) |
 | 7 | βιογραφικό pdf |
 | 8 |[αίτημα ενσωμάτωσης](#Merge-request2) |
-| 9 | αίτημα ενσωμάτωσης |
+| 9 | [αίτημα ενσωμάτωσης](#Merge-request3) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης |
 | 12 | Τελική αναφορά* |
@@ -36,7 +36,7 @@
 [ο σύνδεσμος στο site](https://irozg.github.io/cv/) 
 
 ## Merge-request
-Άνοιξα ένα issue για τα μαθήματα του εξαμήνου που χρειάζονται να προστεθούν στο site.  Έφτιαξα αρχεία md για τα μαθήματα του πρώτου εξαμήνου στο φακελο courses και έκανα pull-request
+Άνοιξα ένα issue για τα μαθήματα του εξαμήνου που χρειάζονται να προστεθούν στο site.  Έφτιαξα αρχεία md για κάθε ένα μάθημα του πρώτου εξαμήνου στο φακελο courses και έκανα pull-request
 
 [o σύνδερμος για το issue](https://github.com/upatras-hci/site/issues/133)
 
@@ -70,9 +70,15 @@ https://iv-site-irozg.netlify.app/timeline/programming/
 
 
 ## Merge-request2
-Άνοιξα ένα issue για την προσθηκη της σελίδας των μαθημάτων για να εμφανίζεται στο site.  Έφτιαξα ένα αρχείο md με τα περιεχόμενα των μαθημάτων και έκανα pull-request
+Άνοιξα ένα issue για την προσθηκη της σελίδας των μαθημάτων ώστε να εμφανίζεται στο site.  Έφτιαξα ένα αρχείο md με τα περιεχόμενα των μαθημάτων και έκανα pull-request
 
 [o σύνδερμος για το issue](https://github.com/upatras-hci/site/issues/143)
 
 [ο σύνδεσμος του merge request](https://github.com/upatras-hci/site/pull/144)
 
+## Merge-request3
+Σύμφωνα με το issue [home page content layout #145](https://github.com/upatras-hci/site/issues/145) πρόσθεσα περιεχόμενο στην πρώτη σελίδα. Έφτιαξα ένα branch "Add Hompage layout". Ανεβασα φωτογραφίες στο φακελο assets, και πρόσθεσα ένα header και ένα feature row στο index.html ως περιεχόμενο. Ταυτόχρονα πρόσθεσα το στα assets το file main.scss για να διορθώσω το header image css style. Τέλος έκανα pull-request το branch. 
+
+[ο σύνδεσμος του merge request](https://github.com/upatras-hci/site/pull/150)
+
+[η homepage όπως εμφανίζεται στο github pages](https://irozg.github.io/site/) 
