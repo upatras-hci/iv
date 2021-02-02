@@ -84,7 +84,7 @@ https://iv-site-irozg.netlify.app/timeline/programming/
 [η homepage όπως εμφανίζεται στο github pages](https://irozg.github.io/site/) 
 
 ## Merge-request4
-Ανοιξα ένα issue για το styling των γραμματοσειρών στο theme μαζί με ένα νέο branch "styling-pages-with-css". Προσθεσα στο φάκελο _includes/deads τα web fonts links. Μετά κατέβασα το scss αρχείο με τα varaibles απο το remote theme minimal-mistakes, δημιούργησα το αρχείο main.scss στο asset/css/ φάκελο για τα overrides των styles και εκεί εκχώρησα τις νέες τιμές των μεταβλητών header και body font, καθώς πρόσθεσα και εντολές για τα βάρη (font-weight) των γραμματοσειρών. Τέλος άλλαξα τη σελίδα people και news layout σε wide, και αναπροσάρμοσα τα media queries στα overrides για να εφαρμοζεί σωστά. 
+Ανοιξα ένα issue για το styling των γραμματοσειρών στο theme μαζί με ένα νέο branch "styling-pages-with-css". Προσθεσα στο φάκελο _includes/heads τα web fonts links. Μετά κατέβασα το scss αρχείο με τα varaibles απο το remote theme minimal-mistakes, δημιούργησα το αρχείο main.scss στο asset/css/ φάκελο για τα overrides των styles και εκεί εκχώρησα τις νέες τιμές των μεταβλητών header και body font, καθώς πρόσθεσα και εντολές για τα βάρη (font-weight) των γραμματοσειρών. Τέλος άλλαξα τη σελίδα people και news layout σε wide, και αναπροσάρμοσα τα media queries στα overrides για να εφαρμοζεί σωστά. 
 
 [o σύνδερμος για το issue](https://github.com/upatras-hci/site/issues/151)
 
