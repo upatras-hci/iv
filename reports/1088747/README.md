@@ -93,15 +93,23 @@ https://iv-site-irozg.netlify.app/timeline/programming/
 [η homepage όπως εμφανίζεται στο github pages](https://irozg.github.io/site/) 
 
 ## Content2
-Σε αυτή την άσκηση, πρόσθεσα μία βιογραφία στο φακελό biography, ένα αρχείο md για τη σελίδα με τα metadata και ένα αρχείο μονο με τη βιογραία 
-      
-[τα commits με τις φωτογραφίες](https://github.com/irozg/iv-site/commits/master)
+Σε αυτή την άσκηση, πρόσθεσα μία βιογραφία στο φακελό biography, ένα αρχείο md για τη σελίδα με τα metadata και ένα αρχείο μονο με τη βιογραφία 
 
-[αρχείο του αποθετηρίου με το βιογραφικό]()
+[αρχείο του αποθετηρίου με το βιογραφικό](https://github.com/irozg/iv-site/blob/master/_biography/bio-buechley.md)
 
-[η σελίδα του βιβλίου με το βιογραφικό]()
+[η σελίδα του βιβλίου με το βιογραφικό](https://github.com/irozg/iv-site/blob/master/_biography/leah-buechley.md)
 
 η σελίδα στο Netlify:
 
 https://iv-book-2020.netlify.app/biography/leah-buechley/
+
+Επίσης προστέθηκε η μελέτη περίπτωσης για την απτική συσκευή Οmega, στο φάκελο case_studies, με δύο αρχεία ένα για τη μελέτη περίπτωσης και ένα για τη σελίδα
+
+[αρχείο του αποθετηρίου με τη μελέτη περίπτωσης](https://github.com/irozg/iv-site/blob/master/_case-study/cs-omega.md)
+
+[η σελίδα του βιβλίου με τη μελέτη περίπτωσης](https://github.com/irozg/iv-site/blob/master/_case-study/omega.md)
+
+η σελίδα στο Netlify:
+
+https://iv-site-irozg.netlify.app/case-study/omega/
 
