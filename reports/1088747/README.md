@@ -101,7 +101,7 @@ https://iv-site-irozg.netlify.app/timeline/programming/
 
 η σελίδα στο Netlify:
 
-https://iv-book-2020.netlify.app/biography/leah-buechley/
+https://iv-site-irozg.netlify.app/biography/leah-buechley/
 
 Επίσης προστέθηκε η μελέτη περίπτωσης για την απτική συσκευή Οmega, στο φάκελο case_studies, με δύο αρχεία ένα για τη μελέτη περίπτωσης και ένα για τη σελίδα
 
