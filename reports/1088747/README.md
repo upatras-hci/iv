@@ -103,5 +103,5 @@ https://iv-site-irozg.netlify.app/timeline/programming/
 
 η σελίδα στο Netlify:
 
-https://hopeful-darwin-7e2a88.netlify.app/biography/leah-buechley/
+https://iv-book-2020.netlify.app/biography/leah-buechley/
 
