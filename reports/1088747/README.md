@@ -91,3 +91,17 @@ https://iv-site-irozg.netlify.app/timeline/programming/
 [ο σύνδεσμος του merge request](https://github.com/upatras-hci/site/pull/152)
 
 [η homepage όπως εμφανίζεται στο github pages](https://irozg.github.io/site/) 
+
+## Content2
+Σε αυτή την άσκηση, πρόσθεσα μία βιογραφία στο φακελό biography, ένα αρχείο md για τη σελίδα με τα metadata και ένα αρχείο μονο με τη βιογραία 
+      
+[τα commits με τις φωτογραφίες](https://github.com/irozg/iv-site/commits/master)
+
+[αρχείο του αποθετηρίου με το βιογραφικό]()
+
+[η σελίδα του βιβλίου με το βιογραφικό]()
+
+η σελίδα στο Netlify:
+
+https://hopeful-darwin-7e2a88.netlify.app/biography/leah-buechley/
+
