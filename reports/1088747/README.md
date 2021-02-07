@@ -97,7 +97,7 @@ https://iv-site-irozg.netlify.app/timeline/programming/
 
 [αρχείο του αποθετηρίου με το βιογραφικό](https://github.com/irozg/iv-site/blob/master/_biography/bio-buechley.md)
 
-[η σελίδα του βιβλίου με το βιογραφικό](https://github.com/irozg/iv-site/blob/master/_biography/leah-buechley.md)
+[αρχείο του αποθετηρίου με τη σελίδα του βιογραφικό](https://github.com/irozg/iv-site/blob/master/_biography/leah-buechley.md)
 
 η σελίδα στο Netlify:
 
@@ -107,7 +107,7 @@ https://iv-site-irozg.netlify.app/biography/leah-buechley/
 
 [αρχείο του αποθετηρίου με τη μελέτη περίπτωσης](https://github.com/irozg/iv-site/blob/master/_case-study/cs-omega.md)
 
-[η σελίδα του βιβλίου με τη μελέτη περίπτωσης](https://github.com/irozg/iv-site/blob/master/_case-study/omega.md)
+[αρχείο του αποθετηρίου με τη σελίδα της μελέτη περίπτωσης](https://github.com/irozg/iv-site/blob/master/_case-study/omega.md)
 
 η σελίδα στο Netlify:
 
