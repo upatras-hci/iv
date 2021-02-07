@@ -132,13 +132,21 @@ https://iv-site-irozg.netlify.app/case-study/omega/
 ## Υποενότητες παραδοτέων    
 
 | 1 | [Άσκηση 1](#Exercice1) |
+
 | 2 | [βιογραφικό site](#resume-CV)|
+
 | 3 | [αίτημα ενσωμάτωσης 1](#Merge-request) |
+
 | 4 | [Άσκηση 2](#Exercise2) |
+
 | 5 | [συμμετοχικό περιεχόμενο](#content1) |
+
 | 6 |[αίτημα ενσωμάτωσης 2](#Merge-request2) |
+
 | 7 | [αίτημα ενσωμάτωσης 3](#Merge-request3) |
+
 | 8 | [συμμετοχικό περιεχόμενο2](#content2) |
+
 | 9 | [αίτημα ενσωμάτωσης 4](#Merge-request4) |
 
 
