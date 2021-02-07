@@ -56,7 +56,7 @@
       
 [τα commits με τις φωτογραφίες](https://github.com/irozg/iv-site/commits/master)
 
-[αρχείο του αποθετηρίου με φωτο 1 - eniac](https://iv-site-irozg.netlify.app/gallery/eniac/)
+[η σελίδα του βιβλίου με φωτο 1 - eniac](https://iv-site-irozg.netlify.app/gallery/eniac/)
 
 [η σελίδα του βιβλίου με τη φωτο 2 - grace hopper](https://iv-site-irozg.netlify.app/gallery/gracehopper/)
 
