@@ -148,19 +148,19 @@ https://iv-site-irozg.netlify.app/case-study/omega/
 
 ## Βιβλιογραφία
 
-# git tutorials
+### git tutorials
 https://www.atlassian.com/git/tutorials/syncing
 
-submodules
+### submodules
 https://asciinema.org/a/bUMPJqXb9sepWRdlJPyToMpwl
 
-# yaml 
+### yaml 
 https://blog.stackpath.com/yaml/
  
-# jekylls
+### jekylls
 https://jekyllrb.com/
 
-# github pages
+### github pages
 https://docs.github.com/en/github/working-with-github-pages
 theme minimal-mistakes
 https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
@@ -170,7 +170,7 @@ https://mmistakes.github.io/minimal-mistakes/docs/layouts/
 https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/
 
 
-# similar projects
+### similar projects
 https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_pages/splash-page.md
 
 https://mmistakes.github.io/minimal-mistakes/splash-page/
@@ -178,7 +178,7 @@ https://mmistakes.github.io/minimal-mistakes/splash-page/
 https://github.com/ioniodi/site-gr
 
 
-# Συμμετοχικό περιεχόμενο
+### Συμμετοχικό περιεχόμενο
 
 https://ftp.arl.army.mil/ftp/historic-computers/
 
