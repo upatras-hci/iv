@@ -77,7 +77,8 @@
 Δημιουργήθηκαν δύο νέα αρχεια στο σχετικό αποθετήριο pibook/_gallery. Έγινε commit δυο νέων εικόνων 160px, με θεματική εμφαση στη Συνθεση και τις Έξυπνες διεπαφές χρήστη. Προστέθηκε και σχετικός τίτλος και περιγραφή  
 [_slides commit](https://github.com/skartz0/site-iv/commit/2bd182b20c25e7510d7df7be95218c8c8e4b2365)   
 [_galery commit](https://github.com/skartz0/site-iv/commit/e3977a4972378447ce342e7382793a925c85abc0)   
-[_timeline commit](https://github.com/skartz0/site-iv/commit/ca95454062dbfe2ca9cbacc7a999a6effa0f8748)   
+[_timeline commit](https://github.com/skartz0/site-iv/commit/ca95454062dbfe2ca9cbacc7a999a6effa0f8748)  
+[remix_exercise Part B](https://github.com/skartz0/site-iv/commit/97d45583aaebe2bdd9888cec938cc6fab0e906ac)
 
 # Pull Request 4     
 Σε αυτη τη συνεισφορά, στόχος ήταν η προσθήκη περιεχομένου στην αρχική σελίδα τις ιστοσελίδας του τμήματος. Με δεδομένο οτι το themeing ειναι "remote_theme" οπως ορίζεται στο _config.yml file, χρησιμοποίησα τις παρακάτω εντολές για να ελέγξω την ονομασία των βασικών αρχείων.
