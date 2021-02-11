@@ -21,7 +21,7 @@
 | ασκηση γραμμής εντολών | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40" style="background-color: white" /> | [create aliases](https://github.com/moya10/dot) |
 | ασκηση γραμμής εντολών | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40" style="background-color: white" />  | [neofetch setup]() |
 | συμμετοχικό περιεχόμενο | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github"  width="40" height="40" style="background-color: white" /> | [upatras-hci unofficial site](https://github.com/moya10/site) |
-| τελική αναφορά | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40" style="background-color: white"/> | [@moya10/iv/index](https://moya10.github.io/iv) |
+| τελική αναφορά | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40" style="background-color: white"/> | [@moya10/iv](https://moya10.github.io/iv) |
 
 # todo 
 
