@@ -12,7 +12,7 @@
 
 | παραδοτέο | source |εξωτερικος συνδεσμος |
 | --- | --- |--- |
-| φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github"  width="40" height="40"  />| [@moya10/iv](https://github.com/moya10/iv/)|
+| φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github"  width="40" height="40"  />| [@moya10/iv](https://github.com/moya10/iv/tree)|
 | ασκηση προγραμματισμού (pen-case)| <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen"  width="40" height="40" /> | [form validation](https://codepen.io/moyadecka/pen/oNYbxYe) |
 | ασκηση προγραμματισμού (pen-case)| <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen"  width="40" height="40"  /> | [mouse eraser](https://codepen.io/moyadecka/pen/PobZzOq) |
 | ασκηση προγραμματισμού (pen-case)| <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen"  width="40" height="40" /> | [draw with mouse](https://codepen.io/moyadecka/pen/MWaPovE) |
