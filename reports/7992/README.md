@@ -2,18 +2,18 @@
 
 # παραδοτέα και τελική αναφορά
 
-| παραδοτέο | εξωτερικος συνδεσμος |
-| --- |--- |
-| φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα | [@moya10/iv/tree](https://github.com/moya10/iv/tree/7992)|
-| ασκηση προγραμματισμού (pen-case)|  [form validation](https://codepen.io/moyadecka/pen/oNYbxYe) |
-| ασκηση προγραμματισμού (pen-case)| [mouse eraser](https://codepen.io/moyadecka/pen/PobZzOq) |
-| ασκηση προγραμματισμού (pen-case)| [draw with mouse](https://codepen.io/moyadecka/pen/MWaPovE) |
-| ασκηση προγραμματισμού (pen-case)| [find my location](https://codepen.io/moyadecka/pen/WNxMrXE) |
-| ασκηση προγραμματισμού (observablehq-notebook)| [edu-data-viz](https://observablehq.com/@moya10/edudata) |
-| ασκηση γραμμής εντολών | [create aliases](https://github.com/moya10/dot) |
+| source | παραδοτέο | εξωτερικος συνδεσμος |
+| --- | --- |--- |
+| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github"  width="40" height="40" /> | φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα | [@moya10/iv/tree](https://github.com/moya10/iv/tree/7992)|
+| <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen"  width="40" height="40" /> | ασκηση προγραμματισμού (pen-case)|  [form validation](https://codepen.io/moyadecka/pen/oNYbxYe) |
+| <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen"  width="40" height="40"  /> | ασκηση προγραμματισμού (pen-case)| [mouse eraser](https://codepen.io/moyadecka/pen/PobZzOq) |
+| <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen"  width="40" height="40" /> | ασκηση προγραμματισμού (pen-case)| [draw with mouse](https://codepen.io/moyadecka/pen/MWaPovE) |
+| <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen"  width="40" height="40" /> | ασκηση προγραμματισμού (pen-case)| [find my location](https://codepen.io/moyadecka/pen/WNxMrXE) |
+| <img src="https://static.observablehq.com/favicon-512.0667824687f99c942a02e06e2db1a060911da0bf3606671676a255b1cf97b4fe.png" alt="observable" width="40" height="40"  /> | ασκηση προγραμματισμού (observablehq-notebook)| [edu-data-viz](https://observablehq.com/@moya10/edudata) |
+| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40" /> | ασκηση γραμμής εντολών | [create aliases](https://github.com/moya10/dot) |
 | ασκηση γραμμής εντολών | [neofetch setup]() |
-| συμμετοχικό περιεχόμενο | [upatras-hci unofficial site](https://github.com/moya10/site) |
-| τελική αναφορά | [@moya10/iv](https://moya10.github.io/iv) |
+| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40" /> | συμμετοχικό περιεχόμενο | [upatras-hci unofficial site](https://github.com/moya10/site) |
+| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40" /> | τελική αναφορά | [@moya10/iv](https://moya10.github.io/iv) |
 
 # Αναλυτικοτερα...
 
@@ -117,7 +117,7 @@
   
 ### Σύνοψη
 ---
-Ανακεφαλαιωνοντας τα εβδομαδιαια παραδοτεα του μαθηματος περιλαμβανουν ασκησεις που υλοποιηθηκαν στην πλατφορμα codepen, στο github το ιδιο και στην πλατφορμα observablehq. Οι λειτουργιες που περιγραφονται στις επιμερους ασκησεις υλοποιουνται κυριως με χρηση javascript γλωσσας προγραμματισμου και λιγοτερο με css και html. Αναφορικα με το συμμετοχικο περιεχομενο η δημιουργια του site βασιζεται στην επεξεργασια markdown, yml αρχειων, η ολοκληρωση με τη πλατφορμα travis και η δημιουργια του βιβλιου για το site εκτελουνται με τη συνταξη αρχειων latex και bash, ενω η ληψη δεδομενων απο vide σε playlist του youtube βασιζεται σε python script. Αντιστοιχα οι ασκησεις γραμμης εντολων οπως αναφερει και το ονομα τους υλοποιηθηκαν με command line σε unix based συστημα.
+Ανακεφαλαιωνοντας τα εβδομαδιαια παραδοτεα του μαθηματος περιλαμβανουν ασκησεις που υλοποιηθηκαν στην πλατφορμα codepen, στο github το ιδιο και στην πλατφορμα observablehq. Οι λειτουργιες που περιγραφονται στις επιμερους ασκησεις υλοποιουνται κυριως με χρηση javascript γλωσσας προγραμματισμου και λιγοτερο με css και html. Αναφορικα με το συμμετοχικο περιεχομενο η δημιουργια του site βασιζεται στην επεξεργασια markdown, yml αρχειων, η ολοκληρωση με τη πλατφορμα travis και η δημιουργια του βιβλιου για το site εκτελουνται με τη συνταξη αρχειων latex και bash, ενω η ληψη δεδομενων video απο playlist του youtube υλοποιειται μεσω python script. Αντιστοιχα οι ασκησεις γραμμης εντολων οπως αναφερει και το ονομα τους υλοποιηθηκαν με command line σε unix based συστημα.
   
 ### Σύντομη  εισαγωγή
 ---
