@@ -2,18 +2,18 @@
 
 # παραδοτέα και τελική αναφορά
 
-| source | παραδοτέο | εξωτερικος συνδεσμος |
-| --- | --- |--- |
-|<img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github"  width="40" height="40" style="background-color: white" />|  φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα | [@moya10/iv/tree](https://github.com/moya10/iv/tree/7992)|
-| <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen"  width="40" height="40" style="background-color: white"/> | ασκηση προγραμματισμού (pen-case)|  [form validation](https://codepen.io/moyadecka/pen/oNYbxYe) |
-| <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen"  width="40" height="40"  style="background-color: white"/> |  ασκηση προγραμματισμού (pen-case)| [mouse eraser](https://codepen.io/moyadecka/pen/PobZzOq) |
-| <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen"  width="40" height="40" style="background-color: white"/> |ασκηση προγραμματισμού (pen-case)| [draw with mouse](https://codepen.io/moyadecka/pen/MWaPovE) |
-| <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen" width="40" height="40"  style="background-color: white"/> | ασκηση προγραμματισμού (pen-case)| [find my location](https://codepen.io/moyadecka/pen/WNxMrXE) |
-| <img src="https://static.observablehq.com/favicon-512.0667824687f99c942a02e06e2db1a060911da0bf3606671676a255b1cf97b4fe.png" alt="observable"  width="40" height="40" style="background-color: white" /> | ασκηση προγραμματισμού (observablehq-notebook)| [edu-data-viz](https://observablehq.com/@moya10/edudata) |
-| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40" style="background-color: white" /> |ασκηση γραμμής εντολών | [create aliases](https://github.com/moya10/dot) |
-| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40" style="background-color: white" />  | ασκηση γραμμής εντολών | [neofetch setup]() |
-| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github"  width="40" height="40" style="background-color: white" /> | συμμετοχικό περιεχόμενο | [upatras-hci unofficial site](https://github.com/moya10/site) |
-| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40" style="background-color: white"/> | τελική αναφορά | [@moya10/iv](https://moya10.github.io/iv) |
+| παραδοτέο | εξωτερικος συνδεσμος |
+| --- |--- |
+| φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα | [@moya10/iv/tree](https://github.com/moya10/iv/tree/7992)|
+| ασκηση προγραμματισμού (pen-case)|  [form validation](https://codepen.io/moyadecka/pen/oNYbxYe) |
+| ασκηση προγραμματισμού (pen-case)| [mouse eraser](https://codepen.io/moyadecka/pen/PobZzOq) |
+| ασκηση προγραμματισμού (pen-case)| [draw with mouse](https://codepen.io/moyadecka/pen/MWaPovE) |
+| ασκηση προγραμματισμού (pen-case)| [find my location](https://codepen.io/moyadecka/pen/WNxMrXE) |
+| ασκηση προγραμματισμού (observablehq-notebook)| [edu-data-viz](https://observablehq.com/@moya10/edudata) |
+| ασκηση γραμμής εντολών | [create aliases](https://github.com/moya10/dot) |
+| ασκηση γραμμής εντολών | [neofetch setup]() |
+| συμμετοχικό περιεχόμενο | [upatras-hci unofficial site](https://github.com/moya10/site) |
+| τελική αναφορά | [@moya10/iv](https://moya10.github.io/iv) |
 
 # Αναλυτικοτερα...
 
