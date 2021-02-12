@@ -59,8 +59,8 @@
 
 Η επεξεργασια ξεκινησε μετατρεπoντας το αρχειο .png σε ascii .txt με τη χρηση του πακετου [Jp2a](https://github.com/cslarsen/jp2a). Αργοτερα προσθεσα ascii_colors, οπως φαινεται παρακατω.
 | no_colors | colored |
-
-<img src="https://moya10.github.io/iv/assets/images/moya.png" alt="codepen"  width="440" height="220" />  | <img src="https://moya10.github.io/iv/assets/images/moyaa.jpg" alt="codepen"  width="440" height="220" /> | 
+| --- |--- |
+| <img src="https://moya10.github.io/iv/assets/images/moya.png" alt="codepen"  width="440" height="220" />  | <img src="https://moya10.github.io/iv/assets/images/moyaa.jpg" alt="codepen"  width="440" height="220" /> | 
 
 # ασκηση γραμμης εντολων 3 - fetching torrents using  we-get
 
@@ -132,11 +132,11 @@
 | observablehq | d3.js, vega-lite, html css | 
 | github* | yml, ruby, bash, markdown, python* |
 
-για τη ληψη δεδομενων video απο playlist του youtube χρησιμοποιησα τo πακετο selenium - webdriver (τρεχει μονο τοπικα, καθως η ολοκληρωση με τη πλατφορμα BrowserStack ηταν ανεπιτυχης) 
+για τη ληψη δεδομενων video απο playlist του youtube χρησιμοποιησα τo πακετο selenium - webdriver (τρεχει μονο τοπικα, καθως η προσπαθεια για ολοκληρωση με τη πλατφορμα BrowserStack ηταν ανεπιτυχης) 
 
-αντιστοιχα η λειτουργια deploy στο αρχεια travis δεν εχει επιτευχθει ακομη, με αποτελεσμα το βιβλιο που δημιουργειται στο περιβαλλον travis να μην γινεται merge με το head-repo
+αντιστοιχα η λειτουργια deploy στο περιβαλλον travis δεν εχει επιτευχθει ακομη, με αποτελεσμα το βιβλιο που δημιουργειται να μην γινεται merge στο head-repo
 
-αναφορικα με την ασκηση απεικονισης δεδομενων θα μπορω ως todo task να προσθεσω τη δημιουργια διαδραστικου χαρτη για την απεικονιση της κατανομης των εγγραφων του γενικου πληθυσμου στα επιμερους τμηματα 1ο/2ο/3οβαθμιας εκπαιδευσης.
+αναφορικα με την ασκηση απεικονισης δεδομενων θα μπορουσα ως μελλοντικο todo task να προσθεσω τη δημιουργια διαδραστικου χαρτη για την απεικονιση της κατανομης των εγγραφων του γενικου πληθυσμου στα επιμερους τμηματα 1ο/2ο/3οβαθμιας εκπαιδευσης.
 
 ### Υποενότητες παραδοτέων
 
