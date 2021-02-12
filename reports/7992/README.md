@@ -125,7 +125,9 @@
 
 ### Σύντομη ανάλυση σχετικών έργων και εργαλείων
 ---
+
 | ασκησεις | dependencies |
+| --- |--- |
 | codepen | p5.js, html, css |
 | observablehq | d3.js, vega-lite, html css | 
 | github* | yml, ruby, bash, markdown, python* |
