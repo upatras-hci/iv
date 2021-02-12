@@ -141,16 +141,15 @@
 ### Υποενότητες παραδοτέων
 ---
 
-| 1 | # ασκησηπρογραμματισμου1-formvalidation | 
-| 2 | # ασκησηπρογραμματισμου2-mouseeasing-eraser
-| 
-| 3 | # ασκησηπρογραμματισμου3-mousedraw | 
-| 4 | # οπτικοποιηση πληροφοριας με τη χρηση της βιβλιοθηκης d3.js | 
-| 5 | # ασκηση γραμμης εντολων 1 - some dots | 
-| 6 | # ασκηση γραμμης εντολων 2 - neofetch setup | 
-| 7 | # ασκηση γραμμης εντολων 3 - fetching torrents using  we-get | 
-| 8 | # συμμετοχικο περιεχομενο -- συνεργατικη δημιουργια σελιδας του master | 
-| 9 | # συμμετοχικο περιεχομενο -- προσθηκη υλικου στο βιβλιο [moya10/pibook](https://github.com/moya10/pibook) –> [epidrome/pibook](https://github.com/epidrome/pibook)| 
+[ ασκηση προγραμματισμου 1 - formvalidation ](#ασκηση προγραμματισμου 1 - formvalidation)
+[ ασκηση προγραμματισμου 2 - mouseeasing-eraser ](#ασκηση προγραμματισμου 2 - mouseeasing-eraser) 
+[ ασκηση προγραμματισμου 3 - mousedraw ](#ασκηση προγραμματισμου 3 - mousedraw) 
+[ οπτικοποιηση πληροφοριας με τη χρηση της βιβλιοθηκης d3.js ](#οπτικοποιηση πληροφοριας με τη χρηση της βιβλιοθηκης d3.js) 
+[ ασκηση γραμμης εντολων 1 - some dots ](#ασκηση γραμμης εντολων 1 - some dots) 
+[ ασκηση γραμμης εντολων 2 - neofetch setup ](#ασκηση γραμμης εντολων 2 - neofetch setup)
+[ ασκηση γραμμης εντολων 3 - fetching torrents using  we-get ](#ασκηση γραμμης εντολων 3 - fetching torrents using  we-get)
+[ συμμετοχικο περιεχομενο -- συνεργατικη δημιουργια σελιδας του master ](#συμμετοχικο περιεχομενο -- συνεργατικη δημιουργια σελιδας του master)
+[ συμμετοχικο περιεχομενο -- προσθηκη υλικου στο βιβλιο [moya10/pibook](https://github.com/moya10/pibook) –> [epidrome/pibook](https://github.com/epidrome/pibook) ](#συμμετοχικο περιεχομενο -- προσθηκη υλικου στο βιβλιο [moya10/pibook](https://github.com/moya10/pibook) –> [epidrome/pibook](https://github.com/epidrome/pibook)) 
 
 ### Συμπεράσματα 
 ---
