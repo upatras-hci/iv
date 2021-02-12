@@ -11,8 +11,9 @@
 | <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="codepen"  width="30" height="30" /> | ασκηση προγραμματισμού (pen-case)| [find my location](https://codepen.io/moyadecka/pen/WNxMrXE) |
 | <img src="https://static.observablehq.com/favicon-512.0667824687f99c942a02e06e2db1a060911da0bf3606671676a255b1cf97b4fe.png" alt="observable" width="30" height="30"  /> | ασκηση προγραμματισμού (observablehq-notebook)| [edu-data-viz](https://observablehq.com/@moya10/edudata) |
 | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="30" height="30" /> | ασκηση γραμμής εντολών | [create aliases](https://github.com/moya10/dot) |
-| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="30" height="30" /> | ασκηση γραμμής εντολών | [neofetch setup]() |
-| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="30" height="30" /> | συμμετοχικό περιεχόμενο | [upatras-hci unofficial site](https://github.com/moya10/site) |
+| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="30" height="30" /> | ασκηση γραμμής εντολών | [neofetch setup](#ασκηση-γραμμης-εντολων-2) |
+| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="30" height="30" /> | συμμετοχικό περιεχόμενο 1 | [upatras-hci unofficial site](#συμμετοχικο-περιεχομενο-1) |
+| <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="30" height="30" /> | συμμετοχικό περιεχόμενο 2| [ pibook ](#συμμετοχικο-περιεχομενο-2) |
 | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="30" height="30" /> | τελική αναφορά | [@moya10/iv](https://moya10.github.io/iv) |
 
 # Αναλυτικοτερα...
@@ -156,7 +157,7 @@
 | ασκηση προγραμματισμου 2 | [ mouse easing-eraser ](#ασκηση-προγραμματισμου-2) | 
 | ασκηση προγραμματισμου 3 | [ mousedraw ](#ασκηση-προγραμματισμου-3) |
 | ασκηση προγραμματισμου 4 | [ find my location ](#ασκηση-προγραμματισμου-4) |
-| απεικονιση δεδομενων | [ οπτικοποιηση της πληροφοριας με τη χρηση της βιβλιοθηκης d3.js ](#οπτικοποιηση-πληροφοριας-με-τη-χρηση-της-βιβλιοθηκης-d3.js) 
+| απεικονιση δεδομενων | [ οπτικοποιηση της πληροφοριας με τη χρηση της βιβλιοθηκης d3.js ](#οπτικοποιηση-πληροφοριας-με-τη-χρηση-της-βιβλιοθηκης-d3js) 
 | ασκηση γραμμης εντολων 1 | [ some dots ](#ασκηση-γραμμης-εντολων-1) |
 | ασκηση γραμμης εντολων 2 | [ neofetch setup ](#ασκηση-γραμμης-εντολων-2) |
 | ασκηση γραμμης εντολων 3 | [ fetching torrents using  we-get ](#ασκηση-γραμμης-εντολων-3) |
