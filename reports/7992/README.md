@@ -2,8 +2,6 @@
 
 # παραδοτέα και τελική αναφορά
 
-### πίνακας με σύνοψη των παραδοτέων
-
 | παραδοτέο | source | εξωτερικος συνδεσμος |
 | --- | --- |--- |
 | φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github"  width="40" height="40" style="background-color: white" />| [@moya10/iv/tree](https://github.com/moya10/iv/tree/7992)|
@@ -17,17 +15,20 @@
 | συμμετοχικό περιεχόμενο | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github"  width="40" height="40" style="background-color: white" /> | [upatras-hci unofficial site](https://github.com/moya10/site) |
 | τελική αναφορά | <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40" style="background-color: white"/> | [@moya10/iv](https://moya10.github.io/iv) |
 
-# Ασκηση προγραμματισμου 1
+# Αναλυτικοτερα...
+
+# ασκηση προγραμματισμου 1 - form validation
 
 Δημιουργω μια [φορμα συμπληρωσης](https://codepen.io/moyadecka/pen/oNYbxYe) τηλεφωνου, ημεηλ και κωδικου. Tο τηλεφωνο θεωρειται εγκυρο αν περιεχει ενα prefix +XX και 10 αριθμους με βασει το regex `^([+]\d{2}[ ])?\d{10}$`
-# Ασκηση προγραμματισμου 2
+
+# ασκηση προγραμματισμου 2 - mouse easing-eraser
 
 Χρησιμοποιησα τη βιβλιοθηκη [P5.js](https://p5js.org) για τη δημιουργια [κωδικα](https://codepen.io/moyadecka/pen/PobZzOq) που χρησιμοποιει την κινηση του ποντικιου για τον ελεχγο του μεγεθους ενος αντικειμενο και το σχεδιασμο μοτιβων. Οταν ο χρηστης "παταει το ποντικι" το αντικειμενο χανεται.
 
-# Ασκηση προγραμματισμου 3
+# ασκηση προγραμματισμου 3 - mouse draw
 χρησιμοποιησα τη βιβλιοθηκη [P5.js](https://p5js.org) για τη δημιουργια διαδραστικου [κωδικα](https://codepen.io/moyadecka/pen/MWaPovE) που χρησιμοποιει την κινηση του ποντικιου για το σχεδιασμο μοτιβων.
 
-# Ασκηση προγραμματισμου 4
+# ασκηση προγραμματισμου 4 - find my location
 χρησιμοποιησα το [google maps](https://codepen.io/moyadecka/pen/WNxMrXE) για να βρω την τοποθεσια μου στο χαρτη.
 
 # οπτικοποιηση πληροφοριας με τη χρηση της βιβλιοθηκης d3.js
@@ -45,7 +46,7 @@
 - [viz-ideas-for-us-chronic-disease-indicators-diabetes](https://observablehq.com/@clhenrick/viz-ideas-for-u-s-chronic-disease-indicators-diabetes)
 - [pensylvania-elections](https://observablehq.com/@mariodelgadosr/pennsylvania-2020-general-election-mail-ballot-requests-a?collection=@mariodelgadosr/election-2020)
 
-# Ασκηση γραμμης εντολων 1
+# ασκηση γραμμης εντολων 1 - some dots
 
 Για τη διευκολυνση μου δημιουργησα καποια alias, γραμμες εντολων, για να επιταχυνω την εκτελεση εντολων
 
@@ -53,7 +54,7 @@
 
 η εντολη αυτη για παραδειγμα συνδυαζει ολες τις επιλογες -l, -a, -t, -h, και -r, με αποτελεσμα να μου παρεχει αυτοματα πληροφοριες για τα αρχεια ενος φακελου (κρυμμενα ή/οχι), το μεγεθος, τις αδειες και την ημερομηνια δημιουργιας τους τυπωνωντας τα σε μορφη λιστας. [repository](https://github.com/moya10/dot)
 
-# Ασκηση γραμμης εντολων 2
+# ασκηση γραμμης εντολων 2 - neofetch setup
 
 Εγκατεστησα το πακετο neofetch ακολουθωντας τις οδηγιες στη σελιδα [wiki](https://github.com/dylanaraps/neofetch/wiki) του [αποθετηριου](https://github.com/dylanaraps/neofetch)
 
@@ -64,7 +65,7 @@
 
 <img src="https://moya10.github.io/iv/assets/images/moya.png" alt="codepen"  width="440" height="220" />  | <img src="https://moya10.github.io/iv/assets/images/moyaa.jpg" alt="codepen"  width="440" height="220" /> | 
 
-# Ασκηση γραμμης εντολων 3
+# ασκηση γραμμης εντολων 3 - we-get fetching torrents
 
 Επιλυση τεχνικων προβληματων στις ασκησεις γραμμης εντολων.
 
@@ -107,7 +108,7 @@
 * [αιτημα ενσωματωσης στο κεντρικο αποθετηριο #3](https://github.com/upatras-hci/site/issues/142)
 * [οπτικοποιηση site στο κεντρικο αποθετηριο](https://upatras-hci.github.io/site/)
 
-# συμμετοχικο περιεχομενο -- προσθηκη υλικου στο βιβλιο @moya10/pibook –> @epidrome/pibook
+# συμμετοχικο περιεχομενο -- προσθηκη υλικου στο βιβλιο [moya10/pibook](https://github.com/moya10/pibook) –> [epidrome/pibook](https://github.com/epidrome/pibook)
 
 [the analytical engine](https://pibook10.netlify.app/gallery/analytical-engine/)  
 
