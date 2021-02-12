@@ -99,7 +99,6 @@
 
 ### κεντρικο αποθετηριο
 
-* [προσωπικο αποθετηριο](https://github.com/moya10/site)  
 * [αιτημα ενσωματωσης στο κεντρικο αποθετηριο #1](https://github.com/upatras-hci/site/issues/140)
 * [αιτημα ενσωματωσης στο κεντρικο αποθετηριο #2](https://github.com/upatras-hci/site/issues/141)
 * [αιτημα ενσωματωσης στο κεντρικο αποθετηριο #3](https://github.com/upatras-hci/site/issues/142)
