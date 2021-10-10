@@ -7,12 +7,12 @@
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το μάθημα* |
 | 2 | Άσκηση προγραμματισμού |
 | 3 | βιογραφικό |
-| 4 | αίτημα ενσωμάτωσης |
+| 4 | γραμμή εντολών |
 | 5 | Άσκηση προγραμματισμού |
 | 6 | συμμετοχικό περιεχόμενο |
 | 7 | βιογραφικό |
 | 8 | αίτημα ενσωμάτωσης |
-| 9 | αίτημα ενσωμάτωσης |
+| 9 | γραμμή εντολών |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης |
 | 12 | Τελική αναφορά* |
@@ -33,11 +33,11 @@
 
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
-**Βαθμολογία:** 20% [2 ασκήσεις προγραμματισμού](https://courses-ionio.github.io/projects/remix) + 20% [βιογραφικό](https://courses-ionio.github.io/projects/cv/) + 20% [Συμμετοχικό εκπαιδευτικό υλικό: 1](https://courses-ionio.github.io/projects/social)* + 40%(--80%) [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/)*
+**Κριτήρια βαθμολογίας:** 10% [2 ασκήσεις προγραμματισμού](https://courses-ionio.github.io/projects/remix) + 10% [βιογραφικό](https://courses-ionio.github.io/projects/cv/) + 20% [Συμμετοχικό εκπαιδευτικό υλικό: 1](https://courses-ionio.github.io/projects/social)* + 40% [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/) + 20% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/) + 10% [προαιρετικό bonus](https://courses-ionio.github.io/projects/bonus/)
 
-*υποχρεωτική συμπλήρωση της βάσης για να γίνει τελική βαθμολόγηση
+*υποχρεωτική συμπλήρωση της βάσης σε όλα τα κριτήρια για να γίνει τελική βαθμολόγηση
 
-**Βιβλιογραφία** 
+**Συμπληρωματική βιβλιογραφία** 
 
 * Fry, B. (2008). Visualizing data: Exploring and explaining data with the processing environment. " O'Reilly Media, Inc.". ch1
 * Steele, J., & Iliinsky, N. (2010). Beautiful visualization: Looking at data through the eyes of experts. " O'Reilly Media, Inc."., ch1, ch11
