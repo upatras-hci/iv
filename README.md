@@ -55,7 +55,7 @@
 * [timelineJS](https://timeline.knightlab.com)
 * [pollen](https://docs.racket-lang.org/pollen/)
 
-**Παρόμοια μαθήματα**
+**Συμπληρωματικά μαθήματα**
 
 [KTH](https://www.kth.se/social/course/DH2321/): student projects
 [UTAH](http://www.sci.utah.edu/~miriah/cs6964/): lectures, readings
