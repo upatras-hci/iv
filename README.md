@@ -33,7 +33,7 @@
 
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
-**Κριτήρια βαθμολογίας:** 10% [2 ασκήσεις προγραμματισμού](https://courses-ionio.github.io/projects/remix) + 10% [βιογραφικό](https://courses-ionio.github.io/projects/cv/) + 20% [Συμμετοχικό εκπαιδευτικό υλικό: 2](https://courses-ionio.github.io/projects/social)* + 40% [εργασία ανάπτυξης](https://courses-ionio.github.io/projects/dev/) + 20% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/) + 10% [προαιρετικό bonus](https://courses-ionio.github.io/projects/bonus/)
+**Κριτήρια βαθμολογίας:** 10% [2 ασκήσεις προγραμματισμού](https://courses-ionio.github.io/projects/remix) + 10% [βιογραφικό](https://courses-ionio.github.io/projects/cv/) + 20% [Συμμετοχικό εκπαιδευτικό υλικό: 2](https://courses-ionio.github.io/projects/social)* + 40% [ιστοσελίδα προγράμματος σπουδών](https://github.com/upatras-hci/site) + 20% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/) + 10% [προαιρετικό bonus](https://courses-ionio.github.io/projects/bonus/)
 
 *υποχρεωτική συμπλήρωση της βάσης σε όλα τα κριτήρια για να γίνει τελική βαθμολόγηση
 
