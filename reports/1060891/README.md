@@ -1,4 +1,4 @@
-# Basics:
+# Personal Data:
 Name: Vourna Maria-Melina <br /> 
 ΑΜ: 1060891 
 
