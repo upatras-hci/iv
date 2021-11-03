@@ -22,9 +22,13 @@ Name: Vourna Maria-Melina <br />
 Διαθέτω βασικές γνώσεις προγραμματισμού(Python,C++,Matlab). <br/>
 Από το μάθημα  αυτό προσδοκώ να γνωρίσω καλύτερα το GitHub και τις δυνατότητές του ,καθώς είχα και έναν λογαριασμό παλιαότερα για πειραματισμό.
 
-### resume-CV
+### Βιογραφικό
 Σε αυτή την άσκηση χρησιμοποίησα ένα Jekylls Theme μέσω του Github Pages(jekyll-theme-hacker) για να φτιάξω το προσωπικό μου βιογραφικό. Αποθήκευσα τα δεδομένα μου σε ξεχωριστά αρχεία yaml για να μπορέσουν να παράξουν σε επόμενη εργασία το ιδιο βιογραφικό σε pdf μέσω Pandoc & Latex. 
 
 [ο σύνδεσμος του αποθετηρίου](https://github.com/vournam/my_cv) 
 
 [ο σύνδεσμος στο site](https://vournam.github.io/my_cv/) 
+
+### Συμμετοχικό Περιεχόμενο 2A
+Προσθήκη 2 διαδραστικών παραδειγμάτων στο βιβλίο [vournam/pibook](https://github.com/vournam/pibook) –> [epidrome/pibook](https://github.com/epidrome/pibook)
+
