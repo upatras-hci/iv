@@ -36,7 +36,7 @@ Name: Vourna Maria-Melina <br />
   2. [History of pc(sorting)](https://pibooksite1.netlify.app/remix/pc-history-sorting/)
 
 ### CommandLine-1
-Σε αυτή την άσκηση, αρχικά, εγκατέστησα το ArchLinux σε Oracle VM VirtualBox. Έπειτα, κατέβασα το powerline status bar στο command line του ArchLinux. Κατέβασα και χρησιμοποίησα το dark solarized theme όπως επίσης και το RedShift.
+Σε αυτή την άσκηση, αρχικά, εγκατέστησα το ArchLinux σε Oracle VM VirtualBox. Έπειτα, κατέβασα το [powerline](https://github.com/powerline/powerline) status bar στο command line του ArchLinux. Κατέβασα και χρησιμοποίησα το dark [solarized](https://github.com/altercation/solarized) theme όπως επίσης και το [RedShift](https://github.com/jonls/redshift).
 
 ### MergeRequest-1
 
