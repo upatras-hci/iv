@@ -16,7 +16,7 @@ Name: Vourna Maria-Melina <br />
 | 9 | [Συμμετοχικό περιεχόμενο 2B](#Content-2Β) |
 | 10 | [Γραμμή εντολών 4](#CommandLine-4)|
 | 11 | [Αίτημα ενσωμάτωσης 2](#MergeRequest-2) |
-| 12 | [Τελική αναφορά](#Final Report) |
+| 12 | [Τελική αναφορά](#Final-Report) |
 
 ### Introduction:
 Ονομάζομαι Βουρνά Μαρία-Μελίνα και είμαι απόφοιτη του τμήματος Μαθηματικών του Παν.Πατρών. <br/>
@@ -52,4 +52,4 @@ Name: Vourna Maria-Melina <br />
 
 ### MergeRequest-2
 
-### Final Report
+### Final-Report
