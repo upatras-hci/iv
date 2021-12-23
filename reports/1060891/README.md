@@ -52,9 +52,9 @@ Name: Vourna Maria-Melina <br />
 
 [Asciinema](https://asciinema.org/) Links:
 
-*[PowerLine](https://asciinema.org/a/457054)*
-*[Neofetch](https://asciinema.org/a/457177)*
-*[Solarized]()*
+*[PowerLine](https://asciinema.org/a/457054)*,
+*[Neofetch](https://asciinema.org/a/457177)*,
+*[Solarized]()*,
 *[Pywal](https://asciinema.org/a/457192)*
 
 ### MergeRequest-1
@@ -64,13 +64,13 @@ Name: Vourna Maria-Melina <br />
 
 [Asciinema](https://asciinema.org/) Demo Links:
 
-*[Rofi](https://asciinema.org/a/457687)*
-*[Dunst]()*
-*[Awesome]()*
-*[Pipes](https://asciinema.org/a/458185)*
-*[Flashfocus]()*
-*[Tilix]()*
-*[Cava](https://asciinema.org/a/458152)*
+*[Rofi](https://asciinema.org/a/457687)*,
+*[Dunst]()*,
+*[Awesome]()*,
+*[Pipes](https://asciinema.org/a/458185)*,
+*[Flashfocus]()*,
+*[Tilix]()*,
+*[Cava](https://asciinema.org/a/458152)*,
 *[Pastel](https://asciinema.org/a/458180)*
 
 ### CV-pdf
