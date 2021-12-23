@@ -36,7 +36,7 @@ Name: Vourna Maria-Melina <br />
   2. [History of pc(sorting)](https://pibooksite1.netlify.app/remix/pc-history-sorting/)
 
 ### CommandLine-1
-Σε αυτή την άσκηση, αρχικά, εγκατέστησα το ArchLinux σε Oracle VM VirtualBox. Έπειτα, κατέβασα το [powerline](https://github.com/powerline/powerline) status bar στο command line του ArchLinux καθώς και το [neofetch](https://github.com/dylanaraps/neofetch), το οποίο όρισα να εμφανίζεται κάθε φορά που ανοίγω το τερματικό. (μέσω της προσθήκης "neofetch" στο startup file .bashrc) Κατέβασα και χρησιμοποίησα το dark [solarized](https://github.com/altercation/solarized) theme στο terminal όπως επίσης και το [RedShift](https://github.com/jonls/redshift). Τέλος, κατέβασα το [pywal](https://github.com/dylanaraps/pywal) και μία εικόνα σύμφωνα με την χρωματική παλέτα της οποίας προσαρμόζεται το φόντο του terminal και πρόσθεσα κάποιες γραμμές κώδικα στο .bashrc ώστε η αλλαγή φόντου να ισχύει κάθε φορά που ανοίγω το τερματικό.
+Σε αυτή την άσκηση, αρχικά, εγκατέστησα το ArchLinux σε Oracle VM VirtualBox. Έπειτα, κατέβασα το [powerline](https://github.com/powerline/powerline) status bar στο command line του ArchLinux καθώς και το [neofetch](https://github.com/dylanaraps/neofetch), το οποίο όρισα να εμφανίζεται κάθε φορά που ανοίγω το τερματικό. (μέσω της προσθήκης "neofetch" στο startup file .bashrc) Κατέβασα και χρησιμοποίησα το dark [solarized](https://github.com/altercation/solarized) theme στο [tilix](https://gnunn1.github.io/tilix-web/) terminal emulator. Τέλος, κατέβασα το [pywal](https://github.com/dylanaraps/pywal) και μία εικόνα σύμφωνα με την χρωματική παλέτα της οποίας προσαρμόζεται το φόντο του terminal και πρόσθεσα κάποιες γραμμές κώδικα στο .bashrc ώστε η αλλαγή φόντου να ισχύει κάθε φορά που ανοίγω το τερματικό.
 
 /# Import colorscheme from 'wal' asynchronously </br>
 /# &   # Run the process in the background. <br/>
@@ -50,10 +50,28 @@ Name: Vourna Maria-Melina <br />
 /# To add support for TTYs this line can be optionally added. <br/>
 /source ~/.cache/wal/colors-tty.sh <br/>
 
+[Asciinema](https://asciinema.org/) Links:
+
+*[PowerLine](https://asciinema.org/a/457054)*
+*[Neofetch](https://asciinema.org/a/457177)*
+*[Solarized]()*
+*[Pywal](https://asciinema.org/a/457192)*
+
 ### MergeRequest-1
 
 ### CommandLine-2
-Στην άσκηση αυτή κατέβασα το [polybar](https://github.com/polybar/polybar), [rofi](https://github.com/davatorium/rofi), [dunst](https://github.com/dunst-project/dunst), [awesome](https://github.com/awesomeWM/awesome), [pipes](https://github.com/pipeseroni/pipes.sh), [flashfocus](https://github.com/fennerm/flashfocus) και κατέβασα επιπλέον το [tilix](https://gnunn1.github.io/tilix-web/) μέσω της εντολής "sudo pacman -S tilix".
+Στην άσκηση αυτή κατέβασα το [polybar](https://github.com/polybar/polybar), [rofi](https://github.com/davatorium/rofi), [dunst](https://github.com/dunst-project/dunst), [awesome](https://github.com/awesomeWM/awesome), [pipes](https://github.com/pipeseroni/pipes.sh), [flashfocus](https://github.com/fennerm/flashfocus) και κατέβασα επιπλέον το [tilix](https://gnunn1.github.io/tilix-web/) μέσω της εντολής "sudo pacman -S tilix" και το [cava](https://github.com/karlstav/cava#configuration) audio visualizer. Τέλος, κατέβασα το [pastel](https://github.com/sharkdp/pastel) και έδωσα μία σειρά εντολών που συντέθηκαν μέσω "piping" του "output" μίας εντολής σε μία άλλη.
+
+[Asciinema](https://asciinema.org/) Demo Links:
+
+*[Rofi](https://asciinema.org/a/457687)*
+*[Dunst]()*
+*[Awesome]()*
+*[Pipes](https://asciinema.org/a/458185)*
+*[Flashfocus]()*
+*[Tilix]()*
+*[Cava](https://asciinema.org/a/458152)*
+*[Pastel](https://asciinema.org/a/458180)*
 
 ### CV-pdf
 
