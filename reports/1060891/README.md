@@ -51,7 +51,6 @@ Name: Vourna Maria-Melina <br />
 /source ~/.cache/wal/colors-tty.sh <br/>
 
 [Asciinema](https://asciinema.org/) Links:
-
 *[PowerLine](https://asciinema.org/a/457054)*,
 *[Neofetch](https://asciinema.org/a/457177)*,
 *[Solarized]()*,
@@ -63,7 +62,6 @@ Name: Vourna Maria-Melina <br />
 Στην άσκηση αυτή κατέβασα το [polybar](https://github.com/polybar/polybar), [rofi](https://github.com/davatorium/rofi), [dunst](https://github.com/dunst-project/dunst), [awesome](https://github.com/awesomeWM/awesome), [pipes](https://github.com/pipeseroni/pipes.sh), [flashfocus](https://github.com/fennerm/flashfocus) και κατέβασα επιπλέον το [tilix](https://gnunn1.github.io/tilix-web/) μέσω της εντολής "sudo pacman -S tilix" και το [cava](https://github.com/karlstav/cava#configuration) audio visualizer. Τέλος, κατέβασα το [pastel](https://github.com/sharkdp/pastel) και έδωσα μία σειρά εντολών που συντέθηκαν μέσω "piping" του "output" μίας εντολής σε μία άλλη.
 
 [Asciinema](https://asciinema.org/) Demo Links:
-
 *[Rofi](https://asciinema.org/a/457687)*,
 *[Dunst]()*,
 *[Awesome]()*,
