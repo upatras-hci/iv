@@ -76,25 +76,27 @@ Name: Vourna Maria-Melina <br />
 ### CommandLine-3
 Σε αυτή την άσκηση, έχοντας ήδη κατεβάσει το [neofetch](https://github.com/dylanaraps/neofetch) θέλησα να προσθέσω μία εικόνα. Αρχικά, κατέβασα το w3m και το jp2a (αφορούν τον τρόπο απεικόνισης της εικόνας, περισσότερες πληροφορίες [εδώ](https://github.com/dylanaraps/neofetch/wiki/Image-Backends)), έλεγξα εάν υποστηρίζει εικόνες το terminal μου μέσω της εντολής "w3m google.com", το οποίο μου εμφάνισε κανονικά την ιστοσελίδα της Google. Έπειτα, μπήκα κι έκανα edit στο config file του neofetch που βρίσκεται στην τοποθεσία ${HOME}/.config/neofetch/config.conf (Το config αρχικά υπήρχε στο /etc/neofetch/config.conf και με την εγκατάσταση έγινε copy αυτού μέσα στο ${HOME}/.config/neofetch όπου υπάρχουν τα config files των εφαρμογών που χρησιμοποιεί ο κάθε χρήστης). Πιο συγκεκριμένα, στο #Image backend τμήμα του config file έκανα την αλλαγή στο image_backend από 'ascii' σε 'jp2a' την πρώτη φορά και σε 'w3m' την δεύτερη φορά και στο #Image Source έβαλα το path της εικόνας που ήθελα στο πεδίο image_source. Τέλος, έκανα reboot ώστε να εμφανιστεί η αλλαγή στο terminal.
 
-/# Image backend.
-/#
-/# Default:  'ascii'
-/# Values:   'ascii', 'caca', 'catimg', 'jp2a', 'iterm2', 'off', 'tycat', 'w3m'
-/# Flag:     --backend
-**image_backend="jp2a"**
+*[Jp2a](https://asciinema.org/a/459412)*
 
-/# Image Source
-/#
-/# Which image or ascii file to display.
-/#
-/# Default:  'auto'
-/# Values:   'auto', 'ascii', 'wallpaper', '/path/to/img', '/path/to/ascii', '/path/to/dir/'
-/# Flag:     --source
-/#
-/# NOTE: 'auto' will pick the best image source for whatever image backend is used.
-/#       In ascii mode, distro ascii art will be used and in an image mode, your
-/#       wallpaper will be used.
-**image_source="home/melina/Pictures/kitty.png"**
+/# Image backend. <br/>
+/# <br/>
+/# Default:  'ascii' <br/>
+/# Values:   'ascii', 'caca', 'catimg', 'jp2a', 'iterm2', 'off', 'tycat', 'w3m' <br/>
+/# Flag:     --backend <br/>
+**image_backend="jp2a"** <br/>
+
+/# Image Source <br/>
+/# <br/>
+/# Which image or ascii file to display. <br/>
+/# <br/>
+/# Default:  'auto' <br/>
+/# Values:   'auto', 'ascii', 'wallpaper', '/path/to/img', '/path/to/ascii', '/path/to/dir/' <br/>
+/# Flag:     --source <br/>
+/# <br/>
+/# NOTE: 'auto' will pick the best image source for whatever image backend is used. <br/>
+/#       In ascii mode, distro ascii art will be used and in an image mode, your <br/>
+/#       wallpaper will be used. <br/>
+**image_source="home/melina/Pictures/kitty.png"** <br/>
 
 ### Content-2Β
 
