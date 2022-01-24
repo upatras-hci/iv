@@ -72,6 +72,13 @@ Name: Vourna Maria-Melina <br />
 *[Pastel](https://asciinema.org/a/458180)*
 
 ### CV-pdf
+Στην άσκηση αυτή έκανα αρχικά fork το [simple-cv](https://github.com/plain-plain-text/simple-cv) repo και έπειτα το κατέβασα τοπικά. Εκεί επεξεργάστηκα τα sections, metadata αλλά και όλα τα αρχεία του φακέλου templates ώστε να το προσαρμόσω στα δικά μου δεδομένα, είτε διαγράφοντας κάποια τμήματα(π.χ. twitter, telephone), είτε τροποποιώντας τα ήδη υπάρχοντα(π.χ. στα sections --> education, languages, skills). Στην συνέχεια, έφτιαξα ένα δικό μου branch "1060891" μέσω του terminal με την εντολή "git checkout -b 1060891" και στην συνέχεια μέσω τερματικού έδωσα τις εξής εντολές ώστε να ανέβει το ανανεωμένο repo στο 1060891 branch: </br>
+/git add . </br>
+/git commit -m "Initial Commit" </br>
+/git push --set-upstream origin 1060891 </br>
+
+**[Pdf link](https://github.com/vournam/simple-cv/blob/1060891/docs/M-M_Vourna.pdf)** </br>
+**[Html link](https://github.com/vournam/simple-cv/blob/1060891/docs/index.html)**
 
 ### CommandLine-3
 Σε αυτή την άσκηση, έχοντας ήδη κατεβάσει το [neofetch](https://github.com/dylanaraps/neofetch) θέλησα να προσθέσω μία εικόνα. Αρχικά, κατέβασα το w3m και το jp2a (αφορούν τον τρόπο απεικόνισης της εικόνας, περισσότερες πληροφορίες [εδώ](https://github.com/dylanaraps/neofetch/wiki/Image-Backends)), έλεγξα εάν υποστηρίζει εικόνες το terminal μου μέσω της εντολής "w3m google.com", το οποίο μου εμφάνισε κανονικά την ιστοσελίδα της Google. Έπειτα, μπήκα κι έκανα edit στο config file του neofetch που βρίσκεται στην τοποθεσία ${HOME}/.config/neofetch/config.conf (Το config αρχικά υπήρχε στο /etc/neofetch/config.conf και με την εγκατάσταση έγινε copy αυτού μέσα στο ${HOME}/.config/neofetch όπου υπάρχουν τα config files των εφαρμογών που χρησιμοποιεί ο κάθε χρήστης). Πιο συγκεκριμένα, στο #Image backend τμήμα του config file έκανα την αλλαγή στο image_backend από 'ascii' σε 'jp2a' την πρώτη φορά και σε 'w3m' την δεύτερη φορά και στο #Image Source έβαλα το path της εικόνας που ήθελα στο πεδίο image_source. Τέλος, έκανα reboot ώστε να εμφανιστεί η αλλαγή στο terminal.
