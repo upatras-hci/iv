@@ -112,6 +112,6 @@ Name: Vourna Maria-Melina <br />
 ### MergeRequest-2
 Για την οπτικοποίηση του [βιβλίου](https://github.com/mibook/kallipos) αρχικά έκανα fork το αντίστοιχο repository, το κατέβασα τοπικά και έκανα merge όλα τα κεφάλαια του βιβλίου μαζί με πρόλογο, εισαγωγή και επίλογο, σε ένα μόνο .txt file μέσω της εντολής "copy *.txt ΜΙΒΟΟΚ.txt" έχοντας πρώτα μπει στον φάκελο text με όλα τα αρχεία προς συγχ΄΄ωνευση. Έπειτα, κατάφερα να μετατρέψω το MIBOOK.txt σε MIBOOK.epub μέσω της εντολής "pandoc MIBOOK.txt -o MIBOOK.epub --metadata title=meta.yml" και αφού μέσω των pandoc lua filters είχα αφαιρέσει πρώτα images & notes. </br>
 
-[MIBOOK.epub]()
+[MIBOOK.epub](https://github.com/vournam/kallipos/blob/1060891/MIBOOK.epub)
 
 ### Final-Report
