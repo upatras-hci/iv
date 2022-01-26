@@ -59,8 +59,8 @@ Name: Vourna Maria-Melina <br />
 ### MergeRequest-1
 Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Add_people", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, πρόσθεσα ένα αρχείο .md μέσα στον φάκελο _people και μία εικόνα .png στον φάκελο assets/images. Έπτειτα, κατέβασα το Jekyll τοπικά ακολουθώντας τις [οδηγίες](https://jekyllrb.com/docs/installation/) της ιστοσελίδας Jekyll και στη συνέχεια ακολούθησα τα [βήματα]() ώστε να δημιουργήσω μία ιστοσελίδα τοπικά. Αφού δημιουργήθηκε η ιστοσελίδα, επεξεργάστηκα κατάλληλα τα αρχεία ώστε να η ιστοσελίδα να αντιστοιχεί σε αυτή του HCI-master site. Τέλος, έκανα μέσω τερματικού  git checkout -b "add_people" ώστε να δημιουργήσω ένα νέο branch και στην συνέχεια έκανα push στο συγκεκριμένο branch μέσω: git push --set-upstream origin add_people. </br>
 
-**[Αίτημα προς το κεντρικό αποθετήριο]() **
-**[HCI-site]()**
+- **[Merge-request]()**
+- **[HCI-site]()**
 
 ### CommandLine-2
 Στην άσκηση αυτή κατέβασα το [polybar](https://github.com/polybar/polybar), [rofi](https://github.com/davatorium/rofi), [dunst](https://github.com/dunst-project/dunst), [awesome](https://github.com/awesomeWM/awesome), [pipes](https://github.com/pipeseroni/pipes.sh), [flashfocus](https://github.com/fennerm/flashfocus) και κατέβασα επιπλέον το [tilix](https://gnunn1.github.io/tilix-web/) μέσω της εντολής "sudo pacman -S tilix" και το [cava](https://github.com/karlstav/cava#configuration) audio visualizer. Τέλος, κατέβασα το [pastel](https://github.com/sharkdp/pastel) και έδωσα μία σειρά εντολών που συντέθηκαν μέσω "piping" του "output" μίας εντολής σε μία άλλη.
