@@ -36,8 +36,9 @@ Specifically the course "Information Visualization" will help me to learn best p
 
 ### Content-2A
 Προσθήκη 2 διαδραστικών παραδειγμάτων στο βιβλίο pibook:
- -  **[Burger Menu Slide Toggle](https://codepen.io/dFiliopoulou/pen/bGrajwM)**
- -  **[History tabs](https://codepen.io/dFiliopoulou/pen/mdMpLZN)**
+ -  **[Link με τα commits](https://github.com/ceid5452/site/commits?author=ceid5452)**
+ -  **[Burger Menu Slide Toggle](https://github.com/ceid5452/site/blob/master/_remix/burger-menu.md)**
+ -  **[History tabs](https://github.com/ceid5452/site/blob/master/_remix/tabs.md)**
 
 ### MergeRequest-1
 Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Available Master Thesis", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, δημιούργησα ένα φάκελο _masterthesis και τοποθέτησα τα αρχεία .md με τα διαθέσιμα θέματα διπλωματικής. Ύστερα δημιούργησα τo file master-thesis.html στo οποία κάλεσα τα αρχεία .md</br>
