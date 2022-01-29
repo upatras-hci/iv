@@ -37,7 +37,7 @@ Specifically the course "Information Visualization" will help me to learn best p
 ### Content-2A
 Προσθήκη 2 διαδραστικών παραδειγμάτων στο βιβλίο pibook:
  -  **[Link με τα commits](https://github.com/ceid5452/site/commits?author=ceid5452)**
- -  **[Burger Menu Slide Toggle](https://github.com/ceid5452/site/blob/master/_remix/burger-menu.md)**
+ -  **[Burger Menu Slide Toggle](https://gallant-newton-f47024.netlify.app/remix/burger-menu/)**
  -  **[History tabs](https://github.com/ceid5452/site/blob/master/_remix/tabs.md)**
 
 ### MergeRequest-1
