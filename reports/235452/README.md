@@ -50,4 +50,4 @@ Specifically the course "Information Visualization" will help me to learn best p
 Έκανα install την νεότερη έκδοση του jekyll και δημιούργησα μια νέα σελίδα με ένα default theme τοπικά στον υπολογιστή μου, ακολουθώντας τις [οδηγίες](https://jekyllrb.com/docs/installation/) της ιστοσελίδας Jekyll. Αποθήκευσα τα δεδομένα μου σε ξεχωριστά αρχεία yaml για να μπορέσουν να παράξουν το ιδιο βιογραφικό σε pdf μέσω Pandoc & Latex. 
 
 - **[Pdf link]()** </br>
-- **[Html link]()**
+- **[Html link](https://ceid5452.github.io/simple-cv/docs/)**
