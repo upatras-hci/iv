@@ -116,9 +116,9 @@ Name: Vourna Maria-Melina <br />
 ### CommandLine-4
 
 ### MergeRequest-2
-Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Add_program", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, πρόσθεσα 3 αρχεία .md μέσα στον φάκελο _program και 3 εικόνες .png στον φάκελο assets/images. Έπτειτα, μέσω της εντολής "bundle exec jekyll serve" έχοντας ήδη μπει μέσα στο φάκελο του HCI-site, εμφάνισα τοπικά την ανανεωμένη ιστοσελίδα του HCI-master site. Τέλος, έκανα μέσω τερματικού  git checkout -b "add_program" ώστε να δημιουργήσω ένα νέο branch και στην συνέχεια έκανα push στο συγκεκριμένο branch μέσω: git push --set-upstream origin add_program. </br>
+Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Add_timetable", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, πρόσθεσα 2 αρχεία .md μέσα στον φάκελο _program και 2 εικόνες .png στον φάκελο assets/images. Έπειτα, μέσω της εντολής "bundle exec jekyll serve" έχοντας ήδη μπει μέσα στο φάκελο του HCI-site, εμφάνισα τοπικά την ανανεωμένη ιστοσελίδα του HCI-master site. Τέλος, έκανα μέσω τερματικού  git checkout -b "add_timetable" ώστε να δημιουργήσω ένα νέο branch και στην συνέχεια έκανα push στο συγκεκριμένο branch μέσω: git push --set-upstream origin add_timetable. </br>
 
 - **[Issue Link](https://github.com/upatras-hci/site/issues/154)**
-- **[Merge-request Link]()**
+- **[Merge-request Link](https://github.com/upatras-hci/site/pull/160)**
 
 ### Final-Report
