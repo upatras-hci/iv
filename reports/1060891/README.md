@@ -59,8 +59,8 @@ Name: Vourna Maria-Melina <br />
 ### MergeRequest-1
 Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Add_people", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, πρόσθεσα ένα αρχείο .md μέσα στον φάκελο _people και μία εικόνα .png στον φάκελο assets/images. Έπτειτα, κατέβασα το Jekyll τοπικά ακολουθώντας τις [οδηγίες](https://jekyllrb.com/docs/installation/) της ιστοσελίδας Jekyll και στη συνέχεια μέσω της εντολής "bundle exec jekyll serve" έχοντας ήδη μπει μέσα στο φάκελο του HCI-site, εμφάνισα τοπικά την ανανεωμένη ιστοσελίδα του HCI-master site. Τέλος, έκανα μέσω τερματικού  git checkout -b "add_people" ώστε να δημιουργήσω ένα νέο branch και στην συνέχεια έκανα push στο συγκεκριμένο branch μέσω: git push --set-upstream origin add_people. </br>
 
-- **[Merge-request](https://github.com/upatras-hci/site/issues/153)**
-- **[HCI-site]()**     , repo: https://github.com/vournam/site-1/tree/add_people
+- **[Issue Link](https://github.com/upatras-hci/site/issues/153)**
+- **[Merge-request Link](https://github.com/upatras-hci/site/pull/159/)**    
 
 ### CommandLine-2
 Στην άσκηση αυτή κατέβασα το [polybar](https://github.com/polybar/polybar), [rofi](https://github.com/davatorium/rofi), [dunst](https://github.com/dunst-project/dunst), [awesome](https://github.com/awesomeWM/awesome), [pipes](https://github.com/pipeseroni/pipes.sh), [flashfocus](https://github.com/fennerm/flashfocus) και κατέβασα επιπλέον το [tilix](https://gnunn1.github.io/tilix-web/) μέσω της εντολής "sudo pacman -S tilix" και το [cava](https://github.com/karlstav/cava#configuration) audio visualizer. Τέλος, κατέβασα το [pastel](https://github.com/sharkdp/pastel) και έδωσα μία σειρά εντολών που συντέθηκαν μέσω "piping" του "output" μίας εντολής σε μία άλλη.
@@ -110,16 +110,15 @@ Name: Vourna Maria-Melina <br />
 **image_source="home/melina/Pictures/kitty.png"** <br/>
 
 ### Content-2Β
-Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Add_program", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, πρόσθεσα 3 αρχεία .md μέσα στον φάκελο _program και 3 εικόνες .png στον φάκελο assets/images. Έπτειτα, μέσω της εντολής "bundle exec jekyll serve" έχοντας ήδη μπει μέσα στο φάκελο του HCI-site, εμφάνισα τοπικά την ανανεωμένη ιστοσελίδα του HCI-master site. Τέλος, έκανα μέσω τερματικού  git checkout -b "add_program" ώστε να δημιουργήσω ένα νέο branch και στην συνέχεια έκανα push στο συγκεκριμένο branch μέσω: git push --set-upstream origin add_program. </br>
-
-- **[Merge-request](https://github.com/upatras-hci/site/issues/154)**
-- **[HCI-site]()**
+Για την οπτικοποίηση του [βιβλίου](https://github.com/mibook/kallipos) αρχικά έκανα fork το αντίστοιχο repository, το κατέβασα τοπικά και έκανα merge όλα τα κεφάλαια του βιβλίου μαζί με πρόλογο, εισαγωγή και επίλογο, σε ένα μόνο .txt file μέσω της εντολής "copy *.txt ΜΙΒΟΟΚ.txt" έχοντας πρώτα μπει στον φάκελο text με όλα τα αρχεία προς συγχ΄΄ωνευση. Έπειτα, μετέτρεψα το MIBOOK.txt σε MIBOOK.epub μέσω της εντολής "pandoc MIBOOK.txt -o MIBOOK.epub --metadata title=meta.yml" και αφού μέσω των pandoc lua filters είχα αφαιρέσει πρώτα images & notes. </br>
+- **[MIBOOK.epub](https://github.com/vournam/kallipos/blob/1060891/MIBOOK.epub)** </br>
 
 ### CommandLine-4
 
 ### MergeRequest-2
-Για την οπτικοποίηση του [βιβλίου](https://github.com/mibook/kallipos) αρχικά έκανα fork το αντίστοιχο repository, το κατέβασα τοπικά και έκανα merge όλα τα κεφάλαια του βιβλίου μαζί με πρόλογο, εισαγωγή και επίλογο, σε ένα μόνο .txt file μέσω της εντολής "copy *.txt ΜΙΒΟΟΚ.txt" έχοντας πρώτα μπει στον φάκελο text με όλα τα αρχεία προς συγχ΄΄ωνευση. Έπειτα, μετέτρεψα το MIBOOK.txt σε MIBOOK.epub μέσω της εντολής "pandoc MIBOOK.txt -o MIBOOK.epub --metadata title=meta.yml" και αφού μέσω των pandoc lua filters είχα αφαιρέσει πρώτα images & notes. </br>
-- **[MIBOOK.epub](https://github.com/vournam/kallipos/blob/1060891/MIBOOK.epub)** </br>
+Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Add_program", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, πρόσθεσα 3 αρχεία .md μέσα στον φάκελο _program και 3 εικόνες .png στον φάκελο assets/images. Έπτειτα, μέσω της εντολής "bundle exec jekyll serve" έχοντας ήδη μπει μέσα στο φάκελο του HCI-site, εμφάνισα τοπικά την ανανεωμένη ιστοσελίδα του HCI-master site. Τέλος, έκανα μέσω τερματικού  git checkout -b "add_program" ώστε να δημιουργήσω ένα νέο branch και στην συνέχεια έκανα push στο συγκεκριμένο branch μέσω: git push --set-upstream origin add_program. </br>
 
+- **[Issue Link](https://github.com/upatras-hci/site/issues/154)**
+- **[Merge-request Link]()**
 
 ### Final-Report
