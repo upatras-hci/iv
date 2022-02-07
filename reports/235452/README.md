@@ -22,7 +22,7 @@ Name: Filiopoulou Dionysia <br />
 | 12 | [Τελική αναφορά](#Final-Report) |
 
 ### Introduction:
-My name is Filopoulou Dionysia and I have graduated from the Department of Computer Engineering and Informatics in 2017. <br>
+Ονομάζομαι Φιλιοπούλου Διονυσία και είμαι απόφοιτη του τμήματος Μηχανικών Η/Υ και Πληροφορικής Πανεπιστημίου Πατρών. Αποφοίτησα από το τμήμα τον Δεκέμβριο του 2017.<br>
 The last three years I work as a frontend developer in a company which is located in Patras called eight8.<br>
 I think this master will give me the opportunity to evolve and broaden my mind.<br>
 Specifically the course "Information Visualization" will help me to learn best practices on github via projects.
@@ -31,7 +31,6 @@ Specifically the course "Information Visualization" will help me to learn best p
 Σκοπός της άσκησης αυτής ήταν να δημιουργήσουμε το δικό μας βιογραφικό με χρήση του συστήματος Jekyll. Σε πρώτη φάση, έφτιαξα ένα brancnch με όνομα "gh-pages"και έπειτα δημιούργησα ένα φάκελο _data στον οποίο πρόσθεσα τα αρχεία yaml με τα προσωπικά μου στοιχεία. 'Υστερα κάλεσα τα αρχεία αυτά μέσω του config.yml και χρησιμοποίησα ένα Jekylls Theme μέσω του Github Pages για να φτιάξω το προσωπικό μου βιογραφικό. 
 
 - **[ο σύνδεσμος του αποθετηρίου](https://github.com/ceid5452/cv/tree/gh-pages)** 
-
 - **[ο σύνδεσμος στο site](https://ceid5452.github.io/cv/)** 
 
 ### Content-2A
