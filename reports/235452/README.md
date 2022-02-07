@@ -28,7 +28,7 @@ I think this master will give me the opportunity to evolve and broaden my mind.<
 Specifically the course "Information Visualization" will help me to learn best practices on github via projects.
 
 ### CV-site
-Σκοπός της άσκησης αυτής ήταν να δημιουργήσουμε το δικό μας βιογραφικό με χρήση του συστήματος Jekyll. Σε πρώτη φάση, έφτιαξα ένα brancnch και έπειτα δημιούργησα ένα φάκελο _data στον οποίο πρόσθεσα τα αρχεία yaml με τα προσωπικά μου στοιχεία. 'Υστερα κάλεσα τα αρχεία αυτά μέσω του config.yml και χρησιμοποίησα ένα Jekylls Theme μέσω του Github Pages για να φτιάξω το προσωπικό μου βιογραφικό. 
+Σκοπός της άσκησης αυτής ήταν να δημιουργήσουμε το δικό μας βιογραφικό με χρήση του συστήματος Jekyll. Σε πρώτη φάση, έφτιαξα ένα brancnch με όνομα "gh-pages"και έπειτα δημιούργησα ένα φάκελο _data στον οποίο πρόσθεσα τα αρχεία yaml με τα προσωπικά μου στοιχεία. 'Υστερα κάλεσα τα αρχεία αυτά μέσω του config.yml και χρησιμοποίησα ένα Jekylls Theme μέσω του Github Pages για να φτιάξω το προσωπικό μου βιογραφικό. 
 
 - **[ο σύνδεσμος του αποθετηρίου](https://github.com/ceid5452/cv/tree/gh-pages)** 
 
