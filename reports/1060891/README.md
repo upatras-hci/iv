@@ -32,6 +32,7 @@ Name: Vourna Maria-Melina <br />
 
 ### Content-2A
 Προσθήκη 2 διαδραστικών παραδειγμάτων στο βιβλίο pibook:
+ -  **[ο σύνδεσμος με τα commits](https://github.com/vournam/site/commits/master)** 
  -  **[Button menu(pibook)](https://pibooksite1.netlify.app/remix/button-menu(pibook)/)**
  -  **[History of pc(sorting)](https://pibooksite1.netlify.app/remix/pc-history-sorting/)**
 
@@ -63,14 +64,12 @@ Name: Vourna Maria-Melina <br />
 - **[Merge-request Link](https://github.com/upatras-hci/site/pull/159/)**    
 
 ### CommandLine-2
-Στην άσκηση αυτή κατέβασα το [polybar](https://github.com/polybar/polybar), [rofi](https://github.com/davatorium/rofi), [dunst](https://github.com/dunst-project/dunst), [awesome](https://github.com/awesomeWM/awesome), [pipes](https://github.com/pipeseroni/pipes.sh), [flashfocus](https://github.com/fennerm/flashfocus) και κατέβασα επιπλέον το [tilix](https://gnunn1.github.io/tilix-web/) μέσω της εντολής "sudo pacman -S tilix" και το [cava](https://github.com/karlstav/cava#configuration) audio visualizer. Τέλος, κατέβασα το [pastel](https://github.com/sharkdp/pastel) και έδωσα μία σειρά εντολών που συντέθηκαν μέσω "piping" του "output" μίας εντολής σε μία άλλη.
+Στην άσκηση αυτή κατέβασα το [polybar](https://github.com/polybar/polybar), [rofi](https://github.com/davatorium/rofi), [awesome](https://github.com/awesomeWM/awesome), [pipes](https://github.com/pipeseroni/pipes.sh) και κατέβασα επιπλέον το [tilix](https://gnunn1.github.io/tilix-web/) μέσω της εντολής "sudo pacman -S tilix" και το [cava](https://github.com/karlstav/cava#configuration) audio visualizer. Τέλος, κατέβασα το [pastel](https://github.com/sharkdp/pastel) και έδωσα μία σειρά εντολών που συντέθηκαν μέσω "piping" του "output" μίας εντολής σε μία άλλη.
 
 - **[Asciinema](https://asciinema.org/) Demo Links:**
 *[Rofi](https://asciinema.org/a/457687)*,
-*[Dunst]()*,
 *[Awesome]()*,
 *[Pipes](https://asciinema.org/a/458185)*,
-*[Flashfocus]()*,
 *[Tilix]()*,
 *[Cava](https://asciinema.org/a/458152)*,
 *[Pastel](https://asciinema.org/a/458180)*
@@ -81,6 +80,7 @@ Name: Vourna Maria-Melina <br />
 /git commit -m "Initial Commit" </br>
 /git push --set-upstream origin 1060891 </br>
 
+- **[ο σύνδεσμος του αποθετηρίου](https://github.com/vournam/simple-cv/tree/1060891)**  </br>
 - **[Pdf link](https://github.com/vournam/simple-cv/blob/1060891/docs/M-M_Vourna.pdf)** </br>
 - **[Html link](https://github.com/vournam/simple-cv/blob/1060891/docs/index.html)**
 
