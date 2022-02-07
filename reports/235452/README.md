@@ -41,9 +41,10 @@ Specifically the course "Information Visualization" will help me to learn best p
  -  **[History tabs](https://gallant-newton-f47024.netlify.app/remix/tabs/)**
 
 ### MergeRequest-1
-Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Available Master Thesis", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, δημιούργησα ένα φάκελο _masterthesis και τοποθέτησα τα αρχεία .md με τα διαθέσιμα θέματα διπλωματικής. Ύστερα δημιούργησα τo file master-thesis.html στo οποία κάλεσα τα αρχεία .md</br>
+Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Προσθήκη νέου στα posts: "Call for applications 2020-2021" ", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Έκανα checkout στον νέο branch που δημιούργησα "add_news". Στον φάκελο _news δημιούργησα ένα αρχείο .md με όνομα "2019-11-23-call_for_2020_2021.md" στο οποίο πρόσθεσα το περιεχόμενο του post που ήθελα να οπτικοποιήσω. Ύστερα, το περιεχόμενο του νέου post που δημιούργησα, οπτικοποιήθηκε στην σελίδα των posts. Έκανα commit και push τις αλλαγές μου και τέλος έκανα ένα merge request για να οπτικοποιηθούν και να συνεργαστούν οι προτεινόμενες αλλαγές μου στον πηγαίο κώδικα.</br>
 
-- **[Merge-request](https://github.com/upatras-hci/site/issues/155)**
+- **[Issue](https://github.com/upatras-hci/site/issues/156)**
+- **[Merge-request]()**
 - **[HCI-site]()**
 
 ### CV-pdf
@@ -51,3 +52,10 @@ Specifically the course "Information Visualization" will help me to learn best p
 
 - **[Pdf link](https://ceid5452.github.io/simple-cv/docs/Filiopoulou_Dionysia_CV.pdf)** </br>
 - **[Html link](https://ceid5452.github.io/simple-cv/docs/)**
+
+### MergeRequest-2
+Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Available Master Thesis", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, δημιούργησα ένα φάκελο _masterthesis και τοποθέτησα τα αρχεία .md με τα διαθέσιμα θέματα διπλωματικής. Ύστερα δημιούργησα τo file master-thesis.html στo οποία οπτικοποίησα το περιεχόμενο των αρχείων .md που δημιούργησα, ώστε να εμφανιστούν τα διαθέσιμα θέματα διπλωματικής.</br>
+
+- **[Issue](https://github.com/upatras-hci/site/issues/155)**
+- **[Merge-request](https://github.com/upatras-hci/site/pull/157)**
+- **[HCI-site]()**
