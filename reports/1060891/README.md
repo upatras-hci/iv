@@ -110,7 +110,7 @@ Name: Vourna Maria-Melina <br />
 **image_source="home/melina/Pictures/kitty.png"** <br/>
 
 ### Content-2Β
-Για την οπτικοποίηση του [βιβλίου](https://github.com/mibook/kallipos) αρχικά έκανα fork το αντίστοιχο repository, το κατέβασα τοπικά και έκανα merge όλα τα κεφάλαια του βιβλίου μαζί με πρόλογο, εισαγωγή και επίλογο, σε ένα μόνο .txt file μέσω της εντολής "copy *.txt ΜΙΒΟΟΚ.txt" έχοντας πρώτα μπει στον φάκελο text με όλα τα αρχεία προς συγχ΄΄ωνευση. Έπειτα, μετέτρεψα το MIBOOK.txt σε MIBOOK.epub μέσω της εντολής "pandoc MIBOOK.txt -o MIBOOK.epub --metadata title=meta.yml" και αφού μέσω των pandoc lua filters είχα αφαιρέσει πρώτα images & notes. </br>
+Για την οπτικοποίηση του [βιβλίου](https://github.com/mibook/kallipos) σε ηλεκτρονικό βιβλίο (epub) αρχικά έκανα fork το αντίστοιχο repository και έπειτα το κατέβασα τοπικά. Εκεί, κατέβασα το pandoc fignos filter, του οποίου το executable το πρόσθεσα στο kallipos repository για να μπορέσω να το εφαρμόσω έπειτα ως φίλτρο. Ακόμη, δημιούργησα ένα αρχείο .sh, μέσω του οποίου θα μπορούσα να εφαρμόσω όλα τα φίλτρα με pipelining εκτελώντας το μέσω τερματικού. Αφού εκτέλεσα, λοιπόν, το .sh αρχείο, δημιουργήθηκε ένα αρχείο markdown, το οποίο μέσω της εντολής "pandoc MIBOOK.md -o MIBOOK.epub μετατράπηκε στην συνέχεια σε ηλεκτρονικό βιβλίο.   </br>
 - **[MIBOOK.epub](https://github.com/vournam/kallipos/blob/1060891/MIBOOK.epub)** </br>
 
 ### CommandLine-4
