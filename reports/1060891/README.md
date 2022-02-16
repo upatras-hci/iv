@@ -37,24 +37,11 @@ Name: Vourna Maria-Melina <br />
  -  **[History of pc(sorting)](https://pibooksite1.netlify.app/remix/pc-history-sorting/)**
 
 ### CommandLine-1
-Σε αυτή την άσκηση, αρχικά, εγκατέστησα το ArchLinux σε Oracle VM VirtualBox. Έπειτα, κατέβασα το [powerline](https://github.com/powerline/powerline) status bar στο command line του ArchLinux καθώς και το [neofetch](https://github.com/dylanaraps/neofetch), το οποίο όρισα να εμφανίζεται κάθε φορά που ανοίγω το τερματικό. (μέσω της προσθήκης "neofetch" στο startup file .bashrc) Κατέβασα και χρησιμοποίησα το dark [solarized](https://github.com/altercation/solarized) theme στο [tilix](https://gnunn1.github.io/tilix-web/) terminal emulator. Τέλος, κατέβασα το [pywal](https://github.com/dylanaraps/pywal) και μία εικόνα σύμφωνα με την χρωματική παλέτα της οποίας προσαρμόζεται το φόντο του terminal και πρόσθεσα κάποιες γραμμές κώδικα στο .bashrc ώστε η αλλαγή φόντου να ισχύει κάθε φορά που ανοίγω το τερματικό.
-
-/# Import colorscheme from 'wal' asynchronously </br>
-/# &   # Run the process in the background. <br/>
-/# ( ) # Hide shell job control messages. <br/>
-/# Not supported in the "fish" shell. <br/>
-/(cat ~/.cache/wal/sequences &) <br/>
-/<br/>
-/# Alternative (blocks terminal for 0-3ms) <br/>
-/cat ~/.cache/wal/sequences <br/>
-/<br/>
-/# To add support for TTYs this line can be optionally added. <br/>
-/source ~/.cache/wal/colors-tty.sh <br/>
+Σε αυτή την άσκηση, αρχικά, εγκατέστησα το ArchLinux σε Oracle VM VirtualBox. Έπειτα, κατέβασα το [powerline](https://github.com/powerline/powerline) status bar στο command line του ArchLinux καθώς και το [neofetch](https://github.com/dylanaraps/neofetch), το οποίο όρισα να εμφανίζεται κάθε φορά που ανοίγω το τερματικό. (μέσω της προσθήκης "neofetch" στο startup file .bashrc) Κατέβασα και χρησιμοποίησα το dark [solarized](https://github.com/altercation/solarized) theme στο [tilix](https://gnunn1.github.io/tilix-web/) terminal emulator. 
 
 - **[Asciinema](https://asciinema.org/) Links:**
 *[PowerLine](https://asciinema.org/a/457054)*,
 *[Neofetch](https://asciinema.org/a/457177)*,
-*[Solarized]()*,
 *[Pywal](https://asciinema.org/a/457192)*
 
 ### MergeRequest-1
@@ -68,17 +55,15 @@ Name: Vourna Maria-Melina <br />
 
 - **[Asciinema](https://asciinema.org/) Demo Links:**
 *[Rofi](https://asciinema.org/a/457687)*,
-*[Awesome]()*,
 *[Pipes](https://asciinema.org/a/458185)*,
-*[Tilix]()*,
 *[Cava](https://asciinema.org/a/458152)*,
 *[Pastel](https://asciinema.org/a/458180)*
 
 ### CV-pdf
 Στην άσκηση αυτή έκανα αρχικά fork το [simple-cv](https://github.com/plain-plain-text/simple-cv) repo και έπειτα το κατέβασα τοπικά. Εκεί επεξεργάστηκα τα sections, metadata αλλά και όλα τα αρχεία του φακέλου templates ώστε να το προσαρμόσω στα δικά μου δεδομένα, είτε διαγράφοντας κάποια τμήματα(π.χ. twitter, telephone), είτε τροποποιώντας τα ήδη υπάρχοντα(π.χ. στα sections --> education, languages, skills). Στην συνέχεια, έφτιαξα ένα δικό μου branch "1060891" μέσω του terminal με την εντολή "git checkout -b 1060891" και στην συνέχεια μέσω τερματικού έδωσα τις εξής εντολές ώστε να ανέβει το ανανεωμένο repo στο 1060891 branch: </br>
-/git add . </br>
-/git commit -m "Initial Commit" </br>
-/git push --set-upstream origin 1060891 </br>
+```git add .``` </br>
+```git commit -m "Initial Commit"``` </br>
+```git push --set-upstream origin 1060891``` </br>
 
 - **[ο σύνδεσμος του αποθετηρίου](https://github.com/vournam/simple-cv/tree/1060891)**  </br>
 - **[Pdf link](https://github.com/vournam/simple-cv/blob/1060891/docs/M-M_Vourna.pdf)** </br>
@@ -89,31 +74,47 @@ Name: Vourna Maria-Melina <br />
 
 - **[Jp2a](https://asciinema.org/a/459412)**
 
-/# Image backend. <br/>
-/# <br/>
-/# Default:  'ascii' <br/>
-/# Values:   'ascii', 'caca', 'catimg', 'jp2a', 'iterm2', 'off', 'tycat', 'w3m' <br/>
-/# Flag:     --backend <br/>
-**image_backend="jp2a"** <br/>
+```# Image backend.``` <br/>
+```#``` </br>
+```# Default:  'ascii'``` <br/>
+```# Values:   'ascii', 'caca', 'catimg', 'jp2a', 'iterm2', 'off', 'tycat', 'w3m'``` <br/>
+```# Flag:     --backend``` <br/>
+```image_backend="jp2a``` <br/>
 
-/# Image Source <br/>
-/# <br/>
-/# Which image or ascii file to display. <br/>
-/# <br/>
-/# Default:  'auto' <br/>
-/# Values:   'auto', 'ascii', 'wallpaper', '/path/to/img', '/path/to/ascii', '/path/to/dir/' <br/>
-/# Flag:     --source <br/>
-/# <br/>
-/# NOTE: 'auto' will pick the best image source for whatever image backend is used. <br/>
-/#       In ascii mode, distro ascii art will be used and in an image mode, your <br/>
-/#       wallpaper will be used. <br/>
-**image_source="home/melina/Pictures/kitty.png"** <br/>
+```# Image Source``` <br/>
+```#``` <br/>
+```# Which image or ascii file to display.``` <br/>
+```#``` <br/>
+```# Default:  'auto'``` <br/>
+```# Values:   'auto', 'ascii', 'wallpaper', '/path/to/img', '/path/to/ascii', '/path/to/dir/'``` <br/>
+```# Flag:     --source``` <br/>
+```#``` <br/>
+```# NOTE: 'auto' will pick the best image source for whatever image backend is used.``` <br/>
+```#       In ascii mode, distro ascii art will be used and in an image mode, your``` <br/>
+```#       wallpaper will be used.``` <br/>
+```image_source="home/melina/Pictures/kitty.png"``` <br/>
 
 ### Content-2Β
 Για την οπτικοποίηση του [βιβλίου](https://github.com/mibook/kallipos) σε ηλεκτρονικό βιβλίο (epub) αρχικά έκανα fork το αντίστοιχο repository και έπειτα το κατέβασα τοπικά. Εκεί, κατέβασα το pandoc fignos filter, του οποίου το executable το πρόσθεσα στο kallipos repository για να μπορέσω να το εφαρμόσω έπειτα ως φίλτρο. Ακόμη, δημιούργησα ένα αρχείο .sh, μέσω του οποίου θα μπορούσα να εφαρμόσω όλα τα φίλτρα με pipelining εκτελώντας το μέσω τερματικού. Αφού εκτέλεσα, λοιπόν, το .sh αρχείο, δημιουργήθηκε ένα αρχείο markdown, το οποίο μέσω της εντολής "pandoc MIBOOK.md -o MIBOOK.epub μετατράπηκε στην συνέχεια σε ηλεκτρονικό βιβλίο.   </br>
 - **[MIBOOK.epub](https://github.com/vournam/kallipos/blob/1060891/MIBOOK.epub)** </br>
 
 ### CommandLine-4
+Στην άσκηση αυτή, κατέβασα το [pywal](https://github.com/dylanaraps/pywal) και μία εικόνα σύμφωνα με την χρωματική παλέτα της οποίας προσαρμόζεται το φόντο του terminal και πρόσθεσα κάποιες γραμμές κώδικα στο .bashrc ώστε η αλλαγή φόντου να ισχύει κάθε φορά που ανοίγω το τερματικό.
+
+```# Import colorscheme from 'wal' asynchronously``` </br>
+```# &   # Run the process in the background.``` </br>
+```# ( ) # Hide shell job control messages.``` </br>
+```# Not supported in the "fish" shell.``` </br>
+```(cat ~/.cache/wal/sequences &)``` </br>
+```<br/>```
+```# Alternative (blocks terminal for 0-3ms)``` <br/>
+```cat ~/.cache/wal/sequences``` <br/>
+```<br/>```
+```# To add support for TTYs this line can be optionally added.``` <br/>
+```source ~/.cache/wal/colors-tty.sh``` <br/>
+
+- **[Asciinema](https://asciinema.org/) Link:**
+*[Pywal](https://asciinema.org/a/457192)*
 
 ### MergeRequest-2
 Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Add_timetable", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, πρόσθεσα 2 αρχεία .md μέσα στον φάκελο _program και 2 εικόνες .png στον φάκελο assets/images. Έπειτα, μέσω της εντολής "bundle exec jekyll serve" έχοντας ήδη μπει μέσα στο φάκελο του HCI-site, εμφάνισα τοπικά την ανανεωμένη ιστοσελίδα του HCI-master site. Τέλος, έκανα μέσω τερματικού  git checkout -b "add_timetable" ώστε να δημιουργήσω ένα νέο branch και στην συνέχεια έκανα push στο συγκεκριμένο branch μέσω: git push --set-upstream origin add_timetable. </br>
