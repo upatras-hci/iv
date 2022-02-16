@@ -50,9 +50,9 @@ Name: Filiopoulou Dionysia <br />
 - **[Html link](https://ceid5452.github.io/simple-cv/docs/)**
 
 ### Content-2Β
-Για την οπτικοποίηση του βιβλίου αρχικά έκανα fork το αντίστοιχο repository, το κατέβασα τοπικά και έκανα merge όλα τα κεφάλαια του βιβλίου μαζί με πρόλογο, εισαγωγή και επίλογο, σε ένα μόνο .txt file μέσω της εντολής "copy *.txt ΜΙΒΟΟΚ.txt" έχοντας πρώτα μπει στον φάκελο text με όλα τα αρχεία προς συγχώνευση. Έπειτα, μετέτρεψα το MIBOOK.txt σε MIBOOK.epub μέσω της εντολής "pandoc MIBOOK.txt -o MIBOOK.epub --metadata title=meta.yml" και αφού μέσω των pandoc lua filters είχα αφαιρέσει πρώτα images & notes.
+Για την οπτικοποίηση του[βιβλίου](https://github.com/mibook/kallipos) αρχικά έκανα [fork] (https://github.com/ceid5452/kallipos) το αντίστοιχο repository, το κατέβασα τοπικά και ένα git checkout σε ένα δικό μου branch που δημιούργησα. Στη συνέχεια έκανα git clone τα submodules για να δημιουργήσω τα source files. Για την αρίθμηση των ψηφίων αλλά και των αναφορών των αρχείων κατά τη μετατροπή τους από markdown σε άλλες μορφές έκανα install το [pandoc-fignos](https://github.com/tomduck/pandoc-fignos).
 
-- **[MIBOOK.epub](https://github.com/ceid5452/kallipos)** </br>
+- **[MIBOOK.epub](https://github.com/ceid5452/kallipos/commit/2bd6cb5c319c94d802babd4e991cc4f430eba3bb)** </br>
 
 
 ### MergeRequest-2
