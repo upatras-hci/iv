@@ -61,10 +61,12 @@ Name: Vourna Maria-Melina <br />
 
 ### CV-pdf
 Στην άσκηση αυτή έκανα αρχικά fork το [simple-cv](https://github.com/plain-plain-text/simple-cv) repo και έπειτα το κατέβασα τοπικά. Εκεί επεξεργάστηκα τα sections, metadata αλλά και όλα τα αρχεία του φακέλου templates ώστε να το προσαρμόσω στα δικά μου δεδομένα, είτε διαγράφοντας κάποια τμήματα(π.χ. twitter, telephone), είτε τροποποιώντας τα ήδη υπάρχοντα(π.χ. στα sections --> education, languages, skills). Στην συνέχεια, έφτιαξα ένα δικό μου branch "1060891" μέσω του terminal με την εντολή "git checkout -b 1060891" και στην συνέχεια μέσω τερματικού έδωσα τις εξής εντολές ώστε να ανέβει το ανανεωμένο repo στο 1060891 branch: </br>
-```git add .``` </br>
-```git commit -m "Initial Commit"``` </br>
-```git push --set-upstream origin 1060891``` </br>
 
+```js
+git add . 
+git commit -m "Initial Commit"
+git push --set-upstream origin 1060891
+```
 - **[ο σύνδεσμος του αποθετηρίου](https://github.com/vournam/simple-cv/tree/1060891)**  </br>
 - **[Pdf link](https://github.com/vournam/simple-cv/blob/1060891/docs/M-M_Vourna.pdf)** </br>
 - **[Html link](https://github.com/vournam/simple-cv/blob/1060891/docs/index.html)**
@@ -74,25 +76,27 @@ Name: Vourna Maria-Melina <br />
 
 - **[Jp2a](https://asciinema.org/a/459412)**
 
-```# Image backend.``` <br/>
-```#``` </br>
-```# Default:  'ascii'``` <br/>
-```# Values:   'ascii', 'caca', 'catimg', 'jp2a', 'iterm2', 'off', 'tycat', 'w3m'``` <br/>
-```# Flag:     --backend``` <br/>
-```image_backend="jp2a``` <br/>
+```js
+# Image backend.
+#
+# Default:  'ascii'
+# Values:   'ascii', 'caca', 'catimg', 'jp2a', 'iterm2', 'off', 'tycat', 'w3m'
+# Flag:     --backend
+image_backend="jp2a
 
-```# Image Source``` <br/>
-```#``` <br/>
-```# Which image or ascii file to display.``` <br/>
-```#``` <br/>
-```# Default:  'auto'``` <br/>
-```# Values:   'auto', 'ascii', 'wallpaper', '/path/to/img', '/path/to/ascii', '/path/to/dir/'``` <br/>
-```# Flag:     --source``` <br/>
-```#``` <br/>
-```# NOTE: 'auto' will pick the best image source for whatever image backend is used.``` <br/>
-```#       In ascii mode, distro ascii art will be used and in an image mode, your``` <br/>
-```#       wallpaper will be used.``` <br/>
-```image_source="home/melina/Pictures/kitty.png"``` <br/>
+# Image Source
+#
+# Which image or ascii file to display.
+#
+# Default:  'auto'
+# Values:   'auto', 'ascii', 'wallpaper', '/path/to/img', '/path/to/ascii', '/path/to/dir/'
+# Flag:     --source
+#
+# NOTE: 'auto' will pick the best image source for whatever image backend is used.
+#       In ascii mode, distro ascii art will be used and in an image mode, your
+#       wallpaper will be used.
+image_source="home/melina/Pictures/kitty.png"
+```
 
 ### Content-2Β
 Για την οπτικοποίηση του [βιβλίου](https://github.com/mibook/kallipos) σε ηλεκτρονικό βιβλίο (epub) αρχικά έκανα fork το αντίστοιχο repository και έπειτα το κατέβασα τοπικά. Εκεί, κατέβασα το pandoc fignos filter, του οποίου το executable το πρόσθεσα στο kallipos repository για να μπορέσω να το εφαρμόσω έπειτα ως φίλτρο. Ακόμη, δημιούργησα ένα αρχείο .sh, μέσω του οποίου θα μπορούσα να εφαρμόσω όλα τα φίλτρα με pipelining εκτελώντας το μέσω τερματικού. Αφού εκτέλεσα, λοιπόν, το .sh αρχείο, δημιουργήθηκε ένα αρχείο markdown, το οποίο μέσω της εντολής "pandoc MIBOOK.md -o MIBOOK.epub μετατράπηκε στην συνέχεια σε ηλεκτρονικό βιβλίο.   </br>
@@ -101,17 +105,19 @@ Name: Vourna Maria-Melina <br />
 ### CommandLine-4
 Στην άσκηση αυτή, κατέβασα το [pywal](https://github.com/dylanaraps/pywal) και μία εικόνα σύμφωνα με την χρωματική παλέτα της οποίας προσαρμόζεται το φόντο του terminal και πρόσθεσα κάποιες γραμμές κώδικα στο .bashrc ώστε η αλλαγή φόντου να ισχύει κάθε φορά που ανοίγω το τερματικό.
 
-```# Import colorscheme from 'wal' asynchronously``` </br>
-```# &   # Run the process in the background.``` </br>
-```# ( ) # Hide shell job control messages.``` </br>
-```# Not supported in the "fish" shell.``` </br>
-```(cat ~/.cache/wal/sequences &)``` </br>
-```<br/>```
-```# Alternative (blocks terminal for 0-3ms)``` <br/>
-```cat ~/.cache/wal/sequences``` <br/>
-```<br/>```
-```# To add support for TTYs this line can be optionally added.``` <br/>
-```source ~/.cache/wal/colors-tty.sh``` <br/>
+```js
+# Import colorscheme from 'wal' asynchronously
+# &   # Run the process in the background.
+# ( ) # Hide shell job control messages.
+# Not supported in the "fish" shell.
+(cat ~/.cache/wal/sequences &)
+<br/>
+# Alternative (blocks terminal for 0-3ms)
+cat ~/.cache/wal/sequences
+<br/>
+# To add support for TTYs this line can be optionally added.
+source ~/.cache/wal/colors-tty.sh
+```
 
 - **[Asciinema](https://asciinema.org/) Link:**
 *[Pywal](https://asciinema.org/a/457192)*
