@@ -67,9 +67,8 @@ git add .
 git commit -m "Initial Commit"
 git push --set-upstream origin 1060891
 ```
-- **[ο σύνδεσμος του αποθετηρίου](https://github.com/vournam/simple-cv/tree/1060891)**  </br>
-- **[Pdf link](https://github.com/vournam/simple-cv/blob/1060891/docs/M-M_Vourna.pdf)** </br>
-- **[Html link](https://github.com/vournam/simple-cv/blob/1060891/docs/index.html)**
+- **[ο σύνδεσμος του αποθετηρίου](https://github.com/vournam/simple-cv/tree/gh-pages)**  </br>
+- **[Pdf & Html link](https://vourna-maria-melina-cv.netlify.app/)** </br>
 
 ### CommandLine-3
 Σε αυτή την άσκηση, έχοντας ήδη κατεβάσει το [neofetch](https://github.com/dylanaraps/neofetch) θέλησα να προσθέσω μία εικόνα. Αρχικά, κατέβασα το w3m και το jp2a (αφορούν τον τρόπο απεικόνισης της εικόνας, περισσότερες πληροφορίες [εδώ](https://github.com/dylanaraps/neofetch/wiki/Image-Backends)), έλεγξα εάν υποστηρίζει εικόνες το terminal μου μέσω της εντολής ```w3m google.com```, το οποίο μου εμφάνισε κανονικά την ιστοσελίδα της Google. Έπειτα, μπήκα κι έκανα edit στο config file του neofetch που βρίσκεται στην τοποθεσία ```${HOME}/.config/neofetch/config.conf``` (Το config αρχικά υπήρχε στο /etc/neofetch/config.conf και με την εγκατάσταση έγινε copy αυτού μέσα στο ```${HOME}/.config/neofetch``` όπου υπάρχουν τα config files των εφαρμογών που χρησιμοποιεί ο κάθε χρήστης). Πιο συγκεκριμένα, στο #Image backend τμήμα του config file έκανα την αλλαγή στο image_backend από 'ascii' σε 'jp2a' την πρώτη φορά και σε 'w3m' την δεύτερη φορά και στο #Image Source έβαλα το path της εικόνας που ήθελα στο πεδίο image_source. Τέλος, έκανα reboot ώστε να εμφανιστεί η αλλαγή στο terminal.
