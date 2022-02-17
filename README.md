@@ -23,8 +23,6 @@
 
 [Ανακοινώσεις, απορίες, και πρόγραμμα συναντήσεων](https://github.com/upatras-hci/iv/issues)
 
-[Οδηγίες για την σύνδεση στην τηλεδιάσκεψη](https://courses-ionio.github.io/help/distance/)
-
 ## Syllabus
 
 **Περιγραφή:** Οπτικοποίηση της πληροφορίας και διάδραση, Ορισμός και ιστορική εξέλιξη, σχεδίαση της οπτικοποίησης, τεχνολογίες οπτικοποίησης: Γραφικά, Εικόνες, Βίντεο, Κείμενο, Ηχος, Σύγχρονες εφαρμογές οπτικοποίησης: Ψηφιακή δημοσιογραφία, οπτικοποίηση δεδομένων, ψηφιακές συλλογές, παιχνιδοποίηση.
@@ -33,7 +31,7 @@
 
 **Μέθοδος διδασκαλίας:** Διάλεξη, εργασία.
 
-**Κριτήρια βαθμολογίας:** 20% [βιογραφικό](https://courses-ionio.github.io/projects/cv/) + 20% [Συμμετοχικό εκπαιδευτικό υλικό: 2](https://courses-ionio.github.io/projects/social)* + 20% [ιστοσελίδα προγράμματος σπουδών](https://github.com/upatras-hci/site) + 30% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/projects/dokey/) + 10% [υποχρεωτικό bonus](https://courses-ionio.github.io/projects/bonus/)
+**Κριτήρια βαθμολογίας:** 20% [βιογραφικό](https://courses-ionio.github.io/help/cv/) + 20% [Συμμετοχικό εκπαιδευτικό υλικό: 2](https://courses-ionio.github.io/help/social)* + 20% [ιστοσελίδα προγράμματος σπουδών](https://github.com/upatras-hci/site) + 30% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/help/dokey/) + 10% [υποχρεωτικό bonus](https://courses-ionio.github.io/help/bonus/)
 
 *υποχρεωτική συμπλήρωση της βάσης σε όλα τα κριτήρια για να γίνει τελική βαθμολόγηση
 
