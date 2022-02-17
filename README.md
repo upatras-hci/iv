@@ -21,7 +21,7 @@
 
 [Οδηγίες και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/) για την παράδοση της εργασίας.
 
-[Ανακοινώσεις, απορίες, και πρόγραμμα συναντήσεων](https://github.com/upatras-hci/iv/issues)
+[Ανακοινώσεις, απορίες, και πρόγραμμα συναντήσεων](https://github.com/upatras-hci/iv/discussions)
 
 ## Syllabus
 
