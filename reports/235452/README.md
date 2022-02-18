@@ -55,21 +55,18 @@ Name: Filiopoulou Dionysia <br />
 
 ```
 pandoc --lua-filter=extras.lua text/ch01.txt --to markdown | pandoc --lua-filter=extras.lua --to markdown | pandoc --lua-filter=epigraph.lua --to markdown | pandoc --lua-filter=figure.lua --to markdown | pandoc --lua-filter=remove-notes.lua --to markdown | pandoc --metadata-file=meta.yml --citeproc --bibliography=bibliography/ch01.bib --reference-location=section --wrap=none --to markdown_strict > ch01.md
-
 ```
 
 Αφού εφαρμόστηκαν τα φίλτρα σε όλα τα markdown files, τα έκανα concatenation σε ένα αρχείο με όνομα book.md
 
 ```
 cat pre.md intro.md ch01.md ch02.md ch03.md ch04.md ch05.md ch06.md ch07.md ch08.md epi.md apx01.md > book.md
-
 ```
 
 Τέλος μέσω του pandoc μετέτρεψα το book.md σε epub και δημιούργησα το βιβλίο μέσω της εντολής:
 
 ```
 pandoc book.md -o epub.epub
-
 ```
 
 - **[MIBOOK.epub](https://github.com/ceid5452/kallipos/commit/2bd6cb5c319c94d802babd4e991cc4f430eba3bb)** </br>
