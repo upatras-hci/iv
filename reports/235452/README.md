@@ -51,10 +51,25 @@ Name: Filiopoulou Dionysia <br />
 - **[Html link](https://ceid5452.github.io/simple-cv/docs/)**
 
 ### Content-2Β
-Για την οπτικοποίηση του[βιβλίου](https://github.com/mibook/kallipos) αρχικά έκανα [fork] (https://github.com/ceid5452/kallipos) το αντίστοιχο repository, το κατέβασα τοπικά και ένα git checkout σε ένα δικό μου branch που δημιούργησα. Στη συνέχεια έκανα git clone τα submodules για να δημιουργήσω τα source files. Για την αρίθμηση των ψηφίων αλλά και των αναφορών των αρχείων κατά τη μετατροπή τους από markdown σε άλλες μορφές έκανα install το [pandoc-fignos](https://github.com/tomduck/pandoc-fignos).
+Για την οπτικοποίηση του[βιβλίου](https://github.com/mibook/kallipos) αρχικά έκανα [fork] (https://github.com/ceid5452/kallipos) το αντίστοιχο repository, το κατέβασα τοπικά και ένα git checkout σε ένα δικό μου branch που δημιούργησα. Στη συνέχεια έκανα git clone τα submodules για να δημιουργήσω τα source files. Για την αρίθμηση των ψηφίων αλλά και των αναφορών των αρχείων κατά τη μετατροπή τους από markdown σε άλλες μορφές έκανα install το [pandoc-fignos](https://github.com/tomduck/pandoc-fignos). Έπειτα εφάρμοσα manual τα filters,με την εντολή που φαίνεται παρακάτω, για να φτιάξω το περιεχόμενο των κεφαλαίων, του πρόλογου και του επίλογου του βιβλίου.
 
 ```
 pandoc --lua-filter=extras.lua text/ch01.txt --to markdown | pandoc --lua-filter=extras.lua --to markdown | pandoc --lua-filter=epigraph.lua --to markdown | pandoc --lua-filter=figure.lua --to markdown | pandoc --lua-filter=remove-notes.lua --to markdown | pandoc --metadata-file=meta.yml --citeproc --bibliography=bibliography/ch01.bib --reference-location=section --wrap=none --to markdown_strict > ch01.md
+
+```
+
+Αφού εφαρμόστηκαν τα φίλτρα σε όλα τα markdown files, τα έκανα concatenation σε ένα αρχείο με όνομα book.md
+
+```
+cat pre.md intro.md ch01.md ch02.md ch03.md ch04.md ch05.md ch06.md ch07.md ch08.md epi.md apx01.md > book.md
+
+```
+
+Τέλος μέσω του pandoc μετέτρεψα το book.md σε epub και δημιούργησα το βιβλίο μέσω της εντολής:
+
+```
+pandoc book.md -o epub.epub
+
 ```
 
 - **[MIBOOK.epub](https://github.com/ceid5452/kallipos/commit/2bd6cb5c319c94d802babd4e991cc4f430eba3bb)** </br>
