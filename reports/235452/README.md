@@ -42,7 +42,7 @@ Name: Filiopoulou Dionysia <br />
 
 - **[Issue](https://github.com/upatras-hci/site/issues/156)**
 - **[Merge-request]()**
-- **[HCI-site]()**
+- **[Site overview via netlify](https://add-news.netlify.app/news/)**
 
 ### CV-pdf
 Για την υλοποίηση της άσκησης αυτής αρχικά έκανα fork το simple-cv repo (από τα παραδείγματα που είχαν δοθεί σαν οδηγίες για την υλοποίηση της άσκησης (https://github.com/plain-plain-text/simple-cv)) και έπειτα έκανα git clone για να στήσω το project στο τοπικό μου ώστε να το επεξεργαστώ. Στη συνέχεια τροποποίησα τα files μέσα στα sections, metadata και τα προσάρμοσα στα δικά μου δεδομένα καθώς επίσης όρισα την σειρά εμφάνισης των δεδομένων μου από το αρχείο sections.txt. Έπειτα εγκατέστησα το pandoc και latex για να μπορώ να μετατρέψω τα αρχεία μου σε pdf. Τέλος έκανα git checkout στο branch που δημιούργησα "gh-pages" και έκανα push τις αλλαγές μου.
@@ -53,6 +53,10 @@ Name: Filiopoulou Dionysia <br />
 ### Content-2Β
 Για την οπτικοποίηση του[βιβλίου](https://github.com/mibook/kallipos) αρχικά έκανα [fork] (https://github.com/ceid5452/kallipos) το αντίστοιχο repository, το κατέβασα τοπικά και ένα git checkout σε ένα δικό μου branch που δημιούργησα. Στη συνέχεια έκανα git clone τα submodules για να δημιουργήσω τα source files. Για την αρίθμηση των ψηφίων αλλά και των αναφορών των αρχείων κατά τη μετατροπή τους από markdown σε άλλες μορφές έκανα install το [pandoc-fignos](https://github.com/tomduck/pandoc-fignos).
 
+```
+pandoc --lua-filter=extras.lua text/ch01.txt --to markdown | pandoc --lua-filter=extras.lua --to markdown | pandoc --lua-filter=epigraph.lua --to markdown | pandoc --lua-filter=figure.lua --to markdown | pandoc --lua-filter=remove-notes.lua --to markdown | pandoc --metadata-file=meta.yml --citeproc --bibliography=bibliography/ch01.bib --reference-location=section --wrap=none --to markdown_strict > ch01.md
+```
+
 - **[MIBOOK.epub](https://github.com/ceid5452/kallipos/commit/2bd6cb5c319c94d802babd4e991cc4f430eba3bb)** </br>
 
 
@@ -61,4 +65,4 @@ Name: Filiopoulou Dionysia <br />
 
 - **[Issue](https://github.com/upatras-hci/site/issues/155)**
 - **[Merge-request](https://github.com/upatras-hci/site/pull/157)**
-- **[HCI-site]()**
+- **[Site overview via netlify](https://masterthesis.netlify.app/master-thesis/)**
