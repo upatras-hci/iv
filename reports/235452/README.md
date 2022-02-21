@@ -37,6 +37,23 @@ Name: Filiopoulou Dionysia <br />
  -  **[Burger Menu Slide Toggle](https://gallant-newton-f47024.netlify.app/remix/burger-menu/)**
  -  **[History tabs](https://gallant-newton-f47024.netlify.app/remix/tabs/)**
 
+### CommandLine-1
+Σε αυτή την άσκηση αρχικά προσπάθησα να εγκαταστήσω το ArchLinux σε Oracle VM VirtualBox, όμως δυστυχώς ο επεξεργαστής του συστήματος μου δεν το υποστήριζε, οπότε υλοποίησα την άσκηση αυτή στο τερματικό του macOS. Αρχικά λοιπόν αντικατέστησα το κλασσικό terminal εγκαθιστώντας το [iterm2](https://www.iterm2.com/) που είναι μια πιο συγχρονη έκδοση του terminal που λειτουργεί σε macOS και παρέχει πολλά features. Ύστερα έκανα install το [Homebrew](https://brew.sh/) ακολουθώντας τις οδηγίες του documentation. To Homebrew ουσιαστικά είναι ένα free open-source software package management system που απλοποιεί το installation του software στα Apple’s macOS. Πριν εγκαταστήσω το Homebrew, έπρεπε πρώτα να εγκαταστήσω τα εργαλεία CLI για το Xcode.
+
+```
+xcode-select —-install
+```
+
+Στη συνέχεια έκανα Install το ZSH εκτελώντας την εντολή:
+
+```
+brew install zsh
+```
+
+Και ακολουθώντας τις οδηγίες έκανα intall και το [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh). Το Oh My Zsh συνοδεύεται από πολλά θέματα. Το προεπιλεγμένο θέμα είναι robbyrussell, αλλά επέλεξα να το αλλάξω με το [agnoster](https://github.com/agnoster/agnoster-zsh-theme). Τέλος, έκανα install τα fonts για να αποκτήστε τις γραμματοσειρές [Powerline](https://github.com/powerline/fonts). Η παραπάνω διαδικασία φαίνεται αναλυτικά στο παρακάτω σύνδεσμο:
+
+ -  **[Asciinema link](https://asciinema.org/a/BPx0VB03jaQzdnsjfjemZF1ds)**
+
 ### MergeRequest-1
 Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Προσθήκη νέου στα posts: "Call for applications 2020-2021" ", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Έκανα checkout στον νέο branch που δημιούργησα "add_news". Στον φάκελο _news δημιούργησα ένα αρχείο .md με όνομα "2019-11-23-call_for_2020_2021.md" στο οποίο πρόσθεσα το περιεχόμενο του post που ήθελα να οπτικοποιήσω. Ύστερα, το περιεχόμενο του νέου post που δημιούργησα, οπτικοποιήθηκε στην σελίδα των posts. Έκανα commit και push τις αλλαγές μου και τέλος έκανα ένα merge request για να οπτικοποιηθούν και να συνεργαστούν οι προτεινόμενες αλλαγές μου στον πηγαίο κώδικα.</br>
 
