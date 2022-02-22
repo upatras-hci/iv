@@ -48,7 +48,8 @@ Name: Vourna Maria-Melina <br />
 Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Add_people", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, πρόσθεσα ένα αρχείο .md μέσα στον φάκελο _people και μία εικόνα .png στον φάκελο assets/images. Έπτειτα, κατέβασα το Jekyll τοπικά ακολουθώντας τις [οδηγίες](https://jekyllrb.com/docs/installation/) της ιστοσελίδας Jekyll και στη συνέχεια μέσω της εντολής "bundle exec jekyll serve" έχοντας ήδη μπει μέσα στο φάκελο του HCI-site, εμφάνισα τοπικά την ανανεωμένη ιστοσελίδα του HCI-master site. Τέλος, έκανα μέσω τερματικού  ```git checkout -b add_people``` ώστε να δημιουργήσω ένα νέο branch και στην συνέχεια έκανα push στο συγκεκριμένο branch μέσω: ```git push --set-upstream origin add_people``` </br>
 
 - **[Issue Link](https://github.com/upatras-hci/site/issues/153)**
-- **[Merge-request Link](https://github.com/upatras-hci/site/pull/159/)**    
+- **[Merge-request Link](https://github.com/upatras-hci/site/pull/159/)** 
+- **[Site Link](https://hci-site.netlify.app/people/)** 
 
 ### CommandLine-2
 Στην άσκηση αυτή κατέβασα το [polybar](https://github.com/polybar/polybar), [rofi](https://github.com/davatorium/rofi), [awesome](https://github.com/awesomeWM/awesome), [pipes](https://github.com/pipeseroni/pipes.sh) και κατέβασα επιπλέον το [tilix](https://gnunn1.github.io/tilix-web/) μέσω της εντολής ```sudo pacman -S tilix``` και το [cava](https://github.com/karlstav/cava#configuration) audio visualizer. Τέλος, κατέβασα το [pastel](https://github.com/sharkdp/pastel) και έδωσα μία σειρά εντολών που συντέθηκαν μέσω "piping" του "output" μίας εντολής σε μία άλλη.
@@ -127,7 +128,8 @@ source ~/.cache/wal/colors-tty.sh
 ### MergeRequest-2
 Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Προσθήκη μαθημάτων, ερευνητικών ενδιαφερόντων και εκπαίδευσης σε κάθε καθηγητή", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, πρόσθεσα 6 αρχεία .html μέσα στον φάκελο _includes, 1 αρχείο .html στον φάκελο _layouts για το layout της σελίδας των καθηγητών, 1 αρχείο authors.yml στον φάκελο _data με τα δεδομένα κάθε καθηγητή όσον αφορά όνομα, email, ιστοσελίδα, εικόνα, τηλέφωνο, κ.λ.π. και επίσης πρόσθεσα στον φάκελο assets/images όσες εικόνες καθηγητών δεν υπήρχαν. Έπειτα, μέσω της εντολής ```bundle exec jekyll serve``` και έτσι, τρέχοντας την server address εμφάνισα τοπικά την ανανεωμένη ιστοσελίδα του HCI-master site. Τέλος, έκανα μέσω τερματικού  ```git checkout -b new_people ``` ώστε να δημιουργήσω ένα νέο branch και στην συνέχεια έκανα push στο συγκεκριμένο branch μέσω: ```git push --set-upstream origin new_people``` </br>
 
-- **[Issue Link](https://github.com/upatras-hci/site/issues/154)**
-- **[Merge-request Link](https://github.com/upatras-hci/site/pull/160)**
+- **[Issue Link](https://github.com/upatras-hci/site/issues/161)**
+- **[Merge-request Link](https://github.com/upatras-hci/site/pull/162)**
+- **[Site Link](https://hci-site1.netlify.app/people/)** 
 
 ### Final-Report
