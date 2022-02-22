@@ -50,9 +50,9 @@ xcode-select —-install
 brew install zsh
 ```
 
-Και ακολουθώντας τις οδηγίες έκανα intall και το [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh). Το Oh My Zsh συνοδεύεται από πολλά θέματα. Το προεπιλεγμένο θέμα είναι robbyrussell, αλλά επέλεξα να το αλλάξω με το [agnoster](https://github.com/agnoster/agnoster-zsh-theme). Τέλος, έκανα install τα fonts για να αποκτήστε τις γραμματοσειρές [Powerline](https://github.com/powerline/fonts). Η παραπάνω διαδικασία φαίνεται αναλυτικά στο παρακάτω σύνδεσμο:
+Και ακολουθώντας τις οδηγίες έκανα intall και το [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh). Το Oh My Zsh συνοδεύεται από πολλά θέματα. Το προεπιλεγμένο θέμα είναι robbyrussell, αλλά επέλεξα να το αλλάξω με το [agnoster](https://github.com/agnoster/agnoster-zsh-theme). Τέλος, έκανα install τα fonts για να αποκτήσω τις γραμματοσειρές [Powerline](https://github.com/powerline/fonts). Η παραπάνω διαδικασία φαίνεται αναλυτικά στον πρώτο σύνδεσμο:
 
- -  **[Asciinema link](https://asciinema.org/a/BPx0VB03jaQzdnsjfjemZF1ds)**
+ -  **[Asciinema](https://asciinema.org/) links for [Prowerline](https://asciinema.org/a/BPx0VB03jaQzdnsjfjemZF1ds)**
 
 ### MergeRequest-1
 Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Προσθήκη νέου στα posts: "Call for applications 2020-2021" ", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Έκανα checkout στον νέο branch που δημιούργησα "add_news". Στον φάκελο _news δημιούργησα ένα αρχείο .md με όνομα "2019-11-23-call_for_2020_2021.md" στο οποίο πρόσθεσα το περιεχόμενο του post που ήθελα να οπτικοποιήσω. Ύστερα, το περιεχόμενο του νέου post που δημιούργησα, οπτικοποιήθηκε στην σελίδα των posts. Έκανα commit και push τις αλλαγές μου και τέλος έκανα ένα merge request για να οπτικοποιηθούν και να συνεργαστούν οι προτεινόμενες αλλαγές μου στον πηγαίο κώδικα.</br>
@@ -61,11 +61,17 @@ brew install zsh
 - **[Merge-request]()**
 - **[Site overview via netlify](https://add-news.netlify.app/news/)**
 
+### CommandLine-2
+ -  **[Neofetch](https://asciinema.org/a/jR3Awd51FwnDlKmAnvtoXKelx)**
+
 ### CV-pdf
 Για την υλοποίηση της άσκησης αυτής αρχικά έκανα fork το simple-cv repo (από τα παραδείγματα που είχαν δοθεί σαν οδηγίες για την υλοποίηση της άσκησης (https://github.com/plain-plain-text/simple-cv)) και έπειτα έκανα git clone για να στήσω το project στο τοπικό μου ώστε να το επεξεργαστώ. Στη συνέχεια τροποποίησα τα files μέσα στα sections, metadata και τα προσάρμοσα στα δικά μου δεδομένα καθώς επίσης όρισα την σειρά εμφάνισης των δεδομένων μου από το αρχείο sections.txt. Έπειτα εγκατέστησα το pandoc και latex για να μπορώ να μετατρέψω τα αρχεία μου σε pdf. Τέλος έκανα git checkout στο branch που δημιούργησα "gh-pages" και έκανα push τις αλλαγές μου.
 
 - **[Pdf link](https://ceid5452.github.io/simple-cv/docs/Filiopoulou_Dionysia_CV.pdf)** </br>
 - **[Html link](https://ceid5452.github.io/simple-cv/docs/)**
+
+### CommandLine-3
+ -  **[Redshift]()**
 
 ### Content-2Β
 Για την οπτικοποίηση του[βιβλίου](https://github.com/mibook/kallipos) αρχικά έκανα [fork] (https://github.com/ceid5452/kallipos) το αντίστοιχο repository, το κατέβασα τοπικά και ένα git checkout σε ένα δικό μου branch που δημιούργησα. Στη συνέχεια έκανα git clone τα submodules για να δημιουργήσω τα source files. Για την αρίθμηση των ψηφίων αλλά και των αναφορών των αρχείων κατά τη μετατροπή τους από markdown σε άλλες μορφές έκανα install το [pandoc-fignos](https://github.com/tomduck/pandoc-fignos). Έπειτα εφάρμοσα manual τα filters,με την εντολή που φαίνεται παρακάτω, για να φτιάξω το περιεχόμενο των κεφαλαίων, του πρόλογου και του επίλογου του βιβλίου.
@@ -88,6 +94,8 @@ pandoc book.md -o epub.epub
 
 - **[MIBOOK.epub](https://github.com/ceid5452/kallipos/commit/2bd6cb5c319c94d802babd4e991cc4f430eba3bb)** </br>
 
+### CommandLine-4
+ -  **[polybar]()**
 
 ### MergeRequest-2
 Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Available Master Thesis", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, δημιούργησα ένα φάκελο _masterthesis και τοποθέτησα τα αρχεία .md με τα διαθέσιμα θέματα διπλωματικής. Ύστερα δημιούργησα τo file master-thesis.html στo οποία οπτικοποίησα το περιεχόμενο των αρχείων .md που δημιούργησα, ώστε να εμφανιστούν τα διαθέσιμα θέματα διπλωματικής.</br>
