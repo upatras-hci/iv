@@ -130,6 +130,7 @@ pandoc book.md -o epub.epub
 ```
 
 - **[MIBOOK.epub](https://github.com/ceid5452/kallipos/commit/2bd6cb5c319c94d802babd4e991cc4f430eba3bb)** </br>
+- **[EPUB](https://drive.google.com/drive/folders/1McOsUkr9kvKBgSADH3WGKaUxIBwP_Gf9?usp=sharing)** </br>
 
 ### CommandLine-4
  -  **[Asciinema](https://asciinema.org/) link for [polybar]()**
