@@ -71,12 +71,14 @@ brew install zsh
  -  **[Asciinema](https://asciinema.org/) link for [Neofetch](https://asciinema.org/a/jR3Awd51FwnDlKmAnvtoXKelx)**
 
 ### CV-pdf
-Για την υλοποίηση της άσκησης αυτής αρχικά έκανα fork το simple-cv repo (από τα παραδείγματα που είχαν δοθεί σαν οδηγίες για την υλοποίηση της άσκησης (https://github.com/plain-plain-text/simple-cv)) και έπειτα έκανα git clone για να στήσω το project στο τοπικό μου ώστε να το επεξεργαστώ. Στη συνέχεια τροποποίησα τα files μέσα στα sections, metadata και τα προσάρμοσα στα δικά μου δεδομένα καθώς επίσης όρισα την σειρά εμφάνισης των δεδομένων μου από το αρχείο sections.txt. Έπειτα εγκατέστησα το pandoc και latex για να μπορώ να μετατρέψω τα αρχεία μου σε pdf. Τέλος έκανα git checkout στο branch που δημιούργησα "gh-pages" και έκανα push τις αλλαγές μου.
+Για την υλοποίηση της άσκησης αυτής αρχικά έκανα fork το simple-cv repo (από τα παραδείγματα που είχαν δοθεί σαν οδηγίες για την υλοποίηση της άσκησης (https://github.com/plain-plain-text/simple-cv)) και έπειτα έκανα git clone για να στήσω το project στο τοπικό μου ώστε να το επεξεργαστώ. Στη συνέχεια τροποποίησα τα files μέσα στα sections, metadata και τα προσάρμοσα στα δικά μου δεδομένα καθώς επίσης όρισα την σειρά εμφάνισης των δεδομένων μου από το αρχείο sections.txt. Έπειτα εγκατέστησα το pandoc και latex για να μπορώ να μετατρέψω τα αρχεία μου σε pdf. Τέλος έκανα git checkout στο branch που δημιούργησα "gh-pages" και έκανα push τις αλλαγές μου. 
+
+Όσον αφορά την αυτόματη τοποθέτηση του pdf στην ιστοσελίδα του βιογραφικού με Continuous Integration κάθε φορά που υπάρχει αλλαγή στο αρχείο δεδομένων YAML, δοκίμασα να το υλοποιήσω μέσω του [Travis CI](https://travis-ci.org/) όμως δεν μπόρεσα να κάνω build καθώς ήταν επι πληρωμή. Έτσι λοιπόν εφάρμοσα την τεχνολογία [Netlify CI](https://www.netlify.com/products/build/).
 
 - **[Pdf link](https://ceid5452.github.io/simple-cv/docs/Filiopoulou_Dionysia_CV.pdf)** </br>
 - **[Html link](https://ceid5452.github.io/simple-cv/docs/)**
 - **[Netlify link](https://cv-simple.netlify.app/)**
-- **[Continuous Integration Netlify link](https://app.netlify.com/sites/cv-simple/deploys/62168da45f07f626cbeca0d9)**
+- **[Netlify CI link](https://app.netlify.com/sites/cv-simple/deploys/62168da45f07f626cbeca0d9)**
 
 **Deploy Log**
 ```
