@@ -76,7 +76,7 @@ brew install zsh
 - **[Pdf link](https://ceid5452.github.io/simple-cv/docs/Filiopoulou_Dionysia_CV.pdf)** </br>
 - **[Html link](https://ceid5452.github.io/simple-cv/docs/)**
 - **[Netlify link](https://cv-simple.netlify.app/)**
-- **[Deploy log](https://app.netlify.com/sites/cv-simple/deploys/62168da45f07f626cbeca0d9)**
+- **[Continuous Integration Netlify link](https://app.netlify.com/sites/cv-simple/deploys/62168da45f07f626cbeca0d9)**
 
 **Deploy Log**
 ```
