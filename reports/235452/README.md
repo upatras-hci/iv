@@ -34,7 +34,7 @@ Name: Filiopoulou Dionysia <br />
 Σε δεύτερη φάση προσπάθησα να εγκαταστήσω στο τοπικό μου ένα Jekyll theme και να φτιάκω το βιογραφικό μου από την αρχή χωρίς την βοήθεια των Github Pages. Ύστερα ανέβασα το project απο το τοπικό μου στο Github. Η διαδικασία που ακολούθησα φαίνεται αναλυτικά στο αρχείο README.md στον παρακάτω σύνδεσμο.
 
 - **[ο σύνδεσμος του αποθετηρίου](https://github.com/ceid5452/MyJekyllCV)** 
-- **[ο σύνδεσμος στο site](https://github.com/ceid5452/MyJekyllCV)** 
+- **[ο σύνδεσμος στο site](https://myjekyllcv.netlify.app/)** 
 
 ### Content-2A
 Προσθήκη 2 διαδραστικών παραδειγμάτων στο βιβλίο pibook:
