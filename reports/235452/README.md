@@ -73,7 +73,7 @@ brew install zsh
 ### CV-pdf
 Για την υλοποίηση της άσκησης αυτής αρχικά έκανα fork το simple-cv repo (από τα παραδείγματα που είχαν δοθεί σαν οδηγίες για την υλοποίηση της άσκησης (https://github.com/plain-plain-text/simple-cv)) και έπειτα έκανα git clone για να στήσω το project στο τοπικό μου ώστε να το επεξεργαστώ. Στη συνέχεια τροποποίησα τα files μέσα στα sections, metadata και τα προσάρμοσα στα δικά μου δεδομένα καθώς επίσης όρισα την σειρά εμφάνισης των δεδομένων μου από το αρχείο sections.txt. Έπειτα εγκατέστησα το pandoc και latex για να μπορώ να μετατρέψω τα αρχεία μου σε pdf. Τέλος έκανα git checkout στο branch που δημιούργησα "gh-pages" και έκανα push τις αλλαγές μου. 
 
-Όσον αφορά την αυτόματη τοποθέτηση του pdf στην ιστοσελίδα του βιογραφικού με Continuous Integration κάθε φορά που υπάρχει αλλαγή στο αρχείο δεδομένων YAML, δοκίμασα να το υλοποιήσω μέσω του [Travis CI](https://travis-ci.org/) όμως δεν μπόρεσα να κάνω build καθώς ήταν επι πληρωμή. Έτσι λοιπόν εφάρμοσα την τεχνολογία [Netlify CI](https://www.netlify.com/products/build/).
+Όσον αφορά την αυτόματη τοποθέτηση του pdf στην ιστοσελίδα του βιογραφικού με Continuous Integration κάθε φορά που υπάρχει αλλαγή στο αρχείο δεδομένων YAML, δοκίμασα να το υλοποιήσω μέσω του [Travis CI](https://travis-ci.org/) δημιουργώντας ένα αρχείο .travis.yml όπως φαίνεται [εδώ](https://github.com/ceid5452/simple-cv/blob/gh-pages/.travis.yml), όμως δεν μπόρεσα να κάνω build καθώς ήταν επι πληρωμή. Έτσι λοιπόν εφάρμοσα την τεχνολογία [Netlify CI](https://www.netlify.com/products/build/). Ακολουθούν οι σύνδεσμοι με όλες τις απαραίτητες πληροφορίες.
 
 - **[Pdf link](https://ceid5452.github.io/simple-cv/docs/Filiopoulou_Dionysia_CV.pdf)** </br>
 - **[Html link](https://ceid5452.github.io/simple-cv/docs/)**
@@ -143,3 +143,5 @@ pandoc book.md -o epub.epub
 - **[Issue](https://github.com/upatras-hci/site/issues/155)**
 - **[Merge-request](https://github.com/upatras-hci/site/pull/157)**
 - **[Site overview via netlify](https://masterthesis.netlify.app/master-thesis/)**
+
+### Final-Report
