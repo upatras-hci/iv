@@ -75,6 +75,37 @@ brew install zsh
 
 - **[Pdf link](https://ceid5452.github.io/simple-cv/docs/Filiopoulou_Dionysia_CV.pdf)** </br>
 - **[Html link](https://ceid5452.github.io/simple-cv/docs/)**
+- **[Netlify link](https://cv-simple.netlify.app/)**
+- **[Deploy log](https://app.netlify.com/sites/cv-simple/deploys/62168da45f07f626cbeca0d9)**
+
+**Deploy Log**
+```
+9:40:20 PM: Build ready to start
+9:40:22 PM: build-image version: 122b31996ccaffd45d820a452d6227f8312110cc (focal)
+9:40:22 PM: build-image tag: v4.5.3
+9:40:22 PM: buildbot version: 4b36e839b4a8a6b4da7438120b4832cce296b644
+9:40:22 PM: Fetching cached dependencies
+9:40:22 PM: Failed to fetch cache, continuing with build
+9:40:22 PM: Starting to prepare the repo for build
+9:40:23 PM: No cached dependencies found. Cloning fresh repo
+9:40:23 PM: git clone https://github.com/ceid5452/simple-cv
+9:40:23 PM: Preparing Git Reference refs/heads/gh-pages
+9:40:24 PM: Parsing package.json dependencies
+9:40:24 PM: Different publish path detected, going to use the one specified in the Netlify configuration file: 'docs' versus '/' in the Netlify UI
+9:40:25 PM: No build steps found, continuing to publishing
+9:40:25 PM: Starting to deploy site from 'docs'
+9:40:25 PM: Creating deploy tree 
+9:40:25 PM: Creating deploy upload records
+9:40:25 PM: 0 new files to upload
+9:40:25 PM: 0 new functions to upload
+9:40:25 PM: Starting post processing
+9:40:25 PM: Post processing - HTML
+9:40:25 PM: Post processing - header rules
+9:40:25 PM: Post processing - redirect rules
+9:40:25 PM: Post processing done
+9:40:25 PM: Finished processing build request in 2.910478237s
+9:40:26 PM: Site is live ✨
+```
 
 ### CommandLine-3
  -  **[Asciinema](https://asciinema.org/) link for [Redshift]()**
