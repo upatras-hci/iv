@@ -108,7 +108,7 @@ image_source="home/melina/Pictures/kitty.png"
 
 ### Content-2Β
 Για την οπτικοποίηση του [βιβλίου](https://github.com/mibook/kallipos) σε ηλεκτρονικό βιβλίο (epub) αρχικά έκανα fork το αντίστοιχο repository και έπειτα το κατέβασα τοπικά μέσω της εντολής ```git submodule add $file``` για κάθε subdirectory μέσα στο directory kallipos. Στην συνέχεια, κατέβασα τοπικά μέσω της εντολής ```pip installl pandoc-fignos``` το pandoc fignos filter, του οποίου το executable το πρόσθεσα στο kallipos repository για να μπορέσω να το εφαρμόσω έπειτα ως φίλτρο. Ακόμη, δημιούργησα ένα αρχείο .sh, μέσω του οποίου θα μπορούσα να εφαρμόσω όλα τα φίλτρα με pipelining εκτελώντας το μέσω τερματικού. Αφού εκτέλεσα, λοιπόν, το .sh αρχείο, δημιουργήθηκε ένα αρχείο markdown, το οποίο μέσω της εντολής ```pandoc MIBOOK.md -o MIBOOK.epub``` μετατράπηκε στην συνέχεια σε ηλεκτρονικό βιβλίο.   </br>
-- **[MIBOOK.epub](https://github.com/vournam/kallipos/blob/1060891/MIBOOK.epub)** </br>
+- **[MIBOOK.epub](https://drive.google.com/file/d/1I4nHpT0w8XvTQRym86QKIwGhINbETfXy/view?usp=sharing)** </br>
 
 ### CommandLine-4
 Στην άσκηση αυτή, κατέβασα το [pywal](https://github.com/dylanaraps/pywal) και μία εικόνα σύμφωνα με την χρωματική παλέτα της οποίας προσαρμόζεται το φόντο του terminal και πρόσθεσα κάποιες γραμμές κώδικα στο .bashrc ώστε η αλλαγή φόντου να ισχύει κάθε φορά που ανοίγω το τερματικό.
