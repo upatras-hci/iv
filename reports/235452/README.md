@@ -88,7 +88,7 @@ nano ~/.zshrc
 neofetch
 ```
 
- -  **[Asciinema](https://asciinema.org/) link for [Neofetch](https://asciinema.org/a/jR3Awd51FwnDlKmAnvtoXKelx)**
+ -  **[Asciinema](https://asciinema.org/) link for [Neofetch](https://asciinema.org/a/zmvpsQQKNeDfP09zJQj9yVXtq)**
 
 ### CV-pdf
 Για την υλοποίηση της άσκησης αυτής αρχικά έκανα fork το simple-cv repo (από τα παραδείγματα που είχαν δοθεί σαν οδηγίες για την υλοποίηση της άσκησης (https://github.com/plain-plain-text/simple-cv)) και έπειτα έκανα git clone για να στήσω το project στο τοπικό μου ώστε να το επεξεργαστώ. Στη συνέχεια τροποποίησα τα files μέσα στα sections, metadata και τα προσάρμοσα στα δικά μου δεδομένα καθώς επίσης όρισα την σειρά εμφάνισης των δεδομένων μου από το αρχείο sections.txt. Έπειτα εγκατέστησα το pandoc και latex για να μπορώ να μετατρέψω τα αρχεία μου σε pdf. Τέλος έκανα git checkout στο branch που δημιούργησα "gh-pages" και έκανα push τις αλλαγές μου. 
@@ -166,11 +166,15 @@ pandoc book.md -o epub.epub
 - **[EPUB](https://drive.google.com/drive/folders/1McOsUkr9kvKBgSADH3WGKaUxIBwP_Gf9?usp=sharing)** </br>
 
 ### CommandLine-4
-**[autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)**
+Επέλεξα να εγκαταστήσω το **[autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)** στο τερματικό μου, διότι μου προτείνει εντολές καθώς πληκτολογώ με βάση το history τα completions.
+
+Αρχικά έκανα clone το repository εκτελώντας την εντολή: 
 
 ```
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
+
+Και έπειτα πρόσθεσα το plugin στην λίστα των plugins του Oh My Zsh:
 
 ```
 plugins=( 
