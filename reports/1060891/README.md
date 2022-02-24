@@ -49,7 +49,7 @@ Name: Vourna Maria-Melina <br />
 
 - **[Issue Link](https://github.com/upatras-hci/site/issues/153)**
 - **[Merge-request Link](https://github.com/upatras-hci/site/pull/159/)** 
-- **[Site Link](https://hci-site.netlify.app/people/)** 
+- **[Site Link](https://hci-site1.netlify.app/people/)** 
 
 ### CommandLine-2
 Στην άσκηση αυτή κατέβασα το [polybar](https://github.com/polybar/polybar), [rofi](https://github.com/davatorium/rofi), [awesome](https://github.com/awesomeWM/awesome), [pipes](https://github.com/pipeseroni/pipes.sh) και κατέβασα επιπλέον το [tilix](https://gnunn1.github.io/tilix-web/) μέσω της εντολής ```sudo pacman -S tilix``` και το [cava](https://github.com/karlstav/cava#configuration) audio visualizer. Τέλος, κατέβασα το [pastel](https://github.com/sharkdp/pastel) και έδωσα μία σειρά εντολών που συντέθηκαν μέσω "piping" του "output" μίας εντολής σε μία άλλη.
@@ -135,6 +135,6 @@ source ~/.cache/wal/colors-tty.sh
 
 - **[Issue Link](https://github.com/upatras-hci/site/issues/161)**
 - **[Merge-request Link](https://github.com/upatras-hci/site/pull/162)**
-- **[Site Link](https://hci-site1.netlify.app/people/)** 
+- **[Site Link](https://hci-site.netlify.app/people/)** 
 
 ### Final-Report
