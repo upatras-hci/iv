@@ -68,12 +68,12 @@ git add .
 git commit -m "Initial Commit"
 git push --set-upstream origin 1060891
 ```
-- **[ο σύνδεσμος του αποθετηρίου, Travic CI](https://github.com/vournam/simple-cv/tree/gh-pages)**  </br>
+- **[ο σύνδεσμος του αποθετηρίου](https://github.com/vournam/simple-cv/tree/gh-pages)**  </br>
 - **[Pdf & Html link](https://mysimplecv.netlify.app)** </br>
 
 Όσον αφορά την τεχνολογία [Travis CI](https://www.travis-ci.com/?utm_term=travis%20ci&utm_campaign=WW_en_Remarketing&utm_source=adwords&utm_medium=ppc&hsa_acc=4354966550&hsa_cam=10838935161&hsa_grp=108513102444&hsa_ad=573934944369&hsa_src=g&hsa_tgt=aud-931650538745%3Akwd-354950030127&hsa_kw=travis%20ci&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAgbiQBhAHEiwAuQ6BkvyFbu5z7e99VsDTkuXx7yKWx7HIN5JkBqhKuvL-FELoH1VoYUTFvxoCGgsQAvD_BwE), έκανα fork το [repo](https://github.com/prewriter/LaTeX-Travis-Pages) και επεξεργάστηκα τα αρχεία .tex προσθέτοντας το δικό μου αρχείο .tex με τα στοιχεία του βιογραφικού μου. Το αρχείο .tex είχε δημιουργηθεί κατά την εκτέλεση του proccess.sh στο repo [simple-cv](https://github.com/vournam/simple-cv) στον φάκελο tmp/out.tex. Ωστόσο, δεν μπόρεσα να μπω στην ιστοσελίδα του Travis και να κάνω build καθώς ήταν επί πληρωμή.
 
-- **[ο σύνδεσμος του αποθετηρίου](https://github.com/vournam/LaTeX-Travis-Pages/tree/gh-pages)**  </br>
+- **[ο σύνδεσμος του αποθετηρίου, Travic CI](https://github.com/vournam/LaTeX-Travis-Pages/tree/gh-pages)**  </br>
 
 'Ετσι λοιπόν, επέλεξα να εφαρμόσω την τεχνολογία [Netlify CI](https://www.netlify.com/products/build/): </br>
 - **[Netlify Deploy log link](https://app.netlify.com/sites/mysimplecv/deploys/62168ce0d3a6e02b5a1440bc)**
