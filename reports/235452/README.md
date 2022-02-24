@@ -68,6 +68,30 @@ brew install zsh
 
 ### CommandLine-2
 Το [Neofetch](https://github.com/dylanaraps/neofetch) είναι ένα εργαλείο που μας επιτρέπει να λάβουμε βασικές πληροφορίες σχετικά με το εγκατεστημένο σύστημα. Είναι το ιδανικό εργαλείο για να μάθουμε με μια ματιά τα βασικά χαρακτηριστικά του λειτουργικού συστήματος που έχει εγκατασταθεί. 
+Μπορούμε να το κάνουμε install πολύ απλά εκτελώντας την εντολή:
+
+```
+brew intall neofetch
+
+```
+Να επεξεργαστούμε το config file του:
+
+```
+sudo nano .config/neofetch/config.conf
+
+```
+
+Και να το ορίσουμε να εμφανίζεται κάθε φορά που ανοίγουμε το τερματικό προσθέτοντας απλά το λεκτικό "neofetch" μέσα στο .zshrc file
+```
+nano ~/.zshrc
+
+```
+
+```
+neofetch
+
+```
+
  -  **[Asciinema](https://asciinema.org/) link for [Neofetch](https://asciinema.org/a/jR3Awd51FwnDlKmAnvtoXKelx)**
 
 ### CV-pdf
@@ -110,7 +134,8 @@ brew install zsh
 ```
 
 ### CommandLine-3
- -  **[Asciinema](https://asciinema.org/) link for [Redshift]()**
+To [fzf](https://github.com/junegunn/fzf) είναι ένα γενικής χρήσης **command-line** που μπορεί να χρησιμοποιηθεί σε οποιαδήποτε λίστα· files, command history, processes, hostnames, bookmarks, git commits, κ.λ.π.
+ -  **[Asciinema](https://asciinema.org/) link for [fzf](https://github.com/junegunn/fzf)**
 
 ### Content-2Β
 Για την οπτικοποίηση του[βιβλίου](https://github.com/mibook/kallipos) αρχικά έκανα [fork] (https://github.com/ceid5452/kallipos) το αντίστοιχο repository, το κατέβασα τοπικά και ένα git checkout σε ένα δικό μου branch που δημιούργησα. Στη συνέχεια έκανα git clone τα submodules για να δημιουργήσω τα source files. Για την αρίθμηση των ψηφίων αλλά και των αναφορών των αρχείων κατά τη μετατροπή τους από markdown σε άλλες μορφές έκανα install το [pandoc-fignos](https://github.com/tomduck/pandoc-fignos). Έπειτα εφάρμοσα manual τα filters,με την εντολή που φαίνεται παρακάτω, για να φτιάξω το περιεχόμενο των κεφαλαίων, του πρόλογου και του επίλογου του βιβλίου.
