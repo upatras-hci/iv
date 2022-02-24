@@ -179,7 +179,7 @@ plugins=(
 )
 ```
 
- -  **[Asciinema](https://asciinema.org/) link for [autosuggestions](https://asciinema.org/a/nN8KmOepA6Q9Mq3gQmZ5GtSYd)**
+ -  **[Asciinema](https://asciinema.org/) link for [autosuggestions](https://asciinema.org/a/e6z2tamyUs7KU2MYyUKZ0K11q)**
 
 ### MergeRequest-2
 Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Available Master Thesis", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, δημιούργησα ένα φάκελο _masterthesis και τοποθέτησα τα αρχεία .md με τα διαθέσιμα θέματα διπλωματικής. Ύστερα δημιούργησα τo file master-thesis.html στo οποία οπτικοποίησα το περιεχόμενο των αρχείων .md που δημιούργησα, ώστε να εμφανιστούν τα διαθέσιμα θέματα διπλωματικής.</br>
