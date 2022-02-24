@@ -131,6 +131,14 @@ neofetch
 
 ### CommandLine-3
 To [fzf](https://github.com/junegunn/fzf) είναι ένα γενικής χρήσης **command-line** που μπορεί να χρησιμοποιηθεί σε οποιαδήποτε λίστα· files, command history, processes, hostnames, bookmarks, git commits, κ.λ.π.
+
+```
+brew install fzf
+
+# To install useful key bindings and fuzzy completion:
+$(brew --prefix)/opt/fzf/install
+```
+
  -  **[Asciinema](https://asciinema.org/) link for [fzf](https://github.com/junegunn/fzf)**
 
 ### Content-2Β
