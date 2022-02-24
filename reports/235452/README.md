@@ -130,7 +130,7 @@ neofetch
 ```
 
 ### CommandLine-3
-To [fzf](https://github.com/junegunn/fzf) είναι ένα γενικής χρήσης **command-line** που μπορεί να χρησιμοποιηθεί σε οποιαδήποτε λίστα· files, command history, processes, hostnames, bookmarks, git commits, κ.λ.π.
+To [fzf](https://github.com/junegunn/fzf) είναι ένα γενικής χρήσης **command-line** που μπορεί να χρησιμοποιηθεί σε οποιαδήποτε λίστα· files, command history, processes, hostnames, bookmarks, git commits, κ.λ.π. Για το installation το μόνο που χρειάζεται είναι να τρέξουμε τις εντολές:
 
 ```
 brew install fzf
@@ -139,7 +139,9 @@ brew install fzf
 $(brew --prefix)/opt/fzf/install
 ```
 
- -  **[Asciinema](https://asciinema.org/) link for [fzf](https://github.com/junegunn/fzf)**
+Έπαιτα press **control + R** και μπορείς να δεις τις εντολές που έχεις ήδη τρέξει.
+
+ -  **[Asciinema](https://asciinema.org/) link for [fzf](https://asciinema.org/a/Kes6NLgrTVQgUdMSbOgU8tTen)**
 
 ### Content-2Β
 Για την οπτικοποίηση του[βιβλίου](https://github.com/mibook/kallipos) αρχικά έκανα [fork] (https://github.com/ceid5452/kallipos) το αντίστοιχο repository, το κατέβασα τοπικά και ένα git checkout σε ένα δικό μου branch που δημιούργησα. Στη συνέχεια έκανα git clone τα submodules για να δημιουργήσω τα source files. Για την αρίθμηση των ψηφίων αλλά και των αναφορών των αρχείων κατά τη μετατροπή τους από markdown σε άλλες μορφές έκανα install το [pandoc-fignos](https://github.com/tomduck/pandoc-fignos). Έπειτα εφάρμοσα manual τα filters,με την εντολή που φαίνεται παρακάτω, για να φτιάξω το περιεχόμενο των κεφαλαίων, του πρόλογου και του επίλογου του βιβλίου.
