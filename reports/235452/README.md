@@ -72,24 +72,20 @@ brew install zsh
 
 ```
 brew intall neofetch
-
 ```
 Να επεξεργαστούμε το config file του:
 
 ```
 sudo nano .config/neofetch/config.conf
-
 ```
 
 Και να το ορίσουμε να εμφανίζεται κάθε φορά που ανοίγουμε το τερματικό προσθέτοντας απλά το λεκτικό "neofetch" μέσα στο .zshrc file
 ```
 nano ~/.zshrc
-
 ```
 
 ```
 neofetch
-
 ```
 
  -  **[Asciinema](https://asciinema.org/) link for [Neofetch](https://asciinema.org/a/jR3Awd51FwnDlKmAnvtoXKelx)**
