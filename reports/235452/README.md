@@ -166,7 +166,7 @@ pandoc book.md -o epub.epub
 - **[EPUB link google drive](https://drive.google.com/drive/folders/1McOsUkr9kvKBgSADH3WGKaUxIBwP_Gf9?usp=sharing)** </br>
 
 ### CommandLine-4
-Επέλεξα να εγκαταστήσω το **[autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)** στο τερματικό μου, διότι μου προτείνει εντολές καθώς πληκτολογώ με βάση το history τα completions.
+Επέλεξα να εγκαταστήσω το **[autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)** στο τερματικό μου, διότι μου προτείνει εντολές καθώς πληκτρολογώ με βάση το history και τα completions.
 
 Αρχικά έκανα clone το repository εκτελώντας την εντολή: 
 
