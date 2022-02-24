@@ -135,6 +135,6 @@ source ~/.cache/wal/colors-tty.sh
 
 - **[Issue Link](https://github.com/upatras-hci/site/issues/161)**
 - **[Merge-request Link](https://github.com/upatras-hci/site/pull/162)**
-- **[Site Link](https://hci-site.netlify.app/people/)** 
+- **[Site Link](https://hci-site2.netlify.app/people/)** 
 
 ### Final-Report
