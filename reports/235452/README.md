@@ -166,7 +166,20 @@ pandoc book.md -o epub.epub
 - **[EPUB](https://drive.google.com/drive/folders/1McOsUkr9kvKBgSADH3WGKaUxIBwP_Gf9?usp=sharing)** </br>
 
 ### CommandLine-4
- -  **[Asciinema](https://asciinema.org/) link for [polybar]()**
+**[autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)**
+
+```
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+```
+
+```
+plugins=( 
+    # other plugins...
+    zsh-autosuggestions
+)
+```
+
+ -  **[Asciinema](https://asciinema.org/) link for [autosuggestions](https://asciinema.org/a/nN8KmOepA6Q9Mq3gQmZ5GtSYd)**
 
 ### MergeRequest-2
 Σε αυτό το αίτημα ενσωμάτωσης αρχικά άνοιξα ένα issue με θέμα "Available Master Thesis", το οποίο αφού εγκρίθηκε ξεκίνησα να εργάζομαι γι'αυτό. Πιο συγκεκριμένα, έκανα πρώτα fork to [repository](https://github.com/upatras-hci/site) του hci-site και στην συνέχεια το έκανα clone τοπικά στον υπολογιστή μου. Εκεί, δημιούργησα ένα φάκελο _masterthesis και τοποθέτησα τα αρχεία .md με τα διαθέσιμα θέματα διπλωματικής. Ύστερα δημιούργησα τo file master-thesis.html στo οποία οπτικοποίησα το περιεχόμενο των αρχείων .md που δημιούργησα, ώστε να εμφανιστούν τα διαθέσιμα θέματα διπλωματικής.</br>
