@@ -195,18 +195,20 @@ plugins=(
 ### Final-Report
 
 ## Σύνοψη 
-Συνοψίζοντας, τα παραδοτέα του μαθήματος σε εβδομαδιαία βάση, αποτελούνταν από μία σειρά ασκήσεων οι οποίες χρησιμοποιούσαν το GitHub σαν βασικό αποθετήριο. Για την υλοποίηση των ασκήσεων αυτών χρησιμοποιήθηκαν κάποιες πλατφόρμες όπως η πλατφόρμα Codepen για την δημιουργία των διαδραστικών παραδειγμάτων και Netlify για την οπτικοποίηση του βιογραφικού και της ιστοσελίδας του HCI-site. Ακόμη, για την υλοποίση των ασκήσων γραμμής εντολών χρησιμοποιήθηκε το terminal.<br>
+Συνοψίζοντας, τα παραδοτέα του μαθήματος σε εβδομαδιαία βάση, αποτελούνταν από μία σειρά ασκήσεων οι οποίες χρησιμοποιούσαν το [GitHub](https://pages.github.com/) σαν βασικό αποθετήριο. Για την υλοποίηση των ασκήσεων αυτών χρησιμοποιήθηκαν κάποιες πλατφόρμες όπως η πλατφόρμα [Codepen](https://codepen.io/) για την δημιουργία των διαδραστικών παραδειγμάτων και η πλατφόρμα [Netlify](https://www.netlify.com/) για την οπτικοποίηση του βιογραφικού και της ιστοσελίδας του HCI-site. Ακόμη, για την υλοποίση των ασκήσων γραμμής εντολών χρησιμοποιήθηκε το terminal.<br>
 
-Το περιεχόμενο των ασκήσεων περιελάμβανε κυρίως δημιουργία και επεξεργασία αρχείων markdown, yaml και html. Για την οπτικοποίηση των σελίδων χρησιμοποιήθηκε το Netlify και τα GitHub Pages.<br>
+Το περιεχόμενο των ασκήσεων περιελάμβανε κυρίως δημιουργία και επεξεργασία αρχείων [markdown](https://www.markdownguide.org/), [yaml](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html), [html](https://www.w3schools.com/) και [tex](https://www.latex-project.org/). Για την οπτικοποίηση των σελίδων χρησιμοποιήθηκε το [Netlify](https://www.netlify.com/) και τα [GitHub Pages](https://pages.github.com/).<br>
 
-Σχετικά με την την μετατροπή του βιογραφικού σε pdf και οπτικοποίηση του βιβλίου Mibook σε epub, χρησιμοποιήθηκαν τα εργαλεία pandoc και latex. Επίσης, η αυτόματη τοποθέτηση του pdf στην ιστοσελίδα του βιογραφικού με Continuous Integration υλοποιήθηκε με την βοήθεια του Netlify CI.
+Σχετικά με την την μετατροπή του βιογραφικού σε pdf και την οπτικοποίηση του βιβλίου Mibook σε epub, χρησιμοποιήθηκαν τα εργαλεία [pandoc](https://pandoc.org/) και [LaTeX](https://www.latex-project.org/)(. Επίσης, η αυτόματη τοποθέτηση του pdf στην ιστοσελίδα του βιογραφικού με Continuous Integration υλοποιήθηκε με την βοήθεια του [Netlify CI](https://www.netlify.com/tags/ci/).
+
+## Συμπεράσματα
+Tο εκπαιδευτικό υλικό που δόθηκε στα πλαίσια του μαθήματος ήταν πολύ οργανωμένο και πλήρες. Οι οδηγίες ήταν αρκετά αναλυτικές και κάλυπταν επαρκώς τις ανάγκες για όλα τα παραδοτέα. Το μάθημα αυτό με βοήθησε να εξελίξω τις γνώσεις μου επάνω στο GitHub και τα skills μου όσον αφορά τα command lines και το git. Ακόμη, με βοήθησε να ανακαλύψω διάφορες μεθόδους οπτικοποίησης της πληροφορίας. 
 
 ## Βιβλιογραφία και σύνδεσμοι
-
 Konstantinos Chorianopoulos, 2020. Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό.(http://leanpub.com/pibook)<br>
 @epidrome [dokey](https://github.com/epidrome/dokey)<br>
 Ionio site https://github.com/ioniodi/sitegr<br>
-Github Pages https://pages.github.com/<br>
+Github https://pages.github.com/<br>
 Git https://git-scm.com/doc<br>
 Markdown https://www.markdownguide.org/<br>
 YAML https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html<br>
