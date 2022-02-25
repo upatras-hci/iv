@@ -200,3 +200,18 @@ plugins=(
 Το περιεχόμενο των ασκήσεων περιελάμβανε κυρίως δημιουργία και επεξεργασία αρχείων markdown, yaml και html. Για την οπτικοποίηση των σελίδων χρησιμοποιήθηκε το Netlify και τα GitHub Pages.<br>
 
 Σχετικά με την την μετατροπή του βιογραφικού σε pdf και οπτικοποίηση του βιβλίου Mibook σε epub, χρησιμοποιήθηκαν τα εργαλεία pandoc και latex. Kαθώς επίσης, και η αυτόματη τοποθέτηση του pdf στην ιστοσελίδα του βιογραφικού με Continuous Integration υλοποιήθηκε με Netlify CI.
+
+## Βιβλιογραφία και σύνδεσμοι
+
+[Konstantinos Chorianopoulos, 2020. Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό.](http://leanpub.com/pibook)
+[Ionio site](https://github.com/ioniodi/sitegr)
+[Github Pages](https://pages.github.com/)
+[Markdown](https://www.markdownguide.org/)
+[YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+[Jekyll](https://jekyllrb.com/)
+[LaTeX](https://www.latex-project.org/)
+[Pandoc](https://pandoc.org/)
+[Netlify](https://www.netlify.com/)
+[Netlify CI](https://www.netlify.com/tags/ci/)
+[Epub](https://www.thepolyglotdeveloper.com/2019/10/creating-ebook-pandoc-markdown/)
+
