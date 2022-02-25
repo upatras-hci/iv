@@ -155,17 +155,18 @@ source ~/.cache/wal/colors-tty.sh
 ---
 | report | .. |
 | --- | --- |
-| Introduction | [ Εισαγωγή ](#Introduction) | 
-| CV-site | [ Βιογραφικό-site ](#CV-site) | 
-| Content-2A | [ Συμμετοχικό περιεχόμενο 2A ](#Content-2A)) |
-| CommandLine-1 | [ Γραμμή εντολών 1 ](#CommandLine-1) |
-| MergeRequest-1 | [ Αίτημα ενσωμάτωσης 1 ](#MergeRequest-1) 
-| CommandLine-2 | [ Γραμμή εντολών 2 ](#CommandLine-2) |
-| CV-pdf | [ Βιογραφικό-pdf ](#CV-pdf) |
-| CommandLine-3 | [ Γραμμή εντολών 3 ](#CommandLine-3) |
-| Content-2Β | [ Συμμετοχικό περιεχόμενο 2B ](#Content-2Β)
-| CommandLine-4 | [Γραμμή εντολών 4](#CommandLine-4) |
-| MergeRequest-2 | [Αίτημα ενσωμάτωσης 2](#MergeRequest-2) |
+| 1 | [Εισαγωγή](#Introduction) |
+| 2 | [Βιογραφικό-site](#CV-site) |
+| 3 | [Συμμετοχικό περιεχόμενο 2A](#Content-2A) |
+| 4 | [Γραμμή εντολών 1](#CommandLine-1)
+| 5 | [Αίτημα ενσωμάτωσης 1](#MergeRequest-1) |
+| 6 | [Γραμμή εντολών 2](#CommandLine-2) |
+| 7 | [Βιογραφικό-pdf](#CV-pdf) |
+| 8 | [Γραμμή εντολών 3](#CommandLine-3) |
+| 9 | [Συμμετοχικό περιεχόμενο 2B](#Content-2Β) |
+| 10 | [Γραμμή εντολών 4](#CommandLine-4)|
+| 11 | [Αίτημα ενσωμάτωσης 2](#MergeRequest-2) |
+| 12 | [Τελική αναφορά](#Final-Report) |
 
 
 ### Συμπεράσματα 
