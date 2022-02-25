@@ -204,7 +204,8 @@ plugins=(
 ## Βιβλιογραφία και σύνδεσμοι
 
 [Konstantinos Chorianopoulos, 2020. Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό.](http://leanpub.com/pibook)<br>
-[Ionio site](https://github.com/ioniodi/sitegr)<br>
+@epidrome [dokey](https://github.com/epidrome/dokey)
+Ionio site (https://github.com/ioniodi/sitegr)<br>
 [Github Pages](https://pages.github.com/)<br>
 [Git](https://git-scm.com/doc)
 [Markdown](https://www.markdownguide.org/)<br>
