@@ -203,19 +203,19 @@ plugins=(
 
 ## Βιβλιογραφία και σύνδεσμοι
 
-[Konstantinos Chorianopoulos, 2020. Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό.](http://leanpub.com/pibook)<br>
-@epidrome [dokey](https://github.com/epidrome/dokey)
+Konstantinos Chorianopoulos, 2020. Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό.(http://leanpub.com/pibook)<br>
+@epidrome [dokey](https://github.com/epidrome/dokey)<br>
 Ionio site (https://github.com/ioniodi/sitegr)<br>
-[Github Pages](https://pages.github.com/)<br>
-[Git](https://git-scm.com/doc)
-[Markdown](https://www.markdownguide.org/)<br>
-[YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)<br>
-[Jekyll](https://jekyllrb.com/)<br>
-[HTML](https://www.w3schools.com/)
-[LaTeX](https://www.latex-project.org/)<br>
-[Pandoc](https://pandoc.org/)<br>
-[Netlify](https://www.netlify.com/)<br>
-[Netlify CI](https://www.netlify.com/tags/ci/)<br>
-[Epub](https://www.thepolyglotdeveloper.com/2019/10/creating-ebook-pandoc-markdown/)<br>
-[asciinema](https://asciinema.org/docs/getting-started)
-[codepen](https://codepen.io/)
+Github Pages(https://pages.github.com/)<br>
+Git(https://git-scm.com/doc)
+Markdown(https://www.markdownguide.org/)<br>
+YAML(https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)<br>
+Jekyll(https://jekyllrb.com/)<br>
+HTML(https://www.w3schools.com/)
+LaTeX(https://www.latex-project.org/)<br>
+Pandoc(https://pandoc.org/)<br>
+Netlify(https://www.netlify.com/)<br>
+Netlify CI(https://www.netlify.com/tags/ci/)<br>
+Epub(https://www.thepolyglotdeveloper.com/2019/10/creating-ebook-pandoc-markdown/)<br>
+asciinema(https://asciinema.org/docs/getting-started)
+codepen(https://codepen.io/)
