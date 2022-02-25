@@ -207,15 +207,15 @@ Konstantinos Chorianopoulos, 2020. Ο Προγραμματισμός της Δι
 @epidrome [dokey](https://github.com/epidrome/dokey)<br>
 Ionio site (https://github.com/ioniodi/sitegr)<br>
 Github Pages(https://pages.github.com/)<br>
-Git(https://git-scm.com/doc)
+Git(https://git-scm.com/doc)<br>
 Markdown(https://www.markdownguide.org/)<br>
 YAML(https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)<br>
 Jekyll(https://jekyllrb.com/)<br>
-HTML(https://www.w3schools.com/)
+HTML(https://www.w3schools.com/)<br>
 LaTeX(https://www.latex-project.org/)<br>
 Pandoc(https://pandoc.org/)<br>
 Netlify(https://www.netlify.com/)<br>
 Netlify CI(https://www.netlify.com/tags/ci/)<br>
 Epub(https://www.thepolyglotdeveloper.com/2019/10/creating-ebook-pandoc-markdown/)<br>
-asciinema(https://asciinema.org/docs/getting-started)
-codepen(https://codepen.io/)
+asciinema(https://asciinema.org/docs/getting-started)<br>
+codepen(https://codepen.io/)<br>
