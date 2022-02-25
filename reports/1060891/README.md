@@ -138,3 +138,70 @@ source ~/.cache/wal/colors-tty.sh
 - **[Site Link](https://hci-site2.netlify.app/people/)** 
 
 ### Final-Report
+
+### Σύνοψη
+---
+Ανακεφαλαιώνοντας, τα εβδομαδιαία παραδοτέα του μαθήματος περιλαμβάνουν ασκήσεις που υλοποιήθηκαν στο [github](https://github.com/), στην πλατφόρμα [Codepen](https://codepen.io) για την δημιουργία των διαδραστικών παραδειγμάτων, στο [Netlify](https://www.netlify.com/) για την οπτικοποίηση των ιστοσελίδων του HCI-site και του βιογραφικού αλλά και command line σε unix based σύστημα (virtual machine Arch Linux) όπου υλοποιήθηκαν οι ασκήσεις της γραμμής εντολών. Οι λειτουργίες που περιγράφονται στις επιμέρους ασκήσεις υλοποιούνται κυρίως με χρήση html αλλά και αρχεία δεδομένων σε markdown και yml. Αναφορικά με το συμμετοχικό περιεχόμενο, η δημιουργία της ιστοσελίδας του HCI-site βασίζεται στην επεξεργασία markdown και yml αρχείων καθώς και οπτικοποίηση μέσω Netlify. Όσον αφορά το βιογραφικό, χρησιμοποιήθηκε η τεχνολογία [Netlify-CI](https://www.netlify.com/products/build/) ώστε κάθε όποτε προκύπτει αλλαγή στα αρχεία δεδομένων yml του αντίστοιχου αποθετηρίου να γίνεται ορατή και στο site του βιογραφικού. Τέλος, σχετικά με την οπτικοποίηση του βιβλίου [Mibook](https://github.com/mibook/kallipos) σε epub, εφαρμόσθηκαν τα φίλτρα του pandoc σε lua μέσω των οποίων επιτεύχθηκε η μετατροπή των αρχείων .txt σε .md και έπειτα δημιουργήθηκε το ηλεκτρονικό βιβλίο μέσω εντολής του pandoc στο command line.
+  
+### Σύντομη  εισαγωγή
+---
+Στα πλαίσια του μαθήματος κατανόησα τις βασικές λειτουργίες του github και github pages αφού έμαθα να κάνω git clone,commit & push μέσω command line, έτσι ώστε να επεξεργάζομαι πρώτα τα repos τοπικά και στην συνέχεια να τα ανεβάζω online. 'Eμαθα, λοιπόν, να χειρίζομαι καλύτερα το τερματικό, το οποίο χρησιμοποίησα και στις γραμμές εντολών μέσω των οποίων εξασκήθηκα αρκετά τόσο με τις command line εντολές όσο και με την εύρεση και επεξεργασία των config files των εφαρμογών για να τις τροποποιήσω με βάση τις προτιμήσεις μου. 
+
+### Σύντομη ανάλυση σχετικών έργων και εργαλείων
+---
+
+| ασκησεις | dependencies-libraries |
+| --- |--- |
+| codepen | p5.js, googlemaps, html, css |
+| observablehq | d3.js, vega-lite, html css | 
+| github* | yml, ruby, bash, markdown, python* |
+
+για τη ληψη δεδομενων video απο playlist του youtube χρησιμοποιησα τo πακετο selenium - webdriver (τρεχει μονο τοπικα, καθως η προσπαθεια για ολοκληρωση με τη πλατφορμα BrowserStack ηταν ανεπιτυχης) 
+
+αντιστοιχα η λειτουργια deploy στο περιβαλλον travis δεν εχει επιτευχθει ακομη, με αποτελεσμα το βιβλιο που δημιουργειται να μην γινεται merge στο head-repo
+
+αναφορικα με την ασκηση απεικονισης δεδομενων θα μπορουσα ως μελλοντικο todo task να προσθεσω τη δημιουργια διαδραστικου χαρτη για την απεικονιση της κατανομης των εγγραφων του γενικου πληθυσμου στα επιμερους τμηματα 1ο/2ο/3οβαθμιας εκπαιδευσης.
+
+### Υποενότητες παραδοτέων
+---
+| report | .. |
+| --- | --- |
+| Introduction | [ Εισαγωγή ](#Introduction) | 
+| CV-site | [ Βιογραφικό-site ](#CV-site) | 
+| Content-2A | [ Συμμετοχικό περιεχόμενο 2A ](#Content-2A)) |
+| CommandLine-1 | [ Γραμμή εντολών 1 ](#CommandLine-1) |
+| MergeRequest-1 | [ Αίτημα ενσωμάτωσης 1 ](#MergeRequest-1) 
+| CommandLine-2 | [ Γραμμή εντολών 2 ](#CommandLine-2) |
+| CV-pdf | [ Βιογραφικό-pdf ](#CV-pdf) |
+| CommandLine-3 | [ Γραμμή εντολών 3 ](#CommandLine-3) |
+| Content-2Β | [ Συμμετοχικό περιεχόμενο 2B ](#Content-2Β)
+| CommandLine-4 | [Γραμμή εντολών 4](#CommandLine-4) |
+| MergeRequest-2 | [Αίτημα ενσωμάτωσης 2](#MergeRequest-2) |
+
+
+### Συμπεράσματα 
+---
+Tο εκπαιδευτικό υλικό που δόθηκε στα πλαίσια του μαθήματος ήταν πλήρες. Το μάθημα είχε σωστή οργάνωση και επάρκεια οδηγιών που κάλυπταν τις ανάγκες για όλα τα παραδοτέα. Αναγνωρίζω οτι ο τρόπος δόμησης και οργάνωσης του μαθήματος ηταν βοηθητικός και θα το πρότεινα και σε άλλους φοιτητές καθώς μέσω αυτού μπορείς να βελτιώσεις τις ικανότητές σου τόσο στο github όσο και στο command line αλλά και γενικότερα στα skills της οπτικοποίησης της πληροφορίας με διαφορετικές μεθόδους.
+
+### Βιβλιογραφία και σύνδεσμοι
+---
+Konstantinos Chorianopoulos, 2020. Ο Προγραμματισμός της Διάδρασης:
+Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό. [http://leanpub.com/pibook](http://leanpub.com/pibook)
+
+@epidrome [dokey](https://github.com/epidrome/dokey)
+
+Jekyll [https://jekyllrb.com/](https://jekyllrb.com/)
+
+Github Pages [https://pages.github.com/](https://pages.github.com/)
+
+Netlify CI [https://www.netlify.com/tags/ci/](https://www.netlify.com/tags/ci/)
+
+Pandoc [https://pandoc.org/](https://pandoc.org/)
+
+Ionio site [https://github.com/ioniodi/sitegr](https://github.com/ioniodi/sitegr)
+
+Epub [https://www.thepolyglotdeveloper.com/2019/10/creating-ebook-pandoc-markdown/](https://www.thepolyglotdeveloper.com/2019/10/creating-ebook-pandoc-markdown/)
+
+[https://stackexchange.com/](https://stackexchange.com/)
+
+ArchWiki [https://wiki.archlinux.org/title/Help:Reading#Installation_of_packages](https://wiki.archlinux.org/title/Help:Reading#Installation_of_packages)
