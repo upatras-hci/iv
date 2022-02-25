@@ -203,15 +203,18 @@ plugins=(
 
 ## Βιβλιογραφία και σύνδεσμοι
 
-[Konstantinos Chorianopoulos, 2020. Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό.](http://leanpub.com/pibook)
-[Ionio site](https://github.com/ioniodi/sitegr)
-[Github Pages](https://pages.github.com/)
-[Markdown](https://www.markdownguide.org/)
-[YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-[Jekyll](https://jekyllrb.com/)
-[LaTeX](https://www.latex-project.org/)
-[Pandoc](https://pandoc.org/)
-[Netlify](https://www.netlify.com/)
-[Netlify CI](https://www.netlify.com/tags/ci/)
-[Epub](https://www.thepolyglotdeveloper.com/2019/10/creating-ebook-pandoc-markdown/)
-
+[Konstantinos Chorianopoulos, 2020. Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό.](http://leanpub.com/pibook)<br>
+[Ionio site](https://github.com/ioniodi/sitegr)<br>
+[Github Pages](https://pages.github.com/)<br>
+[Git](https://git-scm.com/doc)
+[Markdown](https://www.markdownguide.org/)<br>
+[YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)<br>
+[Jekyll](https://jekyllrb.com/)<br>
+[HTML](https://www.w3schools.com/)
+[LaTeX](https://www.latex-project.org/)<br>
+[Pandoc](https://pandoc.org/)<br>
+[Netlify](https://www.netlify.com/)<br>
+[Netlify CI](https://www.netlify.com/tags/ci/)<br>
+[Epub](https://www.thepolyglotdeveloper.com/2019/10/creating-ebook-pandoc-markdown/)<br>
+[asciinema](https://asciinema.org/docs/getting-started)
+[codepen](https://codepen.io/)
