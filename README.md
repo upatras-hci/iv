@@ -65,4 +65,16 @@
 [UTAH](http://www.sci.utah.edu/~miriah/cs6964/): lectures, readings
 [Olin](https://github.com/MimiOnuoha/Impossible-Maps): readings
 
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [οδηγίες](https://courses-ionio.github.io/help/guide/).
+---
+Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [αναλυτικές οδηγίες](https://courses-ionio.github.io/help/guide/).
+
+## Σύντομες οδηγίες δημιουργίας αποθετηρίου για την αναφορά σας
+
+- Fork this repo.
+- Create a new branch (named with your studentID).
+- Create a new README.md file inside a folder (inside the reports folder) named with your studentID.
+- Edit the README.md file with your name and [add a table of contents with the deliverables](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md).
+- Edit (and commit) your report according to the above deliverables table of contents.
+- At the end of the course, make a pull-request.
+
+[Detailed instructions with gifs and links to official documentation](https://courses-ionio.github.io/help/guide/)
