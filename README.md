@@ -37,7 +37,7 @@
 
 **Μέθοδος διδασκαλίας:** Συναντήσεις, ασκήσεις, συνεχής ανατροφοδότηση.
 
-**Κριτήρια βαθμολογίας:** 10% [βιογραφικό](https://courses-ionio.github.io/help/cv/) + 40% [Συμμετοχικό περιεχόμενο: 1 + 2](https://courses-ionio.github.io/help/social)* + 30% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/help/dokey/) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork)
+**Κριτήρια βαθμολογίας:** 10% [βιογραφικό](https://courses-ionio.github.io/help/cv/) + 40% [Συμμετοχικό περιεχόμενο: 1 + 2](https://courses-ionio.github.io/help/social)* + 30% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/help/cli/) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork)
 
 *υποχρεωτική συμπλήρωση της βάσης σε όλα τα κριτήρια για να γίνει τελική βαθμολόγηση
 
