@@ -1,6 +1,6 @@
 # Personal Data:
-Name: Karatsoulas Dimitrios
-ΑΜ: 2354542
+## Name: Karatsoulas Dimitrios
+##ΑΜ: 1103932
 
 # HCI109 Information Visualization - Οπτικοποίηση της Πληροφορίας:
 Δημιουργία Αναφοράς (README.md) και υποβολή παραδοτέου
