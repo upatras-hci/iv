@@ -4,7 +4,6 @@ Name: Karatsoulas Dimitrios</br>
 
 # HCI109 Information Visualization - Οπτικοποίηση της Πληροφορίας
 Δημιουργία Αναφοράς (README.md) και υποβολή παραδοτέου
-#HCI 109 Information Visualiztion - Οπτικοποίηση της Πληροφορίας
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
