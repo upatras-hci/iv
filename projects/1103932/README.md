@@ -2,7 +2,7 @@
 Name: Karatsoulas Dimitrios</br>
 ΑΜ: 1103932</br>
 
-# HCI109 Information Visualization - Οπτικοποίηση της Πληροφορίας:
+# HCI109 Information Visualization - Οπτικοποίηση της Πληροφορίας
 Δημιουργία Αναφοράς (README.md) και υποβολή παραδοτέου
 #HCI 109 Information Visualiztion - Οπτικοποίηση της Πληροφορίας
 
