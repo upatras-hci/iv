@@ -9,7 +9,7 @@ AM: 1043819
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | :---: | :---: | :---: | :---: |
 | 1 | [Introduction](#Introduction)|[Link](https://github.com/upatras-hci/iv/discussions/31) | |
-| 2 | Βιογραφικό Α | | |
+| 2 | Βιογραφικό Α | [Link](https://MairySs.github.io) | |
 | 3 | Γραμμή εντολών (arch linux) | | |
 | 4 | Συμμετοχικό περιεχόμενο 1A | | |
 | 5 | Γραμμή εντολών (custom desktop environment) | | |
