@@ -30,7 +30,7 @@ As about the ***Information Visualization*** course I chose to take it since it 
 
 # CV - site
 
-Having used @elipapa 's 'Jekyll' theme I've published my CV on GitHub pages.
+Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
 
 - **[repository link](https://github.com/akimo13/akimo13.github.io)** 
 
