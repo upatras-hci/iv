@@ -7,7 +7,7 @@
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://courses-ionio.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Η εισαγωγή μου](https://github.com/upatras-hci/iv/discussions/30) | |
-| 2 | βιογραφικό Α | [Το αποθετήριο](https://github.com/e-liouta/e-liouta.github.io) - [Το βιογραφικό μου online](https://e-liouta.github.io/) - [Λεπτομέρειες](https://github.com/e-liouta/iv/edit/1103875/projects/1103875/README.md#cv-site) | |
+| 2 | βιογραφικό Α | https://github.com/upatras-hci/iv/discussions/37 | |
 | 3 | γραμμή εντολών (arch linux) | | |
 | 4 | συμμετοχικό περιεχόμενο 1A | | |
 | 5 | γραμμή εντολών (custom desktop environment) | | |
