@@ -9,7 +9,7 @@
 | 1 | [Δημιουργία ομάδας](https://courses-ionio.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Η εισαγωγή μου](https://github.com/upatras-hci/iv/discussions/30) | |
 | 2 | βιογραφικό Α | https://github.com/upatras-hci/iv/discussions/37 | |
 | 3 | γραμμή εντολών (arch linux) | | |
-| 4 | συμμετοχικό περιεχόμενο 1A | | |
+| 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/49 | |
 | 5 | γραμμή εντολών (custom desktop environment) | | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | | |
 | 7 | βιογραφικό Β | | |
