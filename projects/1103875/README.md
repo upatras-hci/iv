@@ -31,3 +31,12 @@
 
 Για τη δημιουργία του βιογραφικού μου χρησιμοποίησα ένα το Jeskyl Theme ["modern-resume-theme"](https://github.com/sproogen/modern-resume-theme)
 Αφού έκανα τα αρχεία push στο αποθετήριό μου έκανα τις κατάλληλες αλλαγές για να ταιριάζει με τα δικά μου στοιχεία.
+
+[Το link του repository](https://github.com/e-liouta/e-liouta.github.io)</br>
+[To link του Βιογραφικού](https://e-liouta.github.io/)
+
+Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτιαξα ένα καινούριο αυτή τη φορά επέλεξε ένα jekyll theme με deply στο netlify ώστε να εξοικειωθώ περισσότερο και με αυτό.
+
+[Το link του repository](https://github.com/e-liouta/jekyll-theme-minimal-resume/tree/cv)</br>
+[To link του Βιογραφικού](https://e-liouta.netlify.app/)
+
