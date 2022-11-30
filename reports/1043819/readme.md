@@ -9,7 +9,7 @@ AM: 1043819
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | :---: | :---: | :---: | :---: |
 | 1 | [Introduction](#Introduction)|[Link](https://github.com/upatras-hci/iv/discussions/31) | |
-| 2 | Βιογραφικό Α | [Link](https://MairySs.github.io) | |
+| 2 | Βιογραφικό Α | [Link](https://github.com/upatras-hci/iv/discussions/43) | |
 | 3 | Γραμμή εντολών (arch linux) | | |
 | 4 | Συμμετοχικό περιεχόμενο 1A | | |
 | 5 | Γραμμή εντολών (custom desktop environment) | | |
@@ -34,6 +34,24 @@ AM: 1043819
 
 Σχετικά με το μάθημα Οπτικοποίηση Πληροφορίας, μου φάνηκε ενδιαφέρον αρχικά από τον τίτλο, και με προσέλκυσε να μάθω το αντικείμενο μελέτης του. 
 
+## Βιογραφικό Α
 
+[Repository Link](https://github.com/MairySs/MairySs.github.io)  
+[CV site Link](https://mairyss.github.io/)
+
+Σκοπός αυτού του παραδοτέου ήταν να φτιάξουμε μια ιστοσελίδα με το βιογραφικό μας. 
+Αρχικά έφτιαξα ένα πολύ απλό βιογραφικό (το οποίο υπάρχει [εδώ](https://github.com/MairySs/OldCV)), αλλά δεν ήμουν αρκετά ικανοποιημένη.  
+Οπότε έκανα αρκετές αλλαγές στο site με το βιογραφικό μου και άλλαξα εντελώς το θέμα.  
+Χρησιμοποίησα το θέμα [cvless](https://github.com/piazzai/cvless) , ενημέρωσα τις ήδη υπάρχων ενότητες με τα στοιχεία μου και πρόσθεσα καινούργιες. Επίσης, έκανα κάποιες γενικές μορφοποιήσεις στο θέμα αλλά και αλλαγές στο αρχείο particle.js (στη min μορφή του), ώστε το τελικό αποτέλεσμα της κίνησης των σωματιδίων να είναι πιο ταιριαστό.  
+
+Όλες οι αλλαγές στα αρχεία έγιναν μέσω του `Visual Studio Code` και τα commits μέσω του `PowerShell` των windows καθώς αυτό χρησιμοποιώ και καθημερινά στη δουλειά μου.  
+
+Κατέγραψα μόνο τη διαδικασία του τελευταίου commit γιατί έκανα αρκετές δοκιμές μέχρι το τελικό αποτέλεσμα.  
+Η καταγραφή έγινε με το εργαλείο [PowerSession](https://github.com/Watfaq/PowerSession-rs) (μια παραλλαγή του asciinema για να υποστηρίζει windows).  
+Η συγκεκριμένη εγγραφή φαίνεται παρακάτω:
+
+[![asciicast](https://asciinema.org/a/lAl5hINoxtoBZQl3UhVn5iu2X.svg)](https://asciinema.org/a/lAl5hINoxtoBZQl3UhVn5iu2X)
+
+Το site με το βιογραφικό μου δημοσιεύθηκε με τη βοήθεια των `Github Pages`.
 
 *To be continued...* :smile:
