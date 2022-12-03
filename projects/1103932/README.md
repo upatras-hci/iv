@@ -10,7 +10,7 @@ Name: Karatsoulas Dimitrios</br>
 | 1 | [Δημιουργία ομάδας](https://courses-ionio.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Introduction](https://github.com/upatras-hci/iv/discussions/32) | |
 | 2 | βιογραφικό Α | [CV-site](https://github.com/upatras-hci/iv/discussions/40)||
 | 3 | γραμμή εντολών (arch linux) |[CommandLine-1](https://github.com/upatras-hci/iv/discussions/46) | |
-| 4 | συμμετοχικό περιεχόμενο 1A | | |
+| 4 | συμμετοχικό περιεχόμενο 1A |[Content 1A](https://github.com/upatras-hci/iv/discussions/50) | |
 | 5 | γραμμή εντολών (custom desktop environment) | | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | | |
 | 7 | βιογραφικό Β | | |
