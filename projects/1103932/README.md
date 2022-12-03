@@ -34,4 +34,19 @@ Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
 
 - **[repository link](https://github.com/akimo13/akimo13.github.io)** 
 
-- **[GitHub Page link](https://akimo13.github.io/)** 
+- **[GitHub Page link](https://akimo13.github.io/)**
+
+# Συμμετοχικό Περιεχόμενο
+
+## 1Α
+
+Για το συμμετοχικό περιεχόμενο αποφασίσαμε ως ομάδα η θεματική μας να αφορά στις εφαρμογές του `Human Computer Interraction` στην τέχνη. Έτσι η 1η προσθήκη έχει να κάνει με το [meSch project](https://www.mesch-project.eu/) ένα 4ετές (2013 - 2017) συνχρηματοδοτούμενο από την Ε.Ε. πρόγραμμα που είχε ως στόχο *"τη σχεδίαση, ανάπτυξη και εφαρμογή εργαλείων για τη δημιουργία απτών εμπειριών αλληλεπίδρασης που διαδυνδέουν το φυσικό χώρο μουσείων κα εκθέσεσων με ψηφιακές διαμεσικές πληροφορίες με καινοτόμους τρόπυς."* Αν και το πρόγραμμα έχει πλέον εγκαταλειφθεί δείχνει τον τρόπο με τον οποίο οι διαδραστικές τεχνολογίες μπορούν να λειτουργήσουν συνεπικουρικά σε εμπειρίες γνώσης και μάθησης.
+
+Η 2η πρσθήκη αφορά στην [εγκατάσταση τέχνης](https://www.canberra.edu.au/uncover/news-archive/2019/september/talk-to-the-articulated-head-2.0) του καλλιτέχνη Stelarc, *Articulated Head (AH) 2.0*. Το συγκεκριμένο έργο εμφανίζει το πρόσωπο του καλλιτέχνη σε μια οθόνη στηριγμένη σε ένα ρομποτικό βραχίονα. Με το συνδυασμό αισθητήρων το έργο αποκτά "επίγνωση" του περιβάλλοντος του με αποτέλεσμα να μπορεί να αλληλεπιδρά με τους ανθρώπους γύρω του.
+
+ -  **[Link με τα commits](https://github.com/akimo13/site/commits?author=akimo13)**
+ -  **[Articulated Head (AH) 2.0](https://aquamarine-unicorn-d025d3.netlify.app/gallery/articulated-head/)**
+ -  **[meSch project](https://aquamarine-unicorn-d025d3.netlify.app/gallery/mesch-project/)**
+
+
+
