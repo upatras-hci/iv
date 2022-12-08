@@ -1,4 +1,4 @@
-# Personal Data:
+## Personal Data:
 Name: Karatsoulas Dimitrios</br>
 ΑΜ: 1103932</br>
 
@@ -12,7 +12,7 @@ Name: Karatsoulas Dimitrios</br>
 | 3 | γραμμή εντολών (arch linux) |[CommandLine-1](https://github.com/upatras-hci/iv/discussions/46) | |
 | 4 | συμμετοχικό περιεχόμενο 1A |[Content 1A](https://github.com/upatras-hci/iv/discussions/50) | |
 | 5 | γραμμή εντολών (custom desktop environment) |[CommandLine-2](https://github.com/upatras-hci/iv/discussions/58) | |
-| 6 | συμμετοχικό περιεχόμενο 2Α | | |
+| 6 | συμμετοχικό περιεχόμενο 2Α |[Content 2A](https://github.com/upatras-hci/iv/discussions/60) | |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
@@ -20,7 +20,7 @@ Name: Karatsoulas Dimitrios</br>
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
-# Introduction
+## Introduction
 
 My name is `Dimitris Karatsoulas`, I am a graduate of the `Applied Informatics and Multimedia` department of the Technological Educational Institute of Crete. Ever since my graduation I've worked in various fields, mainly in education and Web Development, the last couple of years I've been working as a Web Developer for a small local firm in the city of Agrinio where I live.
 
@@ -28,7 +28,7 @@ Over the years I've grown a fondness for the front-end portion of software appli
 
 As about the ***Information Visualization*** course I chose to take it since it seemed an interesting field, having in mind stuff like *Infographics* and *Data Visualization*. After realizing we'll also use the *GitHub* platform for our classes I got really interested since it's a set of knowledge and skills essential for anyone working in the field of Information Technology.
 
-# CV - site
+## CV - site
 
 Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
 
@@ -36,17 +36,15 @@ Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
 
 - **[GitHub Page link](https://akimo13.github.io/)**
 
-# CommandLine-1
+## CommandLine-1
 
 Για τις ανάγκες της άσκησης, αρχικά, έγινε εγκατάσταση του ArchLinux σε Oracle VM VirtualBox. Στη συνέχεια, εγκαταστάθηκε το `neofetch` το οποίο και προστέθηκε στο bash file του Arch Linux προκειμένου να εμφανίζεται κάθε φορά που ανοίγει το τερματικό. Επιπλέον εγκαταστάσθηκε το `Asciinema` για να γίνονται τα απαραίτητα, κάθε φορά, recordings των terminal sessions.
 
 [Ενδεικτικό recording του Asciinema](https://asciinema.org/a/542371)
 
-# Συμμετοχικό Περιεχόμενο
+## Συμμετοχικό Περιεχόμενο 1Α
 
-## 1Α
-
-Για το συμμετοχικό περιεχόμενο αποφασίσαμε ως ομάδα η θεματική μας να αφορά στις εφαρμογές του `Human Computer Interraction` στην τέχνη. Έτσι η 1η προσθήκη έχει να κάνει με το [meSch project](https://www.mesch-project.eu/) ένα 4ετές (2013 - 2017) συνχρηματοδοτούμενο από την Ε.Ε. πρόγραμμα που είχε ως στόχο *"τη σχεδίαση, ανάπτυξη και εφαρμογή εργαλείων για τη δημιουργία απτών εμπειριών αλληλεπίδρασης που διαδυνδέουν το φυσικό χώρο μουσείων κα εκθέσεσων με ψηφιακές διαμεσικές πληροφορίες με καινοτόμους τρόπυς."* Αν και το πρόγραμμα έχει πλέον εγκαταλειφθεί δείχνει τον τρόπο με τον οποίο οι διαδραστικές τεχνολογίες μπορούν να λειτουργήσουν συνεπικουρικά σε εμπειρίες γνώσης και μάθησης.
+Για το συμμετοχικό περιεχόμενο αποφασίσαμε ως ομάδα η θεματική μας να αφορά στις εφαρμογές του `Human Computer Interraction` στην τέχνη και τον. Έτσι η 1η προσθήκη έχει να κάνει με το [meSch project](https://www.mesch-project.eu/) ένα 4ετές (2013 - 2017) συνχρηματοδοτούμενο από την Ε.Ε. πρόγραμμα που είχε ως στόχο *"τη σχεδίαση, ανάπτυξη και εφαρμογή εργαλείων για τη δημιουργία απτών εμπειριών αλληλεπίδρασης που διαδυνδέουν το φυσικό χώρο μουσείων κα εκθέσεσων με ψηφιακές διαμεσικές πληροφορίες με καινοτόμους τρόπυς."* Αν και το πρόγραμμα έχει πλέον εγκαταλειφθεί δείχνει τον τρόπο με τον οποίο οι διαδραστικές τεχνολογίες μπορούν να λειτουργήσουν συνεπικουρικά σε εμπειρίες γνώσης και μάθησης.
 
 Η 2η πρσθήκη αφορά στην [εγκατάσταση τέχνης](https://www.canberra.edu.au/uncover/news-archive/2019/september/talk-to-the-articulated-head-2.0) του καλλιτέχνη Stelarc, *Articulated Head (AH) 2.0*. Το συγκεκριμένο έργο εμφανίζει το πρόσωπο του καλλιτέχνη σε μια οθόνη στηριγμένη σε ένα ρομποτικό βραχίονα. Με το συνδυασμό αισθητήρων το έργο αποκτά "επίγνωση" του περιβάλλοντος του με αποτέλεσμα να μπορεί να αλληλεπιδρά με τους ανθρώπους γύρω του.
 
@@ -54,9 +52,18 @@ Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
  -  **[Articulated Head (AH) 2.0](https://aquamarine-unicorn-d025d3.netlify.app/gallery/articulated-head/)**
  -  **[meSch project](https://aquamarine-unicorn-d025d3.netlify.app/gallery/mesch-project/)**
 
-# CommandLine-2
+## CommandLine-2
 
 Για τις ανάγκες της 2ης άσκησης στο CLI, στο Arch Linux έγινε η εγκατάσταση του `i3` ως **Windows Manager**, στο config file του οποίου [έγιναν](https://user-images.githubusercontent.com/17239674/203829957-1ce7740c-37f1-4e57-935d-c31c232a348e.png) [κάποιες](https://user-images.githubusercontent.com/17239674/203829898-b2c52ebf-f170-46f9-be16-7fe288ef303d.png) [παραμετροποιήσεις](https://user-images.githubusercontent.com/17239674/206450712-7e346b1c-26b3-4807-8206-d416185741b3.png) με τη χρήση του Vim. Στη συνέχεια άλλαξα το [desktop image](https://user-images.githubusercontent.com/17239674/203830507-b3543efc-5996-4f36-aad3-8b1d90db1e4f.png) μέσω του `feh`, [εγκαταστάθηκαν](https://user-images.githubusercontent.com/17239674/203831223-c076df43-4621-4bee-8a03-55c981a0677e.png) τα `demenu` και `Firefox` καθώς και ο **file manager** [`thunar`](https://user-images.githubusercontent.com/17239674/206440138-ae347959-47b8-452e-9e44-d55433f9753a.png). Τέλος έγινε εγκατάσταση του [`polybar`](https://user-images.githubusercontent.com/17239674/206440796-e33c6571-6af4-4324-95e0-00b4ad0eef4e.png) χωρίς προς το παρόν να έχω προχωρήσει σε περαιτέρω παραμετροποιήσεις.
+
+## Συμμετοχικό Περιεχόμενο 2Α
+
+Συνεχίζοντας τη θεματική *""Τέχνες & Πολιτισμός""* έκανα pull request για την εισαγωγή των προηγούμενων συνδρομών μου (Articulated Head & meSch project) στο κοινό [timeline](https://aquamarine-unicorn-d025d3.netlify.app/timeline/art/) και τη [συλλογή διαφανειών](https://aquamarine-unicorn-d025d3.netlify.app/slides/art/) για το βιβλίο του οργανισμού μας.
+
+*Σημείωση: Μέχρι και σήμερα 8/12/22, υπάρχουν κάποια θέματα στο σωστό deploy των συγκεκριμένων σελίδων στο Netlify, ως ομάδα είμαστε στη διαδικασία ανριμετώπισης τους.* 
+
+- **[Link με τα commits](https://github.com/akimo13/site/commits?author=akimo13)**
+- **[Link με τα pull requests](https://github.com/akimo13/site/pulls)**
 
 
 
