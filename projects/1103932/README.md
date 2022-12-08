@@ -11,7 +11,7 @@ Name: Karatsoulas Dimitrios</br>
 | 2 | βιογραφικό Α | [CV-site](https://github.com/upatras-hci/iv/discussions/40)||
 | 3 | γραμμή εντολών (arch linux) |[CommandLine-1](https://github.com/upatras-hci/iv/discussions/46) | |
 | 4 | συμμετοχικό περιεχόμενο 1A |[Content 1A](https://github.com/upatras-hci/iv/discussions/50) | |
-| 5 | γραμμή εντολών (custom desktop environment) | | |
+| 5 | γραμμή εντολών (custom desktop environment) |[CommandLine-2](https://github.com/upatras-hci/iv/discussions/58) | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | | |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | | |
@@ -36,6 +36,12 @@ Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
 
 - **[GitHub Page link](https://akimo13.github.io/)**
 
+# CommandLine-1
+
+Για τις ανάγκες της άσκησης, αρχικά, έγινε εγκατάσταση του ArchLinux σε Oracle VM VirtualBox. Στη συνέχεια, εγκαταστάθηκε το `neofetch` το οποίο και προστέθηκε στο bash file του Arch Linux προκειμένου να εμφανίζεται κάθε φορά που ανοίγει το τερματικό. Επιπλέον εγκαταστάσθηκε το `Asciinema` για να γίνονται τα απαραίτητα, κάθε φορά, recordings των terminal sessions.
+
+[Ενδεικτικό recording του Asciinema](https://asciinema.org/a/542371)
+
 # Συμμετοχικό Περιεχόμενο
 
 ## 1Α
@@ -47,6 +53,10 @@ Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
  -  **[Link με τα commits](https://github.com/akimo13/site/commits?author=akimo13)**
  -  **[Articulated Head (AH) 2.0](https://aquamarine-unicorn-d025d3.netlify.app/gallery/articulated-head/)**
  -  **[meSch project](https://aquamarine-unicorn-d025d3.netlify.app/gallery/mesch-project/)**
+
+# CommandLine-2
+
+Για τις ανάγκες της 2ης άσκησης στο CLI, στο Arch Linux έγινε η εγκατάσταση του `i3` ως **Windows Manager**, στο config file του οποίου [έγιναν](https://user-images.githubusercontent.com/17239674/203829957-1ce7740c-37f1-4e57-935d-c31c232a348e.png) [κάποιες](https://user-images.githubusercontent.com/17239674/203829898-b2c52ebf-f170-46f9-be16-7fe288ef303d.png) [παραμετροποιήσεις](https://user-images.githubusercontent.com/17239674/206450712-7e346b1c-26b3-4807-8206-d416185741b3.png) με τη χρήση του Vim. Στη συνέχεια άλλαξα το [desktop image](https://user-images.githubusercontent.com/17239674/203830507-b3543efc-5996-4f36-aad3-8b1d90db1e4f.png) μέσω του `feh`, [εγκαταστάθηκαν](https://user-images.githubusercontent.com/17239674/203831223-c076df43-4621-4bee-8a03-55c981a0677e.png) τα `demenu` και `Firefox` καθώς και ο **file manager** [`thunar`](https://user-images.githubusercontent.com/17239674/206440138-ae347959-47b8-452e-9e44-d55433f9753a.png). Τέλος έγινε εγκατάσταση του [`polybar`](https://user-images.githubusercontent.com/17239674/206440796-e33c6571-6af4-4324-95e0-00b4ad0eef4e.png) χωρίς προς το παρόν να έχω προχωρήσει σε περαιτέρω παραμετροποιήσεις.
 
 
 
