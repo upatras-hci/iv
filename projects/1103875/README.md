@@ -85,3 +85,5 @@ peek:
 Η πρώτη που επέλεξα είναι η buku για τη διαχείριση των σελιδοδεικτών από cli. Στο παρακάτω ascinnema εισάγω στους σελιδοδείκτες μου την ιστοσελίδα του μεταπτυχιακού. To id της είναι το 2 αφού πιο πριν έχω εισάγει και κάποια άλλη. Όταν πατάω στο τερματικό buku -o 2 απευθείας μου ανολιγει τον firefox στη σελίδα του μεταπτυχιακού και έτσι γλιτώνω χρόνο αφού δε χρειάζεται να χρησιμοποιήσω το dmenu για να μπω στον Firefox.
 
 [![asciicast](https://asciinema.org/a/wpcNOrHvC4vjILOh0BbvZlazD.svg)](https://asciinema.org/a/wpcNOrHvC4vjILOh0BbvZlazD)
+![image](https://user-images.githubusercontent.com/17378923/206404327-063b14cc-6515-488e-b120-50c49491d3f2.png)
+
