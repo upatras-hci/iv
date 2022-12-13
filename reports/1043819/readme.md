@@ -10,7 +10,7 @@ AM: 1043819
 | :---: | :---: | :---: | :---: |
 | 1 | [Introduction](#Introduction)|[Link](https://github.com/upatras-hci/iv/discussions/31) | |
 | 2 | [Βιογραφικό Α](#Βιογραφικό-Α)| [Link](https://github.com/upatras-hci/iv/discussions/43) | |
-| 3 | Γραμμή εντολών (arch linux) | [Link](https://github.com/upatras-hci/iv/discussions/48) | |
+| 3 | Γραμμή εντολών (#ArchLinux-installation) | [Link](https://github.com/upatras-hci/iv/discussions/48) | |
 | 4 | Συμμετοχικό περιεχόμενο 1A | | |
 | 5 | Γραμμή εντολών (custom desktop environment) | | |
 | 6 | Συμμετοχικό περιεχόμενο 2Α | | |
@@ -54,7 +54,7 @@ AM: 1043819
 
 Το site με το βιογραφικό μου δημοσιεύθηκε με τη βοήθεια των `Github Pages`.
 
-## ArchLinux-arch installation
+## ArchLinux-installation
 
 Eγκατέστησα το Arch Linux μέσω VirtualBox. 
 Με δυσκόλεψε αρκετά να καταφέρω να αναγνωρίσει την κάρτα δικτύου, αλλά τα κατάφερα!
