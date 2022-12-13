@@ -50,7 +50,7 @@ AM: 1043819
 Η καταγραφή έγινε με το εργαλείο [PowerSession](https://github.com/Watfaq/PowerSession-rs) (μια παραλλαγή του asciinema για να υποστηρίζει windows).  
 Η συγκεκριμένη εγγραφή φαίνεται παρακάτω:
 
-[![asciicast](https://asciinema.org/a/lAl5hINoxtoBZQl3UhVn5iu2X.svg)](https://asciinema.org/a/lAl5hINoxtoBZQl3UhVn5iu2X)
+[![asciicast](https://asciinema.org/a/bZjxi2HTcqMUhO0P1hUhro5K3.svg)](https://asciinema.org/a/bZjxi2HTcqMUhO0P1hUhro5K3)
 
 Το site με το βιογραφικό μου δημοσιεύθηκε με τη βοήθεια των `Github Pages`.
 
