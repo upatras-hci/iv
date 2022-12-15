@@ -91,8 +91,22 @@ Eγκατέστησα το Arch Linux μέσω VirtualBox.
 [_slides/art.md](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md)  
 [_timeline/art.md](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md)  
 
+## Custom-Desktop-Environment
 
+Χρησιμοποίησα το `xmonad`, το οποίο είναι δυναμικός διαχειριστής παραθύρων (dynamic window manager).  
+Για να αλλάξω το φόντο χρησιμοποίησα το `feh`.  
+Ως `compositor`, ο οποίος είναι υπεύθυνος για τη διάταξη των παραθύρων, χρησιμοποίησα το `picom`.  
+Επίσης, με τη βοήθεια του `picom` άλλαξα και την διαφάνεια (opacity) των παραθύρων αλλά και πρόσθεσα ελάχιστο background blur (θόλωμα στο φόντο), για πιο εύκολη ανάγνωση του τερματικού.  
+Τέλος πρόσθεσα μία πολύ απλή μπάρα πληροφοριών με τη βοήθεια του `xmobar`.  
+Μέσα από αυτή την εργασία, κατάλαβα πως τα διαθέσιμα πακέτα για customization είναι πάρα πολλά, οι επιλογές ατελείωτες και τα configurations του κάθε ενός επίσης.
+Μπορούν να σπαταληθούν πολύ εύκολα πάρα πολλές ώρες για να φτάσει κάποιος στο επιθυμητό αποτέλεσμα για την επιφάνεια εργασίας τους.  
 
+Χρησιμοποίησα αυτή τη φωτογραφία ως φόντο:  
+![IMG_2703](https://user-images.githubusercontent.com/50808232/207906491-f496cd45-c8fb-4e07-9a01-0dc4b27511f7.JPG)  
+
+Εικόνες από την επιφάνεια εργασίας που έφτιαξα:  
+![desktop2](https://user-images.githubusercontent.com/50808232/207906402-17afa534-6c06-47b9-b538-2d2805cd973d.PNG)  
+![desktop](https://user-images.githubusercontent.com/50808232/207906410-8aec0b4c-c018-4ef5-944a-c9a1feff14a8.PNG)  
 
 
 
