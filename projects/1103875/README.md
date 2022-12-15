@@ -14,7 +14,7 @@
 | 6 | συμμετοχικό περιεχόμενο 2Α |https://github.com/upatras-hci/iv/discussions/59 | |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) |https://github.com/upatras-hci/iv/discussions/62 | |
-| 9 | συμμετοχικό περιεχόμενο 1Β | | |
+| 9 | συμμετοχικό περιεχόμενο 1Β |https://github.com/upatras-hci/iv/discussions/65 | |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -59,6 +59,14 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 
 • [Slides](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md)</br>
 • [Timeline](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md)</br>
+
+### 1Β
+
+Για το συμμετοχικό 1Β η προσθήκη μου προσπαθώντας να ακολουθήσω το θέμα που είχε η ομάδα από προηγούμενα συμμετοχικά αφορά τα 3D Συστήματα Διάδρασης. 
+Στις μέρες μας η χρήση τρισδιάστατων διεπαφών είναι πολύ διαδεδομένη και επιτρέπει λεπτομερή οπτικοποίηση πληροφοριών. Τέτοιες διεπαφές αλληλεπίδρασης εφαρμόζονται σε πολλούς τομείς όπως για παράδειγμα τα video games, η τέχνη, η προσομοίωση, η εκπαίδευση, αρχιτεκτονική, η ρομποτική, η ιατρική κ.α. Η αρχή έγινε το 1963 με τον σχεδιασμό του δραδραστικού CAD συστήματος "Sketchpad" από τον Ivan Sutherland το οποίο αργότερα ο Timothy E. Johnson αναβάθμισε σε μια τρισδιάστατη έκδοση του προγράμματος και την ίδια περίοδο ο Lawrence G. Roberts πρόσθεσε την υποστήριξη για 3D Solids.
+
+[Το link του αρχείου μου στον φάκελο includes](https://github.com/e-liouta/site/blob/master/_includes/3d-cad.md)
+[To link του αρχείου μου στο case study](https://github.com/e-liouta/site/blob/master/_case-study/3d.md)
 
 ## Γραμμή Εντολών
 ### Arch Linux
