@@ -12,7 +12,7 @@ AM: 1043819
 | 2 | [Βιογραφικό Α](#Βιογραφικό-Α)| [Link](https://github.com/upatras-hci/iv/discussions/43) | |
 | 3 | [Γραμμή εντολών](#ArchLinux) | [Link](https://github.com/upatras-hci/iv/discussions/48) | |
 | 4 | [Συμμετοχικό περιεχόμενο 1A](#Συμμετοχικό-1Α) | [Link](https://github.com/upatras-hci/iv/discussions/66) | |
-| 5 | Γραμμή εντολών (custom desktop environment) | | |
+| 5 | Γραμμή εντολών (custom desktop environment) | [Link](https://github.com/upatras-hci/iv/discussions/67) | |
 | 6 | [Συμμετοχικό περιεχόμενο 2Α](#Συμμετοχικό-2A) | | |
 | 7 | Βιογραφικό Β | | |
 | 8 | Γραμμή εντολών (iv cli) | | |
@@ -86,10 +86,11 @@ Eγκατέστησα το Arch Linux μέσω VirtualBox.
 
 Για το συμμετοχικό περιεχόμενο 2A προσθέσαμε στους φακέλους `slides` και `timeline` από ένα αρχείο `art.md` το οποίο και θα συγκεντρώσει όλες τις εικόνες με τις περιγραφές τους. Για την ώρα υπάρχουν κάποια προβλήματα στην ονομασία των εικόνων αλλά και στα paths και για αυτό το λόγο τα αρχεία δεν συνδέονται σωστά μεταξύ τους. Αναμένεται να διορθωθεί σύντομα. 
 
-[Site repo](https://github.com/upatras-HCI-2022/site)
-[Site link](https://comfy-hummingbird-fe366e.netlify.app/)
-[_slides/art.md](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md)
-[_timeline/art.md](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md)
+[Site repo](https://github.com/upatras-HCI-2022/site)  
+[Site link](https://comfy-hummingbird-fe366e.netlify.app/)  
+[_slides/art.md](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md)  
+[_timeline/art.md](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md)  
+
 
 
 
