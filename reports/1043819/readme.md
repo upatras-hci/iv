@@ -11,7 +11,7 @@ AM: 1043819
 | 1 | [Introduction](#Introduction)|[Link](https://github.com/upatras-hci/iv/discussions/31) | |
 | 2 | [Βιογραφικό Α](#Βιογραφικό-Α)| [Link](https://github.com/upatras-hci/iv/discussions/43) | |
 | 3 | [Γραμμή εντολών](#ArchLinux) | [Link](https://github.com/upatras-hci/iv/discussions/48) | |
-| 4 | [Συμμετοχικό περιεχόμενο 1A](#Συμμετοχικό-1Α) | | |
+| 4 | [Συμμετοχικό περιεχόμενο 1A](#Συμμετοχικό-1Α) | [Link](https://github.com/upatras-hci/iv/discussions/66) | |
 | 5 | Γραμμή εντολών (custom desktop environment) | | |
 | 6 | Συμμετοχικό περιεχόμενο 2Α | | |
 | 7 | Βιογραφικό Β | | |
