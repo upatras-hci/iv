@@ -19,9 +19,10 @@
 
 
 ## Personal Information
-Όνομα: Chatzilygeroudi Evangelia <br />
+```sh
+Όνομα: Chatzilygeroudi Evangelia
 ΑΜ: 1018865
-
+```
 
 ## Introduction
 My name is Chatzilygeroudi Evangelia.
@@ -134,9 +135,15 @@ From now the vim file will open with solarized theme.
 For command line usage I installed a simple [window manager]( https://courses-ionio.github.io/help/cli/).
 I also installed the following [packages](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_2_Solution): 
 </br>
-1.[Polybar](https://github.com/adi1090x/polybar-themes)
-</br>
+
+1.[Polybar](https://github.com/adi1090x/polybar-themes)</br>
+![polybar asciinema](https://github.com/EvangeliaChatz/iv/blob/main/reports/Polybar_Installation.gif)</br>
+
+
 2.[Pipes](https://github.com/pipeseroni/pipes.sh)
-</br>
-3.VLC Player
+[pipes asciinema](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) </br>
+
+
+3.VLC Player </br>
+![VLC Player asciinema](https://raw.githubusercontent.com/EvangeliaChatz/iv/main/reports/VLC_Installation.gif)
 
