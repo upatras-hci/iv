@@ -130,6 +130,13 @@ From now the vim file will open with solarized theme.
 ** The above commands are from different sources on internet. I found them while surfing for "How to"
 
 
-
-
+## Custom Desktop Enviroment
+For command line usage I installed a simple [window manager]( https://courses-ionio.github.io/help/cli/).
+I also installed the following [packages](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_2_Solution): 
+</br>
+1.[Polybar](https://github.com/adi1090x/polybar-themes)
+</br>
+2.[Pipes](https://github.com/pipeseroni/pipes.sh)
+</br>
+3.VLC Player
 
