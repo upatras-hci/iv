@@ -50,8 +50,8 @@ I create a branch
 
 
 ## Participatory content 1Α
-About this delivered, we decided all together that we will place content, regarding to how the art is highlighted.
-* Text to Image AI is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description
+About this delivered, we decided all together that we will place content, regarding to how the art is highlighted.</be>
+Text to Image AI is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description
 in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
 there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
 but are not free to use.
