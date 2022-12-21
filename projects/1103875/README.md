@@ -78,7 +78,7 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 
 [Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/likert-form.md)
 [Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/likert-form.md)
-[Link στο OpenPen](https://codepen.io/e-liouta/pen/VwBwboJ)
+[Link στο CodePen](https://codepen.io/e-liouta/pen/VwBwboJ)
 [Δείτε το εδώ](https://dashing-cheesecake-2c49b0.netlify.app/remix/likert-form/)
 
 #### Toggle Night Mode
@@ -86,7 +86,7 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 
 [Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/toggle-night-mode.md)
 [Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/toggle-night-mode.md)
-[Link στο OpenPen](https://codepen.io/e-liouta/pen/MWBWoPz)
+[Link στο CodePen](https://codepen.io/e-liouta/pen/MWBWoPz)
 [Δείτε το εδώ](https://dashing-cheesecake-2c49b0.netlify.app/remix/toggle-night-mode/)
 
 
