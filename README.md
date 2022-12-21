@@ -76,6 +76,7 @@ So the installation was repeated in Virtual Box shown in the [photo](https://git
 
 
 [---------------------Installation of powerline---------------------](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx) </br>
+[![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
 <ol>
     <li>install powerline & powerline-fonts packages with sudo pacman</li>
     <li>add the following lines to ~/.bashrc file in order to enable powerline</li>
@@ -93,6 +94,7 @@ I Opened the .bashr file and erase the # to make them active.</br></li>
 
 
 [---------------------Neofetch Installation---------------------](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) </br>
+[![asciicast](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)
 <ol>
     <li>downolad neofetch package with sudo pacman</li>
    <li>run neofetch</li>
@@ -101,7 +103,7 @@ I Opened the .bashr file and erase the # to make them active.</br></li>
 
 
 [--------------------- Solarized Installation---------------------](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN) </br>
-
+[![asciicast](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN.svg)](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN)
 <ol>
     <li>Download solarized package. There you will fine a file with name: solarized.vim</li>
     <li>Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir </li>
