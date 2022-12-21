@@ -130,6 +130,9 @@ From now the vim file will open with solarized theme.
 
 ** The above commands are from different sources on internet. I found them while surfing for "How to"
 
+## Participatory content 2Α
+For the participatory content 2A we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). At the moment there are some problems with the naming of the images as well as with the paths and for this reason the files are not properly connected to each other. It is expected to be fixed soon.
+
 
 ## Custom Desktop Enviroment
 For command line usage I installed a simple [window manager]( https://courses-ionio.github.io/help/cli/).
