@@ -133,7 +133,6 @@ From now the vim file will open with solarized theme.
 ## Participatory content 2Α
 For the participatory content 2A we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). At the moment there are some problems with the naming of the images as well as with the paths and for this reason the files are not properly connected to each other. It is expected to be fixed soon.
 
-
 ## Custom Desktop Enviroment
 For command line usage I installed a simple [window manager]( https://courses-ionio.github.io/help/cli/).
 I also installed the following [packages](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_2_Solution): 
@@ -144,7 +143,7 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 
 2.[Pipes](https://github.com/pipeseroni/pipes.sh)
-[pipes asciinema](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) </br>
+[![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) </br>
 
 
 3.VLC Player </br>
