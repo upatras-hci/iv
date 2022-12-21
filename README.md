@@ -59,21 +59,19 @@ The photo caption was created with the use of free Internet software "DeepAI", a
 and using "Dancing Animals" as input the input text.
 </br>
 
+
 ![dancingAnimals(2)](https://github.com/EvangeliaChatz/iv/blob/main/dancingAnimals(2).jpeg) </br>
 <sup>The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
 
 
 * [gallery](https://github.com/upatras-HCI-2022/_gallery/blob/master/texttoImage.md)
 * [images]( )
-
+* [pull request](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6fac) at organization's repository  </br>
 
 ## Command Line 1
-* Firsty, I tried to install Arch Linux with USB, , but I couldn't input characters in terminale
-So the installation was repeated in Virtual Box shown in the [photo](https://github.com/EvangeliaChatz/iv/blob/main/virtual%20box.png) below. </br>
-
-* So re-installed in Virtual Box </br> </br>
-
-
+Firsty, I tried to install Arch Linux with USB, but I couldn't input characters in terminale
+So the installation was repeated in Virtual Box shown in the [photo](https://github.com/EvangeliaChatz/iv/blob/main/virtual%20box.png) below. </br>So re-installed in Virtual Box </br> 
+I followed the below steps: </br>
 
 [---------------------Installation of powerline---------------------](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx) </br>
 [![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
@@ -136,7 +134,7 @@ From now the vim file will open with solarized theme.
 For the participatory content 2A we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). At the moment there are some problems with the naming of the images as well as with the paths and for this reason the files are not properly connected to each other. It is expected to be fixed soon.
 
 ## Custom Desktop Enviroment
-For command line usage I installed a simple [window manager]( https://courses-ionio.github.io/help/cli/).
+For command line usage I installed [window manager]( https://courses-ionio.github.io/help/cli/).
 I also installed the following [packages](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_2_Solution): 
 </br>
 
@@ -150,4 +148,3 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 3.VLC Player </br>
 ![VLC Player asciinema](https://raw.githubusercontent.com/EvangeliaChatz/iv/main/reports/VLC_Installation.gif)
-
