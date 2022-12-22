@@ -72,20 +72,24 @@ So the installation was repeated in Virtual Box shown in the [photo](https://git
 I followed the below steps: </br>
 
 [---------------------Installation of powerline---------------------](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx) </br>
-[![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
-<ol>
-    <li>install powerline & powerline-fonts packages with sudo pacman</li>
-    <li>add the following lines to ~/.bashrc file in order to enable powerline</li>
-  <li>powerline-deamon -q #if this line creates error remove it</li>
-  <li>POWERLINE_BASH_CONTINUATION=1 <br />
-POWERLINE_BASH_SELECT=1 <br />
-. /usr/lib/python3.10/site-packages/powerline/bindings/bash/powerline.sh </li>
-  <li>instead of python3.10 place the version of your installed python</li>
-  <li>check which python installed with: python --version</li>
-  <li>finally, source .bashrc, or close and reopen Terminal
+1. Install powerline & powerline-fonts packages with sudo pacman:
+```sh
+sudo pacman -S powerline
+``` 
+2. add the following lines to ~/.bashrc file in order to enable powerline:
+```sh
+vim .bashrc
+``` 
+3.powerline-deamon -q #if this line creates error remove it
+3.finally, source .bashrc, or close and reopen Terminal
+sudo pacman -S powerline powerline-font
+```sh
 sudo pacman -S powerline powerline-fonts
-I Opened the .bashr file and erase the # to make them active.</br></li>
-</ol>
+``` 
+4.I Opened the .bashr file and erase the # to make them active
+
+[![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
+
 
 
 [---------------------Neofetch Installation---------------------](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) </br>
@@ -94,7 +98,7 @@ Neofetch is a tool that allows us to get basic information about the installed s
 ```sh
 sudo pacman -S neofetch
 ``` 
-1. And run neofetch:
+2. And run neofetch:
 ```sh
 neofetch
 ``` 
@@ -105,8 +109,8 @@ neofetch
 [--------------------- Solarized Installation---------------------](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN) </br>
 1. Download solarized package. There you will fine a file with name: solarized.vim:</br>
 2. Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir </br>
-3. if you have no permissions to make that move, do it as a root </br>
-4. o become root type: sudo -i </br>
+3. If you have no permissions to make that move, do it as a root </br>
+4. To become root type: sudo -i </br>
 5. Then create a vim file with name '.vimrc' on /home folder and place the below </br>
 ```sh
 syntax enable set background=dark colorscheme solarized
