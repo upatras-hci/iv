@@ -71,22 +71,23 @@ Firsty, I tried to install Arch Linux with USB, but I couldn't input characters 
 So the installation was repeated in Virtual Box shown in the [photo](https://github.com/EvangeliaChatz/iv/blob/main/virtual%20box.png) below.So re-installed in Virtual Box </br> 
 I followed the below steps: </br>
 
-[---------------------Installation of powerline---------------------](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx) </br>
+[---------------------Installation of powerline---------------------](https://github.com/powerline/powerline) </br>
 1. Install powerline & powerline-fonts packages with sudo pacman:
 ```sh
 sudo pacman -S powerline
 ``` 
-2. add the following lines to ~/.bashrc file in order to enable powerline:
+2. Add the following lines to ~/.bashrc file in order to enable powerline:
 ```sh
 vim .bashrc
 ``` 
-3.powerline-deamon -q #if this line creates error remove it
-3.finally, source .bashrc, or close and reopen Terminal
+3.Powerline-deamon -q #if this line creates error remove it
+
+4.Finally, source .bashrc, or close and reopen Terminal
 sudo pacman -S powerline powerline-font
 ```sh
 sudo pacman -S powerline powerline-fonts
 ``` 
-4.I Opened the .bashr file and erase the # to make them active
+5.I Opened the .bashr file and erase the # to make them active
 
 [![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
 
@@ -106,7 +107,7 @@ neofetch
 
 
 
-[--------------------- Solarized Installation---------------------](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN) </br>
+[--------------------- Solarized Installation---------------------](https://github.com/altercation/solarized) </br>
 1. Download solarized package. There you will fine a file with name: solarized.vim:</br>
 2. Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir </br>
 3. If you have no permissions to make that move, do it as a root </br>
