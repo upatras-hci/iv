@@ -66,7 +66,7 @@ and using "Dancing Animals" as input the input text.
 * [images]( )
 * [pull request](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6fac) at organization's repository  </br>
 
-## Command Line 1
+## Command Line 1-ArchLinux
 Firsty, I tried to install Arch Linux with USB, but I couldn't input characters in terminale
 So the installation was repeated in Virtual Box shown in the [photo](https://github.com/EvangeliaChatz/iv/blob/main/virtual%20box.png) below. </br>So re-installed in Virtual Box </br> 
 I followed the below steps: </br>
