@@ -124,7 +124,7 @@ syntax enable set background=dark colorscheme solarized
 For the participatory content 2A we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). At the moment there are some problems with the naming of the images as well as with the paths and for this reason the files are not properly connected to each other. It is expected to be fixed soon.
 
 ## Custom Desktop Enviroment
-For command line usage I installed [window manager]( https://courses-ionio.github.io/help/cli/).
+For command line usage I installed a simple [window manager]( https://courses-ionio.github.io/help/cli/).
 I also installed the following [packages](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_2_Solution):The Polybar font is package with default status bar.I tried the `hack` theme. Polybar package is for add to our desktop a status bar that shows information relative to CPU usage, RAM usage, information about connection, volume. The second package is a screensaver, fills it with moving images or patterns when the computer has been idle for a designated time.The third one, is the well known, VLC Player.
 </br>
 <sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
