@@ -63,7 +63,7 @@ and using "Dancing Animals" as input the input text.
 
 
 * [gallery](https://github.com/upatras-HCI-2022/_gallery/blob/master/texttoImage.md)
-* [images]( )
+* [images](https://github.com/upatras-HCI-2022/images/commit/993d4264bf17d75fb7828c65365295907affe810)
 * [pull request](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6fac) at organization's repository  </br>
 
 ## Command Line 1-ArchLinux
