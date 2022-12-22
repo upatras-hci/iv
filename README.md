@@ -19,10 +19,8 @@
 
 
 ## Personal Information
-```sh
-Όνομα: Chatzilygeroudi Evangelia
+Όνομα: Chatzilygeroudi Evangelia </br>
 ΑΜ: 1018865
-```
 
 ## Introduction
 My name is Chatzilygeroudi Evangelia.
@@ -90,12 +88,8 @@ I Opened the .bashr file and erase the # to make them active.</br></li>
 </ol>
 
 
-
 [---------------------Neofetch Installation---------------------](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) </br>
-[![asciicast](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)</br>
-
 Neofetch is a tool that allows us to get basic information about the installed system. It is the ideal tool to learn at a glance the basic features of the installed operating system. We can install it very simply by running the command:</br>
-</br>
 1. Downolad neofetch package with:
 ```sh
 sudo pacman -S neofetch
@@ -104,36 +98,22 @@ sudo pacman -S neofetch
 ```sh
 neofetch
 ``` 
+[![asciicast](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)</br>
+
+
 
 [--------------------- Solarized Installation---------------------](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN) </br>
+1. Download solarized package. There you will fine a file with name: solarized.vim:</br>
+2. Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir </br>
+3. if you have no permissions to make that move, do it as a root </br>
+4. o become root type: sudo -i </br>
+5. Then create a vim file with name '.vimrc' on /home folder and place the below </br>
+```sh
+syntax enable set background=dark colorscheme solarized
+``` 
+6.From now the vim file will open with solarized theme.</br>
 [![asciicast](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN.svg)](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN)
-<ol>
-    <li>Download solarized package. There you will fine a file with name: solarized.vim</li>
-    <li>Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir </li>
-  <li>if you have no permissions to make that move, do it as a root</li>
-  <li>To become root type: sudo -i</li>
-  <li>Then create a vim file with name '.vimrc' on /home folder and place the below</li>
-</ol>
 
-syntax enable
-set background=dark
-colorscheme solarized
-
-From now the vim file will open with solarized theme.
-
-Download solarized package. There you will fine a file with name: solarized.vim
-Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir
-if you have no permissions to make that move, do it as a root
-To become root type: sudo -i
-Then create a vim file with name '.vimrc' on /home folder and place the below
-
-syntax enable
-set background=dark
-colorscheme solarized
-
-From now the vim file will open with solarized theme. 
-
-** The above commands are from different sources on internet. I found them while surfing for "How to"
 
 ## Participatory content 2Α
 For the participatory content 2A we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). At the moment there are some problems with the naming of the images as well as with the paths and for this reason the files are not properly connected to each other. It is expected to be fixed soon.
