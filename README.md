@@ -62,7 +62,7 @@ and using "Dancing Animals" as input the input text.
 <sup>The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
 
 
-* [gallery](https://github.com/upatras-HCI-2022/_gallery/blob/master/texttoImage.md)
+* [gallery](https://github.com/upatras-HCI-2022/_gallery/commit/03b3afcf79651c0230bbb28abcdbc3de3b2a2f68)
 * [images](https://github.com/upatras-HCI-2022/images/commit/993d4264bf17d75fb7828c65365295907affe810)
 * [pull request](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6fac) at organization's repository  </br>
 
