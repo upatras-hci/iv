@@ -135,14 +135,15 @@ For the participatory content 2A we added to the [slides](https://github.com/upa
 
 ## Custom Desktop Enviroment
 For command line usage I installed [window manager]( https://courses-ionio.github.io/help/cli/).
-I also installed the following [packages](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_2_Solution): 
+I also installed the following [packages](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_2_Solution):The Polybar font is package with default status bar.I tried the `hack` theme. Polybar package is for add to our desktop a status bar that shows information relative to CPU usage, RAM usage, information about connection, volume.
 </br>
+<sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
 
 1.[Polybar](https://github.com/adi1090x/polybar-themes)</br>
 ![polybar asciinema](https://github.com/EvangeliaChatz/iv/blob/main/reports/Polybar_Installation.gif)</br>
 
 
-2.[Pipes](https://github.com/pipeseroni/pipes.sh)
+2.[Pipes](https://github.com/pipeseroni/pipes.sh)</br>
 [![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) </br>
 
 
