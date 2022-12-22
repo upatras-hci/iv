@@ -92,13 +92,18 @@ I Opened the .bashr file and erase the # to make them active.</br></li>
 
 
 [---------------------Neofetch Installation---------------------](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) </br>
-[![asciicast](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)
-<ol>
-    <li>downolad neofetch package with sudo pacman</li>
-   <li>run neofetch</li>
-</ol>
+[![asciicast](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)</br>
 
-
+Neofetch is a tool that allows us to get basic information about the installed system. It is the ideal tool to learn at a glance the basic features of the installed operating system. We can install it very simply by running the command:</br>
+</br>
+1. Downolad neofetch package with:
+```sh
+sudo pacman -S neofetch
+``` 
+1. And run neofetch:
+```sh
+neofetch
+``` 
 
 [--------------------- Solarized Installation---------------------](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN) </br>
 [![asciicast](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN.svg)](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN)
