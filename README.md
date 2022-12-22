@@ -68,7 +68,7 @@ and using "Dancing Animals" as input the input text.
 
 ## Command Line 1-ArchLinux
 Firsty, I tried to install Arch Linux with USB, but I couldn't input characters in terminale
-So the installation was repeated in Virtual Box shown in the [photo](https://github.com/EvangeliaChatz/iv/blob/main/virtual%20box.png) below. </br>So re-installed in Virtual Box </br> 
+So the installation was repeated in Virtual Box shown in the [photo](https://github.com/EvangeliaChatz/iv/blob/main/virtual%20box.png) below.So re-installed in Virtual Box </br> 
 I followed the below steps: </br>
 
 [---------------------Installation of powerline---------------------](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx) </br>
