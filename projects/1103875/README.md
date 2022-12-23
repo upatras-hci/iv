@@ -65,8 +65,9 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 Για το συμμετοχικό B1 η προσθήκη μου προσπαθώντας να ακολουθήσω το θέμα που είχε η ομάδα από προηγούμενα συμμετοχικά αφορά τα 3D Συστήματα Διάδρασης. 
 Στις μέρες μας η χρήση τρισδιάστατων διεπαφών είναι πολύ διαδεδομένη και επιτρέπει λεπτομερή οπτικοποίηση πληροφοριών. Τέτοιες διεπαφές αλληλεπίδρασης εφαρμόζονται σε πολλούς τομείς όπως για παράδειγμα τα video games, η τέχνη, η προσομοίωση, η εκπαίδευση, αρχιτεκτονική, η ρομποτική, η ιατρική κ.α. Η αρχή έγινε το 1963 με τον σχεδιασμό του δραδραστικού CAD συστήματος "Sketchpad" από τον Ivan Sutherland το οποίο αργότερα ο Timothy E. Johnson αναβάθμισε σε μια τρισδιάστατη έκδοση του προγράμματος και την ίδια περίοδο ο Lawrence G. Roberts πρόσθεσε την υποστήριξη για 3D Solids.
 
-[Το link του αρχείου μου στον φάκελο includes](https://github.com/e-liouta/site/blob/master/_includes/3d-cad.md)
-[To link του αρχείου μου στο case study](https://github.com/e-liouta/site/blob/master/_case-study/3d.md)
+[Το link του αρχείου μου στον φάκελο includes](https://github.com/e-liouta/site/blob/master/_includes/3d-cad.md)</br></br></br>
+[To link του αρχείου μου στο case study](https://github.com/e-liouta/site/blob/master/_case-study/3d.md)</br></br>
+[Δείτε το εδώ](https://wondrous-paletas-7dd991.netlify.app/case-study/3d/)</br>
 
 ## Συμμετοχικό Περιεχόμενο 2
 ### Α
@@ -76,18 +77,18 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 #### Likert Scale
 Η φόρμα Likert είναι μια κλίμακα αξιολόγησης που χρησιμοποιείται για τη μέτρηση απόψεων, στάσεων και ευχαρίστησης. Οι ερωτηθέντες επιλέγουν την επιλογή που αντιστοιχεί καλύτερα στο πώς αισθάνονται για τη δήλωση ή την ερώτηση.
 
-[Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/likert-form.md)
-[Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/likert-form.md)
-[Link στο CodePen](https://codepen.io/e-liouta/pen/VwBwboJ)
-[Δείτε το εδώ](https://dashing-cheesecake-2c49b0.netlify.app/remix/likert-form/)
+[Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/likert-form.md)</br></br></br></br>
+[Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/likert-form.md)</br></br></br>
+[Link στο CodePen](https://codepen.io/e-liouta/pen/VwBwboJ)</br></br>
+[Δείτε το εδώ](https://aquamarine-unicorn-d025d3.netlify.app/remix/likert-form/)</br>
 
 #### Toggle Night Mode
 Το κουμπί τύπου checkbox για αλλαγή σε night mode είναι ένα παράδειγμα διαδραστικού κώδικα όπου ο χρήστης χρησιμοποιώντας το ποντίκι, πατώντας το κουμπί μπορεί να αλλάξει τα χρώματα του background και του κειμένου από ανοιχτόχρωμο (light mode) σε σκουρόχρωμο (night mode) και το αντίστροφο.
 
-[Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/toggle-night-mode.md)
-[Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/toggle-night-mode.md)
-[Link στο CodePen](https://codepen.io/e-liouta/pen/MWBWoPz)
-[Δείτε το εδώ](https://dashing-cheesecake-2c49b0.netlify.app/remix/toggle-night-mode/)
+[Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/toggle-night-mode.md)</br></br></br></br>
+[Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/toggle-night-mode.md)</br></br></br>
+[Link στο CodePen](https://codepen.io/e-liouta/pen/MWBWoPz)</br></br>
+[Δείτε το εδώ](https://aquamarine-unicorn-d025d3.netlify.app/remix/toggle-night-mode/)</br>
 
 
 
