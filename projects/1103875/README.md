@@ -67,9 +67,19 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 Για το συμμετοχικό B1 η προσθήκη μου προσπαθώντας να ακολουθήσω το θέμα που είχε η ομάδα από προηγούμενα συμμετοχικά αφορά τα 3D Συστήματα Διάδρασης. 
 Στις μέρες μας η χρήση τρισδιάστατων διεπαφών είναι πολύ διαδεδομένη και επιτρέπει λεπτομερή οπτικοποίηση πληροφοριών. Τέτοιες διεπαφές αλληλεπίδρασης εφαρμόζονται σε πολλούς τομείς όπως για παράδειγμα τα video games, η τέχνη, η προσομοίωση, η εκπαίδευση, αρχιτεκτονική, η ρομποτική, η ιατρική κ.α. Η αρχή έγινε το 1963 με τον σχεδιασμό του δραδραστικού CAD συστήματος "Sketchpad" από τον Ivan Sutherland το οποίο αργότερα ο Timothy E. Johnson αναβάθμισε σε μια τρισδιάστατη έκδοση του προγράμματος και την ίδια περίοδο ο Lawrence G. Roberts πρόσθεσε την υποστήριξη για 3D Solids.
 
-[Το link του αρχείου μου στον φάκελο includes](https://github.com/e-liouta/site/blob/master/_includes/3d-cad.md)</br></br></br>
-[To link του αρχείου μου στο case study](https://github.com/e-liouta/site/blob/master/_case-study/3d.md)</br></br>
+[Το link του αρχείου μου στον φάκελο includes](https://github.com/e-liouta/site/blob/master/_includes/3d-cad.md)</br>
+[To link του αρχείου μου στο case study](https://github.com/e-liouta/site/blob/master/_case-study/3d.md)</br>
+[Το link του αρχείου μου στον φάκελο includes της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_includes/3d-cad.md)</br>
+[To link του αρχείου μου στο case study της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/3d.md)</br>
 [Δείτε το εδώ](https://wondrous-paletas-7dd991.netlify.app/case-study/3d/)</br>
+
+Για το κομμάτι της βιογραφίας αποφάσισα να προσθέσω αυτή του Myron W. Krueger τον οποίο πολλές φορές έχουμε αναφέρει και στο μάθημα. Έχοντας την ευκαιρία μέσα από αυτή την άσκηση να μάθω περισσότερα γι αυτόν και το έργο του, εντυπωσιάστηκα από το πως συνδυάζει τον καλλιτεχνικό τρόπο σκέψης του με τον κλάδο της πληροφορικής και κατάφερε να προσφέρει.
+
+[Το link του αρχείου μου στον φάκελο includes](https://github.com/e-liouta/site/blob/master/_includes/bio-myron-krueger.md)</br>
+[To link του αρχείου μου στο biography](https://github.com/e-liouta/site/blob/master/_biography/myron-krueger.md)</br>
+[Το link του αρχείου μου στον φάκελο includes](https://github.com/upatras-HCI-2022/site/blob/master/_includes/bio-myron-krueger.md)</br>
+[To link του αρχείου μου στο biography](https://github.com/upatras-HCI-2022/site/blob/master/_biography/myron-krueger.md)</br>
+[Δείτε το εδώ](https://wondrous-paletas-7dd991.netlify.app/biography/myron-krueger/)</br>
 
 ## Συμμετοχικό Περιεχόμενο 2
 ### Α
