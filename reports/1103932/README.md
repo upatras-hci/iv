@@ -13,10 +13,10 @@ Name: Karatsoulas Dimitrios</br>
 | 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#Content-1Α) |[Content 1A](https://github.com/upatras-hci/iv/discussions/50) | |
 | 5 | [γραμμή εντολών (custom desktop environment)](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CommandLine-2) |[CommandLine-2](https://github.com/upatras-hci/iv/discussions/58) | |
 | 6 | [συμμετοχικό περιεχόμενο 2Α](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#Content-2Α) |[Content 2A](https://github.com/upatras-hci/iv/discussions/72) | |
-| 7 | βιογραφικό Β | | |
-| 8 | γραμμή εντολών (iv cli) | | |
-| 9 | συμμετοχικό περιεχόμενο 1Β | | |
-| 10 | γραμμή εντολών (iv cli | | |
+| 7 | [βιογραφικό Β](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CV-pdf) |[CV-pdf]() | |
+| 8 | [γραμμή εντολών (iv cli)](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CommandLine-3) |[CommandLine-3](https://github.com/upatras-hci/iv/discussions/63) | |
+| 9 | [συμμετοχικό περιεχόμενο 1Β](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#Content-2B) |[Content 1Β](https://github.com/upatras-hci/iv/discussions/75) | |
+| 10 | [γραμμή εντολών (iv cli)](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CommandLine-4) |[CommandLine-4](https://github.com/upatras-hci/iv/discussions/63) | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -73,4 +73,29 @@ Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
 - **[Το παράδειγμα όπως εμφανίζεται στο βιβλίο](https://aquamarine-unicorn-d025d3.netlify.app/remix/animated-hamburger-button/)**
 - **[JavaScript Piano](https://codepen.io/akimo13/pen/KKBwYxJ)**
 - **[Το παράδειγμα όπως εμφανίζεται στο βιβλίο](https://aquamarine-unicorn-d025d3.netlify.app/remix/piano-javascript/)**
+
+## CV-pdf
+
+Προς το παρόν δεν έχει υπάρξει πρόοδος για τη συγκεκριμένη άσκηση.
+
+## CommandLine-3
+
+Για τις ανάγκες της συγκεκριμένης δραστηριότητας έγινε χρήση στο Arch Linux του εργαλείου [`spark`](https://github.com/holman/spark). Το συγεκριμένο εργαλείο κάνει στην οθόνη μια υποτυπώδη οπτικοποίηση δεδομένων. Με τη χρήση του κατάλληλου αρχείου και των κατάλληλων παραμέτρων, έγινε οπτικοποίηση των δεδομένων που αφορούν στους σεισμούς άνω του 1.0 βαθμού στην κλίμακα Ρίχτερ που έγιναν τον τελευταίο μήνα στις Η.Π.Α.
+
+[Asciinema Link](https://asciinema.org/a/544097)
+
+## Content-1B
+Στο πλαίσιο της άσκησης 1Β επέλεξα να ασχοληθώ με τη μελέτη περίπτωσης **To VR ως μορφή τέχνης**.
+
+[Link στο βιβλίο](https://wondrous-paletas-7dd991.netlify.app/case-study/vr/)
+[Link στο repository της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/vr.md)
+
+Η μελέτη περίπτωσης μέχρι και σήμερα 19/01/23 είναι ημιτελής, ενώ δεν έχει γίνει και το κομμάτι Β2, της βιογραφίας.
+
+
+## CommandLine-4
+
+Για τις ανάγκες της συγκεκριμένης δραστηριότητας έγινε εγκατάσταση στο Arch Linux του εργαλείου [`python wordcloud`](https://github.com/amueller/word_cloud). Το συγεκριμένο εργαλείο μπορεί να δεχθεί κείμενο σε διάφορες μορφές και να παράξει συννεφόλεξα. Ένα συννεφόλεξο απεικονίζει τις πιο συχνές λέξεις σε ένα κείμενο σε σχήμα (mask) που μπορούμε να ορίσουμε από μια εικόνα. Ως πηγή για κείμενο επέλεξα το βιβλίο Moby Dick σε μορφή `.txt` και σαν mask όρισα μια εικόνα-cartoon φάλαινας. 
+
+[Asciinema Link](https://asciinema.org/a/0PNdOW5BdCEGdIkt6I0zsgYfj)
 
