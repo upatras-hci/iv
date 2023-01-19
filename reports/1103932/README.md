@@ -12,7 +12,7 @@ Name: Karatsoulas Dimitrios</br>
 | 3 | [γραμμή εντολών (arch linux)](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CommandLine-1) |[CommandLine-1](https://github.com/upatras-hci/iv/discussions/46) | |
 | 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#Content-1Α) |[Content 1A](https://github.com/upatras-hci/iv/discussions/50) | |
 | 5 | [γραμμή εντολών (custom desktop environment)](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CommandLine-2) |[CommandLine-2](https://github.com/upatras-hci/iv/discussions/58) | |
-| 6 | [συμμετοχικό περιεχόμενο 2Α](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#Content-2Α) |[Content 2A]https://github.com/upatras-hci/iv/discussions/72) | |
+| 6 | [συμμετοχικό περιεχόμενο 2Α](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#Content-2Α) |[Content 2A](https://github.com/upatras-hci/iv/discussions/72) | |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
