@@ -64,10 +64,14 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 
 ### A2
 
-Για το A2 καταφέραμε και μας δούλεψε το deploy στο netlify με κάποια προβλήματα μεν που θα συζητήσουμε και μαζί στο μάθημα. Προσθέσαμε στους φακέλους slides και timeline από ένα αρχείο art.md με το αντίστοιχο layout του οποίο και πρόκειται να συγκεντρώνει όλες μας τις εικόνες μαζί.</br>
+Για το A2 προσθέσαμε στους φακέλους slides και timeline από ένα αρχείο art.md με το αντίστοιχο layout του οποίο και πρόκειται να συγκεντρώνει όλες μας τις εικόνες μαζί.</br>
 
-• [Slides](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md)</br>
-• [Timeline](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md)</br>
+• [Slides στο repository μου](https://github.com/e-liouta/site/blob/master/_slides/art.md)</br>
+• [Slides στο repository στον οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md)</br>
+• [Timeline στο repository μου](https://github.com/e-liouta/site/blob/master/_timeline/art.md)</br>
+• [Timeline στο repository στον οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md)</br>
+[Δείτε εδώ τις διαφάνειες](https://wondrous-paletas-7dd991.netlify.app/slides/art/)</br>
+[Δείτε εδώ το χρονολόγιο](https://wondrous-paletas-7dd991.netlify.app/timeline/art/)
 
 ### B1
 
