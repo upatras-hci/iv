@@ -95,17 +95,17 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 #### Likert Scale
 Η φόρμα Likert είναι μια κλίμακα αξιολόγησης που χρησιμοποιείται για τη μέτρηση απόψεων, στάσεων και ευχαρίστησης. Οι ερωτηθέντες επιλέγουν την επιλογή που αντιστοιχεί καλύτερα στο πώς αισθάνονται για τη δήλωση ή την ερώτηση.
 
-[Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/likert-form.md)</br></br></br></br>
-[Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/likert-form.md)</br></br></br>
-[Link στο CodePen](https://codepen.io/e-liouta/pen/VwBwboJ)</br></br>
+[Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/likert-form.md)</br>
+[Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/likert-form.md)</br>
+[Link στο CodePen](https://codepen.io/e-liouta/pen/VwBwboJ)</br>
 [Δείτε το εδώ](https://aquamarine-unicorn-d025d3.netlify.app/remix/likert-form/)</br>
 
 #### Toggle Night Mode
 Το κουμπί τύπου checkbox για αλλαγή σε night mode είναι ένα παράδειγμα διαδραστικού κώδικα όπου ο χρήστης χρησιμοποιώντας το ποντίκι, πατώντας το κουμπί μπορεί να αλλάξει τα χρώματα του background και του κειμένου από ανοιχτόχρωμο (light mode) σε σκουρόχρωμο (night mode) και το αντίστροφο.
 
-[Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/toggle-night-mode.md)</br></br></br></br>
-[Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/toggle-night-mode.md)</br></br></br>
-[Link στο CodePen](https://codepen.io/e-liouta/pen/MWBWoPz)</br></br>
+[Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/toggle-night-mode.md)</br>
+[Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/toggle-night-mode.md)</br>
+[Link στο CodePen](https://codepen.io/e-liouta/pen/MWBWoPz)</br>
 [Δείτε το εδώ](https://aquamarine-unicorn-d025d3.netlify.app/remix/toggle-night-mode/)</br>
 
 
