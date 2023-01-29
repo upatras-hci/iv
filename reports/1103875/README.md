@@ -37,7 +37,7 @@
 Για τη δημιουργία του βιογραφικού μου χρησιμοποίησα ένα το Jeskyl Theme ["modern-resume-theme"](https://github.com/sproogen/modern-resume-theme)
 Αφού έκανα τα αρχεία push στο αποθετήριό μου έκανα τις κατάλληλες αλλαγές για να ταιριάζει με τα δικά μου στοιχεία.
 
-[Το link του repository](https://github.com/e-liouta/e-liouta.github.io)</br>
+[Το link του repository μου](https://github.com/e-liouta/e-liouta.github.io)</br>
 [To link του Βιογραφικού](https://e-liouta.github.io/)
 
 Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτιαξα ένα καινούριο αυτή τη φορά επέλεξε ένα jekyll theme με deply στο netlify ώστε να εξοικειωθώ περισσότερο και με αυτό.
@@ -57,8 +57,10 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 Για το συμμετοχικό περιεχόμενο αποφασίσαμε σαν ομάδα να έχουμε ως κοινό θέμα εφαρμογές στην τέχνη. Το δικό μου συμμετοχικό περιεχόμενο έχει να κάνει με το λογισμικό Super Paint του Richard Shoup. Η SuperPaint εξαγοράζεται από την Aldus Corporation το 1990. Η version 3.0 πρόσθεσε πολλές επιπλέον δυνατότητες, κυρίως υποστήριξη χρωμάτων, αλλά και λειτουργίες βελτίωσης εικόνας και γεμίσματα υφής. Αργότερα το 1994, η Aldus απορροφήθηκε από την Adobe.. Η δεύτερη μου προσθήκη έχει να κάνει με κάτι πιο σύγχρονο, τη μηχανή Mind Music Machine του Philart Jeon όπου στην προσπάθειά του να κατανοήσει καλύτερα το μυαλό των καλλιτεχνών έφτιαξε αυτή τη μηχανή που ενώ κάποιος καλλιτέχνης σχεδιάζει κάτι παίρνει μετρήσεις όπως ο καρδιακός του ρυθμός και η δραστηριότητα των εγκεφαλικών του κυμάτων και αναλύοντας αυτές τις μετρήσεις, τις μετατρέπουν σε ένα άλλο έργο τέχνης, ένα μουσικό κομμάτι.
 
 
-• [Aldus Super Paint 3.0](https://github.com/e-liouta/_gallery/blob/cf90d6d1fdfa7c9550a0b3581f22ab87a4aa6da7/aldus-superpaint-3.0.md)</br>
-• [Mind Music Machine](https://github.com/e-liouta/_gallery/blob/cf90d6d1fdfa7c9550a0b3581f22ab87a4aa6da7/the-mind-music-machine.md)</br>
+• [Aldus Super Paint 3.0 στο repository μου](https://github.com/e-liouta/_gallery/blob/cf90d6d1fdfa7c9550a0b3581f22ab87a4aa6da7/aldus-superpaint-3.0.md)</br>
+• [Aldus Super Paint 3.0 στο repository στον οργανισμού](https://github.com/upatras-HCI-2022/_gallery/blob/master/aldus-superpaint-3.0.md)</br>
+• [Mind Music Machine στο repository μου](https://github.com/e-liouta/_gallery/blob/cf90d6d1fdfa7c9550a0b3581f22ab87a4aa6da7/the-mind-music-machine.md)</br>
+• [Mind Music Machine στο repository στον οργανισμού](https://github.com/upatras-HCI-2022/_gallery/blob/master/the-mind-music-machine.md)</br>
 
 ### A2
 
