@@ -31,6 +31,7 @@
 ##### κάποια σχέδιά μου
 <img src="https://user-images.githubusercontent.com/17378923/209309974-a610c4a2-ae24-4519-b8f8-94a2b9ba2e75.png" alt="drawing" height="350"/><img src="https://user-images.githubusercontent.com/17378923/209310046-977f4c4c-931b-400d-9306-71cc05de2153.png" alt="drawing 2" height="350"/><img src="https://user-images.githubusercontent.com/17378923/209310376-66483797-cdbe-40c4-83f1-9de4d1c7a777.png" alt="drawing 2" height="350"/>
 
+
 ## CV-Site
 
 Για τη δημιουργία του βιογραφικού μου χρησιμοποίησα ένα το Jeskyl Theme ["modern-resume-theme"](https://github.com/sproogen/modern-resume-theme)
@@ -43,6 +44,11 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 
 [Το link του repository](https://github.com/e-liouta/jekyll-theme-minimal-resume/tree/cv)</br>
 [To link του Βιογραφικού](https://e-liouta.netlify.app/)
+
+## Ομάδα και Webring Ομάδας
+
+Με τους συναδέλφους δημιουργήσαμε την ομάδα [Human - Computer Interaction 2022 - 2023 Team](https://github.com/upatras-HCI-2022) που αποτελείται από 3 μέλη και 2 διαχειριστές οι οποίοι προκύπτουν από ψηφοφορία στο [discussion](https://github.com/orgs/upatras-HCI-2022/discussions) της ομάδας. 
+[To webring της ομάδας μας](https://upatras-hci-2022.github.io/webring/) και [το αποθετήριό του](https://github.com/upatras-HCI-2022/webring). 
 
 ## Συμμετοχικό Περιεχόμενο 1
 
