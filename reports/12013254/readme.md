@@ -58,7 +58,7 @@ and using "Dancing Animals" as input the input text.
 </br>
 
 
-![text-to-image](https://github.com/EvangeliaChatz/iv/blob/main/text-to-image.jpeg) </br>
+  ![Dancing Animals](https://github.com/EvangeliaChatz/iv/blob/main/text-to-image.jpeg) </br>
 <sup>The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
 
 
