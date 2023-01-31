@@ -142,10 +142,35 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 
 
-## Command line (iv cli)
+## Command line1 (iv cli)
 Σε αυτήν την άσκηση χρησιμοποίησα την εντολή [pastel](https://github.com/sharkdp/pastel) από τις [διαθέσιμες](https://github.com/epidrome/dokey) ασκήσεις γραμμών εντολών. Αυτό το πακέτο χρησιμοποιεί χρώματα για να βελπτιώσει το CLI (Command Line Interface), εκτυπώνει δηλαδή χρωματισμένα κείμενα για να τα μετρατρέψει σε πιο όμορφα και αναγνωρήσιμα. Ακολούθησα προσεκτικά τις οδηγίες του repository.
+Pastel is a command line tool for creating and editing colors in terminal applications. On Arch Linux, you can use Pastel to perform the following tasks: </br>
+1.Generate color codes in various formats (e.g., RGB, HEX, ANSI). </br>
+2.Apply color to text and background. </br>
+3.Create color palettes. </br>
+4.Change colors (e.g., lighten, darken, saturate). </br>
+5.Display color information (e.g. RGB values, HEX codes, ANSI codes). </br>
+6.These tasks can be performed with the various subcommands of the Pastel package. </br>
+As a designer, I will use pastel package to generate color palletes. </br>
 
+</br>
+* Αρχικά εγκατέστηστα το pastel package: </br>
 1. Install pastell package:
 ```sh
 sudo pacman -S pastel
 ``` 
+* Για τη δουλειά μου χρησιμοποιώ καθημερινά την εναλλαγή των κωδικών των χρωμάτων. Για παράδειγμα, στο συγκεκριμένο μετατρέπω ένα #hex χρώμα σε rgb:
+
+2. Generate color codes in various formats:
+```sh
+pastel color c837ca | pastel format rgb
+``` 
+* Πολύ χρήσιμο επίσης είναι η δυαντότητα να βρίσκεις το συμπληρωματικό του κάθε χρώματος:
+3. Generate the complement color:
+```sh
+pastel color c837ca | pastel complement
+```
+</br>
+
+
+## Command line2 (iv cli)
