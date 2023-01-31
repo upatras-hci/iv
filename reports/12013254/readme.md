@@ -66,7 +66,7 @@ and using "Dancing Animals" as input the input text.
 * [images](https://github.com/upatras-HCI-2022/images/commit/993d4264bf17d75fb7828c65365295907affe810)
 * [pull request](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6fac) at organization's repository  </br>
 
-## Command Line 1-ArchLinux
+## Command Line -ArchLinux Installation
 Firsty, I tried to install Arch Linux with USB, but I couldn't input characters in terminale
 So the installation was repeated in Virtual Box shown in the [photo](https://github.com/EvangeliaChatz/iv/blob/main/virtual%20box.png) below.So re-installed in Virtual Box </br> 
 I followed the below steps: </br>
@@ -139,3 +139,13 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 3.VLC Player </br>
 ![VLC Player asciinema](https://raw.githubusercontent.com/EvangeliaChatz/iv/main/reports/VLC_Installation.gif)
+
+
+
+## Command line (iv cli)
+Σε αυτήν την άσκηση χρησιμοποίησα την εντολή [pastel](https://github.com/sharkdp/pastel) από τις [διαθέσιμες](https://github.com/epidrome/dokey) ασκήσεις γραμμών εντολών. Αυτό το πακέτο χρησιμοποιεί χρώματα για να βελπτιώσει το CLI (Command Line Interface), εκτυπώνει δηλαδή χρωματισμένα κείμενα για να τα μετρατρέψει σε πιο όμορφα και αναγνωρήσιμα. Ακολούθησα προσεκτικά τις οδηγίες του repository.
+
+1. Install pastell package:
+```sh
+sudo pacman -S pastel
+``` 
