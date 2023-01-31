@@ -175,16 +175,19 @@ pastel color c837ca | pastel complement
 * Επιλέγεις εύκολα οποιοδήποτε χρώμα:
 3. Pick a color:
 ```sh
+pastel pick
+```
+</br>
+
+* Ι use color to improve the cli tools:
+4. Print colorized text from a shell script, in order to make it more beautiful-usable:
+```sh
 pastel paint -n black --on red --bold "EXAMPLE"
 ```
 </br>
 
-* Ι use color to improve your cli tools:
-4. Print colorized text from a shell script, in order to make it more beautiful-usable:
-```sh
-pastel pick
-```
-</br>
+Οι παραπάνω εντολές φαίνονται στο παρακάτω βίντεο:
+[![asciicast](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz)
 
 ## Command line2 (iv cli)
 
