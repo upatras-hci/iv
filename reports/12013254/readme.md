@@ -190,4 +190,4 @@ pastel paint -n black --on red --bold "EXAMPLE"
 [![asciicast](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz)
 
 ## Command line2 (iv cli)
-
+icons-in-terminal
