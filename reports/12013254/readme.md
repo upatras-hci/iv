@@ -172,5 +172,13 @@ pastel color c837ca | pastel complement
 ```
 </br>
 
+* Επιλέγεις εύκολα οποιοδήποτε χρώμα:
+3. Pick a color:
+```sh
+pastel pick
+```
+</br>
+
 
 ## Command line2 (iv cli)
+
