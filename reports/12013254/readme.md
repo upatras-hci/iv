@@ -204,6 +204,18 @@ icons-in-terminal-EDIT
 * [link to the organization's repository](https://github.com/upatras-HCI-2022/site/blob/master/_biography/homer-dudley.md) </br>
 
 
+## Participatory content 2A
+Γι'αυτό το παραδοτέο ως σχεδιάστρια, αποφάσισα οι αλλαγές που θα κάνω στις ασκήσεις να έχουν να κάνουν με την βελτίωση του UI γι' αυτό και επέλεξα διαδραστικά τα παρακάτω διαδραστικά παραδείγματα:</br>
+-Sign up/Sign in form </br>
+* [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
+* [pull request](https://github.com/upatras-HCI-2022/site/pull/12)
+* </br>
+Σε αυτό το παράδειγμα έκανα αλλαγές όπως αλλαγή μεγέθη γραμματοσειρών, καθώς ήταν πολύ μεγάλες και αλλοίωναν το τελικό αποτέλεσμα. </br>
+Αλλαγή στο focus state, όταν ο χρήστης πατάει ένα field της φόρμας για να το συμπληρώσει, και άλλες μικροαλλαγές που φαίνονται στο κώδικα.</br>
+* Animated tab bar
+* [Pull request](https://github.com/upatras-HCI-2022/site/pull/18)
+* [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)
+
 
 
 
