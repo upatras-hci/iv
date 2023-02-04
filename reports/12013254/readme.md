@@ -61,14 +61,14 @@ The photo caption was created with the use of free Internet software "DeepAI", a
 and using "Dancing Animals" as input the input text.
 </br>
 
-
-  ![Dancing Animals](https://drive.google.com/drive/u/2/folders/11NfI3iozcFhM7jXqJKahqCnLk3POFh3w) </br>
+![Dancing Animals](https://user-images.githubusercontent.com/99615706/216759149-247eda50-08ab-4aab-931f-2ee5b4ac69df.jpeg)</br>
 <sup>The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
 
-
-* [gallery](https://github.com/upatras-HCI-2022/_gallery/commit/03b3afcf79651c0230bbb28abcdbc3de3b2a2f68)
-* [images](https://github.com/upatras-HCI-2022/images/commit/993d4264bf17d75fb7828c65365295907affe810)
+* [gallery](https://github.com/EvangeliaChatz/_gallery-hci-2022/blob/master/text-to-image.md)
+* [images](https://github.com/upatras-HCI-2022/images/commit/993d4264bf17d75fb7828c65365295907affe810) 
 * [pull request](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6fac) at organization's repository  </br>
+
+ALLH MIA PHOTO!!!
 
 ## Command Line -ArchLinux Installation
 Firsty, I tried to install Arch Linux with USB, but I couldn't input characters in terminale
@@ -131,8 +131,9 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 </br>
 <sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
 
-1.[Polybar](https://github.com/adi1090x/polybar-themes)</br>
-![polybar asciinema](https://github.com/EvangeliaChatz/iv/blob/main/reports/Polybar_Installation.gif)</br>
+1.Polybar </br>
+![Polybar](https://user-images.githubusercontent.com/99615706/216759556-31a9a9a8-518c-460c-89ab-255547a68533.png)
+</br>
 
 
 2.[Pipes](https://github.com/pipeseroni/pipes.sh)</br>
@@ -140,7 +141,8 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 
 3.VLC Player </br>
-![VLC Player asciinema](https://raw.githubusercontent.com/EvangeliaChatz/iv/main/reports/VLC_Installation.gif)
+![VLC](https://user-images.githubusercontent.com/99615706/216759812-7581647e-4af4-4d51-a1ca-347be6439ebb.png)
+
 
 ## Participatory content 2Α
 For the participatory content 2A we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). At the moment there are some problems with the naming of the images as well as with the paths and for this reason the files are not properly connected to each other. It is expected to be fixed soon.
