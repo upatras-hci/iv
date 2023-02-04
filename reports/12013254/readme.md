@@ -17,7 +17,7 @@
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
-
+<a href="https://github.com/polybar/polybar/releases"><img src="https://img.shields.io/github/release/polybar/polybar.svg"></a>
 ## Personal Information
 Όνομα: Chatzilygeroudi Evangelia </br>
 ΑΜ: 1018865
@@ -49,26 +49,6 @@ At first,we wanted to create an online site that CV ,will to created automatical
 I create a branch 
 * [link online CV](https://evangeliachatz.github.io/online-cv/) <br />
 * [link CV repository](https://github.com/sharu725/online-cv) 
-
-
-## Participatory content 1Α
-About this delivered, we decided all together that we will place content, regarding to how the art is highlighted.</be>
-Text to Image AI is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description
-in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
-there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
-but are not free to use.
-The photo caption was created with the use of free Internet software "DeepAI", a Text To Image - AI Image Generator
-and using "Dancing Animals" as input the input text.
-</br>
-
-![Dancing Animals](https://user-images.githubusercontent.com/99615706/216759149-247eda50-08ab-4aab-931f-2ee5b4ac69df.jpeg)</br>
-<sup>The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
-
-* [gallery](https://github.com/EvangeliaChatz/_gallery-hci-2022/blob/master/text-to-image.md)
-* [images](https://github.com/upatras-HCI-2022/images/commit/993d4264bf17d75fb7828c65365295907affe810) 
-* [pull request](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6fac) at organization's repository  </br>
-
-ALLH MIA PHOTO!!!
 
 ## Command Line -ArchLinux Installation
 Firsty, I tried to install Arch Linux with USB, but I couldn't input characters in terminale
@@ -125,6 +105,32 @@ syntax enable set background=dark colorscheme solarized
 
 
 
+## Participatory content 1Α1
+About this delivered, we decided all together that we will place content, regarding to how the art is highlighted.</be>
+Text to Image AI is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description
+in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
+there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
+but are not free to use.
+The photo caption was created with the use of free Internet software "DeepAI", a Text To Image - AI Image Generator
+and using "Dancing Animals" as input the input text.
+</br>
+
+![Dancing Animals](https://user-images.githubusercontent.com/99615706/216759149-247eda50-08ab-4aab-931f-2ee5b4ac69df.jpeg)</br>
+<sup>The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
+
+* [gallery](https://github.com/EvangeliaChatz/_gallery-hci-2022/blob/master/text-to-image.md)
+* [images](https://github.com/upatras-HCI-2022/images/commit/993d4264bf17d75fb7828c65365295907affe810) 
+* [pull request](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6fac) at organization's repository  </br>
+
+ALLH MIA PHOTO!!!
+
+## Participatory content 1Α2
+For the participatory content 2A we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site).
+</br>
+
+
+
+
 ## Custom Desktop Enviroment
 For command line usage I installed a simple [window manager]( https://courses-ionio.github.io/help/cli/).
 I also installed the following [packages](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_2_Solution):The Polybar font is package with default status bar.I tried the `hack` theme. Polybar package is for add to our desktop a status bar that shows information relative to CPU usage, RAM usage, information about connection, volume. The second package is a screensaver, fills it with moving images or patterns when the computer has been idle for a designated time.The third one, is the well known, VLC Player.
@@ -144,8 +150,21 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 ![VLC](https://user-images.githubusercontent.com/99615706/216759812-7581647e-4af4-4d51-a1ca-347be6439ebb.png)
 
 
+
 ## Participatory content 2Α
-For the participatory content 2A we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). At the moment there are some problems with the naming of the images as well as with the paths and for this reason the files are not properly connected to each other. It is expected to be fixed soon.
+For this deliverable as a designer, I decided that the changes I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
+-Sign up/Sign in form </br>
+* [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
+* [pull request](https://github.com/upatras-HCI-2022/site/pull/12)
+ </br>
+Σε αυτό το παράδειγμα έκανα αλλαγές όπως αλλαγή μεγέθη γραμματοσειρών, καθώς ήταν πολύ μεγάλες και αλλοίωναν το τελικό αποτέλεσμα. </br>
+Αλλαγή στο focus state, όταν ο χρήστης πατάει ένα field της φόρμας για να το συμπληρώσει, και άλλες μικροαλλαγές που φαίνονται στο κώδικα.</br>
+* Animated tab bar
+* [Pull request](https://github.com/upatras-HCI-2022/site/pull/18)
+* [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)
+
+## CV B
+NA GRAPSW AUTO!!!
 
 ## Command line1 (iv cli)
 Σε αυτήν την άσκηση χρησιμοποίησα την εντολή [pastel](https://github.com/sharkdp/pastel) από τις [διαθέσιμες](https://github.com/epidrome/dokey) ασκήσεις γραμμών εντολών. Αυτό το πακέτο χρησιμοποιεί χρώματα για να βελπτιώσει το CLI (Command Line Interface), εκτυπώνει δηλαδή χρωματισμένα κείμενα για να τα μετρατρέψει σε πιο όμορφα και αναγνωρήσιμα. Ακολούθησα προσεκτικά τις οδηγίες του repository.
@@ -164,20 +183,20 @@ As a designer, I will use pastel package to generate color palletes. </br>
 sudo pacman -S pastel
 ``` 
 
-* Για τη δουλειά μου χρησιμοποιώ καθημερινά την εναλλαγή των κωδικών των χρωμάτων. Για παράδειγμα, στο συγκεκριμένο μετατρέπω ένα #hex χρώμα σε rgb:
+* For my work I use color code switching every day. For example, in this one I'm converting a #hex color to rgb:
 2. Generate color codes in various formats:
 ```sh
 pastel color c837ca | pastel format rgb
 ``` 
 
-* Πολύ χρήσιμο επίσης είναι η δυαντότητα να βρίσκεις το συμπληρωματικό του κάθε χρώματος:
+* The ability to find the complement of each color is also very useful:
 3. Generate the complement color:
 ```sh
 pastel color c837ca | pastel complement
 ```
 
 
-* Επιλέγεις εύκολα οποιοδήποτε χρώμα:
+* You can easily choose any color from the entire color spectrum:
 4. Pick a color:
 ```sh
 pastel pick
@@ -191,35 +210,27 @@ pastel paint -n black --on red --bold "EXAMPLE"
 ```
 </br>
 
-Οι παραπάνω εντολές φαίνονται στο παρακάτω βίντεο:
+The above commands are shown in the video below:
 [![asciicast](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz)
 
 ## Command line2 (iv cli)
 icons-in-terminal-EDIT
+NA GRAPSW!!!
 
 
 ## Participatory content 1B
-Έχοντας ασχοληθεί στο συμμετοχικό με τα λογισμικά που μετατρέπουν το κείμενο σε εικόνα και σε μουσική αντίστοιχα, αποφάσισα να εξερευνήσω το πεδίο που μετατρέπει την ομιλία σε κινήσεις,και στο ευρύτερο πεδίο της αναγνώρισης φωνής. </br>
-Στο πρώτο μέρος (συμμετοχικό 1Β1),ο Voice Chess Challenger, το οποίο αναπτύχθηκε τη δεκαετία του 1970, ήταν ένα από τα πρώτα παραδείγματα χρήσης φωνητικής αλληλεπίδρασης για την αναπαραγωγή ενός παιχνιδιού. Η συσκευή χρησιμοποιούσε τεχνολογία αναγνώρισης ομιλίας για την αναγνώριση φωνητικών εντολών και τον έλεγχο της σκακιέρας, επιτρέποντας στους παίκτες να κάνουν κινήσεις μιλώντας σε ένα μικρόφωνο. Αυτή η πρώιμη εφαρμογή της αναγνώρισης ομιλίας κατέδειξε τη δυνατότητα χρήσης φωνητικών εντολών για αλληλεπίδραση με ηλεκτρονικές συσκευές και βοήθησε να τεθούν τα θεμέλια για την ανάπτυξη των σύγχρονων συστημάτων αναγνώρισης ομιλίας.Έπειτα γίνεται μια ιστορική αναδρομή στην πορεία αυτού του κλάδου, καθώς και αναφέρονται παραδείγματα παρόμοιων παιχνιδιών, που έχουν ως βάση τους, την αναγνώριση φωνής. </br>
+Having dealt with software that converts text into image and music respectively, I decided to explore the field that converts speech into movements, and the wider field of voice recognition. </br>
+In the first part (participatory 1B1), Voice Chess Challenger, developed in the 1970s, was one of the first examples of using voice interaction to play a game. The device used speech recognition technology to recognize voice commands and control the chessboard, allowing players to make moves by speaking into a microphone. This early application of speech recognition demonstrated the possibility of using voice commands to interact with electronic devices and helped lay the foundations for the development of modern speech recognition systems. It then takes a historical look back at the development of this industry, and examples of similar games are cited , based on voice recognition. </br>
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/case-study/voice-chess-challenger/) </br>
 * [link to the organization's repository](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/voice-chess-challenger.md) </br>
 
-Στο δεύτερο μέρος, κινήθηκα στο ίδιο πεδίο και αναφέρομαι στην βιογραφία ενός από τους συντελεστές στην ιστορία της αναγνώρισης φωνής, του Dudley Homer.Ο Homer Dudley ήταν Αμερικανός ηλεκτρολόγος μηχανικός και πρωτοπόρος στον τομέα της αναγνώρισης ομιλίας.Ο Dudley είναι περισσότερο γνωστός για το έργο του στον Vocoder1, μια μηχανή που ανέλυε και συνέθετε ομιλία. Ο Vocoder ήταν ένα από τα πρώτα συστήματα αναγνώρισης ομιλίας και συνέβαλε στη δημιουργία της βάσης για τη σύγχρονη τεχνολογία αναγνώρισης ομιλίας. </br>
+In the second part, I looked into the same field and referred to the biography of one of the contributors to the history of voice recognition, Dudley Homer. Homer Dudley was an American electrical engineer and a pioneer in the field of speech recognition. Dudley is best known for his work to Vocoder1, an engine that analyzed and synthesized speech. Vocoder was one of the first speech recognition systems and helped lay the foundation for modern speech recognition technology. </br>
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/biography/homer-dudley/) </br>
 * [link to the organization's repository](https://github.com/upatras-HCI-2022/site/blob/master/_biography/homer-dudley.md) </br>
 
 
-## Participatory content 2A
-Γι'αυτό το παραδοτέο ως σχεδιάστρια, αποφάσισα οι αλλαγές που θα κάνω στις ασκήσεις να έχουν να κάνουν με την βελτίωση του UI γι' αυτό και επέλεξα διαδραστικά τα παρακάτω διαδραστικά παραδείγματα:</br>
--Sign up/Sign in form </br>
-* [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
-* [pull request](https://github.com/upatras-HCI-2022/site/pull/12)
-* </br>
-Σε αυτό το παράδειγμα έκανα αλλαγές όπως αλλαγή μεγέθη γραμματοσειρών, καθώς ήταν πολύ μεγάλες και αλλοίωναν το τελικό αποτέλεσμα. </br>
-Αλλαγή στο focus state, όταν ο χρήστης πατάει ένα field της φόρμας για να το συμπληρώσει, και άλλες μικροαλλαγές που φαίνονται στο κώδικα.</br>
-* Animated tab bar
-* [Pull request](https://github.com/upatras-HCI-2022/site/pull/18)
-* [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)
+## Participatory content 2B
+
 
 
 
