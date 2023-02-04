@@ -125,7 +125,7 @@ and using "Dancing Animals" as input the input text.
 ALLH MIA PHOTO!!!
 
 ## Participatory content 1Α2
-For the participatory content 2A we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site).
+For the participatory content 1A2 we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site).
 </br>
 
 
@@ -157,9 +157,9 @@ For this deliverable as a designer, I decided that the changes I will make to th
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
 * [pull request](https://github.com/upatras-HCI-2022/site/pull/12)
  </br>
-Σε αυτό το παράδειγμα έκανα αλλαγές όπως αλλαγή μεγέθη γραμματοσειρών, καθώς ήταν πολύ μεγάλες και αλλοίωναν το τελικό αποτέλεσμα. </br>
-Αλλαγή στο focus state, όταν ο χρήστης πατάει ένα field της φόρμας για να το συμπληρώσει, και άλλες μικροαλλαγές που φαίνονται στο κώδικα.</br>
-* Animated tab bar
+In this example I made changes such as changing the font sizes, as they were too large and spoiled the final result. </br>
+Change in focus state, when the user clicks on a form field to fill it, and other minor changes seen in the code.</br>
+-Animated tab bar
 * [Pull request](https://github.com/upatras-HCI-2022/site/pull/18)
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)
 
@@ -167,7 +167,7 @@ For this deliverable as a designer, I decided that the changes I will make to th
 NA GRAPSW AUTO!!!
 
 ## Command line1 (iv cli)
-Σε αυτήν την άσκηση χρησιμοποίησα την εντολή [pastel](https://github.com/sharkdp/pastel) από τις [διαθέσιμες](https://github.com/epidrome/dokey) ασκήσεις γραμμών εντολών. Αυτό το πακέτο χρησιμοποιεί χρώματα για να βελπτιώσει το CLI (Command Line Interface), εκτυπώνει δηλαδή χρωματισμένα κείμενα για να τα μετρατρέψει σε πιο όμορφα και αναγνωρήσιμα. Ακολούθησα προσεκτικά τις οδηγίες του repository.
+In this exercise I used the [pastel](https://github.com/sharkdp/pastel) από τις [διαθέσιμες](https://github.com/epidrome/dokey) command from the available command line exercises.This package uses colors to enhance the CLI (Command Line Interface), that is, it prints colored texts to make them more beautiful and recognizable. I followed the repository instructions carefully.
 Pastel is a command line tool for creating and editing colors in terminal applications. On Arch Linux, you can use Pastel to perform the following tasks: </br>
 1.Generate color codes in various formats (e.g., RGB, HEX, ANSI). </br>
 2.Apply color to text and background. </br>
@@ -177,7 +177,7 @@ Pastel is a command line tool for creating and editing colors in terminal applic
 6.These tasks can be performed with the various subcommands of the Pastel package. </br>
 As a designer, I will use pastel package to generate color palletes. </br>
 
-* Αρχικά εγκατέστηστα το pastel package:
+* First install the pastel package:
 1. Install pastell package:
 ```sh
 sudo pacman -S pastel
