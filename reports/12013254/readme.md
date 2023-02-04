@@ -36,7 +36,11 @@ Now, I'm working at an Agency as UI/UX Designer.</br>
 In addition, it’s in my plans to develop my skills in Front End programming
 (HTML, CSS, Javascript).</br>
 
-I decided to choose this course, because I would have the opportunity to expand my knowledge  and learn how the information is visualized correctly, which is part of my job.
+I decided to choose this course, because I would have the opportunity to expand my knowledge  and learn how the information is visualized correctly, which is part of my job. </br>
+
+
+## Organization creation & webring
+In this part of the lesson we the [Human - Computer Interaction 2022 - 2023 Organisation](https://github.com/upatras-HCI-2022), and the [webring of our team](https://upatras-hci-2022.github.io/webring/) , too.There is the [repository](https://github.com/upatras-HCI-2022/webring) of it.
 
 
 
@@ -120,8 +124,6 @@ syntax enable set background=dark colorscheme solarized
 [![asciicast](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN.svg)](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN)
 
 
-## Participatory content 2Α
-For the participatory content 2A we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). At the moment there are some problems with the naming of the images as well as with the paths and for this reason the files are not properly connected to each other. It is expected to be fixed soon.
 
 ## Custom Desktop Enviroment
 For command line usage I installed a simple [window manager]( https://courses-ionio.github.io/help/cli/).
@@ -140,7 +142,8 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 3.VLC Player </br>
 ![VLC Player asciinema](https://raw.githubusercontent.com/EvangeliaChatz/iv/main/reports/VLC_Installation.gif)
 
-
+## Participatory content 2Α
+For the participatory content 2A we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). At the moment there are some problems with the naming of the images as well as with the paths and for this reason the files are not properly connected to each other. It is expected to be fixed soon.
 
 ## Command line1 (iv cli)
 Σε αυτήν την άσκηση χρησιμοποίησα την εντολή [pastel](https://github.com/sharkdp/pastel) από τις [διαθέσιμες](https://github.com/epidrome/dokey) ασκήσεις γραμμών εντολών. Αυτό το πακέτο χρησιμοποιεί χρώματα για να βελπτιώσει το CLI (Command Line Interface), εκτυπώνει δηλαδή χρωματισμένα κείμενα για να τα μετρατρέψει σε πιο όμορφα και αναγνωρήσιμα. Ακολούθησα προσεκτικά τις οδηγίες του repository.
