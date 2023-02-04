@@ -131,7 +131,7 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 </br>
 <sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
 
-1.Polybar </br>
+1.[Polybar](https://github.com/polybar/polybar) </br>
 ![Polybar](https://user-images.githubusercontent.com/99615706/216759556-31a9a9a8-518c-460c-89ab-255547a68533.png)
 </br>
 
