@@ -156,34 +156,34 @@ Pastel is a command line tool for creating and editing colors in terminal applic
 6.These tasks can be performed with the various subcommands of the Pastel package. </br>
 As a designer, I will use pastel package to generate color palletes. </br>
 
-</br>
-* Αρχικά εγκατέστηστα το pastel package: </br>
+* Αρχικά εγκατέστηστα το pastel package:
 1. Install pastell package:
 ```sh
 sudo pacman -S pastel
 ``` 
-* Για τη δουλειά μου χρησιμοποιώ καθημερινά την εναλλαγή των κωδικών των χρωμάτων. Για παράδειγμα, στο συγκεκριμένο μετατρέπω ένα #hex χρώμα σε rgb:
 
+* Για τη δουλειά μου χρησιμοποιώ καθημερινά την εναλλαγή των κωδικών των χρωμάτων. Για παράδειγμα, στο συγκεκριμένο μετατρέπω ένα #hex χρώμα σε rgb:
 2. Generate color codes in various formats:
 ```sh
 pastel color c837ca | pastel format rgb
 ``` 
+
 * Πολύ χρήσιμο επίσης είναι η δυαντότητα να βρίσκεις το συμπληρωματικό του κάθε χρώματος:
 3. Generate the complement color:
 ```sh
 pastel color c837ca | pastel complement
 ```
-</br>
+
 
 * Επιλέγεις εύκολα οποιοδήποτε χρώμα:
-3. Pick a color:
+4. Pick a color:
 ```sh
 pastel pick
 ```
-</br>
+
 
 * Ι use color to improve the cli tools:
-4. Print colorized text from a shell script, in order to make it more beautiful-usable:
+5. Print colorized text from a shell script, in order to make it more beautiful-usable:
 ```sh
 pastel paint -n black --on red --bold "EXAMPLE"
 ```
