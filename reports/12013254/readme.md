@@ -62,7 +62,7 @@ and using "Dancing Animals" as input the input text.
 </br>
 
 
-  ![Dancing Animals](https://github.com/EvangeliaChatz/iv/blob/main/text-to-image.jpeg) </br>
+  ![Dancing Animals](https://drive.google.com/drive/u/2/folders/11NfI3iozcFhM7jXqJKahqCnLk3POFh3w) </br>
 <sup>The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
 
 
