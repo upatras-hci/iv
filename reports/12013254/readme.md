@@ -140,7 +140,7 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 [![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) </br>
 
 
-3.VLC Player </br>
+3.[VLC Player](https://github.com/videolan/vlc) </br>
 ![VLC](https://user-images.githubusercontent.com/99615706/216759812-7581647e-4af4-4d51-a1ca-347be6439ebb.png)
 
 
