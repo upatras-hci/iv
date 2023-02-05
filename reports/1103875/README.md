@@ -148,6 +148,10 @@ H δεύτερη άσκηση που επέλεξα να κάνω είναι η 
 [![asciicast](https://asciinema.org/a/B6o3Nbip5QZWMtWpeiexgmCQL.svg)](https://asciinema.org/a/B6o3Nbip5QZWMtWpeiexgmCQL)
 ![image](https://user-images.githubusercontent.com/17378923/206407444-6a1b667d-4264-4fd8-b414-5a5dc527afcb.png)
 
+Στη συνέχεια μετά την εξοικείωσή μου αποφάσισα να ασχοληθώ με την εντολή 	[click](https://github.com/pallets/click) από τον πίνακα εντολών visualization. Στη συγκεκριμένη άσκηση αφού εγκατέστησσα το click δημιούργησα ένα script που ανακτά τον πηγαίο κώδικα HTML της αρχικής σελίδας του Google.com χρησιμοποιώντας τη βιβλιοθήκη αιτημάτων Python. O κώδικας μου κάνει ένα αίτημα GET στη διεύθυνση URL https://www.google.com και επιστρέφει τον πηγαίο κώδικα HTML της σελίδας, ο οποίος μπορεί στη συνέχεια καλώντας το αρχείο που έγραψα -python hci.py τυπώνει στο τερματικό μου τον HTML κώδικα της σελίδας.
+
+[![asciicast](https://asciinema.org/a/bI9rd0tKtyzs1XT4ZvjE8mQFD.svg)](https://asciinema.org/a/bI9rd0tKtyzs1XT4ZvjE8mQFD)
+
 ## Βιβλιογραφία - Σύνδεσμοι
 
 <b>Οι σύνδεσμοι που χρησιμοποίησα για το συμμετοχικό περιεχόμενο:</b></br>
