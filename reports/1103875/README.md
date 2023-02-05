@@ -152,6 +152,10 @@ H δεύτερη άσκηση που επέλεξα να κάνω είναι η 
 
 [![asciicast](https://asciinema.org/a/bI9rd0tKtyzs1XT4ZvjE8mQFD.svg)](https://asciinema.org/a/bI9rd0tKtyzs1XT4ZvjE8mQFD)
 
+Πάλι επέλεξα από τον ίδιο πίνακα την άσκηση [spark](https://github.com/holman/spark). Πρόκειται για ένα εργαλείο γραμμής εντολών για τη δημιουργία sparklines (μικρά ενσωματωμένα γραφήματα) στο τερματικό ή σε άλλα μέσα κειμένου. Το spark μπορεί να οπτικοποιήσει διαδόρων ειδών πληροφορίες. Στο ascinnema έχω καταγράψει με τη σειρά κάποιες από τις δοκιμές που έκανα: Οπτικοποίηση μέτρησης disk file usage, οπτικοποίηση τυχαίας σειράς αριθμών και ένα παράδειγμα που βρήκα που κάνει γράφημα σεισμικές δονήσεις. 
+
+[![asciicast](https://asciinema.org/a/g4Mwn6TQZSYfNWw7dXIMgOSed.svg)](https://asciinema.org/a/g4Mwn6TQZSYfNWw7dXIMgOSed)
+
 ## Βιβλιογραφία - Σύνδεσμοι
 
 <b>Οι σύνδεσμοι που χρησιμοποίησα για το συμμετοχικό περιεχόμενο:</b></br>
