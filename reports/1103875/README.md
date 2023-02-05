@@ -156,6 +156,14 @@ H δεύτερη άσκηση που επέλεξα να κάνω είναι η 
 
 [![asciicast](https://asciinema.org/a/g4Mwn6TQZSYfNWw7dXIMgOSed.svg)](https://asciinema.org/a/g4Mwn6TQZSYfNWw7dXIMgOSed)
 
+Rich που είναι μια βιβλιοθήκη python για μορφοποίηση κειμένου.  Διευκολύνει την προσθήκη χρώματος και στυλ στην έξοδο τερματικού ενώ επίσης να αποδώσει όμορφους πίνακες, γραμμές προόδου, σημάδια, τον πηγαίο κώδικα σύνταξης, tracebacks κ.α.
+
+Παρακάτω βλέπω ένα δέντρο με την ιεραρχεία δομής του αντίστοιχου αρχείο.
+
+[![asciicast](https://asciinema.org/a/Dq1cDaTAfTo87IbLJl2echKeW.svg)](https://asciinema.org/a/Dq1cDaTAfTo87IbLJl2echKeW)
+
+
+
 ## Βιβλιογραφία - Σύνδεσμοι
 
 <b>Οι σύνδεσμοι που χρησιμοποίησα για το συμμετοχικό περιεχόμενο:</b></br>
