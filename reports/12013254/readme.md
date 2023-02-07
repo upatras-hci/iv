@@ -236,7 +236,7 @@ In the second part, I looked into the same field and referred to the biography o
 
 
 ## CvB
-Σε αυτό το παραδοτέο χρησιμοποίησα το [simple-cv](https://github.com/plain-plain-text/simple-cv) που αναφέρεται στην [εκφώνηση](https://courses-ionio.github.io/help/cv/) της άσκησης.Αφού εγκατέστησα το pandoc & το latex, έτρεξα το αρχείο process, για να μετατραπεί σε pdf. Τα παραπάνω βήματα φαίνονται στο asciinema που ακολουθεί.
+Σε αυτό το παραδοτέο χρησιμοποίησα το [simple-cv](https://github.com/plain-plain-text/simple-cv) που αναφέρεται στην [εκφώνηση](https://courses-ionio.github.io/help/cv/) της άσκησης.Αφού εγκατέστησα το pandoc & το latex, έτρεξα το αρχείο process, για να μετατραπεί σε pdf. Τα παραπάνω βήματα φαίνονται στο asciinema που ακολουθεί.Επίσης για να ανανεώνω κάθε φορά τις αλλαγές έτρεχα την εντολή sh process.sh
 [![asciicast](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R.svg)](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R) </br>
 
 
