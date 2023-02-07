@@ -235,6 +235,11 @@ In the second part, I looked into the same field and referred to the biography o
 * [link to the organization's repository](https://github.com/upatras-HCI-2022/site/blob/master/_biography/homer-dudley.md) </br>
 
 
+## CvB
+Σε αυτό το παραδοτέο χρησιμοποίησα το [simple-cv](https://github.com/plain-plain-text/simple-cv) που αναφέρεται στην [εκφώνηση](https://courses-ionio.github.io/help/cv/) της άσκησης.Αφού εγκατέστησα το pandoc & το latex, έτρεξα το αρχείο process, για να μετατραπεί σε pdf. Τα παραπάνω βήματα φαίνονται στο asciinema που ακολουθεί.
+[![asciicast](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R.svg)](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R) </br>
+
+
 ## Participatory content 2B
 
 
