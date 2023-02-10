@@ -125,15 +125,15 @@ and using "Dancing Animals" as input the input text.
 <img width="1287" alt="image" src="https://user-images.githubusercontent.com/99615706/216762094-7cc6cc14-303e-43d1-95ac-546d51d15d64.png">
 [Riffusion](https://www.riffusion.com/) is a type of artificial neural network that generates music by utilizing images of sound instead of audio. It was created by Seth Forsgren and Hayk Martiros and is based on [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), a pre-existing open-source model for generating images from text prompts. Riffusion takes these image files and converts them into audio files by running them through an inverse Fourier transform. Although the generated audio files are only a few seconds long, Riffusion has the ability to interpolate different files together by using the latent space between outputs and a functionality of Stable Diffusion known as img2img.
 Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023. </br>
-* [gallery]()
+* [gallery](https://github.com/upatras-HCI-2022/_gallery/pull/23)
 * [images pull request](https://github.com/upatras-HCI-2022/images/pull/18) 
 * [pull request]() at organization's repository  </br>
 
 
 ## Participatory content 1Α2
-For the participatory content 1A2 we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an `art.md` file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site).
+For the participatory content 1A2 we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an [`art.md`](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md) file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). </br> 
+* [pull request for my additions](https://github.com/upatras-HCI-2022/site/pull/27)
 </br>
-
 
 
 
