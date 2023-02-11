@@ -44,8 +44,7 @@ AM: 1043819
 Μπορούμε να το δούμε παρακάτω:  
 [Repository Link](https://github.com/MairySs/OldCV)   
 [OLD CV site Link](https://mairyss.github.io/OldCV/)  
-Εικόνα:  
-<img src="https://user-images.githubusercontent.com/50808232/218255983-7703a625-69d4-4c63-b3d4-869115af7120.png" width="35%" height="35%">
+
 
 Οπότε, έκανα αρκετές αλλαγές στο site με το βιογραφικό μου και άλλαξα εντελώς το θέμα.  
 Χρησιμοποίησα το θέμα [cvless](https://github.com/piazzai/cvless) , ενημέρωσα τις ήδη υπάρχων ενότητες με τα στοιχεία μου και πρόσθεσα καινούργιες. Επίσης, έκανα κάποιες γενικές μορφοποιήσεις στο θέμα αλλά και αλλαγές στο αρχείο particle.js (στη min μορφή του), ώστε το τελικό αποτέλεσμα της κίνησης των σωματιδίων να είναι πιο ταιριαστό.
@@ -58,10 +57,6 @@ AM: 1043819
 
 [![asciicast](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9.svg)](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9?speed=4)
 
-Το site με το βιογραφικό μου δημοσιεύθηκε με τη βοήθεια των `Github Pages` και φαίνεται παρακάτω.  
-[Repository Link](https://github.com/MairySs/MairySs.github.io)  
-[CV site Link](https://mairyss.github.io/)  
-![Recording 2023-02-11 at 13 26 09](https://user-images.githubusercontent.com/50808232/218255646-e3143316-de1c-4bdf-aedb-d6dc794bf1f1.gif)
 
 
 ## ArchLinux
@@ -78,7 +73,6 @@ Eγκατέστησα το Arch Linux μέσω VirtualBox.
 ## Συμμετοχικό-1Α
 
 Για το συμμετοχικό περιεχόμενο αποφασίσαμε όλοι μαζί ως ομάδα να ακολουθήσουμε μια θεματολογία γύρω από τις εφαρμογές του HCI στην τέχνη.  
-Οι φωτογραφίες που προσθέσαμε στην ενότητα "Διαφάνειες", φαίνονται σε [αυτόν τον σύνδεσμο](https://wondrous-paletas-7dd991.netlify.app/slides/art/) με τίτλο `Εφαρμογές του HCI στην τέχνη`. Το αρχείο το οποίο περιλαμβάνει τις διαφάνειες όλης της ομάδας, βρίσκεται [εδώ](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md).  
 
 Οι δύο φωτογραφίες που επέλεξα εγώ, παρουσιάζονται παρακάτω. 
 
@@ -96,21 +90,11 @@ Eγκατέστησα το Arch Linux μέσω VirtualBox.
 | [Εικόνα1](https://github.com/upatras-HCI-2022/images/blob/master/eye-drawing.jpg) | [Εικόνα1](https://github.com/upatras-HCI-2022/_gallery/blob/master/eye-drawing.md) |
 | [Εικόνα2](https://github.com/upatras-HCI-2022/images/blob/master/eeg-brainwave.png)   | [Εικόνα2](https://github.com/upatras-HCI-2022/_gallery/blob/master/eeg-brainwave.md) |
 
-Αντιμετωπίσαμε αρκετά προβλήματα για να καταφέρουμε να δουλέψει η σελίδα σωστά και να εμφανίζει όλες τις φωτογραφίες μας. Το πιο συχνό πρόβλημα ήταν πως ξεχνούσαμε να συμπεριλάβουμε το `/images/` στο image_url των md αρχείων μέσα στο `_gallery` με αποτέλεσμα το path να είναι λάθος και να μην εμφανίζονται οι φωτογραφίες. Επιπλέον πρόβλημα, ήταν τα αρχεία μας να μην έχουν ακριβώς την ίδια ονομασία ή να βάζουμε άλλη κατάληξη από αυτή που είχαν οι φωτογραφίες μας. Τα παραπάνω προβήματα λύθηκαν αφού κάναμε inspect elements και συγκεκριμένα Inspect τις φωτογραφίες τις οποίες δεν εμφανίζονταν, μέσα από τα developer tools του google chrome. Εκεί διαπιστώσαμε ότι το path εύρεσης της φωτογραφίας ήταν λανθασμένο και ψάχναμε το λάθος για να το διορθώσουμε. 
-
-Ένα επιπλέον πρόβλημα ήταν με το deploy στο netlify. Υπήρχε κάποια σύγχιση με την έκδοση της ruby οπως φαίνεται στην παρακάτω φωτογραφία. Μετά από δοκιμές στο [αντίστοιχο αρχείο](https://github.com/upatras-HCI-2022/site/blob/master/.ruby-version) `ruby-version` η έκδοση που δούλεψε ήταν η 3.2.0. 
-
-<img src="https://user-images.githubusercontent.com/50808232/218261741-8598b8de-b988-4409-b716-9b4450dd7252.png" width="40%" height="40%">  
-
 
 ## Συμμετοχικό-2A
 
 Για το συμμετοχικό περιεχόμενο 2A προσθέσαμε στους φακέλους `slides` και `timeline` από ένα αρχείο `art.md` το οποίο και θα συγκεντρώσει όλες τις εικόνες με τις περιγραφές τους. Για την ώρα υπάρχουν κάποια προβλήματα στην ονομασία των εικόνων αλλά και στα paths και για αυτό το λόγο τα αρχεία δεν συνδέονται σωστά μεταξύ τους. Αναμένεται να διορθωθεί σύντομα. 
 
-[Site repo](https://github.com/upatras-HCI-2022/site)  
-[Site link](https://comfy-hummingbird-fe366e.netlify.app/)  
-[_slides/art.md](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md)  
-[_timeline/art.md](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md)  
 
 ## Custom-Desktop-Environment
 
