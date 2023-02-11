@@ -55,6 +55,7 @@ AM: 1043819
 Η καταγραφή έγινε με το εργαλείο [PowerSession](https://github.com/Watfaq/PowerSession-rs) (μια παραλλαγή του asciinema για να υποστηρίζει windows).  
 Η συγκεκριμένη εγγραφή φαίνεται παρακάτω:
 
+  
 [![asciicast](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9.svg)](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9?speed=4)
 
 
