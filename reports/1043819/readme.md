@@ -96,7 +96,6 @@ Eγκατέστησα το Arch Linux μέσω VirtualBox.
 
 
 ## Custom-Desktop-Environment
-
 Χρησιμοποίησα το `xmonad`, το οποίο είναι δυναμικός διαχειριστής παραθύρων (dynamic window manager).  
 Για να αλλάξω το φόντο χρησιμοποίησα το `feh`.  
 Ως `compositor`, ο οποίος είναι υπεύθυνος για τη διάταξη των παραθύρων, χρησιμοποίησα το `picom`.  
@@ -114,4 +113,3 @@ Eγκατέστησα το Arch Linux μέσω VirtualBox.
 
 
 
-*To be continued...* :smile:
