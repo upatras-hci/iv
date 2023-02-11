@@ -53,6 +53,8 @@ AM: 1043819
 [![asciicast](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9.svg)](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9?speed=4)
 
 Το site με το βιογραφικό μου δημοσιεύθηκε με τη βοήθεια των `Github Pages`.
+![Recording 2023-02-11 at 13 26 09](https://user-images.githubusercontent.com/50808232/218255646-e3143316-de1c-4bdf-aedb-d6dc794bf1f1.gif)
+
 
 ## ArchLinux
 
