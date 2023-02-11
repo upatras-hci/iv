@@ -50,7 +50,7 @@ AM: 1043819
 Η καταγραφή έγινε με το εργαλείο [PowerSession](https://github.com/Watfaq/PowerSession-rs) (μια παραλλαγή του asciinema για να υποστηρίζει windows).  
 Η συγκεκριμένη εγγραφή φαίνεται παρακάτω:
 
-[![asciicast](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9.svg)](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9?speed=3)
+[![asciicast](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9.svg)](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9?speed=4)
 
 Το site με το βιογραφικό μου δημοσιεύθηκε με τη βοήθεια των `Github Pages`.
 
@@ -60,9 +60,9 @@ Eγκατέστησα το Arch Linux μέσω VirtualBox.
 Με δυσκόλεψε αρκετά να καταφέρω να αναγνωρίσει την κάρτα δικτύου, αλλά τα κατάφερα!
 Παραθέτω το recording από το `asciinema` των logs από τα `neofetch` & `journalctl`, δοκίμασα και τα δύο!
 
-[![asciicast](https://asciinema.org/a/kyNZdj2dx77OquGurDUkqnita.svg)](https://asciinema.org/a/kyNZdj2dx77OquGurDUkqnita)
+[![asciicast](https://asciinema.org/a/kyNZdj2dx77OquGurDUkqnita.svg)](https://asciinema.org/a/kyNZdj2dx77OquGurDUkqnita?speed=4)
 
-[![asciicast](https://asciinema.org/a/BtZnnH5lRkhYeVlZI7trYtvnL.svg)](https://asciinema.org/a/BtZnnH5lRkhYeVlZI7trYtvnL)  
+[![asciicast](https://asciinema.org/a/BtZnnH5lRkhYeVlZI7trYtvnL.svg)](https://asciinema.org/a/BtZnnH5lRkhYeVlZI7trYtvnL?speed=4)  
 Σημείωση: Το boot log είναι τεράστιο ίσως επειδή δεν είχα κάνει τερματισμό στο VM αρκετές μέρες.
 
 ## Συμμετοχικό-1Α
