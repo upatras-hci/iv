@@ -36,24 +36,21 @@ AM: 1043819
 
 ## Βιογραφικό-Α
 
-[Repository Link](https://github.com/MairySs/MairySs.github.io)  
-[CV site Link](https://mairyss.github.io/)
+
 
 Σκοπός αυτού του παραδοτέου ήταν να φτιάξουμε μια ιστοσελίδα με το βιογραφικό μας. 
 
-Αρχικά έφτιαξα ένα πολύ απλό βιογραφικό (το οποίο υπάρχει [εδώ](https://github.com/MairySs/OldCV)), αλλά δεν ήμουν αρκετά ικανοποιημένη. 
-Μπορούμε να το δούμε παρακάτω:
-[OLD CV site Link]([https://mairyss.github.io/](https://mairyss.github.io/OldCV/)
-![image](https://user-images.githubusercontent.com/50808232/218255983-7703a625-69d4-4c63-b3d4-869115af7120.png)
-
-
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/50808232/218255983-7703a625-69d4-4c63-b3d4-869115af7120.png)" width="50%" height="50%">
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/50808232/218255983-7703a625-69d4-4c63-b3d4-869115af7120.png)" width="100" height="100">
+Αρχικά έφτιαξα ένα πολύ απλό βιογραφικό, αλλά δεν ήμουν αρκετά ικανοποιημένη.  
+Μπορούμε να το δούμε παρακάτω:  
+[Repository Link](https://github.com/MairySs/OldCV)   
+[OLD CV site Link](https://mairyss.github.io/OldCV/)  
+Εικόνα:  
+<img src="https://user-images.githubusercontent.com/50808232/218255983-7703a625-69d4-4c63-b3d4-869115af7120.png" width="35%" height="35%">
 
 Οπότε, έκανα αρκετές αλλαγές στο site με το βιογραφικό μου και άλλαξα εντελώς το θέμα.  
-Χρησιμοποίησα το θέμα [cvless](https://github.com/piazzai/cvless) , ενημέρωσα τις ήδη υπάρχων ενότητες με τα στοιχεία μου και πρόσθεσα καινούργιες. Επίσης, έκανα κάποιες γενικές μορφοποιήσεις στο θέμα αλλά και αλλαγές στο αρχείο particle.js (στη min μορφή του), ώστε το τελικό αποτέλεσμα της κίνησης των σωματιδίων να είναι πιο ταιριαστό.  
+Χρησιμοποίησα το θέμα [cvless](https://github.com/piazzai/cvless) , ενημέρωσα τις ήδη υπάρχων ενότητες με τα στοιχεία μου και πρόσθεσα καινούργιες. Επίσης, έκανα κάποιες γενικές μορφοποιήσεις στο θέμα αλλά και αλλαγές στο αρχείο particle.js (στη min μορφή του), ώστε το τελικό αποτέλεσμα της κίνησης των σωματιδίων να είναι πιο ταιριαστό.
 
-Όλες οι αλλαγές στα αρχεία έγιναν μέσω του `Visual Studio Code` και τα commits μέσω του `PowerShell` των windows καθώς αυτό χρησιμοποιώ και καθημερινά στη δουλειά μου.  
+Όλες οι αλλαγές στα αρχεία έγιναν μέσω του `Visual Studio Code` και τα commits μέσω του `PowerShell` των windows καθώς αυτό χρησιμοποιώ και καθημερινά στη δουλειά μου. 
 
 Κατέγραψα μόνο τη διαδικασία του τελευταίου commit γιατί έκανα αρκετές δοκιμές μέχρι το τελικό αποτέλεσμα.  
 Η καταγραφή έγινε με το εργαλείο [PowerSession](https://github.com/Watfaq/PowerSession-rs) (μια παραλλαγή του asciinema για να υποστηρίζει windows).  
@@ -61,7 +58,9 @@ AM: 1043819
 
 [![asciicast](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9.svg)](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9?speed=4)
 
-Το site με το βιογραφικό μου δημοσιεύθηκε με τη βοήθεια των `Github Pages` και φαίνεται παρακάτω.
+Το site με το βιογραφικό μου δημοσιεύθηκε με τη βοήθεια των `Github Pages` και φαίνεται παρακάτω.  
+[Repository Link](https://github.com/MairySs/MairySs.github.io)  
+[CV site Link](https://mairyss.github.io/)  
 ![Recording 2023-02-11 at 13 26 09](https://user-images.githubusercontent.com/50808232/218255646-e3143316-de1c-4bdf-aedb-d6dc794bf1f1.gif)
 
 
