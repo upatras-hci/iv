@@ -56,8 +56,6 @@ AM: 1043819
   
 [![asciicast](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9.svg)](https://asciinema.org/a/BOknX00p9s3TQdEL5XxPwP4o9?speed=4)
 
-
-
 ## ArchLinux
 
 Eγκατέστησα το Arch Linux μέσω VirtualBox. 
