@@ -85,7 +85,6 @@ Eγκατέστησα το Arch Linux μέσω VirtualBox.
 | [Εικόνα1](https://github.com/upatras-HCI-2022/images/blob/master/eye-drawing.jpg) | [Εικόνα1](https://github.com/upatras-HCI-2022/_gallery/blob/master/eye-drawing.md) |
 | [Εικόνα2](https://github.com/upatras-HCI-2022/images/blob/master/eeg-brainwave.png)   | [Εικόνα2](https://github.com/upatras-HCI-2022/_gallery/blob/master/eeg-brainwave.md) |
 
-
 ## Συμμετοχικό-2A
 
 Για το συμμετοχικό περιεχόμενο 2A προσθέσαμε στους φακέλους `slides` και `timeline` από ένα αρχείο `art.md` το οποίο και θα συγκεντρώσει όλες τις εικόνες με τις περιγραφές τους. Για την ώρα υπάρχουν κάποια προβλήματα στην ονομασία των εικόνων αλλά και στα paths και για αυτό το λόγο τα αρχεία δεν συνδέονται σωστά μεταξύ τους. Αναμένεται να διορθωθεί σύντομα. 
