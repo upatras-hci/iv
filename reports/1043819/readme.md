@@ -43,14 +43,12 @@ AM: 1043819
 
 Αρχικά έφτιαξα ένα πολύ απλό βιογραφικό (το οποίο υπάρχει [εδώ](https://github.com/MairySs/OldCV)), αλλά δεν ήμουν αρκετά ικανοποιημένη. 
 Μπορούμε να το δούμε παρακάτω:
-
-<img src="[OLD CV site Link](https://user-images.githubusercontent.com/50808232/218255983-7703a625-69d4-4c63-b3d4-869115af7120.png)"  width="60%" height="30%">
-
 [OLD CV site Link]([https://mairyss.github.io/](https://mairyss.github.io/OldCV/)
+![image](https://user-images.githubusercontent.com/50808232/218255983-7703a625-69d4-4c63-b3d4-869115af7120.png)
 
 
-
-
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/50808232/218255983-7703a625-69d4-4c63-b3d4-869115af7120.png)" width="50%" height="50%">
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/50808232/218255983-7703a625-69d4-4c63-b3d4-869115af7120.png)" width="100" height="100">
 
 Οπότε, έκανα αρκετές αλλαγές στο site με το βιογραφικό μου και άλλαξα εντελώς το θέμα.  
 Χρησιμοποίησα το θέμα [cvless](https://github.com/piazzai/cvless) , ενημέρωσα τις ήδη υπάρχων ενότητες με τα στοιχεία μου και πρόσθεσα καινούργιες. Επίσης, έκανα κάποιες γενικές μορφοποιήσεις στο θέμα αλλά και αλλαγές στο αρχείο particle.js (στη min μορφή του), ώστε το τελικό αποτέλεσμα της κίνησης των σωματιδίων να είναι πιο ταιριαστό.  
