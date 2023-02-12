@@ -12,7 +12,7 @@
 | 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/49 | |
 | 5 | γραμμή εντολών (custom desktop environment) | https://github.com/upatras-hci/iv/discussions/52| |
 | 6 | συμμετοχικό περιεχόμενο 2Α |https://github.com/upatras-hci/iv/discussions/71 | |
-| 7 | βιογραφικό Β | | |
+| 7 | βιογραφικό Β |https://github.com/upatras-hci/iv/discussions/81 | |
 | 8 | γραμμή εντολών (iv cli) |https://github.com/upatras-hci/iv/discussions/62 | |
 | 9 | συμμετοχικό περιεχόμενο 1Β |https://github.com/upatras-hci/iv/discussions/65 | |
 | 10 | γραμμή εντολών (iv cli |https://github.com/upatras-hci/iv/discussions/62 | |
@@ -49,6 +49,27 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 
 Με τους συναδέλφους δημιουργήσαμε την ομάδα [Human - Computer Interaction 2022 - 2023 Team](https://github.com/upatras-HCI-2022) που αποτελείται από 3 μέλη και 2 διαχειριστές οι οποίοι προκύπτουν από ψηφοφορία στο [discussion](https://github.com/orgs/upatras-HCI-2022/discussions) της ομάδας. 
 [To webring της ομάδας μας](https://upatras-hci-2022.github.io/webring/) και [το αποθετήριό του](https://github.com/upatras-HCI-2022/webring). 
+
+## Βιογραφικό Β
+
+Για το Βιογραφικό Β μέχρι στιγμής έχω κάνει τα παρακάτω:
+
+• Έφτιαξα ένα νέο cv που μπορείτε να δείτε [εδώ](https://e-liouta.github.io/cv/)
+Το συγκεκριμένο cv έχει ένα αρχείο .yml το οποίο και περιέχει τις βασικές πληροφορίες μου. Το αρχείο αυτό βρίσκεται [εδώ](https://github.com/e-liouta/cv/blob/main/_data/data.yml)
+
+Στη συνέχεια έφτιαξα ένα github action το οποίο μετατρέπει το yaml αυτό αρχείο μου σε pdf. Καθώς έδειξε η πορεία για κάποιο λόγο αυτό δεν υποστηρίζεται οπότε και στη συνέχεια αυτό που έκανα είναι να μετατρέπω το yml σε md και στη συνέχεια το md σε pdf. Αυτό και πάλι σε δούλεψε.
+
+Στη συνέχεια δοκίμασα να κάνω τις ίδιες εντολές σε ένα shell script όμως και αυτό είχε παρόμοια αποτελέσματα.
+
+Τέλος δοκίμασα να παράγω το pdf από το html αρχείο.
+
+Να πω σε αυτό το σημείο ότι όταν λέω ότι δε δουλεύει εννοώ σε επίπεδο CI γιατί τοπικά όλες οι εντολές δούλευαν όμως οι περισσότερες εντολές μου παρήγαγαν pdf τον κώδικα σε plain text μέσα στο pdf. 
+
+Έτσι στη συνέχεια αποφάσισα να δημιουργήσω ένα .tex αρχείο όμως μέχρι στιγμής ούτε αυτό έχει δουλέψει.
+
+Φυσικά μπορείτε να δείτε τι γίνεται στο [repo μου](https://github.com/e-liouta/cv)
+και το [ιστορικό με τα commits](https://github.com/e-liouta/cv/commits/main) για να καταλάβετε καλύτερα τη λογική που ακολούθησα.
+
 
 ## Συμμετοχικό Περιεχόμενο 1
 
