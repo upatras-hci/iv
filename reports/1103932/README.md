@@ -8,15 +8,15 @@ Name: Karatsoulas Dimitrios</br>
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://courses-ionio.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Introduction](https://github.com/upatras-hci/iv/discussions/32) | |
-| 2 | [βιογραφικό Α](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CV-site) | [CV-site](https://github.com/upatras-hci/iv/discussions/40)||
-| 3 | [γραμμή εντολών (arch linux)](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CommandLine-1) |[CommandLine-1](https://github.com/upatras-hci/iv/discussions/46) | |
-| 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#Content-1Α) |[Content 1A](https://github.com/upatras-hci/iv/discussions/50) | |
-| 5 | [γραμμή εντολών (custom desktop environment)](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CommandLine-2) |[CommandLine-2](https://github.com/upatras-hci/iv/discussions/58) | |
-| 6 | [συμμετοχικό περιεχόμενο 2Α](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#Content-2Α) |[Content 2A](https://github.com/upatras-hci/iv/discussions/72) | |
-| 7 | [βιογραφικό Β](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CV-pdf) |[CV-pdf]() | |
-| 8 | [γραμμή εντολών (iv cli)](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CommandLine-3) |[CommandLine-3](https://github.com/upatras-hci/iv/discussions/63) | |
-| 9 | [συμμετοχικό περιεχόμενο 1Β](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#Content-2B) |[Content 1Β](https://github.com/upatras-hci/iv/discussions/75) | |
-| 10 | [γραμμή εντολών (iv cli)](https://github.com/akimo13/iv/edit/1103932/reports/1103932/README.md#CommandLine-4) |[CommandLine-4](https://github.com/upatras-hci/iv/discussions/63) | |
+| 2 | [βιογραφικό Α](https://github.com/akimo13/iv/tree/1103932/reports/1103932/README.md#CV-site https://github.com/akimo13/iv/tree/1103932/reports/1103932) | [CV-site](https://github.com/upatras-hci/iv/discussions/40)||
+| 3 | [γραμμή εντολών (arch linux)](https://github.com/akimo13/iv/tree/1103932/reports/1103932/README.md#CommandLine-1) |[CommandLine-1](https://github.com/upatras-hci/iv/discussions/46) | |
+| 4 | [συμμετοχικό περιεχόμενο 1A](https://github.com/akimo13/iv/tree/1103932/reports/1103932/README.md#Content-1Α) |[Content 1A](https://github.com/upatras-hci/iv/discussions/50) | |
+| 5 | [γραμμή εντολών (custom desktop environment)](https://github.com/akimo13/iv/tree/1103932/reports/1103932/README.md#CommandLine-2) |[CommandLine-2](https://github.com/upatras-hci/iv/discussions/58) | |
+| 6 | [συμμετοχικό περιεχόμενο 2Α](https://github.com/akimo13/iv/tree/1103932/reports/1103932/README.md#Content-2Α) |[Content 2A](https://github.com/upatras-hci/iv/discussions/72) | |
+| 7 | [βιογραφικό Β](https://github.com/akimo13/iv/tree/1103932/reports/1103932/README.md#CV-pdf) |[CV-pdf]() | |
+| 8 | [γραμμή εντολών (iv cli)](https://github.com/akimo13/iv/tree/1103932/reports/1103932/README.md#CommandLine-3) |[CommandLine-3](https://github.com/upatras-hci/iv/discussions/63) | |
+| 9 | [συμμετοχικό περιεχόμενο 1Β](https://github.com/akimo13/iv/tree/1103932/reports/1103932/README.md#Content-2B) |[Content 1Β](https://github.com/upatras-hci/iv/discussions/75) | |
+| 10 | [γραμμή εντολών (iv cli)](https://github.com/akimo13/iv/tree/1103932/reports/1103932/README.md#CommandLine-4) |[CommandLine-4](https://github.com/upatras-hci/iv/discussions/63) | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -90,7 +90,7 @@ Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
 [Link στο βιβλίο](https://wondrous-paletas-7dd991.netlify.app/case-study/vr/)
 [Link στο repository της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/vr.md)
 
-Η μελέτη περίπτωσης μέχρι και σήμερα 19/01/23 είναι ημιτελής, ενώ δεν έχει γίνει και το κομμάτι Β2, της βιογραφίας.
+Για το μέρος Β2, της βιογραφίας επέλεξα να ασχοληθώ με τον **Michael Naimark**, έναν πρωτοπόρο των τεχνολογιών διάδρασης του οποίου το ευρύτερο έργο αφορά στην κατανόηση της δυναμικής μεταξύ τέχνης και τεχνολογίας. Υπήρξε εξάλλου, ο ιθύνων νούς πίσω από τους *«κινηματογραφικούς χάρτες»*, τον πρόγονο του **Google Street View** ήδη από τα τέλης της δεκαετίας του 70.
 
 
 ## CommandLine-4
