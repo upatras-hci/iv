@@ -10,8 +10,8 @@
 | 4 | συμμετοχικό 1A | [Participatory content 1Α](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6facc)| |
 | 5 | γραμμή εντολών (custom desktop environment) |[polybar](https://github.com/EvangeliaChatz/iv/blob/main/reports/Polybar_Installation.gif) [pipes](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) [VLC Installation](https://github.com/EvangeliaChatz/iv/blob/main/reports/VLC_Installation.gif)| |
 | 6 | συμμετοχικό περιεχόμενο 2Α | [1st interactive example](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/),[2nd interactive example](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)| |
-| 7 | βιογραφικό Β | | |
-| 8 | γραμμή εντολών (iv cli) | | |
+| 7 | βιογραφικό Β |[CV B](https://evangeliachatz.github.io/simple-cv/) | |
+| 8 | γραμμή εντολών (iv cli) |[pastel package](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz) | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli) | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
@@ -173,7 +173,7 @@ Change in focus state, when the user clicks on a form field to fill it, and othe
 NA GRAPSW AUTO!!!
 
 ## Command line1 (iv cli)
-In this exercise I used the [pastel](https://github.com/sharkdp/pastel) από τις [διαθέσιμες](https://github.com/epidrome/dokey) command from the available command line exercises.This package uses colors to enhance the CLI (Command Line Interface), that is, it prints colored texts to make them more beautiful and recognizable. I followed the repository instructions carefully.
+In this exercise I used the [pastel](https://github.com/sharkdp/pastel) from [available](https://github.com/epidrome/dokey) command from the available command line exercises.This package uses colors to enhance the CLI (Command Line Interface), that is, it prints colored texts to make them more beautiful and recognizable. I followed the repository instructions carefully.
 Pastel is a command line tool for creating and editing colors in terminal applications. On Arch Linux, you can use Pastel to perform the following tasks: </br>
 1.Generate color codes in various formats (e.g., RGB, HEX, ANSI). </br>
 2.Apply color to text and background. </br>
@@ -221,7 +221,6 @@ The above commands are shown in the video below:
 
 ## Command line2 (iv cli)
 icons-in-terminal-EDIT
-NA GRAPSW!!!
 
 
 ## Participatory content 1B
