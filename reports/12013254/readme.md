@@ -158,12 +158,12 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 
 ## Participatory content 2Α
-For this deliverable as a designer, I decided that the changes I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
+For this deliverable as a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
 -Sign up/Sign in form </br>
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
 * [pull request](https://github.com/upatras-HCI-2022/site/pull/12)
  </br>
-In this example I made changes such as changing the font sizes, as they were too large and spoiled the final result. </br>
+In this example I made changes such as changing the font sizes,from the [initial one](https://codepen.io/abxlfazl/details/VwKzaEm) as they were too large and spoiled the final result. </br>
 Change in focus state, when the user clicks on a form field to fill it, and other minor changes seen in the code.</br>
 -Animated tab bar
 * [Pull request](https://github.com/upatras-HCI-2022/site/pull/18)
