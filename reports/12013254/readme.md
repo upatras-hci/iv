@@ -168,9 +168,7 @@ Change in focus state, when the user clicks on a form field to fill it, and othe
 -Animated tab bar
 * [Pull request](https://github.com/upatras-HCI-2022/site/pull/18)
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)
-
-## CV B
-NA GRAPSW AUTO!!!
+* 
 
 ## Command line1 (iv cli)
 In this exercise I used the [pastel](https://github.com/sharkdp/pastel) from [available](https://github.com/epidrome/dokey) command from the available command line exercises.This package uses colors to enhance the CLI (Command Line Interface), that is, it prints colored texts to make them more beautiful and recognizable. I followed the repository instructions carefully.
