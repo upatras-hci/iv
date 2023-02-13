@@ -159,17 +159,17 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 ## Participatory content 2Α
 For this deliverable as a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
--Sign up/Sign in form <img width="652" alt="image" src="https://user-images.githubusercontent.com/99615706/218535919-9ff1fc2f-a8fd-4642-a8ab-cf424a3ca270.png">
+-Sign up/Sign in form  <img width="658" alt="image" src="https://user-images.githubusercontent.com/99615706/218536742-d232dd71-7c8b-43aa-a84e-d5ab9305c49a.png"
  </br>
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
 * [pull request](https://github.com/upatras-HCI-2022/site/pull/12)
  </br>
 In this example I made changes such as changing the font sizes,from the [initial one](https://codepen.io/abxlfazl/details/VwKzaEm) as they were too large and spoiled the final result. </br>
 Change in focus state, when the user clicks on a form field to fill it, and other minor changes seen in the code.</br>
--Animated tab bar
+-Animated tab bar <img width="663" alt="image" src="https://user-images.githubusercontent.com/99615706/218536570-e9cd66e3-5bfb-4c35-8c20-97465c81e47b.png">
+</br>
 * [Pull request](https://github.com/upatras-HCI-2022/site/pull/18)
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)
-* 
 
 ## Command line1 (iv cli)
 In this exercise I used the [pastel](https://github.com/sharkdp/pastel) from [available](https://github.com/epidrome/dokey) command from the available command line exercises.This package uses colors to enhance the CLI (Command Line Interface), that is, it prints colored texts to make them more beautiful and recognizable. I followed the repository instructions carefully.
