@@ -9,7 +9,7 @@
 | 3 | γραμμή εντολών (arch linux) |[Arch Linux Virtual Box Installation](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_1_Solution)||
 | 4 | συμμετοχικό 1A | [Participatory content 1Α](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6facc)| |
 | 5 | γραμμή εντολών (custom desktop environment) |[polybar](https://github.com/EvangeliaChatz/iv/blob/main/reports/Polybar_Installation.gif) [pipes](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) [VLC Installation](https://github.com/EvangeliaChatz/iv/blob/main/reports/VLC_Installation.gif)| |
-| 6 | συμμετοχικό περιεχόμενο 2Α | | |
+| 6 | συμμετοχικό περιεχόμενο 2Α | [1st interactive example](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/),[2nd interactive example](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)| |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
