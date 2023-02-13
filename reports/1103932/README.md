@@ -7,7 +7,7 @@ Name: Karatsoulas Dimitrios</br>
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | |[Introduction](#Introduction) |[Introduction](https://github.com/upatras-hci/iv/discussions/32) | |
+| 1 | [Introduction](#Introduction) |[Introduction](https://github.com/upatras-hci/iv/discussions/32) | |
 | 2 | [βιογραφικό Α](#CV-site) | [CV-site](https://github.com/upatras-hci/iv/discussions/40)||
 | 3 | [γραμμή εντολών (arch linux)](#CommandLine-1) |[CommandLine-1](https://github.com/upatras-hci/iv/discussions/46) | |
 | 4 | [συμμετοχικό περιεχόμενο 1A](#Content-1Α) |[Content 1A](https://github.com/upatras-hci/iv/discussions/50) | |
