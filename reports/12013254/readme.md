@@ -72,6 +72,8 @@ sudo pacman -S powerline powerline-font
 sudo pacman -S powerline powerline-fonts
 ``` 
 5.I Opened the .bashr file and erase the # to make them active
+<img width="716" alt="image" src="https://user-images.githubusercontent.com/99615706/218537716-806954fc-6731-4fdc-9160-a6da8a9e280a.png">
+
 
 [![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
 
@@ -87,6 +89,8 @@ sudo pacman -S neofetch
 ```sh
 neofetch
 ``` 
+<img width="680" alt="image" src="https://user-images.githubusercontent.com/99615706/218537213-8f42f424-0b3c-47c5-bf6f-33b1aa3ee59d.png">
+
 [![asciicast](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)</br>
 
 
@@ -101,6 +105,9 @@ neofetch
 syntax enable set background=dark colorscheme solarized
 ``` 
 6.From now the vim file will open with solarized theme.</br>
+<img width="718" alt="image" src="https://user-images.githubusercontent.com/99615706/218537509-d8880dcd-47f4-45e8-8b8b-67e1c9aec1d3.png">
+
+
 [![asciicast](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN.svg)](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN)
 
 
