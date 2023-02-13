@@ -166,14 +166,14 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 ## Participatory content 2Α
 For this deliverable as a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
--Sign up/Sign in form  <img width="658" alt="image" src="https://user-images.githubusercontent.com/99615706/218536742-d232dd71-7c8b-43aa-a84e-d5ab9305c49a.png"
+-Sign up/Sign in form  <img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218536742-d232dd71-7c8b-43aa-a84e-d5ab9305c49a.png">
  </br>
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
 * [pull request](https://github.com/upatras-HCI-2022/site/pull/12)
  </br>
 In this example I made changes such as changing the font sizes,from the [initial one](https://codepen.io/abxlfazl/details/VwKzaEm) as they were too large and spoiled the final result. </br>
 Change in focus state, when the user clicks on a form field to fill it, and other minor changes seen in the code.</br>
--Animated tab bar <img width="663" alt="image" src="https://user-images.githubusercontent.com/99615706/218536570-e9cd66e3-5bfb-4c35-8c20-97465c81e47b.png">
+-Animated tab bar <img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218539068-8b9ace90-e4e8-4a35-8770-f944106c2f9b.png">
 </br>
 * [Pull request](https://github.com/upatras-HCI-2022/site/pull/18)
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)
@@ -223,6 +223,8 @@ pastel paint -n black --on red --bold "EXAMPLE"
 </br>
 
 The above commands are shown in the video below:
+<img width="606" alt="image" src="https://user-images.githubusercontent.com/99615706/218538850-1f38dcc0-8e00-4e80-b6ec-f00f47594890.png">
+
 [![asciicast](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz)
 
 ## Command line2 (iv cli)
