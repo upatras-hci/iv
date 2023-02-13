@@ -159,7 +159,8 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 ## Participatory content 2Α
 For this deliverable as a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
--Sign up/Sign in form </br>
+-Sign up/Sign in form <img width="652" alt="image" src="https://user-images.githubusercontent.com/99615706/218535919-9ff1fc2f-a8fd-4642-a8ab-cf424a3ca270.png">
+ </br>
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
 * [pull request](https://github.com/upatras-HCI-2022/site/pull/12)
  </br>
