@@ -15,8 +15,8 @@ Name: Karatsoulas Dimitrios</br>
 | 6 | [συμμετοχικό περιεχόμενο 2Α](#Content-2Α) |[Content 2A](https://github.com/upatras-hci/iv/discussions/72) | |
 | 7 | [βιογραφικό Β](#CV-pdf) |[CV-pdf]() | |
 | 8 | [γραμμή εντολών (iv cli)](#CommandLine-3) |[CommandLine-3](https://github.com/upatras-hci/iv/discussions/63) | |
-| 9 | [συμμετοχικό περιεχόμενο 1Β](https://github.com/akimo13/iv/tree/1103932/reports/1103932/README.md#Content-2B) |[Content 1Β](https://github.com/upatras-hci/iv/discussions/75) | |
-| 10 | [γραμμή εντολών (iv cli)](https://github.com/akimo13/iv/tree/1103932/reports/1103932/README.md#CommandLine-4) |[CommandLine-4](https://github.com/upatras-hci/iv/discussions/63) | |
+| 9 | [συμμετοχικό περιεχόμενο 1Β](#Content-1B) |[Content 1Β](https://github.com/upatras-hci/iv/discussions/75) | |
+| 10 | [γραμμή εντολών (iv cli)](#CommandLine-4) |[CommandLine-4](https://github.com/upatras-hci/iv/discussions/63) | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
