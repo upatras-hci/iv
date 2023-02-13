@@ -11,7 +11,7 @@
 | 5 | γραμμή εντολών (custom desktop environment) |[polybar](https://github.com/EvangeliaChatz/iv/blob/main/reports/Polybar_Installation.gif) [pipes](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) [VLC Installation](https://github.com/EvangeliaChatz/iv/blob/main/reports/VLC_Installation.gif)| |
 | 6 | συμμετοχικό περιεχόμενο 2Α | [1st interactive example](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/),[2nd interactive example](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)| |
 | 7 | βιογραφικό Β |[CV B](https://evangeliachatz.github.io/simple-cv/) | |
-| 8 | γραμμή εντολών (iv cli) |[pastel package](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz) | |
+| 8 | γραμμή εντολών (iv cli) |[pastel package](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz) | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli) | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
