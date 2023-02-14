@@ -97,8 +97,6 @@ sudo pacman -S neofetch
 neofetch
 ``` 
 <img width="680" alt="image" src="https://user-images.githubusercontent.com/99615706/218537213-8f42f424-0b3c-47c5-bf6f-33b1aa3ee59d.png">
-<a href="https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi" target="_blank"><img "width=50" src="https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg" /></a>
-
 [![asciicast](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)</br>
 
 
