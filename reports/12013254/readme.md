@@ -73,7 +73,7 @@ sudo pacman -S powerline powerline-fonts
 5️⃣ I Opened the .bashr file and erase the # to make them active
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218537716-806954fc-6731-4fdc-9160-a6da8a9e280a.png">
 
-
+</br>
 [![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
 
 
