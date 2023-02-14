@@ -194,7 +194,7 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 ## 6.Participatory content 2Α
 For this deliverable as a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
-#### [Sign up/Sign in form](https://codepen.io/EvangeliaChatz/pen/GRBXNPd)  <br>
+#### 🔗 [Sign up/Sign in form](https://codepen.io/EvangeliaChatz/pen/GRBXNPd)  <br>
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218536742-d232dd71-7c8b-43aa-a84e-d5ab9305c49a.png">
  </br>
 * 🔗 [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
