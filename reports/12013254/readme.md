@@ -64,8 +64,7 @@ Firsty, I tried to install Arch Linux with USB, but I couldn't input characters 
 So the installation was repeated in Virtual Box. </br> 
 I followed the below steps: </br>
 
-### Installation of powerline <br>
-🔗 [Powerline repository](https://github.com/powerline/powerline) </br>
+### 🔗 [Installation of powerline](https://github.com/powerline/powerline) <br>
 1️⃣ Install powerline & powerline-fonts packages with sudo pacman:
 ```sh
 sudo pacman -S powerline
@@ -89,7 +88,8 @@ sudo pacman -S powerline powerline-fonts
 ![](https://user-images.githubusercontent.com/99615706/218537716-806954fc-6731-4fdc-9160-a6da8a9e280a.png)|[![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
 <br>
 
-🔗[Neofetch Installation](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) <br>
+
+### 🔗 [Neofetch Installation](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) <br>
 Neofetch is a tool that allows us to get basic information about the installed system. It is the ideal tool to learn at a glance the basic features of the installed operating system. We can install it very simply by running the command:</br>
 1️⃣ Downolad neofetch package with:
 ```sh
@@ -106,8 +106,7 @@ neofetch
 ![space-1.jpg](https://user-images.githubusercontent.com/99615706/218537213-8f42f424-0b3c-47c5-bf6f-33b1aa3ee59d.png)|[![video neofetch](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)
 
 
-
-🔗[Solarized Installation](https://github.com/altercation/solarized) <br>
+### 🔗 [Solarized Installation](https://github.com/altercation/solarized) <br>
 1️⃣ Download solarized package. There you will fine a file with name: solarized.vim:</br>
 2️⃣ Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir </br>
 3️⃣ If you have no permissions to make that move, do it as a root </br>
@@ -134,7 +133,7 @@ For participant 1A1, firstly I added the four images(two for each theme-one litt
 
 About this delivered, we decided all together that we will place content, regarding to how the art 🎨 is highlighted.</br>
 
-1. [Text to Image AI](https://deepai.org/machine-learning-model/text2img),  is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
+1. [Text to Image AI](https://deepai.org/machine-learning-model/text2img) ,  is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
 there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
 but are not free to use.
 The photo caption was created with the use of free Internet software `"DeepAI"`, a Text To Image - AI Image Generator
@@ -174,16 +173,16 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 </br>
 <sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
 
-1.[Polybar](https://github.com/polybar/polybar) </br>
+### 🔗 1.[Polybar](https://github.com/polybar/polybar) </br>
 ![Polybar](https://user-images.githubusercontent.com/99615706/216759556-31a9a9a8-518c-460c-89ab-255547a68533.png)
 </br>
 
 
-2.[Pipes](https://github.com/pipeseroni/pipes.sh)</br>
+### 🔗 2.[Pipes](https://github.com/pipeseroni/pipes.sh)</br>
 [![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) </br>
 
 
-3.[VLC Player](https://github.com/videolan/vlc) </br>
+#### 3.[VLC Player](https://github.com/videolan/vlc) </br>
 ![VLC](https://user-images.githubusercontent.com/99615706/216759812-7581647e-4af4-4d51-a1ca-347be6439ebb.png)
 
 
