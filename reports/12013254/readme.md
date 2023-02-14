@@ -194,20 +194,23 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 ## 6.Participatory content 2Α
 For this deliverable as a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
-#### Sign up/Sign in form  <img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218536742-d232dd71-7c8b-43aa-a84e-d5ab9305c49a.png">
+#### Sign up/Sign in form  <br>
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218536742-d232dd71-7c8b-43aa-a84e-d5ab9305c49a.png">
  </br>
 * 🔗 [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
 * 🔗 [pull request](https://github.com/upatras-HCI-2022/site/pull/12)
  </br>
  
 In this example I made changes such as changing the font sizes,from the [initial one](https://codepen.io/abxlfazl/details/VwKzaEm) as they were too large and spoiled the final result. </br>
-Change in focus state, when the user clicks on a form field to fill it, and other minor changes seen in the code. In more detail I did the followings:-added comments to better show where the icons are
-1️⃣ I zoomed out and changed the icons
-2️⃣ I rounded the edges
-3️⃣ I increased the height because with the smaller icons it was short
-4️⃣ I added the commands
-5️⃣ changed the font to Poppins by inserting `@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Inter&family=Poppins&display=swap’);` into the css</br>
-#### Animated tab bar <img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218539068-8b9ace90-e4e8-4a35-8770-f944106c2f9b.png">
+Change in focus state, when the user clicks on a form field to fill it, and other minor changes seen in the code. In more detail I did the followings:-added comments to better show where the icons are: <br>
+1️⃣ I zoomed out and changed the icons <br>
+2️⃣ I rounded the edges <br>
+3️⃣ I increased the height because with the smaller icons it was short <br>
+4️⃣ I added the commands <br>
+5️⃣ changed the font to Poppins by inserting `@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Inter&family=Poppins&display=swap’);` into the css <br>
+
+#### Animated tab bar <br>
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218539068-8b9ace90-e4e8-4a35-8770-f944106c2f9b.png">
 </br>
 * 🔗 [Pull request](https://github.com/upatras-HCI-2022/site/pull/18)
 * 🔗 [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)
