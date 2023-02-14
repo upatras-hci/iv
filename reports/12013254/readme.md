@@ -64,8 +64,8 @@ Firsty, I tried to install Arch Linux with USB, but I couldn't input characters 
 So the installation was repeated in Virtual Box. </br> 
 I followed the below steps: </br>
 
-### Installation of powerline
-[---------------------Installation of powerline---------------------](https://github.com/powerline/powerline) </br>
+### Installation of powerline <br>
+🔗 [Powerline repository](https://github.com/powerline/powerline) </br>
 1️⃣ Install powerline & powerline-fonts packages with sudo pacman:
 ```sh
 sudo pacman -S powerline
@@ -87,10 +87,9 @@ sudo pacman -S powerline powerline-fonts
 ![SCREENSHOT SVG](https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
 -------------------------|-------------------------
 ![](https://user-images.githubusercontent.com/99615706/218537716-806954fc-6731-4fdc-9160-a6da8a9e280a.png)|[![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
+<br>
 
-</br>
-
-[---------------------Neofetch Installation---------------------](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) </br>
+🔗[Neofetch Installation](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) <br>
 Neofetch is a tool that allows us to get basic information about the installed system. It is the ideal tool to learn at a glance the basic features of the installed operating system. We can install it very simply by running the command:</br>
 1️⃣ Downolad neofetch package with:
 ```sh
@@ -108,8 +107,7 @@ neofetch
 
 
 
-
-[--------------------- Solarized Installation---------------------](https://github.com/altercation/solarized) </br>
+🔗[Solarized Installation](https://github.com/altercation/solarized) <br>
 1️⃣ Download solarized package. There you will fine a file with name: solarized.vim:</br>
 2️⃣ Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir </br>
 3️⃣ If you have no permissions to make that move, do it as a root </br>
