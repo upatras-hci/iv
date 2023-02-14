@@ -18,6 +18,8 @@
 | 12 | Τελική αναφορά* | | |
 
 
+
+
 ## Personal Information
 ![CVfoto2 2](https://user-images.githubusercontent.com/99615706/218850914-ab3182ef-53bb-4bea-94b9-232c5b8869b6.png) </br>
 Όνομα: Chatzilygeroudi Evangelia </br>
@@ -25,7 +27,7 @@
 
 
 
-## Introduction
+## 1.Introduction
 My name is Chatzilygeroudi Evangelia.
 I used to work in finance , after my bachelor at [Department of Economics](https://www.econ.upatras.gr/el), but after many years of interaction with arts, jewelry(3D design) and make designs for friends and work, I discovered that design is my passion. </br>
 
@@ -46,22 +48,23 @@ I decided to choose this course, because I would have the opportunity to expand 
 
 
 
-## Organization creation & webring
+### Organization creation & webring
 In this part of the lesson we the [Human - Computer Interaction 2022 - 2023 Organisation](https://github.com/upatras-HCI-2022), and the [webring of our team](https://upatras-hci-2022.github.io/webring/) , too.There is the [repository](https://github.com/upatras-HCI-2022/webring) of it.
 
 
 
-## CV Site
+## 2.CV Site
 At first,we wanted to create an online site that CV ,will to created automatically from a [yaml](https://learnxinyminutes.com/docs/yaml/.) file,  using Jekyll.  <br />
 I create a branch 
 * [link online CV](https://evangeliachatz.github.io/online-cv/) <br />
 * [link CV repository](https://github.com/sharu725/online-cv) 
 
-## Command Line -ArchLinux Installation
+## 3.Command Line -ArchLinux Installation
 Firsty, I tried to install Arch Linux with USB, but I couldn't input characters in terminale
 So the installation was repeated in Virtual Box. </br> 
 I followed the below steps: </br>
 
+### Installation of powerline
 [---------------------Installation of powerline---------------------](https://github.com/powerline/powerline) </br>
 1️⃣ Install powerline & powerline-fonts packages with sudo pacman:
 ```sh
@@ -79,12 +82,13 @@ sudo pacman -S powerline powerline-font
 sudo pacman -S powerline powerline-fonts
 ``` 
 5️⃣ I Opened the .bashr file and erase the # to make them active
-<img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218537716-806954fc-6731-4fdc-9160-a6da8a9e280a.png">
+</br>
+
+![SCREENSHOT SVG](https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
+-------------------------|-------------------------
+![](https://user-images.githubusercontent.com/99615706/218537716-806954fc-6731-4fdc-9160-a6da8a9e280a.png)|[![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
 
 </br>
-[![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
-
-
 
 [---------------------Neofetch Installation---------------------](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) </br>
 Neofetch is a tool that allows us to get basic information about the installed system. It is the ideal tool to learn at a glance the basic features of the installed operating system. We can install it very simply by running the command:</br>
@@ -154,7 +158,7 @@ Riffusion has been described as "out of this world" music, but is unlikely to re
 
 
 
-## Participatory content 1Α2
+## 4.Participatory content 1Α2
 For the participatory content 1A2 we added as an [organization](https://github.com/upatras-HCI-2022), an [`art.md` file1](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md) for the slides, and  an [`art.md` file2](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md) for timeline, on [site's repository](https://github.com/upatras-HCI-2022/site), in the [slides folder](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and in [timeline folder](https://github.com/upatras-HCI-2022/site/tree/master/_timeline), respectively, from file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). </br> 
 
 | Pull request | Pibook link | Organization's pibook links |
@@ -166,7 +170,7 @@ For the participatory content 1A2 we added as an [organization](https://github.c
 
 
 
-## Custom Desktop Enviroment
+## 5.Custom Desktop Enviroment
 For command line usage I installed a simple [window manager]( https://courses-ionio.github.io/help/cli/).
 I also installed the following [packages](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_2_Solution):The Polybar font is package with default status bar.I tried the `hack` theme. Polybar package is for add to our desktop a status bar that shows information relative to CPU usage, RAM usage, information about connection, volume. The second package is a screensaver, fills it with moving images or patterns when the computer has been idle for a designated time.The third one, is the well known, VLC Player.
 </br>
@@ -186,7 +190,7 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 
 
-## Participatory content 2Α
+## 6.Participatory content 2Α
 For this deliverable as a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
 -Sign up/Sign in form  <img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218536742-d232dd71-7c8b-43aa-a84e-d5ab9305c49a.png">
  </br>
@@ -200,7 +204,7 @@ Change in focus state, when the user clicks on a form field to fill it, and othe
 * [Pull request](https://github.com/upatras-HCI-2022/site/pull/18)
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)
 
-## Command line1 (iv cli)
+## 8.Command line1 (iv cli)
 In this exercise I used the [pastel](https://github.com/sharkdp/pastel) from [available](https://github.com/epidrome/dokey) command from the available command line exercises.This package uses colors to enhance the CLI (Command Line Interface), that is, it prints colored texts to make them more beautiful and recognizable. I followed the repository instructions carefully.
 Pastel is a command line tool for creating and editing colors in terminal applications. On Arch Linux, you can use Pastel to perform the following tasks: </br>
 1.Generate color codes in various formats (e.g., RGB, HEX, ANSI). </br>
@@ -249,7 +253,7 @@ The above commands are shown in the video below: </br>
 
 [![asciicast](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz)
 
-## Command line2 (iv cli)
+## 10.Command line2 (iv cli)
 The second command line exercise I've done is icons-in-terminal:
 
 * nb:
@@ -263,7 +267,7 @@ $ git clone https://github.com/sebastiencs/icons-in-terminal.git
 [![asciicast](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ.svg)](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ)
 
 
-## Participatory content 1B
+## 9.Participatory content 1B
 Having dealt with software that converts text into image and music respectively, I decided to explore the field that converts speech into movements, and the wider field of voice recognition. </br>
 In the first part (participatory 1B1), Voice Chess Challenger, developed in the 1970s, was one of the first examples of using voice interaction to play a game. The device used speech recognition technology to recognize voice commands and control the chessboard, allowing players to make moves by speaking into a microphone. This early application of speech recognition demonstrated the possibility of using voice commands to interact with electronic devices and helped lay the foundations for the development of modern speech recognition systems. It then takes a historical look back at the development of this industry, and examples of similar games are cited , based on voice recognition. </br>
 * [link pibook](https://wondrous-paletas-7dd991.netlify.app/case-study/voice-chess-challenger/) </br>
@@ -274,14 +278,15 @@ In the second part, I looked into the same field and referred to the biography o
 * [link to the organization's repository](https://github.com/upatras-HCI-2022/site/blob/master/_biography/homer-dudley.md) </br>
 
 
-## CvB
+## 7.CvB
 Σε αυτό το παραδοτέο χρησιμοποίησα το [simple-cv](https://github.com/plain-plain-text/simple-cv) που αναφέρεται στην [εκφώνηση](https://courses-ionio.github.io/help/cv/) της άσκησης.Αφού εγκατέστησα το pandoc & το latex, έτρεξα το αρχείο process, για να μετατραπεί σε pdf. Τα παραπάνω βήματα φαίνονται στο asciinema που ακολουθεί.Επίσης για να ανανεώνω κάθε φορά τις αλλαγές έτρεχα την εντολή sh process.sh
 [![asciicast](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R.svg)](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R) </br>
 
 
-## Participatory content 2B
+## 11.Participatory content 2B
 
 
 
+## 12.Final Report
 
 
