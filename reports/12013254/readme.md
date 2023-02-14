@@ -122,23 +122,25 @@ For participant 1A1, firstly I added the four images(two for each theme-one litt
 
 About this delivered, we decided all together that we will place content, regarding to how the art is highlighted.</br>
 
-1.[Text to Image AI](https://deepai.org/machine-learning-model/text2img),  is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
+1. [Text to Image AI](https://deepai.org/machine-learning-model/text2img),  is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
 there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
 but are not free to use.
 The photo caption was created with the use of free Internet software `"DeepAI"`, a Text To Image - AI Image Generator
 and using "Dancing Animals" as input the input text.
 </br>
-![Dancing Animals](https://user-images.githubusercontent.com/99615706/216759149-247eda50-08ab-4aab-931f-2ee5b4ac69df.jpeg)</br>
-<sup>The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
+
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218826776-57a5bb03-4d86-4064-bd9b-c0298ad0d3e4.png">
+<sup> The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
 </br>
 
-2.[Riffusion](https://www.riffusion.com/) is a type of artificial neural network that generates music by utilizing images of sound instead of audio. It was created by Seth Forsgren and Hayk Martiros and is based on [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), a pre-existing open-source model for generating images from text prompts. Riffusion takes these image files and converts them into audio files by running them through an inverse Fourier transform. Although the generated audio files are only a few seconds long, Riffusion has the ability to interpolate different files together by using the latent space between outputs and a functionality of Stable Diffusion known as img2img.
+2. [Riffusion](https://www.riffusion.com/) is a type of artificial neural network that generates music by utilizing images of sound instead of audio. It was created by Seth Forsgren and Hayk Martiros and is based on [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), a pre-existing open-source model for generating images from text prompts. Riffusion takes these image files and converts them into audio files by running them through an inverse Fourier transform. Although the generated audio files are only a few seconds long, Riffusion has the ability to interpolate different files together by using the latent space between outputs and a functionality of Stable Diffusion known as img2img.
 Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023.
-<img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218541273-bf85caa3-af85-4612-b6eb-a7d047692165.png">
+Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023. 
 </br>
-Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023. </br>
- </br>
 
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218541273-bf85caa3-af85-4612-b6eb-a7d047692165.png">
+<sup> The license terms of the photo can be found [here](https://github.com/riffusion/riffusion/blob/main/LICENSE)</sup>
+ </br>
 
 
 
