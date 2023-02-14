@@ -96,8 +96,12 @@ sudo pacman -S neofetch
 ```sh
 neofetch
 ``` 
-<img width="680" alt="image" src="https://user-images.githubusercontent.com/99615706/218537213-8f42f424-0b3c-47c5-bf6f-33b1aa3ee59d.png">
-[![asciicast](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)</br>
+
+
+![SCREENSHOT SVG](https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)            |  ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
+:-------------------------:|:-------------------------:
+![space-1.jpg](https://user-images.githubusercontent.com/99615706/218537213-8f42f424-0b3c-47c5-bf6f-33b1aa3ee59d.png)  |  [![VIDEO-NEOFETCH](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)
+
 
 
 
