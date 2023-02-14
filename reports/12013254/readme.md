@@ -8,7 +8,7 @@
 | 2 | βιογραφικό Α | [CV A](https://evangeliachatz.github.io/online-cv/)  |
 | 3 | γραμμή εντολών (arch linux) |[Arch Linux Virtual Box Installation](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_1_Solution)||
 | 4 | συμμετοχικό 1A | [Participatory content 1Α](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6facc)| |
-| 5 | γραμμή εντολών (custom desktop environment) |[polybar](https://github.com/EvangeliaChatz/iv/blob/main/reports/Polybar_Installation.gif) [pipes](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) [VLC Installation](https://github.com/EvangeliaChatz/iv/blob/main/reports/VLC_Installation.gif)| |
+| 5 | γραμμή εντολών (custom desktop environment) |[polybar](https://drive.google.com/file/d/18SxKvZ-IzT-Xss-jgpNVzpHGr_K6tr-J/view?usp=share_link) [pipes](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) [VLC Installation](https://drive.google.com/file/d/1IWxuuzfntMdKXpGIWwjdqOwJX019WWOU/view?usp=share_link)| |
 | 6 | συμμετοχικό περιεχόμενο 2Α | [1st interactive example](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/),[2nd interactive example](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)| |
 | 7 | βιογραφικό Β |[CV B](https://evangeliachatz.github.io/simple-cv/) | |
 | 8 | γραμμή εντολών (iv cli) |[pastel package](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz) | |
@@ -64,7 +64,7 @@ Firsty, I tried to install Arch Linux with USB, but I couldn't input characters 
 So the installation was repeated in Virtual Box. </br> 
 I followed the below steps: </br>
 
-### 🔗 [Installation of powerline](https://github.com/powerline/powerline) <br>
+#### 🔗 [Installation of powerline](https://github.com/powerline/powerline) <br>
 1️⃣ Install powerline & powerline-fonts packages with sudo pacman:
 ```sh
 sudo pacman -S powerline
@@ -89,7 +89,7 @@ sudo pacman -S powerline powerline-fonts
 <br>
 
 
-### 🔗 [Neofetch Installation](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) <br>
+#### 🔗 [Neofetch Installation](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) <br>
 Neofetch is a tool that allows us to get basic information about the installed system. It is the ideal tool to learn at a glance the basic features of the installed operating system. We can install it very simply by running the command:</br>
 1️⃣ Downolad neofetch package with:
 ```sh
@@ -106,7 +106,7 @@ neofetch
 ![space-1.jpg](https://user-images.githubusercontent.com/99615706/218537213-8f42f424-0b3c-47c5-bf6f-33b1aa3ee59d.png)|[![video neofetch](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)
 
 
-### 🔗 [Solarized Installation](https://github.com/altercation/solarized) <br>
+#### 🔗 [Solarized Installation](https://github.com/altercation/solarized) <br>
 1️⃣ Download solarized package. There you will fine a file with name: solarized.vim:</br>
 2️⃣ Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir </br>
 3️⃣ If you have no permissions to make that move, do it as a root </br>
@@ -177,12 +177,12 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 </br>
 <sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
 
-### 🔗 1.[Polybar](https://github.com/polybar/polybar) </br>
+#### 🔗 1.[Polybar](https://github.com/polybar/polybar) </br>
 ![Polybar_Installation](https://user-images.githubusercontent.com/99615706/218886474-056572c0-532a-466b-863e-c44847729132.gif)
 </br>
 
 
-### 🔗 2.[Pipes](https://github.com/pipeseroni/pipes.sh)</br>
+#### 🔗 2.[Pipes](https://github.com/pipeseroni/pipes.sh)</br>
 [![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) </br>
 
 
