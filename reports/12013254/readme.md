@@ -231,7 +231,17 @@ The above commands are shown in the video below: </br>
 [![asciicast](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz)
 
 ## Command line2 (iv cli)
-icons-in-terminal-EDIT
+The second command line exercise I've done is icons-in-terminal:
+
+* nb:
+1.Make a clone of icons-in-terminal:
+```sh
+$ git clone https://github.com/sebastiencs/icons-in-terminal.git
+```
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/99615706/218669485-df8e36ec-bca1-4208-8d1f-e7990f95f877.png">
+</br>
+
+[![asciicast](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ.svg)](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ)
 
 
 ## Participatory content 1B
