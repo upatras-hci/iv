@@ -120,7 +120,7 @@ For participant 1A1, firstly I added the four images(two for each theme-one litt
 | [`rifussion.md`](https://github.com/EvangeliaChatz/_gallery-hci-2022/blob/master/riffussion.md) |[image2-riffussion](https://github.com/upatras-HCI-2022/images/blob/master/riffussion.png)|[image2-pull request](https://github.com/upatras-HCI-2022/images/pull/18) | [rifussion pull request](https://github.com/upatras-HCI-2022/_gallery/pull/23) |
 </br>
 
-About this delivered, we decided all together that we will place content, regarding to how the art is highlighted.</br>
+About this delivered, we decided all together that we will place content, regarding to how the art🎨 is highlighted.</br>
 
 1. [Text to Image AI](https://deepai.org/machine-learning-model/text2img),  is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
 there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
