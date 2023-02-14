@@ -17,7 +17,6 @@
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
-<a href="https://github.com/polybar/polybar/releases"><img src="https://img.shields.io/github/release/polybar/polybar.svg"></a>
 ## Personal Information
 Όνομα: Chatzilygeroudi Evangelia </br>
 ΑΜ: 1018865
