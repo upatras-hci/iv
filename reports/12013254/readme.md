@@ -144,7 +144,7 @@ The photo caption was created with the use of free Internet software `"DeepAI"`,
 and using "Dancing Animals" as input the input text.
 </br>
 
-<img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218826776-57a5bb03-4d86-4064-bd9b-c0298ad0d3e4.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/99615706/218826776-57a5bb03-4d86-4064-bd9b-c0298ad0d3e4.png">
 <sup> The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
 </br>
 
@@ -153,7 +153,7 @@ Riffusion has been described as "out of this world" music, but is unlikely to re
 Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023. 
 </br>
 
-<img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218541273-bf85caa3-af85-4612-b6eb-a7d047692165.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/99615706/218541273-bf85caa3-af85-4612-b6eb-a7d047692165.png">
 <sup> The license terms of the photo can be found [here](https://github.com/riffusion/riffusion/blob/main/LICENSE)</sup>
  </br>
 
