@@ -55,11 +55,11 @@ So the installation was repeated in Virtual Box. </br>
 I followed the below steps: </br>
 
 [---------------------Installation of powerline---------------------](https://github.com/powerline/powerline) </br>
-1️⃣: Install powerline & powerline-fonts packages with sudo pacman:
+1️⃣ Install powerline & powerline-fonts packages with sudo pacman:
 ```sh
 sudo pacman -S powerline
 ``` 
-2️⃣: Add the following lines to ~/.bashrc file in order to enable powerline:
+2️⃣ Add the following lines to ~/.bashrc file in order to enable powerline:
 ```sh
 vim .bashrc
 ``` 
