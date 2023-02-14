@@ -52,27 +52,27 @@ I create a branch
 
 ## Command Line -ArchLinux Installation
 Firsty, I tried to install Arch Linux with USB, but I couldn't input characters in terminale
-So the installation was repeated in Virtual Box shown in the [photo](https://github.com/EvangeliaChatz/iv/blob/main/virtual%20box.png) below.So re-installed in Virtual Box </br> 
+So the installation was repeated in Virtual Box. </br> 
 I followed the below steps: </br>
 
 [---------------------Installation of powerline---------------------](https://github.com/powerline/powerline) </br>
-1. Install powerline & powerline-fonts packages with sudo pacman:
+1️⃣: Install powerline & powerline-fonts packages with sudo pacman:
 ```sh
 sudo pacman -S powerline
 ``` 
-2. Add the following lines to ~/.bashrc file in order to enable powerline:
+2️⃣: Add the following lines to ~/.bashrc file in order to enable powerline:
 ```sh
 vim .bashrc
 ``` 
-3.Powerline-deamon -q #if this line creates error remove it
+3️⃣ Powerline-deamon -q #if this line creates error remove it
 
-4.Finally, source .bashrc, or close and reopen Terminal
+4️⃣ Finally, source .bashrc, or close and reopen Terminal
 sudo pacman -S powerline powerline-font
 ```sh
 sudo pacman -S powerline powerline-fonts
 ``` 
-5.I Opened the .bashr file and erase the # to make them active
-<img width="716" alt="image" src="https://user-images.githubusercontent.com/99615706/218537716-806954fc-6731-4fdc-9160-a6da8a9e280a.png">
+5️⃣ I Opened the .bashr file and erase the # to make them active
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218537716-806954fc-6731-4fdc-9160-a6da8a9e280a.png">
 
 
 [![asciicast](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx.svg)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx)
@@ -81,11 +81,11 @@ sudo pacman -S powerline powerline-fonts
 
 [---------------------Neofetch Installation---------------------](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi) </br>
 Neofetch is a tool that allows us to get basic information about the installed system. It is the ideal tool to learn at a glance the basic features of the installed operating system. We can install it very simply by running the command:</br>
-1. Downolad neofetch package with:
+1️⃣ Downolad neofetch package with:
 ```sh
 sudo pacman -S neofetch
 ``` 
-2. And run neofetch:
+2️⃣ And run neofetch:
 ```sh
 neofetch
 ``` 
@@ -96,15 +96,15 @@ neofetch
 
 
 [--------------------- Solarized Installation---------------------](https://github.com/altercation/solarized) </br>
-1. Download solarized package. There you will fine a file with name: solarized.vim:</br>
-2. Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir </br>
-3. If you have no permissions to make that move, do it as a root </br>
-4. To become root type: sudo -i </br>
-5. Then create a vim file with name '.vimrc' on /home folder and place the below </br>
+1️⃣ Download solarized package. There you will fine a file with name: solarized.vim:</br>
+2️⃣ Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir </br>
+3️⃣ If you have no permissions to make that move, do it as a root </br>
+4️⃣ To become root type: sudo -i </br>
+5️⃣ Then create a vim file with name '.vimrc' on /home folder and place the below </br>
 ```sh
 syntax enable set background=dark colorscheme solarized
 ``` 
-6.From now the vim file will open with solarized theme.</br>
+6️⃣ From now the vim file will open with solarized theme.</br>
 <img width="718" alt="image" src="https://user-images.githubusercontent.com/99615706/218537509-d8880dcd-47f4-45e8-8b8b-67e1c9aec1d3.png">
 
 
@@ -152,9 +152,6 @@ For the participatory content 1A2 we added as an [organization](https://github.c
 | [Dancing animals](https://github.com/upatras-HCI-2022/site/pull/3) | [pibook slides](https://wondrous-paletas-7dd991.netlify.app/slides/art/) | [all images together](https://wondrous-paletas-7dd991.netlify.app/slides/art/)
 | [Riffusion](https://github.com/upatras-HCI-2022/site/pull/27) | [pibook timeline](https://wondrous-paletas-7dd991.netlify.app/timeline/art/) | [timeline](https://wondrous-paletas-7dd991.netlify.app/timeline/art/)|
 
-PIBOOK
-https://wondrous-paletas-7dd991.netlify.app/slides/art/
-* [pull request for my additions](https://github.com/upatras-HCI-2022/site/pull/27)
 </br>
 
 
