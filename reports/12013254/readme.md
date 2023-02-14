@@ -17,14 +17,19 @@
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
+
 ## Personal Information
+![CVfoto2 2](https://user-images.githubusercontent.com/99615706/218850914-ab3182ef-53bb-4bea-94b9-232c5b8869b6.png) </br>
 Όνομα: Chatzilygeroudi Evangelia </br>
 ΑΜ: 1018865
+
+
 
 ## Introduction
 My name is Chatzilygeroudi Evangelia.
 I used to work in finance , after my bachelor at [Department of Economics](https://www.econ.upatras.gr/el), but after many years of interaction with arts, jewelry(3D design) and make designs for friends and work, I discovered that design is my passion. </br>
 
+![ICON EDUCATION (1)](https://user-images.githubusercontent.com/99615706/218851857-f5767b80-762b-4446-ae7f-3cca968f24c4.svg) </br>
 I have been studying for six months, User Experience Design at [SAE Institute](https://www.sae.edu/grc/?) , so that I can make my designs beautiful and easy to use. At SAE Institute, I have had the chance to get to know the process (UX
 Competitive Analysis, Neilsen Heuristics, User Interviews, Usability Testing,
 Information Architecture, Navigation Design, Wireframes/Prototypes &
@@ -36,6 +41,9 @@ In addition, it’s in my plans to develop my skills in Front End programming
 (HTML, CSS, Javascript).</br>
 
 I decided to choose this course, because I would have the opportunity to expand my knowledge  and learn how the information is visualized correctly, which is part of my job. </br>
+
+![Frame 99](https://user-images.githubusercontent.com/99615706/218852486-976211f3-3423-41b0-99d3-525c2538eec6.svg)
+
 
 
 ## Organization creation & webring
