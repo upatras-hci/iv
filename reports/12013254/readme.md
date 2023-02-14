@@ -178,7 +178,7 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 <sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
 
 ### 🔗 1.[Polybar](https://github.com/polybar/polybar) </br>
-![Polybar](https://user-images.githubusercontent.com/99615706/216759556-31a9a9a8-518c-460c-89ab-255547a68533.png)
+![Polybar_Installation](https://user-images.githubusercontent.com/99615706/218886474-056572c0-532a-466b-863e-c44847729132.gif)
 </br>
 
 
@@ -187,7 +187,8 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 
 #### 🔗 3.[VLC Player](https://github.com/videolan/vlc) </br>
-![VLC](https://user-images.githubusercontent.com/99615706/216759812-7581647e-4af4-4d51-a1ca-347be6439ebb.png)
+![VLC_Installation](https://user-images.githubusercontent.com/99615706/218886622-ba347e03-cd68-4dcd-a124-35440204db67.gif)
+
 
 
 
