@@ -145,7 +145,11 @@ Riffusion has been described as "out of this world" music, but is unlikely to re
 
 
 ## Participatory content 1Α2
-For the participatory content 1A2 we added to the [slides](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and [timeline](https://github.com/upatras-HCI-2022/site/tree/master/_timeline) folders from an [`art.md`](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md) file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). </br> 
+For the participatory content 1A2 we added as an [organization](https://github.com/upatras-HCI-2022), an [`art.md` file1](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md) for the slides, and  an [`art.md` file2](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md) for timeline, on [site's repository](https://github.com/upatras-HCI-2022/site), in the [slides folder](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and in [timeline folder](https://github.com/upatras-HCI-2022/site/tree/master/_timeline), respectively, from file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). </br> 
+
+
+PIBOOK
+https://wondrous-paletas-7dd991.netlify.app/slides/art/
 * [pull request for my additions](https://github.com/upatras-HCI-2022/site/pull/27)
 </br>
 
