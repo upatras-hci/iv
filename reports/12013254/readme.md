@@ -113,15 +113,21 @@ syntax enable set background=dark colorscheme solarized
 
 
 ## Participatory content 1Α1
-About this delivered, we decided all together that we will place content, regarding to how the art is highlighted.</be>
-Text to Image AI is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description
-in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
-there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
-but are not free to use.
-The photo caption was created with the use of free Internet software "DeepAI", a Text To Image - AI Image Generator
-and using "Dancing Animals" as input the input text.
+For participant 1A1, I created two separate `md` files, one for each image, and then made a pull request to the organization's repository, which are shown in the table below.
+| md file | Pull request |
+| --- | ----------- |
+| [`text-to-image.md`](https://github.com/upatras-HCI-2022/_gallery/blob/master/text-to-image.md) | [text-to-image pull request](https://github.com/upatras-HCI-2022/_gallery/pull/22) |
+| [`rifussion.md`](https://github.com/upatras-HCI-2022/_gallery/blob/master/riffussion.md) | [rifussion pull request](https://github.com/upatras-HCI-2022/_gallery/pull/23) |
 </br>
 
+About this delivered, we decided all together that we will place content, regarding to how the art is highlighted.</br>
+
+1.[Text to Image AI](https://deepai.org/machine-learning-model/text2img),  is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
+there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
+but are not free to use.
+The photo caption was created with the use of free Internet software `"DeepAI"`, a Text To Image - AI Image Generator
+and using "Dancing Animals" as input the input text.
+</br>
 ![Dancing Animals](https://user-images.githubusercontent.com/99615706/216759149-247eda50-08ab-4aab-931f-2ee5b4ac69df.jpeg)</br>
 <sup>The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
 
@@ -129,7 +135,7 @@ and using "Dancing Animals" as input the input text.
 * [images](https://github.com/upatras-HCI-2022/images/commit/993d4264bf17d75fb7828c65365295907affe810) 
 * [pull request](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6fac) at organization's repository  </br>
 
-[Riffusion](https://www.riffusion.com/) is a type of artificial neural network that generates music by utilizing images of sound instead of audio. It was created by Seth Forsgren and Hayk Martiros and is based on [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), a pre-existing open-source model for generating images from text prompts. Riffusion takes these image files and converts them into audio files by running them through an inverse Fourier transform. Although the generated audio files are only a few seconds long, Riffusion has the ability to interpolate different files together by using the latent space between outputs and a functionality of Stable Diffusion known as img2img.
+2.[Riffusion](https://www.riffusion.com/) is a type of artificial neural network that generates music by utilizing images of sound instead of audio. It was created by Seth Forsgren and Hayk Martiros and is based on [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), a pre-existing open-source model for generating images from text prompts. Riffusion takes these image files and converts them into audio files by running them through an inverse Fourier transform. Although the generated audio files are only a few seconds long, Riffusion has the ability to interpolate different files together by using the latent space between outputs and a functionality of Stable Diffusion known as img2img.
 Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023.
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218541273-bf85caa3-af85-4612-b6eb-a7d047692165.png">
 </br>
@@ -138,6 +144,15 @@ Riffusion has been described as "out of this world" music, but is unlikely to re
 * [gallery](https://github.com/upatras-HCI-2022/_gallery/pull/23)
 * [images pull request](https://github.com/upatras-HCI-2022/images/pull/18) 
 * [pull request]() at organization's repository  </br>
+
+
+| Upload Images      | Gallery     | Pull request to organization |
+| ----------- | ----------- | -----------  |
+| [Dancing animals](https://github.com/upatras-HCI-2022/_gallery/pull/17) | [text-to-image](https://github.com/upatras-HCI-2022/_gallery/blob/master/eye-drawing.md) | 
+| [Εικόνα2](https://github.com/upatras-HCI-2022/images/blob/master/eeg-brainwave.png)   | [Εικόνα2](https://github.com/upatras-HCI-2022/_gallery/blob/master/eeg-brainwave.md) |
+| [Εικόνα3](https://github.com/upatras-HCI-2022/images/blob/master/eeg-brainwave.png)   | [Εικόνα2](https://github.com/upatras-HCI-2022/_gallery/blob/master/eeg-brainwave.md) |
+
+
 
 
 ## Participatory content 1Α2
