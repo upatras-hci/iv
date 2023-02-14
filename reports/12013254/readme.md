@@ -99,8 +99,8 @@ sudo pacman -S neofetch
 ```sh
 neofetch
 ``` 
+</br>
 
- 
 ![SCREENSHOT SVG](https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
 -------------------------|-------------------------
 ![space-1.jpg](https://user-images.githubusercontent.com/99615706/218537213-8f42f424-0b3c-47c5-bf6f-33b1aa3ee59d.png)|[![video neofetch](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)
@@ -116,10 +116,14 @@ neofetch
 syntax enable set background=dark colorscheme solarized
 ``` 
 6️⃣ From now the vim file will open with solarized theme.</br>
-<img width="718" alt="image" src="https://user-images.githubusercontent.com/99615706/218537509-d8880dcd-47f4-45e8-8b8b-67e1c9aec1d3.png">
+
+![SCREENSHOT SVG](https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
+-------------------------|-------------------------
+![space-1.jpg](https://user-images.githubusercontent.com/99615706/218537509-d8880dcd-47f4-45e8-8b8b-67e1c9aec1d3.png)|[![asciicast](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN.svg)](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN)
 
 
-[![asciicast](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN.svg)](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN)
+
+
 
 
 
@@ -182,7 +186,7 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 [![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) </br>
 
 
-#### 3.[VLC Player](https://github.com/videolan/vlc) </br>
+#### 🔗 3.[VLC Player](https://github.com/videolan/vlc) </br>
 ![VLC](https://user-images.githubusercontent.com/99615706/216759812-7581647e-4af4-4d51-a1ca-347be6439ebb.png)
 
 
