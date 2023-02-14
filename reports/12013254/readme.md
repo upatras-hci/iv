@@ -114,10 +114,10 @@ syntax enable set background=dark colorscheme solarized
 
 ## Participatory content 1Α1
 For participant 1A1, firstly I added the four images(two for each theme-one little and a bigger one) in [my forked repository by organization](https://github.com/EvangeliaChatz/images-hci-2022) and then I created two separate `md` files, one for each image. Secondly, I made a pull request to the organization's repository, which are shown in the table below.
-| md file | Images | Pull request |
-| --- | --- | ----------- |
-| [`text-to-image.md`](https://github.com/upatras-HCI-2022/_gallery/blob/master/text-to-image.md) |[image1-text-to-image](https://github.com/upatras-HCI-2022/images/commit/993d4264bf17d75fb7828c65365295907affe810) | [text-to-image pull request](https://github.com/upatras-HCI-2022/_gallery/pull/22) |
-| [`rifussion.md`](https://github.com/upatras-HCI-2022/_gallery/blob/master/riffussion.md) |[image2-riffussion](https://github.com/upatras-HCI-2022/images/blob/master/riffussion.png)| [rifussion pull request](https://github.com/upatras-HCI-2022/_gallery/pull/23) |
+| md files(my gallery's repository) | Images(my image's repository) | Images Pull request | Gallery Pull request  |
+| --- | --- | ----------- |----------- |
+| [`text-to-image.md`](https://github.com/EvangeliaChatz/_gallery-hci-2022/blob/master/text-to-image.md) |[image1-text-to-image](https://github.com/EvangeliaChatz/images-hci-2022/blob/master/text-to-image.jpeg) | [image1-pull request](https://github.com/upatras-HCI-2022/images/pull/10) | [text-to-image pull request](https://github.com/upatras-HCI-2022/_gallery/pull/22) |
+| [`rifussion.md`](https://github.com/EvangeliaChatz/_gallery-hci-2022/blob/master/riffussion.md) |[image2-riffussion](https://github.com/upatras-HCI-2022/images/blob/master/riffussion.png)|[image2-pull request](https://github.com/upatras-HCI-2022/images/pull/18) | [rifussion pull request](https://github.com/upatras-HCI-2022/_gallery/pull/23) |
 </br>
 
 About this delivered, we decided all together that we will place content, regarding to how the art is highlighted.</br>
