@@ -194,7 +194,7 @@ For this deliverable, I created two files called, [`animated-tab-bar.md`](https:
 As a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
 
 #### 🔗 [Sign up/Sign in form](https://codepen.io/EvangeliaChatz/pen/GRBXNPd)  <br>
-In this example I made changes such as changing the font sizes,from the [initial one](https://codepen.io/abxlfazl/details/VwKzaEm) as they were too large and spoiled the final result. </br>
+In this example I made changes such as changing the font sizes,from the [initial one](https://codepen.io/ehermanson/pen/KwKWEv) as they were too large and spoiled the final result. </br>
 Change in focus state, when the user clicks on a form field to fill it, and other minor changes seen in the code. In more detail I did the followings:
 <br>
 
