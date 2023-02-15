@@ -179,7 +179,6 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg) |![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
 -------------------------|-------------------------|-------------------------
 ![Polybar_Installation](https://user-images.githubusercontent.com/99615706/218886474-056572c0-532a-466b-863e-c44847729132.gif)|[![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) | ![VLC_Installation](https://user-images.githubusercontent.com/99615706/218886622-ba347e03-cd68-4dcd-a124-35440204db67.gif)
-<br>
 <sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
 
 
@@ -190,7 +189,7 @@ As a designer, I decided that the changes from the [initial one](https://codepen
 
 #### 🔗 [Sign up/Sign in form](https://codepen.io/EvangeliaChatz/pen/GRBXNPd)  <br>
 In this example I made changes such as changing the font sizes,from the [initial one](https://codepen.io/abxlfazl/details/VwKzaEm) as they were too large and spoiled the final result. </br>
-Change in focus state, when the user clicks on a form field to fill it, and other minor changes seen in the code. In more detail I did the followings:-
+Change in focus state, when the user clicks on a form field to fill it, and other minor changes seen in the code. In more detail I did the followings:
 <br>
 
  ![BEFORE](https://user-images.githubusercontent.com/99615706/218907604-e371fb6e-880e-4b55-8678-927619219d9f.svg)| ![AFTER](https://user-images.githubusercontent.com/99615706/218907639-221f624f-b176-47ff-847b-a4e52c9ca3c9.svg)
@@ -218,11 +217,11 @@ Change in focus state, when the user clicks on a form field to fill it, and othe
 
 
 <br>
- | Interactive examples Pull request | Pibook link |
-| --- | ----------- |
-| [sign up-sign in form-pull request](https://github.com/upatras-HCI-2022/site/pull/12) | [sign up-sign in form](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/) |
-| [animated tab bar-pull request](https://github.com/upatras-HCI-2022/site/pull/18) | [animated tab bar](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/) |
 
+| Interactive examples | Pull request | Organization's pibook links |
+| --- | ----------- | ----------- |
+| Sign up form | [sign up-sign in form-pull request](https://github.com/upatras-HCI-2022/site/pull/12) | [[sign up form link](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
+| Animated tab bar | [animated tab bar pull-request](https://github.com/upatras-HCI-2022/site/pull/18) | [animated tab bar link](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)|
 
 ## 8.Command line1 (iv cli)
 In this exercise I used the [pastel](https://github.com/sharkdp/pastel) from [available](https://github.com/epidrome/dokey) command from the available command line exercises.This package uses colors to enhance the CLI (Command Line Interface), that is, it prints colored texts to make them more beautiful and recognizable. I followed the repository instructions carefully.
