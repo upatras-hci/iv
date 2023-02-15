@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://courses-ionio.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[CV introduction](https://github.com/upatras-hci/iv/discussions/35)| | 
 | 2 | βιογραφικό Α | [CV A](https://evangeliachatz.github.io/online-cv/)  |
-| 3 | γραμμή εντολών (arch linux) |[Arch Linux Virtual Box Installation](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_1_Solution)||
+| 3 | γραμμή εντολών (arch linux) |[Arch Linux Virtual Box Installation](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)||
 | 4 | συμμετοχικό 1A | [Text-to-image](https://github.com/upatras-HCI-2022/site/pull/3/commits/10e1158ffa8c4013c05efaf20c64de13eef6facc) & [Riffusion](https://github.com/upatras-HCI-2022/site/pull/27)| |
 | 5 | γραμμή εντολών (custom desktop environment) |[polybar](https://drive.google.com/file/d/18SxKvZ-IzT-Xss-jgpNVzpHGr_K6tr-J/view?usp=share_link) [pipes](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) [VLC Installation](https://drive.google.com/file/d/1IWxuuzfntMdKXpGIWwjdqOwJX019WWOU/view?usp=share_link)| |
 | 6 | συμμετοχικό περιεχόμενο 2Α | [1st interactive example](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/),[2nd interactive example](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)| |
