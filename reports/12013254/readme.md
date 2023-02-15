@@ -280,10 +280,13 @@ The second command line exercise I've done is icons-in-terminal:
 ```sh
 $ git clone https://github.com/sebastiencs/icons-in-terminal.git
 ```
-<img width="624" alt="image" src="https://user-images.githubusercontent.com/99615706/218669485-df8e36ec-bca1-4208-8d1f-e7990f95f877.png">
-</br>
 
-[![asciicast](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ.svg)](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ)
+
+![SCREENSHOT SVG](https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
+-------------------------|-------------------------
+![space-1.jpg](https://user-images.githubusercontent.com/99615706/218669485-df8e36ec-bca1-4208-8d1f-e7990f95f877.png)|[![asciicast](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ.svg)](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ)
+
+
 
 
 ## 9.Participatory content 1B
