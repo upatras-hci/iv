@@ -175,7 +175,12 @@ For the participatory content 1A2 we added as an [organization](https://github.c
 For command line usage I installed a simple [window manager]( https://courses-ionio.github.io/help/cli/).
 I also installed the following [packages](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_2_Solution):The Polybar font is package with default status bar.I tried the `hack` theme. Polybar package is for add to our desktop a status bar that shows information relative to CPU usage, RAM usage, information about connection, volume. The second package is a screensaver, fills it with moving images or patterns when the computer has been idle for a designated time.The third one, is the well known, VLC Player.
 </br>
-<sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
+
+![SCREENSHOT SVG][(https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg) |https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
+-------------------------|-------------------------|-------------------------
+![Polybar_Installation](https://user-images.githubusercontent.com/99615706/218886474-056572c0-532a-466b-863e-c44847729132.gif)|[![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) | ![VLC_Installation](https://user-images.githubusercontent.com/99615706/218886622-ba347e03-cd68-4dcd-a124-35440204db67.gif)
+
+
 
 #### 🔗 1.[Polybar](https://github.com/polybar/polybar) </br>
 ![Polybar_Installation](https://user-images.githubusercontent.com/99615706/218886474-056572c0-532a-466b-863e-c44847729132.gif)
@@ -189,6 +194,8 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 #### 🔗 3.[VLC Player](https://github.com/videolan/vlc) </br>
 ![VLC_Installation](https://user-images.githubusercontent.com/99615706/218886622-ba347e03-cd68-4dcd-a124-35440204db67.gif)
 
+
+<sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
 
 
 
