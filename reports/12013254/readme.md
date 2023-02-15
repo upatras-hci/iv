@@ -20,6 +20,9 @@
 
 > :warning: **Warning:** Do not push the big red button.
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 ## Personal Information
 ![CVfoto2 2](https://user-images.githubusercontent.com/99615706/218850914-ab3182ef-53bb-4bea-94b9-232c5b8869b6.png) </br>
 Όνομα: Chatzilygeroudi Evangelia </br>
@@ -181,12 +184,15 @@ For command line usage I installed a simple [window manager]( https://courses-io
 I also installed the following [packages](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_2_Solution):The Polybar font is package with default status bar.I tried the `hack` theme. Polybar package is for add to our desktop a status bar that shows information relative to CPU usage, RAM usage, information about connection, volume. The second package is a screensaver, fills it with moving images or patterns when the computer has been idle for a designated time.The third one, is the well known, VLC Player.
 </br>
 
-![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg) |![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
--------------------------|-------------------------|-------------------------
-![Polybar_Installation](https://user-images.githubusercontent.com/99615706/218886474-056572c0-532a-466b-863e-c44847729132.gif)|[![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) | ![VLC_Installation](https://user-images.githubusercontent.com/99615706/218886622-ba347e03-cd68-4dcd-a124-35440204db67.gif) 
-|*<sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>*|
+|![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg) |![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)|
+|-------------------------|                                                                                       -------------------------                                                                                            | -------------------------|
+|![Polybar_Installation](https://user-images.githubusercontent.com/99615706/218886474-056572c0-532a-466b-863e-c44847729132.gif)*Polybar Installation*|[![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY)*Pipes* | ![VLC_Installation](https://user-images.githubusercontent.com/99615706/218886622-ba347e03-cd68-4dcd-a124-35440204db67.gif)*VLC Player* |
+|<sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup> | |
 
 
+                   
+                   
+                   
 ## 6.Participatory content 2Α-Interactive examples
 For this deliverable, I created two files called, [`animated-tab-bar.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_remix/animated-tab-bar.md) & [`signupform.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_remix/signupform.md) in the [remix folder](https://github.com/EvangeliaChatz/site-hci-2022/tree/master/_remix) in my [site's repository](https://github.com/EvangeliaChatz/site-hci-2022/tree/master) and make pull request to [organization's site repository](https://github.com/EvangeliaChatz/site-hci-2022/tree/master/_remix).Pull request are in the table at the end of the section.<br>
 As a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
@@ -217,8 +223,6 @@ In this example I made changes also changes,from the [initial one](https://codep
 -------------------------|-------------------------
 <img width="397" alt="image" src="https://user-images.githubusercontent.com/99615706/218908017-c2d70f92-2fc0-4dc9-b159-14e18c2a21c3.png">|<img width="392" alt="image" src="https://user-images.githubusercontent.com/99615706/218907973-410d7f8a-ac23-44a6-b819-e61d3e6032d4.png">
 <sup>Exercise: Change the icons and format of the tab bar.</sup>
-
-
 
 
 <br>
