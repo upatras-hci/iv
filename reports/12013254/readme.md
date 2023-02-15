@@ -284,7 +284,7 @@ $ git clone https://github.com/sebastiencs/icons-in-terminal.git
 ## 9.Participatory content 1B-Case Study & Biography
 This deliverable has two [parts](https://courses-ionio.github.io/help/social/). One is about a case study and the second one is a biography.<br>
 I added two `md files`, in [includes folder](https://github.com/upatras-HCI-2022/site/tree/master/_includes) of [organization's site repository](https://github.com/upatras-HCI-2022/site), which are [`cs-voice-chess-challenger.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_includes/cs-voice-chess-challenger.md) & [`bio-dudley.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_includes/bio-dudley.md), respectively.<br>
-Also, two `md files` added to [case study]() & [biography]() folders, which are [`voice-chess-challenger.md`](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/voice-chess-challenger.md) & [`homer-dudley.md`](https://github.com/upatras-HCI-2022/site/blob/master/_biography/homer-dudley.md).The `md files` contained the photos that are displayed on the site of the Organizatio, so I added the photos required.
+Also, two `md files` added to [case study](https://github.com/upatras-HCI-2022/site/tree/master/_case-study) & [biography](https://github.com/upatras-HCI-2022/site/tree/master/_biography) folders, which are [`voice-chess-challenger.md`](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/voice-chess-challenger.md) & [`homer-dudley.md`](https://github.com/upatras-HCI-2022/site/blob/master/_biography/homer-dudley.md).The `md files` contained the photos that are displayed on the site of the Organizatio, so I added the photos required.
 
 
 
