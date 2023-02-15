@@ -201,6 +201,7 @@ Change in focus state, when the user clicks on a form field to fill it, and othe
 <br>
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218536742-d232dd71-7c8b-43aa-a84e-d5ab9305c49a.png">
  <br>
+ <sup> Exercise: Modify the form to have other colors</sup>
  
  
 
@@ -212,6 +213,8 @@ Change in focus state, when the user clicks on a form field to fill it, and othe
 5️⃣ I added the commands <br>
 6️⃣ I changed the font to Poppins by inserting `@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Inter&family=Poppins&display=swap’);` into the css <br>
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218539068-8b9ace90-e4e8-4a35-8770-f944106c2f9b.png">
+<br>
+<sup>Exercise: Change the icons and format of the tab bar.</sup>
 <br>
  | Pull request | Pibook link |
 | --- | ----------- |
