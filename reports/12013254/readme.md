@@ -141,7 +141,7 @@ About this delivered, we decided all together that we will place content, regard
 
 
 #### Image1
-* [Text to Image AI](https://deepai.org/machine-learning-model/text2img) is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
+[Text to Image AI](https://deepai.org/machine-learning-model/text2img) is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
 there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
 but are not free to use.
 The photo caption was created with the use of free Internet software `"DeepAI"`, a Text To Image - AI Image Generator
@@ -149,7 +149,7 @@ and using "Dancing Animals" as input the input text.
 </br>
 
 #### Image2
-* [Riffusion](https://www.riffusion.com/) is a type of artificial neural network that generates music by utilizing images of sound instead of audio. It was created by Seth Forsgren and Hayk Martiros and is based on [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), a pre-existing open-source model for generating images from text prompts. Riffusion takes these image files and converts them into audio files by running them through an inverse Fourier transform. Although the generated audio files are only a few seconds long, Riffusion has the ability to interpolate different files together by using the latent space between outputs and a functionality of Stable Diffusion known as img2img.
+[Riffusion](https://www.riffusion.com/) is a type of artificial neural network that generates music by utilizing images of sound instead of audio. It was created by Seth Forsgren and Hayk Martiros and is based on [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), a pre-existing open-source model for generating images from text prompts. Riffusion takes these image files and converts them into audio files by running them through an inverse Fourier transform. Although the generated audio files are only a few seconds long, Riffusion has the ability to interpolate different files together by using the latent space between outputs and a functionality of Stable Diffusion known as img2img.
 Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023.
 Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023. 
 </br>
@@ -183,9 +183,8 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg) |![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
 -------------------------|-------------------------|-------------------------
-![Polybar_Installation](https://user-images.githubusercontent.com/99615706/218886474-056572c0-532a-466b-863e-c44847729132.gif)|[![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) | ![VLC_Installation](https://user-images.githubusercontent.com/99615706/218886622-ba347e03-cd68-4dcd-a124-35440204db67.gif)
-<sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
-
+![Polybar_Installation](https://user-images.githubusercontent.com/99615706/218886474-056572c0-532a-466b-863e-c44847729132.gif)|[![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) | ![VLC_Installation](https://user-images.githubusercontent.com/99615706/218886622-ba347e03-cd68-4dcd-a124-35440204db67.gif) 
+|*<sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>*|
 
 
 ## 6.Participatory content 2Α-Interactive examples
