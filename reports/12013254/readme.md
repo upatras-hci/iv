@@ -179,22 +179,7 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg) |![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
 -------------------------|-------------------------|-------------------------
 ![Polybar_Installation](https://user-images.githubusercontent.com/99615706/218886474-056572c0-532a-466b-863e-c44847729132.gif)|[![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) | ![VLC_Installation](https://user-images.githubusercontent.com/99615706/218886622-ba347e03-cd68-4dcd-a124-35440204db67.gif)
-
-
-
-#### 🔗 1.[Polybar](https://github.com/polybar/polybar) </br>
-![Polybar_Installation](https://user-images.githubusercontent.com/99615706/218886474-056572c0-532a-466b-863e-c44847729132.gif)
-</br>
-
-
-#### 🔗 2.[Pipes](https://github.com/pipeseroni/pipes.sh)</br>
-[![asciicast](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY.svg)](https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY) </br>
-
-
-#### 🔗 3.[VLC Player](https://github.com/videolan/vlc) </br>
-![VLC_Installation](https://user-images.githubusercontent.com/99615706/218886622-ba347e03-cd68-4dcd-a124-35440204db67.gif)
-
-
+<br>
 <sup>Sorry, for the videos that keep playing, just needed to show the full screen to show the custom enviroment elements</sup>
 
 
