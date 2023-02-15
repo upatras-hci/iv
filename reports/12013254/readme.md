@@ -53,7 +53,7 @@ In this part of the lesson we the [Human - Computer Interaction 2022 - 2023 Orga
 
 
 
-## 2.CV Site-Conver a Yaml file to Site & PDF
+## 2.CV Site-Convert Yaml file to Site & PDF
 At first,we wanted to create an online site that CV ,will to created automatically from a [yaml](https://learnxinyminutes.com/docs/yaml/.) file,  using Jekyll.  <br />
 I create a branch 
 * [link online CV](https://evangeliachatz.github.io/online-cv/) <br />
