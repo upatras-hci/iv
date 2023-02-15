@@ -27,7 +27,7 @@
 
 
 
-## 1.Introduction
+## 1.CV Introduction & Organization Set up
 My name is Chatzilygeroudi Evangelia.
 I used to work in finance , after my bachelor at [Department of Economics](https://www.econ.upatras.gr/el), but after many years of interaction with arts, jewelry(3D design) and make designs for friends and work, I discovered that design is my passion. </br>
 
@@ -53,7 +53,7 @@ In this part of the lesson we the [Human - Computer Interaction 2022 - 2023 Orga
 
 
 
-## 2.CV Site
+## 2.CV Site-Conver a Yaml file to Site & PDF
 At first,we wanted to create an online site that CV ,will to created automatically from a [yaml](https://learnxinyminutes.com/docs/yaml/.) file,  using Jekyll.  <br />
 I create a branch 
 * [link online CV](https://evangeliachatz.github.io/online-cv/) <br />
@@ -127,7 +127,7 @@ syntax enable set background=dark colorscheme solarized
 
 
 
-## Participatory content 1Α1
+## Participatory content 1Α1-Two images with caption
 For participant 1A1, firstly I added the four images(two for each theme-one little and a bigger one) in [my image's repository](https://github.com/EvangeliaChatz/images-hci-2022) and then I created two separate `md` files, one for each image, in [my gallery's repository](https://github.com/EvangeliaChatz/_gallery-hci-2022). Gallery and Images repositories are forked from organization's ones. Secondly, I made a pull request to the organization's repository, which are shown in the table below.
 | md files(my gallery's repository) | Images(my image's repository) | Images Pull request | Gallery Pull request  |
 | --- | --- | ----------- |----------- |
@@ -159,7 +159,7 @@ Riffusion has been described as "out of this world" music, but is unlikely to re
 
 
 
-## 4.Participatory content 1Α2
+## 4.Participatory content 1Α2-Slides and Timeline
 For the participatory content 1A2 we added as an [organization](https://github.com/upatras-HCI-2022), an [`art.md` file1](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md) for the slides, and  an [`art.md` file2](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md) for timeline, on [site's repository](https://github.com/upatras-HCI-2022/site), in the [slides folder](https://github.com/upatras-HCI-2022/site/tree/master/_slides) and in [timeline folder](https://github.com/upatras-HCI-2022/site/tree/master/_timeline), respectively, from file which will gather all the images with their descriptions at organization's [repository](https://github.com/upatras-HCI-2022/site). </br> 
 
 | Pull request | Pibook link | Organization's pibook links |
@@ -192,7 +192,7 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 
 
-## 6.Participatory content 2Α
+## 6.Participatory content 2Α-Interactive examples
 For this deliverable, I created two files called, [`animated-tab-bar.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_remix/animated-tab-bar.md) & [`signupform.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_remix/signupform.md) in the [remix folder](https://github.com/EvangeliaChatz/site-hci-2022/tree/master/_remix) in my [site's repository](https://github.com/EvangeliaChatz/site-hci-2022/tree/master) and make pull request to [organization's site repository](https://github.com/EvangeliaChatz/site-hci-2022/tree/master/_remix).Pull request are in the table at the end of the section.<br>
 As a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
 #### 🔗 [Sign up/Sign in form](https://codepen.io/EvangeliaChatz/pen/GRBXNPd)  <br>
@@ -216,7 +216,7 @@ Change in focus state, when the user clicks on a form field to fill it, and othe
 <br>
 <sup>Exercise: Change the icons and format of the tab bar.</sup>
 <br>
- | Pull request | Pibook link |
+ | Interactive examples Pull request | Pibook link |
 | --- | ----------- |
 | [sign up-sign in form-pull request](https://github.com/upatras-HCI-2022/site/pull/12) | [sign up-sign in form](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/) |
 | [animated tab bar-pull request](https://github.com/upatras-HCI-2022/site/pull/18) | [animated tab bar](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/) |
