@@ -94,52 +94,47 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 
 Για το A2 προσθέσαμε στους φακέλους slides και timeline από ένα αρχείο art.md με το αντίστοιχο layout του οποίο και πρόκειται να συγκεντρώνει όλες μας τις εικόνες μαζί.</br>
 
-• [Slides στο repository μου](https://github.com/e-liouta/site/blob/master/_slides/art.md)</br>
-• [Slides στο repository στον οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md)</br>
-• [Timeline στο repository μου](https://github.com/e-liouta/site/blob/master/_timeline/art.md)</br>
-• [Timeline στο repository στον οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md)</br>
-[Δείτε εδώ τις διαφάνειες](https://wondrous-paletas-7dd991.netlify.app/slides/art/)</br>
-[Δείτε εδώ το χρονολόγιο](https://wondrous-paletas-7dd991.netlify.app/timeline/art/)
+| [Slides στο repository μου](https://github.com/e-liouta/site/blob/master/_slides/art.md) | [Slides στο repository στον οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md) | [Timeline στο repository μου](https://github.com/e-liouta/site/blob/master/_timeline/art.md) | [Timeline στο repository στον οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md) | [Δείτε εδώ τις διαφάνειες](https://wondrous-paletas-7dd991.netlify.app/slides/art/) | [Δείτε εδώ το χρονολόγιο](https://wondrous-paletas-7dd991.netlify.app/timeline/art/) | 
+| -------- | -------- | -------- | -------- | -------- | -------- | 
+
+
 
 ### B1
 
 Για το συμμετοχικό B1 η προσθήκη μου προσπαθώντας να ακολουθήσω το θέμα που είχε η ομάδα από προηγούμενα συμμετοχικά αφορά τα 3D Συστήματα Διάδρασης. 
 Στις μέρες μας η χρήση τρισδιάστατων διεπαφών είναι πολύ διαδεδομένη και επιτρέπει λεπτομερή οπτικοποίηση πληροφοριών. Τέτοιες διεπαφές αλληλεπίδρασης εφαρμόζονται σε πολλούς τομείς όπως για παράδειγμα τα video games, η τέχνη, η προσομοίωση, η εκπαίδευση, αρχιτεκτονική, η ρομποτική, η ιατρική κ.α. Η αρχή έγινε το 1963 με τον σχεδιασμό του δραδραστικού CAD συστήματος "Sketchpad" από τον Ivan Sutherland το οποίο αργότερα ο Timothy E. Johnson αναβάθμισε σε μια τρισδιάστατη έκδοση του προγράμματος και την ίδια περίοδο ο Lawrence G. Roberts πρόσθεσε την υποστήριξη για 3D Solids.
 
-[Το link του αρχείου μου στον φάκελο includes](https://github.com/e-liouta/site/blob/master/_includes/3d-cad.md)</br>
-[To link του αρχείου μου στο case study](https://github.com/e-liouta/site/blob/master/_case-study/3d.md)</br>
-[Το link του αρχείου μου στον φάκελο includes της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_includes/3d-cad.md)</br>
-[To link του αρχείου μου στο case study της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/3d.md)</br>
-[Δείτε το εδώ](https://wondrous-paletas-7dd991.netlify.app/case-study/3d/)</br>
+| [Το link του αρχείου μου στον φάκελο includes](https://github.com/e-liouta/site/blob/master/_includes/3d-cad.md) | [To link του αρχείου μου στο case study](https://github.com/e-liouta/site/blob/master/_case-study/3d.md) | [Το link του αρχείου μου στον φάκελο includes της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_includes/3d-cad.md) | [To link του αρχείου μου στο case study της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/3d.md) | [Δείτε το εδώ](https://wondrous-paletas-7dd991.netlify.app/case-study/3d/) | 
+| -------- | -------- | -------- | -------- | -------- | 
+
+##### *disclaimer: Σε κάποια pull requests που είναι τελικά και αποδεκτά μπορεί να φαίνεται στα logs του github ότι αποτυγχάνει το deploy αλλά αυτό δεν ισχύει. Συμβαίνει επειδή αρχικά ο καθένας από εμάς είχε κάνει το δικό του netlify deploy για πειραματισμός όμως το ομαδικό και αυτό που κρατάμε και κοιτάμε κάθε φορά είναι το https://wondrous-paletas-7dd991.netlify.app/
 
 Για το κομμάτι της βιογραφίας αποφάσισα να προσθέσω αυτή του Myron W. Krueger τον οποίο πολλές φορές έχουμε αναφέρει και στο μάθημα. Έχοντας την ευκαιρία μέσα από αυτή την άσκηση να μάθω περισσότερα γι αυτόν και το έργο του, εντυπωσιάστηκα από το πως συνδυάζει τον καλλιτεχνικό τρόπο σκέψης του με τον κλάδο της πληροφορικής και κατάφερε να προσφέρει.
 
-[Το link του αρχείου μου στον φάκελο includes](https://github.com/e-liouta/site/blob/master/_includes/bio-myron-krueger.md)</br>
-[To link του αρχείου μου στο biography](https://github.com/e-liouta/site/blob/master/_biography/myron-krueger.md)</br>
-[Το link του αρχείου μου στον φάκελο includes](https://github.com/upatras-HCI-2022/site/blob/master/_includes/bio-myron-krueger.md)</br>
-[To link του αρχείου μου στο biography](https://github.com/upatras-HCI-2022/site/blob/master/_biography/myron-krueger.md)</br>
-[Δείτε το εδώ](https://wondrous-paletas-7dd991.netlify.app/biography/myron-krueger/)</br>
+| [Το link του αρχείου μου στον φάκελο includes](https://github.com/e-liouta/site/blob/master/_includes/bio-myron-krueger.md) | [To link του αρχείου μου στο biography](https://github.com/e-liouta/site/blob/master/_biography/myron-krueger.md) | [Το link του αρχείου μου στον φάκελο includes](https://github.com/upatras-HCI-2022/site/blob/master/_includes/bio-myron-krueger.md) | [To link του αρχείου μου στο biography](https://github.com/upatras-HCI-2022/site/blob/master/_biography/myron-krueger.md) | [Δείτε το εδώ](https://wondrous-paletas-7dd991.netlify.app/biography/myron-krueger/) | 
+| -------- | -------- | -------- | -------- | -------- | 
+
 
 ## Συμμετοχικό Περιεχόμενο 2
 ### Α
 
-Για το συμμετοχικό περιεχόμενο 2Α είδα το βιβλίο ότι στο βιβλίο σε αυτή την κατηγορία έχει κάποιες βασικές έννοιες διάδρασης ανθρώπου-υπολογιστή όπως για παράδειγμα το κουμπί, το μενού, η χειρονομία, η φόρμα, κτλ. Οπότε αποφάσισα να φτιάξω δύο νέα διαδραστικά παραδείγματα όπου το ένα να αφορά τη φόρμα και το άλλο το κουμπί.
+Για το συμμετοχικό περιεχόμενο 2Α είδα το βιβλίο ότι στο βιβλίο σε αυτή την κατηγορία έχει κάποιες βασικές έννοιες οπτικοποίησης δεδομένων και διάδρασης ανθρώπου-υπολογιστή όπως για παράδειγμα **το κουμπί**, **το μενού**, **η χειρονομία**, **η φόρμα**, κτλ. Οπότε αποφάσισα να φτιάξω δύο νέα διαδραστικά παραδείγματα όπου το ένα να αφορά τη φόρμα και το άλλο το κουμπί.
 
 #### Likert Scale
 Η φόρμα Likert είναι μια κλίμακα αξιολόγησης που χρησιμοποιείται για τη μέτρηση απόψεων, στάσεων και ευχαρίστησης. Οι ερωτηθέντες επιλέγουν την επιλογή που αντιστοιχεί καλύτερα στο πώς αισθάνονται για τη δήλωση ή την ερώτηση.
 
-[Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/likert-form.md)</br>
-[Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/likert-form.md)</br>
-[Link στο CodePen](https://codepen.io/e-liouta/pen/VwBwboJ)</br>
-[Δείτε το εδώ](https://aquamarine-unicorn-d025d3.netlify.app/remix/likert-form/)</br>
+| [Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/likert-form.md) | [Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/likert-form.md) | [Link στο CodePen](https://codepen.io/e-liouta/pen/VwBwboJ) | [Δείτε το εδώ](https://aquamarine-unicorn-d025d3.netlify.app/remix/likert-form/) | 
+| -------- | -------- | -------- | -------- | 
+
 
 #### Toggle Night Mode
 Το κουμπί τύπου checkbox για αλλαγή σε night mode είναι ένα παράδειγμα διαδραστικού κώδικα όπου ο χρήστης χρησιμοποιώντας το ποντίκι, πατώντας το κουμπί μπορεί να αλλάξει τα χρώματα του background και του κειμένου από ανοιχτόχρωμο (light mode) σε σκουρόχρωμο (night mode) και το αντίστροφο.
 
-[Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/toggle-night-mode.md)</br>
-[Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/toggle-night-mode.md)</br>
-[Link στο CodePen](https://codepen.io/e-liouta/pen/MWBWoPz)</br>
-[Δείτε το εδώ](https://aquamarine-unicorn-d025d3.netlify.app/remix/toggle-night-mode/)</br>
+| [Link για το προσωπικό μου αποθετήριο](https://github.com/e-liouta/site/blob/master/_remix/toggle-night-mode.md) | [Link για το αποθετήριο της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_remix/toggle-night-mode.md) | [Link στο CodePen](https://codepen.io/e-liouta/pen/MWBWoPz) | [Δείτε το εδώ](https://aquamarine-unicorn-d025d3.netlify.app/remix/toggle-night-mode/) | 
+| -------- | -------- | -------- | -------- | 
+
+Τα παραδείγματα είναι δικά μου. Αφού αποφάσισα τι θέλω να φτιάξω με αναζήτηση σε google και stackoverflow κατέληξα στην σύνταξή τους και **γι αυτό δεν αναφέρεται κάποια πηγή ούτε το πριν/μετά.**
+
 
 
 
@@ -214,6 +209,6 @@ https://aboutmyronkrueger.weebly.com/videoplace.html </br>
 https://wiki.archlinux.org/</br>
 https://www.reddit.com/r/unixporn/</br>
 
-
+https://stackoverflow.com/
 
 
