@@ -128,15 +128,20 @@ syntax enable set background=dark colorscheme solarized
 
 
 ## Participatory content 1Α1-Two images with caption
-For participant 1A1, firstly I added the four images(two for each theme-one little and a bigger one) in [my image's repository](https://github.com/EvangeliaChatz/images-hci-2022) and then I created two separate `md` files, one for each image, in [my gallery's repository](https://github.com/EvangeliaChatz/_gallery-hci-2022). Gallery and Images repositories are forked from organization's ones. Secondly, I made a pull request to the organization's repository, which are shown in the table below.
-| md files(my gallery's repository) | Images(my image's repository) | Images Pull request | Gallery Pull request  |
-| --- | --- | ----------- |----------- |
-| [`text-to-image.md`](https://github.com/EvangeliaChatz/_gallery-hci-2022/blob/master/text-to-image.md) |[image1-text-to-image](https://github.com/EvangeliaChatz/images-hci-2022/blob/master/text-to-image.jpeg) | [image1-pull request](https://github.com/upatras-HCI-2022/images/pull/10) | [text-to-image pull request](https://github.com/upatras-HCI-2022/_gallery/pull/22) |
-| [`rifussion.md`](https://github.com/EvangeliaChatz/_gallery-hci-2022/blob/master/riffussion.md) |[image2-riffussion](https://github.com/upatras-HCI-2022/images/blob/master/riffussion.png)|[image2-pull request](https://github.com/upatras-HCI-2022/images/pull/18) | [rifussion pull request](https://github.com/upatras-HCI-2022/_gallery/pull/23) |
-</br>
+
+For participant 1A1, firstly I added the four images(two for each theme-one little and a bigger one) in [my image's repository](https://github.com/EvangeliaChatz/images-hci-2022) and then I created two separate `md` files, one for each image, in [my gallery's repository](https://github.com/EvangeliaChatz/_gallery-hci-2022). Gallery and Images repositories are forked from organization's ones. Secondly, I made a pull request to the organization's repository, which are shown in the table at the end of the section.
+<br>
+
+
 
 About this delivered, we decided all together that we will place content, regarding to how the art 🎨 is highlighted.</br>
+![IMAGE 1](https://user-images.githubusercontent.com/99615706/218914126-25cba623-9de5-4af6-9dec-2055fcef8aee.svg)| ![IMAGE 2](https://user-images.githubusercontent.com/99615706/218914154-8eb5c078-56e1-42b4-b081-36ddeaef08e4.svg)
+-------------------------|-------------------------
+![IMAGE1.jpg](https://user-images.githubusercontent.com/99615706/218826776-57a5bb03-4d86-4064-bd9b-c0298ad0d3e4.png)|![IMAGE1.jpg](https://user-images.githubusercontent.com/99615706/218541273-bf85caa3-af85-4612-b6eb-a7d047692165.png)
+<sup> The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup> | <sup> The license terms of the photo can be found [here](https://github.com/riffusion/riffusion/blob/main/LICENSE)</sup>
 
+
+#### Image1
 * [Text to Image AI](https://deepai.org/machine-learning-model/text2img) is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
 there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
 but are not free to use.
@@ -144,18 +149,19 @@ The photo caption was created with the use of free Internet software `"DeepAI"`,
 and using "Dancing Animals" as input the input text.
 </br>
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/99615706/218826776-57a5bb03-4d86-4064-bd9b-c0298ad0d3e4.png">
-<sup> The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
-</br>
-
+#### Image2
 * [Riffusion](https://www.riffusion.com/) is a type of artificial neural network that generates music by utilizing images of sound instead of audio. It was created by Seth Forsgren and Hayk Martiros and is based on [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), a pre-existing open-source model for generating images from text prompts. Riffusion takes these image files and converts them into audio files by running them through an inverse Fourier transform. Although the generated audio files are only a few seconds long, Riffusion has the ability to interpolate different files together by using the latent space between outputs and a functionality of Stable Diffusion known as img2img.
 Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023.
 Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023. 
 </br>
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/99615706/218541273-bf85caa3-af85-4612-b6eb-a7d047692165.png">
-<sup> The license terms of the photo can be found [here](https://github.com/riffusion/riffusion/blob/main/LICENSE)</sup>
- </br>
+
+| md files(my gallery's repository) | Images(my image's repository) | Images Pull request | Gallery Pull request  |
+| --- | --- | ----------- |----------- |
+| [`text-to-image.md`](https://github.com/EvangeliaChatz/_gallery-hci-2022/blob/master/text-to-image.md) |[image1-text-to-image](https://github.com/EvangeliaChatz/images-hci-2022/blob/master/text-to-image.jpeg) | [image1-pull request](https://github.com/upatras-HCI-2022/images/pull/10) | [text-to-image pull request](https://github.com/upatras-HCI-2022/_gallery/pull/22) |
+| [`rifussion.md`](https://github.com/EvangeliaChatz/_gallery-hci-2022/blob/master/riffussion.md) |[image2-riffussion](https://github.com/upatras-HCI-2022/images/blob/master/riffussion.png)|[image2-pull request](https://github.com/upatras-HCI-2022/images/pull/18) | [rifussion pull request](https://github.com/upatras-HCI-2022/_gallery/pull/23) |
+</br>
+
 
 
 
