@@ -229,7 +229,11 @@ Rich που είναι μια βιβλιοθήκη python για μορφοπο�
 
 [![asciicast](https://asciinema.org/a/Dq1cDaTAfTo87IbLJl2echKeW.svg)](https://asciinema.org/a/Dq1cDaTAfTo87IbLJl2echKeW)
 
+## Pull Requests
 
+| Pull Requests στο repository site | Pull Requests στο repository gallery | Pull Requests στο repository images | Pull Requests στο webring της ομάδας|
+| -------- | -------- | -------- | -------- |
+| https://github.com/upatras-HCI-2022/site/pulls?q=author%3Ae-liouta+is%3Aclosed+ | https://github.com/upatras-HCI-2022/_gallery/pulls?q=author%3Ae-liouta+is%3Aclosed | https://github.com/upatras-HCI-2022/images/pulls?q=is%3Apr+is%3Aclosed+author%3Ae-liouta | https://github.com/upatras-HCI-2022/webring/pulls?q=is%3Apr+is%3Aclosed+author%3Ae-liouta |
 
 ## Βιβλιογραφία - Σύνδεσμοι
 
