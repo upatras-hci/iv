@@ -278,15 +278,14 @@ The above commands are shown in the video below: </br>
 
 ![SCREENSHOT SVG](https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
 -------------------------|-------------------------
-![space-1.jpg](https://user-images.githubusercontent.com/99615706/218538850-1f38dcc0-8e00-4e80-b6ec-f00f47594890.png)|[![asciicast](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz)
+![space-1.jpg](https://user-images.githubusercontent.com/99615706/218538850-1f38dcc0-8e00-4e80-b6ec-f00f47594890.png)*Pastel Package*|[![asciicast](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz)
 
 
 
 ## 10.Command line2 (iv cli)
 The second command line exercise I've done is icons-in-terminal:
 
-* nb:
-1.Make a clone of icons-in-terminal:
+1️⃣ Make a clone of icons-in-terminal:
 ```sh
 $ git clone https://github.com/sebastiencs/icons-in-terminal.git
 ```
@@ -295,7 +294,7 @@ When I close the terminal and open it again, icons like screenshot below, appear
 
 ![SCREENSHOT SVG](https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
 -------------------------|-------------------------
-![space-1.jpg](https://user-images.githubusercontent.com/99615706/218669485-df8e36ec-bca1-4208-8d1f-e7990f95f877.png)|[![asciicast](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ.svg)](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ)
+![space-1.jpg](https://user-images.githubusercontent.com/99615706/218669485-df8e36ec-bca1-4208-8d1f-e7990f95f877.png)*Icons in terminal package*|[![asciicast](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ.svg)](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ)
 
 
 
