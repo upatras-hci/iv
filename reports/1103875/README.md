@@ -161,25 +161,39 @@ peek:
 
 ## Γραμμή Εντολών 2
 
+### Ασκήσεις Για Ζέσταμα
+
 Για τις ασκήσεις γραμμής εντολών αρχικά δυσκολεύτηκα να καταλάβω οποιαδήποτε από το hci ή το visualization γι αυτό και αποφάσισα σε πρώτη φάση να κάνω κάποιες από το warm up για περισσότερη εξοικείωση και να ασχοληθώ στην πορεία με άλλες.
 
 Η πρώτη που επέλεξα είναι η buku για τη διαχείριση των σελιδοδεικτών από cli. Στο παρακάτω ascinnema εισάγω στους σελιδοδείκτες μου την ιστοσελίδα του μεταπτυχιακού. To id της είναι το 2 αφού πιο πριν έχω εισάγει και κάποια άλλη. Όταν πατάω στο τερματικό buku -o 2 απευθείας μου ανοίγει τον firefox στη σελίδα του μεταπτυχιακού και έτσι γλιτώνω χρόνο αφού δε χρειάζεται να χρησιμοποιήσω το dmenu για να μπω στον Firefox.
 
-[![asciicast](https://asciinema.org/a/wpcNOrHvC4vjILOh0BbvZlazD.svg)](https://asciinema.org/a/wpcNOrHvC4vjILOh0BbvZlazD)
-![image](https://user-images.githubusercontent.com/17378923/206404327-063b14cc-6515-488e-b120-50c49491d3f2.png)
+| Asciinema | Printscreen | 
+| -------- | -------- | 
+| [![asciicast](https://asciinema.org/a/wpcNOrHvC4vjILOh0BbvZlazD.svg)](https://asciinema.org/a/wpcNOrHvC4vjILOh0BbvZlazD) | ![image](https://user-images.githubusercontent.com/17378923/206404327-063b14cc-6515-488e-b120-50c49491d3f2.png) | 
+
+
+
 
 H δεύτερη άσκηση που επέλεξα να κάνω είναι η rtv για περιήγηση και αλληλεπίδραση στο Reddit μέσω τερματικού. Στο asciinema παρακάτω ανοίγω το Reddit και επιλέγω "3" την κατηγορία rising. Επιλέγω να δω το άρθρο που μου αρέσει και με το enter μου ανοίγει το άρθρο στο firefox. Αυτό δε φαίνεται στο asciinema για αυτό παραθέτω printscreen. Πιστεύω ότι αν δεν είχα εγκαταστήσει κάποιον browser ή αν δεν είναι ανοίξει τον i3 ότι θα μπορούσα να δω το άρθρο από το τερματικό όπως έκανα και την περιήγηση.
 
-[![asciicast](https://asciinema.org/a/B6o3Nbip5QZWMtWpeiexgmCQL.svg)](https://asciinema.org/a/B6o3Nbip5QZWMtWpeiexgmCQL)
-![image](https://user-images.githubusercontent.com/17378923/206407444-6a1b667d-4264-4fd8-b414-5a5dc527afcb.png)
+| Asciinema | Printscreen | 
+| -------- | -------- | 
+| [![asciicast](https://asciinema.org/a/B6o3Nbip5QZWMtWpeiexgmCQL.svg)](https://asciinema.org/a/B6o3Nbip5QZWMtWpeiexgmCQL) | ![image](https://user-images.githubusercontent.com/17378923/206407444-6a1b667d-4264-4fd8-b414-5a5dc527afcb.png) | 
+
+
+### Άσκηση 1
 
 Στη συνέχεια μετά την εξοικείωσή μου αποφάσισα να ασχοληθώ με την εντολή 	[click](https://github.com/pallets/click) από τον πίνακα εντολών visualization. Στη συγκεκριμένη άσκηση αφού εγκατέστησσα το click δημιούργησα ένα script που ανακτά τον πηγαίο κώδικα HTML της αρχικής σελίδας του Google.com χρησιμοποιώντας τη βιβλιοθήκη αιτημάτων Python. O κώδικας μου κάνει ένα αίτημα GET στη διεύθυνση URL https://www.google.com και επιστρέφει τον πηγαίο κώδικα HTML της σελίδας, ο οποίος μπορεί στη συνέχεια καλώντας το αρχείο που έγραψα -python hci.py τυπώνει στο τερματικό μου τον HTML κώδικα της σελίδας.
 
 [![asciicast](https://asciinema.org/a/bI9rd0tKtyzs1XT4ZvjE8mQFD.svg)](https://asciinema.org/a/bI9rd0tKtyzs1XT4ZvjE8mQFD)
 
+### Άσκηση 2
+
 Πάλι επέλεξα από τον ίδιο πίνακα την άσκηση [spark](https://github.com/holman/spark). Πρόκειται για ένα εργαλείο γραμμής εντολών για τη δημιουργία sparklines (μικρά ενσωματωμένα γραφήματα) στο τερματικό ή σε άλλα μέσα κειμένου. Το spark μπορεί να οπτικοποιήσει διαδόρων ειδών πληροφορίες. Στο ascinnema έχω καταγράψει με τη σειρά κάποιες από τις δοκιμές που έκανα: Οπτικοποίηση μέτρησης disk file usage, οπτικοποίηση τυχαίας σειράς αριθμών και ένα παράδειγμα που βρήκα που κάνει γράφημα σεισμικές δονήσεις. 
 
 [![asciicast](https://asciinema.org/a/g4Mwn6TQZSYfNWw7dXIMgOSed.svg)](https://asciinema.org/a/g4Mwn6TQZSYfNWw7dXIMgOSed)
+
+### Άσκηση 3
 
 Rich που είναι μια βιβλιοθήκη python για μορφοποίηση κειμένου.  Διευκολύνει την προσθήκη χρώματος και στυλ στην έξοδο τερματικού ενώ επίσης να αποδώσει όμορφους πίνακες, γραμμές προόδου, σημάδια, τον πηγαίο κώδικα σύνταξης, tracebacks κ.α.
 
