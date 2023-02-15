@@ -225,42 +225,42 @@ Change in focus state, when the user clicks on a form field to fill it, and othe
 ## 8.Command line1 (iv cli)
 In this exercise I used the [pastel](https://github.com/sharkdp/pastel) from [available](https://github.com/epidrome/dokey) command from the available command line exercises.This package uses colors to enhance the CLI (Command Line Interface), that is, it prints colored texts to make them more beautiful and recognizable. I followed the repository instructions carefully.
 Pastel is a command line tool for creating and editing colors in terminal applications. On Arch Linux, you can use Pastel to perform the following tasks: </br>
-1.Generate color codes in various formats (e.g., RGB, HEX, ANSI). </br>
-2.Apply color to text and background. </br>
-3.Create color palettes. </br>
-4.Change colors (e.g., lighten, darken, saturate). </br>
-5.Display color information (e.g. RGB values, HEX codes, ANSI codes). </br>
-6.These tasks can be performed with the various subcommands of the Pastel package. </br>
-As a designer, I will use pastel package to generate color palletes. </br>
+1️⃣ Generate color codes in various formats (e.g., RGB, HEX, ANSI). </br>
+2️⃣ Apply color to text and background. </br>
+3️⃣ Create color palettes. </br>
+4️⃣ Change colors (e.g., lighten, darken, saturate). </br>
+5️⃣ Display color information (e.g. RGB values, HEX codes, ANSI codes). </br>
+6️⃣ These tasks can be performed with the various subcommands of the Pastel package. </br>
+I used some of them above: </br>
 
 * First install the pastel package:
-1. Install pastell package:
+1️⃣ Install pastell package:
 ```sh
 sudo pacman -S pastel
 ``` 
 
 * For my work I use color code switching every day. For example, in this one I'm converting a #hex color to rgb:
-2. Generate color codes in various formats:
+2️⃣ Generate color codes in various formats:
 ```sh
 pastel color c837ca | pastel format rgb
 ``` 
 
 * The ability to find the complement of each color is also very useful:
-3. Generate the complement color:
+3️⃣ Generate the complement color:
 ```sh
 pastel color c837ca | pastel complement
 ```
 
 
 * You can easily choose any color from the entire color spectrum:
-4. Pick a color:
+4️⃣ Pick a color:
 ```sh
 pastel pick
 ```
 
 
 * Ι use color to improve the cli tools:
-5. Print colorized text from a shell script, in order to make it more beautiful-usable:
+5️⃣ Print colorized text from a shell script, in order to make it more beautiful-usable:
 ```sh
 pastel paint -n black --on red --bold "EXAMPLE"
 ```
