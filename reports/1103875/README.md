@@ -191,23 +191,22 @@ Rich που είναι μια βιβλιοθήκη python για μορφοπο�
 
 ## Βιβλιογραφία - Σύνδεσμοι
 
-| Οι σύνδεσμοι που χρησιμοποίησα για το συμμετοχικό περιεχόμενο | Για εκμάθηση arch | Άλλα | 
+| Οι σύνδεσμοι που χρησιμοποίησα για το συμμετοχικό περιεχόμενο | Για εκμάθηση arch | 
 | -------- | -------- | -------- | 
-| https://www.mtu.edu/unscripted/2016/03/where-science-art-meet-mind-music-machine.html | https://wiki.archlinux.org/ |  | 
-| https://en.wikipedia.org/wiki/Richard_Shoup_(programmer)  | https://www.reddit.com/r/unixporn/ |  | 
-| https://en.wikipedia.org/wiki/Richard_Shoup_(programmer)| https://stackoverflow.com/ |  | 
-| https://digitalartarchive.siggraph.org/artwork/richard-shoup-superpaint/ |  |  | 
-| https://en.wikipedia.org/wiki/SuperPaint |  |  | 
-| https://en.wikipedia.org/wiki/SuperPaint_(Macintosh) |  |  | 
-| https://www.youtube.com/watch?v=ZpG4pqZxJLY&ab_channel=TrimLab |  |  | 
+| https://www.mtu.edu/unscripted/2016/03/where-science-art-meet-mind-music-machine.html | https://wiki.archlinux.org/ | 
+| https://en.wikipedia.org/wiki/Richard_Shoup_(programmer)  | https://www.reddit.com/r/unixporn/ |
+| https://en.wikipedia.org/wiki/Richard_Shoup_(programmer)| https://stackoverflow.com/ |
+| https://digitalartarchive.siggraph.org/artwork/richard-shoup-superpaint/ | https://low-orbit.net/arch-linux-how-to-install-i3-gaps |
+| https://en.wikipedia.org/wiki/SuperPaint | https://medium.com/avalanche-of-sheep/your-guide-to-a-damn-light-arch-linux-with-i3-and-text-apps-8bc576c502b9 | 
+| https://en.wikipedia.org/wiki/SuperPaint_(Macintosh) | https://jasoneckert.github.io/myblog/configuring-i3/ |
+| https://www.youtube.com/watch?v=ZpG4pqZxJLY&ab_channel=TrimLab |  | 
 | https://sites.google.com/site/myronwkrueger/ |  |  | 
-| https://www.youtube.com/watch?v=dmmxVA5xhuo&ab_channel=MediaArtTube |  |  | 
-| https://dam.org/museum/artists_ui/artists/krueger-myron/ |  |  | 
-| https://aboutmyronkrueger.weebly.com/glowflow.html |  |  | 
-| http://dada.compart-bremen.de/item/Publication/399 |  |  | 
-| https://aboutmyronkrueger.weebly.com/videoplace.html |  |  | 
-| https://stackoverflow.com/ |  |  | 
-
+| https://www.youtube.com/watch?v=dmmxVA5xhuo&ab_channel=MediaArtTube |  | 
+| https://dam.org/museum/artists_ui/artists/krueger-myron/ |  | 
+| https://aboutmyronkrueger.weebly.com/glowflow.html |  | 
+| http://dada.compart-bremen.de/item/Publication/399 |  |
+| https://aboutmyronkrueger.weebly.com/videoplace.html |  |
+| https://stackoverflow.com/ |  |
 
 
 
