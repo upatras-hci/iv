@@ -13,7 +13,7 @@
 | 7 | βιογραφικό Β |[CV B](https://evangeliachatz.github.io/simple-cv/) | |
 | 8 | γραμμή εντολών (iv cli) |[pastel package](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz) | |
 | 9 | συμμετοχικό περιεχόμενο 1Β |[Case Study-Voice chess Challenger](https://wondrous-paletas-7dd991.netlify.app/case-study/voice-chess-challenger/),[Biography-Dudley Homer](https://wondrous-paletas-7dd991.netlify.app/biography/homer-dudley/) | |
-| 10 | γραμμή εντολών (iv cli) | | |
+| 10 | γραμμή εντολών (iv cli) |[icons-in-terminal package](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ) | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
