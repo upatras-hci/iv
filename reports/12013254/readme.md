@@ -193,7 +193,8 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 
 
 ## 6.Participatory content 2Α
-For this deliverable as a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
+For this deliverable, I created two files called, [`animated-tab-bar.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_remix/animated-tab-bar.md) & [`signupform.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_remix/signupform.md) in my site's repository and make pull request to [organization's site repository](https://github.com/EvangeliaChatz/site-hci-2022/tree/master/_remix).<br>
+As a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
 #### 🔗 [Sign up/Sign in form](https://codepen.io/EvangeliaChatz/pen/GRBXNPd)  <br>
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218536742-d232dd71-7c8b-43aa-a84e-d5ab9305c49a.png">
  <br>
@@ -216,6 +217,8 @@ added comments to better show where the icons are: <br>
 | --- | ----------- |
 | [sign up-sign in form-pull request](https://github.com/upatras-HCI-2022/site/pull/12) | [sign up-sign in form](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/) |
 | [animated tab bar-pull request](https://github.com/upatras-HCI-2022/site/pull/18) | [animated tab bar](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/) |
+
+https://github.com/EvangeliaChatz/site-hci-2022/tree/master/_remix
 
 ## 8.Command line1 (iv cli)
 In this exercise I used the [pastel](https://github.com/sharkdp/pastel) from [available](https://github.com/epidrome/dokey) command from the available command line exercises.This package uses colors to enhance the CLI (Command Line Interface), that is, it prints colored texts to make them more beautiful and recognizable. I followed the repository instructions carefully.
