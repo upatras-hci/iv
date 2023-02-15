@@ -164,8 +164,26 @@ Update 9.11 Δε μου άρεσε το προηγούμενο cv και έφτ�
 
 | Νέο Wallpaper | Χρώματα Τερματικού | 
 | -------- | -------- | 
-| ![image](https://user-images.githubusercontent.com/17378923/219012743-caf17da3-7df9-451f-b504-b817f60bbe87.png) | ![image](https://user-images.githubusercontent.com/17378923/219012638-26105f21-15c7-4830-b42f-e969cd611fcf.png)
- | 
+| ![image](https://user-images.githubusercontent.com/17378923/219012743-caf17da3-7df9-451f-b504-b817f60bbe87.png) | ![image](https://user-images.githubusercontent.com/17378923/219012638-26105f21-15c7-4830-b42f-e969cd611fcf.png) | 
+
+Προσπάθησα να εγκαταστήθω το pollybar ωστόσο συνεχώς είχασφάλματα στο i3config και όταν τα έλυσα άρχισα στη θέση της μπάρας να παίρνω ένα μήνυμα λάθους το οποίο κατάλαβα ότι σχετίζεται με κάποιο άλλο αρχείο του polybar που έιχε λάθος θέση αλλά δεν κατάφερα να το λύσω. Έτσι κατέφυγα ξανά στη λύση του i3 status το οποίο και πάλι δεν λειτουργησε όπως ακριβώς θα το ήθελα. Βάζοντας το κομμάτι
+
+bar {
+    status_command i3status
+
+    # Add a clock to the i3 status bar
+    separator_symbol " "
+    separator_block_width 5
+    format = " %Y-%m-%d %H:%M:%S"
+}
+
+Σταμάτησε να λειτουργεί οπότε και προς το παρόν το έχω κρατήσει ώς
+
+bar {
+    status_command i3status
+}
+
+Γενικά η προσαρμογή του χώρου εργασίας ειχε πολύ ενδιαφέρον αλλά δυστυχώς στον χρόνο που διέθεσα δεν κατάφερα να κάνω αυτό που φανταζόμουν.
 
 
 
