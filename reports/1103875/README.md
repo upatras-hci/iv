@@ -192,7 +192,7 @@ Rich που είναι μια βιβλιοθήκη python για μορφοπο�
 ## Βιβλιογραφία - Σύνδεσμοι
 
 | Οι σύνδεσμοι που χρησιμοποίησα για το συμμετοχικό περιεχόμενο | Για εκμάθηση arch | 
-| -------- | -------- | -------- | 
+| -------- | -------- | 
 | https://www.mtu.edu/unscripted/2016/03/where-science-art-meet-mind-music-machine.html | https://wiki.archlinux.org/ | 
 | https://en.wikipedia.org/wiki/Richard_Shoup_(programmer)  | https://www.reddit.com/r/unixporn/ |
 | https://en.wikipedia.org/wiki/Richard_Shoup_(programmer)| https://stackoverflow.com/ |
