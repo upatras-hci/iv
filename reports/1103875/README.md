@@ -191,26 +191,26 @@ Rich που είναι μια βιβλιοθήκη python για μορφοπο�
 
 ## Βιβλιογραφία - Σύνδεσμοι
 
-<b>Οι σύνδεσμοι που χρησιμοποίησα για το συμμετοχικό περιεχόμενο:</b></br>
+| Οι σύνδεσμοι που χρησιμοποίησα για το συμμετοχικό περιεχόμενο | Για εκμάθηση arch | Άλλα | 
+| -------- | -------- | -------- | 
+| https://www.mtu.edu/unscripted/2016/03/where-science-art-meet-mind-music-machine.html | https://wiki.archlinux.org/ |  | 
+| https://en.wikipedia.org/wiki/Richard_Shoup_(programmer)  | https://www.reddit.com/r/unixporn/ |  | 
+| https://en.wikipedia.org/wiki/Richard_Shoup_(programmer)| https://stackoverflow.com/ |  | 
+| https://digitalartarchive.siggraph.org/artwork/richard-shoup-superpaint/ |  |  | 
+| https://en.wikipedia.org/wiki/SuperPaint |  |  | 
+| https://en.wikipedia.org/wiki/SuperPaint_(Macintosh) |  |  | 
+| https://www.youtube.com/watch?v=ZpG4pqZxJLY&ab_channel=TrimLab |  |  | 
+| https://sites.google.com/site/myronwkrueger/ |  |  | 
+| https://www.youtube.com/watch?v=dmmxVA5xhuo&ab_channel=MediaArtTube |  |  | 
+| https://dam.org/museum/artists_ui/artists/krueger-myron/ |  |  | 
+| https://aboutmyronkrueger.weebly.com/glowflow.html |  |  | 
+| http://dada.compart-bremen.de/item/Publication/399 |  |  | 
+| https://aboutmyronkrueger.weebly.com/videoplace.html |  |  | 
+| https://stackoverflow.com/ |  |  | 
 
-https://www.mtu.edu/unscripted/2016/03/where-science-art-meet-mind-music-machine.html </br>
-https://en.wikipedia.org/wiki/Richard_Shoup_(programmer) </br>
-https://digitalartarchive.siggraph.org/artwork/richard-shoup-superpaint/ </br>
-https://en.wikipedia.org/wiki/SuperPaint </br>
-https://en.wikipedia.org/wiki/SuperPaint_(Macintosh) </br>
-https://www.youtube.com/watch?v=ZpG4pqZxJLY&ab_channel=TrimLab </br>
-https://sites.google.com/site/myronwkrueger/ </br>
-https://www.youtube.com/watch?v=dmmxVA5xhuo&ab_channel=MediaArtTube </br>
-https://dam.org/museum/artists_ui/artists/krueger-myron/ </br>
-https://aboutmyronkrueger.weebly.com/glowflow.html </br>
-http://dada.compart-bremen.de/item/Publication/399 </br>
-https://aboutmyronkrueger.weebly.com/videoplace.html </br>
-</br>
 
-<b>Για εκμάθηση arch</b></br>
-https://wiki.archlinux.org/</br>
-https://www.reddit.com/r/unixporn/</br>
 
-https://stackoverflow.com/
+
+
 
 
