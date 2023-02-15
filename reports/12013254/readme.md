@@ -137,7 +137,7 @@ For participant 1A1, firstly I added the four images(two for each theme-one litt
 
 About this delivered, we decided all together that we will place content, regarding to how the art 🎨 is highlighted.</br>
 
-1. [Text to Image AI](https://deepai.org/machine-learning-model/text2img) ,  is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
+* [Text to Image AI](https://deepai.org/machine-learning-model/text2img) is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
 there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
 but are not free to use.
 The photo caption was created with the use of free Internet software `"DeepAI"`, a Text To Image - AI Image Generator
@@ -148,7 +148,7 @@ and using "Dancing Animals" as input the input text.
 <sup> The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
 </br>
 
-2. [Riffusion](https://www.riffusion.com/) is a type of artificial neural network that generates music by utilizing images of sound instead of audio. It was created by Seth Forsgren and Hayk Martiros and is based on [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), a pre-existing open-source model for generating images from text prompts. Riffusion takes these image files and converts them into audio files by running them through an inverse Fourier transform. Although the generated audio files are only a few seconds long, Riffusion has the ability to interpolate different files together by using the latent space between outputs and a functionality of Stable Diffusion known as img2img.
+* [Riffusion](https://www.riffusion.com/) is a type of artificial neural network that generates music by utilizing images of sound instead of audio. It was created by Seth Forsgren and Hayk Martiros and is based on [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), a pre-existing open-source model for generating images from text prompts. Riffusion takes these image files and converts them into audio files by running them through an inverse Fourier transform. Although the generated audio files are only a few seconds long, Riffusion has the ability to interpolate different files together by using the latent space between outputs and a functionality of Stable Diffusion known as img2img.
 Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023.
 Riffusion has been described as "out of this world" music, but is unlikely to replace traditional music created by humans. The code for Riffusion was released on December 15, 2022 and is available on GitHub. It is one of several models derived from Stable Diffusion and falls within the subset of AI text-to-music generators. Other similar models include Mubert, which was released in December 2022 and used Stable Diffusion to turn descriptive text into music loops, and Google's MusicLM, which was published in January 2023. 
 </br>
@@ -283,6 +283,9 @@ $ git clone https://github.com/sebastiencs/icons-in-terminal.git
 
 ## 9.Participatory content 1B-Case Study & Biography
 This deliverable has two [parts](https://courses-ionio.github.io/help/social/). One is about a case study and the second one is a biography.<br>
+I added two `md files`, in [includes folder](https://github.com/upatras-HCI-2022/site/tree/master/_includes) of [organization's site repository](https://github.com/upatras-HCI-2022/site), which are [`cs-voice-chess-challenger.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_includes/cs-voice-chess-challenger.md) & [`bio-dudley.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_includes/bio-dudley.md), respectively.<br>
+Also, two `md files` added to [case study]() & [biography]() folders, which are [`voice-chess-challenger.md`](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/voice-chess-challenger.md) & [`homer-dudley.md`](https://github.com/upatras-HCI-2022/site/blob/master/_biography/homer-dudley.md).The `md files` contained the photos that are displayed on the site of the Organizatio, so I added the photos required.
+
 
 
 #### Case Study
@@ -294,10 +297,10 @@ In the first part (participatory 1B1), Voice Chess Challenger, developed in the 
 In the second part, I looked into the same field and referred to the biography of one of the contributors to the history of voice recognition, Dudley Homer. Homer Dudley was an American electrical engineer and a pioneer in the field of speech recognition. Dudley is best known for his work to Vocoder1, an engine that analyzed and synthesized speech. Vocoder was one of the first speech recognition systems and helped lay the foundation for modern speech recognition technology. </br>
 
 
-|  Pull requests | Pibook link |
-| --- | ----------- |
-| [Case study](https://github.com/upatras-HCI-2022/site/pull/28) | [Case study](https://wondrous-paletas-7dd991.netlify.app/case-study/voice-chess-challenger/) |
-| [Biography](https://github.com/upatras-HCI-2022/site/pull/22) | [Biography](https://wondrous-paletas-7dd991.netlify.app/biography/homer-dudley/) |
+Images Pull request|  Site Pull requests | Pibook link |
+| ---| --- | ----------- |
+[case study photos](https://github.com/upatras-HCI-2022/images/pull/12)| [Case study](https://github.com/upatras-HCI-2022/site/pull/28) | [Case study](https://wondrous-paletas-7dd991.netlify.app/case-study/voice-chess-challenger/) |
+[biography photos](https://github.com/upatras-HCI-2022/images/pull/15)| [Biography](https://github.com/upatras-HCI-2022/site/pull/22) | [Biography](https://wondrous-paletas-7dd991.netlify.app/biography/homer-dudley/) |
 
 
 ## 7.CvB
