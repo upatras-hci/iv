@@ -206,7 +206,8 @@ Change in focus state, when the user clicks on a form field to fill it, and othe
 
 
 #### 🔗 [Animated tab bar](https://codepen.io/EvangeliaChatz/pen/YzjdrGm) <br>
-1️⃣ I added comments to better show where the icons are: <br>
+In this example I made changes also changes,from the [initial one](https://codepen.io/abxlfazl/pen/VwKzaEm), that are the changes below: <br> 
+1️⃣ I added comments to better show where the icons are <br>
 2️⃣ I zoomed out and changed the icons <br>
 3️⃣ I rounded the edges <br>
 4️⃣ I increased the height because with the smaller icons it was short <br>
