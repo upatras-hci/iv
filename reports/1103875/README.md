@@ -256,6 +256,9 @@ Rich που είναι μια βιβλιοθήκη python για μορφοπο�
 | http://dada.compart-bremen.de/item/Publication/399 |  |
 | https://aboutmyronkrueger.weebly.com/videoplace.html |  |
 | https://stackoverflow.com/ |  |
+| https://pandoc.org/lua-filters.html |  |
+
+
 
 
 
