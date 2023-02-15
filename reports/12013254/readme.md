@@ -226,7 +226,7 @@ Change in focus state, when the user clicks on a form field to fill it, and othe
 
 | Interactive examples | Pull request | Organization's pibook links |
 | --- | ----------- | ----------- |
-| Sign up form | [sign up-sign in form-pull request](https://github.com/upatras-HCI-2022/site/pull/12) | [[sign up form link](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
+| Sign up form | [sign up-sign in form-pull request](https://github.com/upatras-HCI-2022/site/pull/12) | [sign up form link](https://wondrous-paletas-7dd991.netlify.app/remix/signupform/)
 | Animated tab bar | [animated tab bar pull-request](https://github.com/upatras-HCI-2022/site/pull/18) | [animated tab bar link](https://wondrous-paletas-7dd991.netlify.app/remix/animated-tab-bar/)|
 
 ## 8.Command line1 (iv cli)
