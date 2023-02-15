@@ -35,7 +35,7 @@ I used to work in finance , after my bachelor at [Department of Economics](https
 
 
 </br>
-I have been studying for six months, User Experience Design at [SAE Institute](https://www.sae.edu/grc/?) , so that I can make my designs beautiful and easy to use. At SAE Institute, I have had the chance to get to know the process (UX
+I have been studying for six months, User Experience Design at [SAE Institute](https://www.sae.edu/grc/) , so that I can make my designs beautiful and easy to use. At SAE Institute, I have had the chance to get to know the process (UX
 Competitive Analysis, Neilsen Heuristics, User Interviews, Usability Testing,
 Information Architecture, Navigation Design, Wireframes/Prototypes &
 Design System) of User Centered Design, where I was introduced the
