@@ -18,7 +18,7 @@
 | 12 | Τελική αναφορά* | | |
 
 
-
+> :warning: **Warning:** Do not push the big red button.
 
 ## Personal Information
 ![CVfoto2 2](https://user-images.githubusercontent.com/99615706/218850914-ab3182ef-53bb-4bea-94b9-232c5b8869b6.png) </br>
@@ -103,7 +103,7 @@ neofetch
 
 ![SCREENSHOT SVG](https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
 -------------------------|-------------------------
-![space-1.jpg](https://user-images.githubusercontent.com/99615706/218537213-8f42f424-0b3c-47c5-bf6f-33b1aa3ee59d.png)|[![video neofetch](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)
+![space-1.jpg](https://user-images.githubusercontent.com/99615706/218537213-8f42f424-0b3c-47c5-bf6f-33b1aa3ee59d.png)*ArchLinux installation*|[![video neofetch](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi.svg)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)
 
 
 #### 🔗 [Solarized Installation](https://github.com/altercation/solarized) <br>
@@ -119,7 +119,7 @@ syntax enable set background=dark colorscheme solarized
 
 ![SCREENSHOT SVG](https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
 -------------------------|-------------------------
-![space-1.jpg](https://user-images.githubusercontent.com/99615706/218537509-d8880dcd-47f4-45e8-8b8b-67e1c9aec1d3.png)|[![asciicast](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN.svg)](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN)
+![space-1.jpg](https://user-images.githubusercontent.com/99615706/218537509-d8880dcd-47f4-45e8-8b8b-67e1c9aec1d3.png)*Solarized installation*|[![asciicast](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN.svg)](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN)
 
 
 
@@ -137,8 +137,7 @@ For participant 1A1, firstly I added the four images(two for each theme-one litt
 About this delivered, we decided all together that we will place content, regarding to how the art 🎨 is highlighted.</br>
 ![IMAGE 1](https://user-images.githubusercontent.com/99615706/218914126-25cba623-9de5-4af6-9dec-2055fcef8aee.svg)| ![IMAGE 2](https://user-images.githubusercontent.com/99615706/218914154-8eb5c078-56e1-42b4-b081-36ddeaef08e4.svg)
 -------------------------|-------------------------
-![IMAGE1.jpg](https://user-images.githubusercontent.com/99615706/218826776-57a5bb03-4d86-4064-bd9b-c0298ad0d3e4.png)|![IMAGE1.jpg](https://user-images.githubusercontent.com/99615706/218541273-bf85caa3-af85-4612-b6eb-a7d047692165.png)
-<sup> The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup> | <sup> The license terms of the photo can be found [here](https://github.com/riffusion/riffusion/blob/main/LICENSE)</sup>
+![IMAGE1.jpg](https://user-images.githubusercontent.com/99615706/218826776-57a5bb03-4d86-4064-bd9b-c0298ad0d3e4.png)*<sup> The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>*|![IMAGE1.jpg](https://user-images.githubusercontent.com/99615706/218541273-bf85caa3-af85-4612-b6eb-a7d047692165.png)*<sup> The license terms of the photo can be found [here](https://github.com/riffusion/riffusion/blob/main/LICENSE)</sup>*| 
 
 
 #### Image1
