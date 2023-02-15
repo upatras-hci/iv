@@ -18,14 +18,10 @@
 | 12 | Τελική αναφορά* | | |
 
 
-> :warning: **Warning:** Do not push the big red button.
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
 ## Personal Information
 ![CVfoto2 2](https://user-images.githubusercontent.com/99615706/218850914-ab3182ef-53bb-4bea-94b9-232c5b8869b6.png) </br>
-Όνομα: Chatzilygeroudi Evangelia </br>
+Name: Chatzilygeroudi Evangelia </br>
 ΑΜ: 1018865
 
 
