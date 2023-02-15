@@ -6,14 +6,14 @@
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://courses-ionio.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [**Η εισαγωγή μου στο show and tell**](https://github.com/upatras-hci/iv/discussions/30), [Η εισαγωγή μου παρακάτω στην αναφορά](https://github.com/e-liouta/iv/blob/1103875/reports/1103875/README.md#introduction) | |
-| 2 | βιογραφικό Α | [**To Βιογραφικό μου στο shoe and tell**](https://github.com/upatras-hci/iv/discussions/37), [Το βιογραφικό μου παρακάτω στην αναφορά](https://github.com/e-liouta/iv/blob/1103875/reports/1103875/README.md#cv-site) | |
+| 1 | [Δημιουργία ομάδας](https://courses-ionio.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/30 | |
+| 2 | βιογραφικό Α | https://github.com/upatras-hci/iv/discussions/37 | |
 | 3 | γραμμή εντολών (arch linux) |https://github.com/upatras-hci/iv/discussions/51 | |
-| 4 | συμμετοχικό περιεχόμενο 1A |[**Συμμετοχικό περιεχόμενο 1A στο show and tell**](https://github.com/upatras-hci/iv/discussions/49),  [1Α παρακάτω στην αναφορά](https://github.com/e-liouta/iv/blob/1103875/reports/1103875/README.md#a1)| |
+| 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/49| |
 | 5 | γραμμή εντολών (custom desktop environment) | https://github.com/upatras-hci/iv/discussions/52| |
-| 6 | συμμετοχικό περιεχόμενο 2Α |[**Συμμετοχικό περιεχόμενο 2Α στο show and tell**](https://github.com/upatras-hci/iv/discussions/71), [2A παρακάτω στην αναφορά](https://github.com/e-liouta/iv/blob/1103875/reports/1103875/README.md#a2) | |
+| 6 | συμμετοχικό περιεχόμενο 2Α |https://github.com/upatras-hci/iv/discussions/71 | |
 | 7 | βιογραφικό Β |https://github.com/upatras-hci/iv/discussions/81 | |
-| 8 | γραμμή εντολών (iv cli) |https://github.com/upatras-hci/iv/discussions/62 | |
+| 8 | γραμμή εντολών (iv cli) | https://github.com/upatras-hci/iv/discussions/62 | |
 | 9 | συμμετοχικό περιεχόμενο 1Β |https://github.com/upatras-hci/iv/discussions/65 | |
 | 10 | γραμμή εντολών (iv cli |https://github.com/upatras-hci/iv/discussions/62 | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
