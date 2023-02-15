@@ -18,15 +18,17 @@
 | 12 | Τελική αναφορά* | | |
 
 
+
 ## Personal Information
-![bigger](https://user-images.githubusercontent.com/99615706/219008868-fb57dd5e-c221-4594-b423-576ddc55eeca.svg)
+![bigger2](https://user-images.githubusercontent.com/99615706/219009683-961cb9bd-0dba-4ee8-b800-8ff0d218ea11.svg)
  </br>
 Name: Chatzilygeroudi Evangelia </br>
 ΑΜ: 1018865
 
 
 
-## 1. Introduction & Organization Set up
+
+## 1. ![cv icon](https://user-images.githubusercontent.com/99615706/219009819-626d7744-6367-4699-b05e-11e63b4d426f.svg) Introduction & Organization Set up
 
 My name is Chatzilygeroudi Evangelia.
 I used to work in finance , after my bachelor at [Department of Economics](https://www.econ.upatras.gr/el), but after many years of interaction with arts, jewelry(3D design) and make designs for friends and work, I discovered that design is my passion. </br>
