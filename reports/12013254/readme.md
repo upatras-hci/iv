@@ -187,15 +187,18 @@ I also installed the following [packages](https://github.com/EvangeliaChatz/iv/b
 ## 6.Participatory content 2Α-Interactive examples
 For this deliverable, I created two files called, [`animated-tab-bar.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_remix/animated-tab-bar.md) & [`signupform.md`](https://github.com/EvangeliaChatz/site-hci-2022/blob/master/_remix/signupform.md) in the [remix folder](https://github.com/EvangeliaChatz/site-hci-2022/tree/master/_remix) in my [site's repository](https://github.com/EvangeliaChatz/site-hci-2022/tree/master) and make pull request to [organization's site repository](https://github.com/EvangeliaChatz/site-hci-2022/tree/master/_remix).Pull request are in the table at the end of the section.<br>
 As a designer, I decided that the changes from the [initial one](https://codepen.io/ehermanson/details/KwKWEv) I will make to the exercises have to do with improving the UI so I chose the following interactive examples:</br>
+
 #### 🔗 [Sign up/Sign in form](https://codepen.io/EvangeliaChatz/pen/GRBXNPd)  <br>
 In this example I made changes such as changing the font sizes,from the [initial one](https://codepen.io/abxlfazl/details/VwKzaEm) as they were too large and spoiled the final result. </br>
 Change in focus state, when the user clicks on a form field to fill it, and other minor changes seen in the code. In more detail I did the followings:-
 <br>
-<img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218536742-d232dd71-7c8b-43aa-a84e-d5ab9305c49a.png">
- <br>
- <sup> Exercise: Modify the form to have other colors</sup>
+
+ ![BEFORE](https://user-images.githubusercontent.com/99615706/218907604-e371fb6e-880e-4b55-8678-927619219d9f.svg)| ![AFTER](https://user-images.githubusercontent.com/99615706/218907639-221f624f-b176-47ff-847b-a4e52c9ca3c9.svg)
+-------------------------|-------------------------
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/99615706/218907127-d9d064e8-8cf1-439e-a043-7ffdf99ef9c2.png">|<img width="368" alt="image" src="https://user-images.githubusercontent.com/99615706/218907203-f123e208-da5e-4bf1-af72-bfb598d521dc.png">
+  <sup> Exercise: Modify the form to have other colors</sup>
  
- 
+
 
 #### 🔗 [Animated tab bar](https://codepen.io/EvangeliaChatz/pen/YzjdrGm) <br>
 1️⃣ I added comments to better show where the icons are: <br>
@@ -204,9 +207,16 @@ Change in focus state, when the user clicks on a form field to fill it, and othe
 4️⃣ I increased the height because with the smaller icons it was short <br>
 5️⃣ I added the commands <br>
 6️⃣ I changed the font to Poppins by inserting `@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Inter&family=Poppins&display=swap’);` into the css <br>
-<img width="686" alt="image" src="https://user-images.githubusercontent.com/99615706/218539068-8b9ace90-e4e8-4a35-8770-f944106c2f9b.png">
 <br>
+
+ ![BEFORE](https://user-images.githubusercontent.com/99615706/218907604-e371fb6e-880e-4b55-8678-927619219d9f.svg)| ![AFTER](https://user-images.githubusercontent.com/99615706/218907639-221f624f-b176-47ff-847b-a4e52c9ca3c9.svg)
+-------------------------|-------------------------
+<img width="397" alt="image" src="https://user-images.githubusercontent.com/99615706/218908017-c2d70f92-2fc0-4dc9-b159-14e18c2a21c3.png">|<img width="392" alt="image" src="https://user-images.githubusercontent.com/99615706/218907973-410d7f8a-ac23-44a6-b819-e61d3e6032d4.png">
 <sup>Exercise: Change the icons and format of the tab bar.</sup>
+
+
+
+
 <br>
  | Interactive examples Pull request | Pibook link |
 | --- | ----------- |
