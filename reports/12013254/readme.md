@@ -233,33 +233,30 @@ Pastel is a command line tool for creating and editing colors in terminal applic
 6️⃣ These tasks can be performed with the various subcommands of the Pastel package. </br>
 I used some of them above: </br>
 
-* First install the pastel package:
 1️⃣ Install pastell package:
 ```sh
 sudo pacman -S pastel
 ``` 
 
-* For my work I use color code switching every day. For example, in this one I'm converting a #hex color to rgb:
+For my work I use color code switching every day. For example, in this one I'm converting a #hex color to rgb:<br>
 2️⃣ Generate color codes in various formats:
 ```sh
 pastel color c837ca | pastel format rgb
 ``` 
 
-* The ability to find the complement of each color is also very useful:
+The ability to find the complement of each color is also very useful:<br>
 3️⃣ Generate the complement color:
 ```sh
 pastel color c837ca | pastel complement
 ```
 
-
-* You can easily choose any color from the entire color spectrum:
+You can easily choose any color from the entire color spectrum:<br>
 4️⃣ Pick a color:
 ```sh
 pastel pick
 ```
 
-
-* Ι use color to improve the cli tools:
+Ι use color to improve the cli tools: <br>
 5️⃣ Print colorized text from a shell script, in order to make it more beautiful-usable:
 ```sh
 pastel paint -n black --on red --bold "EXAMPLE"
@@ -267,9 +264,13 @@ pastel paint -n black --on red --bold "EXAMPLE"
 </br>
 
 The above commands are shown in the video below: </br>
-<img width="606" alt="image" src="https://user-images.githubusercontent.com/99615706/218538850-1f38dcc0-8e00-4e80-b6ec-f00f47594890.png">
 
-[![asciicast](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz)
+
+![SCREENSHOT SVG](https://user-images.githubusercontent.com/99615706/218861865-9e4d0507-3d0f-4966-9009-28b318400fe9.svg)| ![VIDEO SVG](https://user-images.githubusercontent.com/99615706/218868273-84e63032-f154-4339-9b81-c07ab26e1e5c.svg)
+-------------------------|-------------------------
+![space-1.jpg](https://user-images.githubusercontent.com/99615706/218538850-1f38dcc0-8e00-4e80-b6ec-f00f47594890.png)|[![asciicast](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz.svg)](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz)
+
+
 
 ## 10.Command line2 (iv cli)
 The second command line exercise I've done is icons-in-terminal:
