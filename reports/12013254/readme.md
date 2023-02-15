@@ -281,15 +281,23 @@ $ git clone https://github.com/sebastiencs/icons-in-terminal.git
 
 
 
-## 9.Participatory content 1B
+## 9.Participatory content 1B-Case Study & Biography
+This deliverable has two [parts](https://courses-ionio.github.io/help/social/). One is about a case study and the second one is a biography.<br>
+
+
+#### Case Study
 Having dealt with software that converts text into image and music respectively, I decided to explore the field that converts speech into movements, and the wider field of voice recognition. </br>
 In the first part (participatory 1B1), Voice Chess Challenger, developed in the 1970s, was one of the first examples of using voice interaction to play a game. The device used speech recognition technology to recognize voice commands and control the chessboard, allowing players to make moves by speaking into a microphone. This early application of speech recognition demonstrated the possibility of using voice commands to interact with electronic devices and helped lay the foundations for the development of modern speech recognition systems. It then takes a historical look back at the development of this industry, and examples of similar games are cited , based on voice recognition. </br>
-* [link pibook](https://wondrous-paletas-7dd991.netlify.app/case-study/voice-chess-challenger/) </br>
-* [link to the organization's repository](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/voice-chess-challenger.md) </br>
 
+
+#### Biography
 In the second part, I looked into the same field and referred to the biography of one of the contributors to the history of voice recognition, Dudley Homer. Homer Dudley was an American electrical engineer and a pioneer in the field of speech recognition. Dudley is best known for his work to Vocoder1, an engine that analyzed and synthesized speech. Vocoder was one of the first speech recognition systems and helped lay the foundation for modern speech recognition technology. </br>
-* [link pibook](https://wondrous-paletas-7dd991.netlify.app/biography/homer-dudley/) </br>
-* [link to the organization's repository](https://github.com/upatras-HCI-2022/site/blob/master/_biography/homer-dudley.md) </br>
+
+
+|  Pull requests | Pibook link |
+| --- | ----------- |
+| [Case study](https://github.com/upatras-HCI-2022/site/pull/28) | [Case study](https://wondrous-paletas-7dd991.netlify.app/case-study/voice-chess-challenger/) |
+| [Biography](https://github.com/upatras-HCI-2022/site/pull/22) | [Biography](https://wondrous-paletas-7dd991.netlify.app/biography/homer-dudley/) |
 
 
 ## 7.CvB
