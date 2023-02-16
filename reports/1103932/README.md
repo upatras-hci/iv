@@ -32,19 +32,19 @@ As about the ***Information Visualization*** course I chose to take it since it 
 
 Having used @elipapa 's `Jekyll` markdown-cv theme I've published my CV on GitHub pages.
 
-| [markdown cv repository](https://github.com/elipapa/markdown-cv) | [repository link](https://github.com/akimo13/akimo13.github.io) | [GitHub Page link](https://akimo13.github.io/)
--------------------------|-------------------------|-------------------------
+| [markdown cv repository](https://github.com/elipapa/markdown-cv) | [προσωπικό repository του resume template](https://github.com/akimo13/akimo13.github.io) | [GitHub Page link](https://akimo13.github.io/) |[commits link](https://github.com/akimo13/akimo13.github.io/commits/master)
+-------------------------|-------------------------|-------------------------|-------------------------
 
 
 *Ενημέρωση, 16/2/2023*  
-Στην πρoσπάθεια μου το παραδοτέο να ανταποκρίνεται όσο γίνεται περισσότερο στα ζητούμενα επέλεξα να δουλέψω με το resume-template repository στο οποίο τα data του βιογραφικού κρατιούνται σε αρχεία YAML. Παραμετροποίησα τα διάφορα αρχεία ενώ προσέθεσα και μια κατηγορία επιλέον, τη languages, προκειμένου να κρατά τις ξένες γλώσσες που γνωρίζει ο χρήστης. Ανέβασα το CV σε GitHub Page.
+Στην πρoσπάθεια μου το παραδοτέο να ανταποκρίνεται όσο γίνεται περισσότερο στα ζητούμενα επέλεξα να δουλέψω με το resume template repository στο οποίο τα data του βιογραφικού κρατιούνται σε αρχεία YAML. Παραμετροποίησα τα διάφορα αρχεία ενώ προσέθεσα και μια κατηγορία επιλέον, τη languages, προκειμένου να κρατά τις ξένες γλώσσες που γνωρίζει ο χρήστης. Ανέβασα το CV σε GitHub Page.
 
 Στη συνέχεια, προκειμένου να ανταποκριθώ και στα ζητούμενα της άσκησης 7 Βιογραφικό Β, ακολούθησα τη διαδικασία που βρήκα [εδώ](https://github.com/jglovier/resume-template/issues/102). Προσπάθησα μέσω GitHub actions να ενεργοποιήσω το CI στο GitHub Pages. Η διαδικασία είναι συνέχεια σε κατάσταση `Build` χωρίς να βγάζει κάποιο μήνυμα σφάλματος, περισσότερα μπορείτε να δείτε [εδώ](https://github.com/akimo13/resume-template/actions).
 
 *Για μια μερική λύση της άσκησης 7 [δείτε](#CV-pdf) παρακάτω.*
 
-| [resume template repository](https://github.com/jglovier/resume-template) | [ προσωπικό repository του resume template ](https://github.com/akimo13/resume-template) |[Το CV σε GitHub Page](https://akimo13.github.io/resume-template/) 
--------------------------|-------------------------|-------------------------
+| [resume template repository](https://github.com/jglovier/resume-template) | [ προσωπικό repository του resume template ](https://github.com/akimo13/resume-template) |[Το CV σε GitHub Page](https://akimo13.github.io/resume-template/) | [commits link](https://github.com/akimo13/resume-template/commits/gh-pages)
+-------------------------|-------------------------|-------------------------|-------------------------
 
 - Και στα δύο παραπάνω onlile CV έχει προστεθεί link προς το [webring](https://upatras-hci-2022.github.io/webring/) του [οργανισμού](https://github.com/upatras-HCI-2022) μας.
 
@@ -116,8 +116,9 @@ To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κ
 
 Ουσιαστικά το PDF δεν παράγεται αυτόματα με CI. Για την παραγωγή του PDF χρειάζεται κάθε φορά που γίνονται αλλαγές στα αρχεία να τρέξει η εντολή `sh process.sh` η οποία και παράγει αρχεία .pdf και .html . Στη συνέχεια με `git push` το Netlify κάνει deploy, ενφανίζει το έγγραφο ως σελίδα HTML και επιτρέπει το κατέβασμα του αρχείου .pdf
 
-| [Netlify link](https://main--ornate-naiad-b24f19.netlify.app/) |[PDF link](https://main--ornate-naiad-b24f19.netlify.app/Dimitris-Karatsoulas-CV.pdf) | 
-| -------- | -------- | 
+|[commits link](https://github.com/akimo13/Dimitris-Karatsoulas-simple-cv/commits?author=akimo13)| [Netlify link](https://main--ornate-naiad-b24f19.netlify.app/) |[PDF link](https://main--ornate-naiad-b24f19.netlify.app/Dimitris-Karatsoulas-CV.pdf) | 
+| -------- | -------- | -------- |
+
 
 ### Deploy log
 [screen-recording.webm](https://user-images.githubusercontent.com/17239674/219213921-3ee1659e-4eec-428d-90c2-6e3c6b5120d0.webm)
