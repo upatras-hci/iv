@@ -51,10 +51,10 @@ Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
 2. H [εγκατάσταση τέχνης](https://www.canberra.edu.au/uncover/news-archive/2019/september/talk-to-the-articulated-head-2.0) του καλλιτέχνη Stelarc, *Articulated Head (AH) 2.0*. Το συγκεκριμένο έργο εμφανίζει το πρόσωπο του καλλιτέχνη σε μια οθόνη στηριγμένη σε ένα ρομποτικό βραχίονα. Με το συνδυασμό αισθητήρων το έργο αποκτά "επίγνωση" του περιβάλλοντος του με αποτέλεσμα να μπορεί να αλληλεπιδρά με τους ανθρώπους γύρω του.
 
 - Για το Α2, οι δυο παραπάνω συνεισφορές προστέθηκαν στο [χρονολόγιο](https://wondrous-paletas-7dd991.netlify.app/timeline/art/) και τη [συλλογή διαφανειών](https://wondrous-paletas-7dd991.netlify.app/slides/art/) του βιβλίου του οργανισμού μας. Αυτό έγινε συμπληρώνοντας το κάθε μέλος του οργανισμού το κοινό αρχείο `art.md` που βρίσκονταν στους αντίστοιχους φακέλους `timeline` και `slides` του `site` repository του οργανισμού, μέσω Pull Request. 
-Αναλυτικό ιστορικό των Pull Request φαίνεται [εδώ](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed).
+Αναλυτικό ιστορικό των Pull Request φαίνεται [εδώ](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3Aakimo13).
 
 - Για τις παραπάνω συνεισφορές έχουν γίνει διάφορες αλλαγές και διορθώσεις προκειμένου η τελική τους μορφή να ανταποκρίνεται στα ζητούμενα και να μην προξενεί προβλήματα στο site του οργανισμού. Κάθε φορά οι αλλαγές γίνονταν με Pull Request προς το gallery submodule του οργανισμού. 
-Αναλυτικό ιστορικό των Pull Requst φαίνεται [εδώ](https://github.com/upatras-HCI-2022/_gallery/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed).
+Αναλυτικό ιστορικό των Pull Requst φαίνεται [εδώ](https://github.com/upatras-HCI-2022/_gallery/pulls?q=is%3Apr+author%3Aakimo13).
 
 ### Οι εικόνες των δύο συνεισφορών 
 
@@ -119,7 +119,7 @@ To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κ
 - Για το μέρος Β2, της βιογραφίας επέλεξα να ασχοληθώ με τον **Michael Naimark**, έναν πρωτοπόρο των τεχνολογιών διάδρασης του οποίου το ευρύτερο έργο αφορά στην κατανόηση της δυναμικής μεταξύ τέχνης και τεχνολογίας. Υπήρξε εξάλλου, ο ιθύνων νούς πίσω από το **Aspen Movie Map**, με το οποίο ασχολήθηκα στην μελέτη περίπτωσης.
  
 - Οι δυο παραπάνω συνεισφορές προστέθηκαν στα κεφάλαια [Βιογραφίες](https://wondrous-paletas-7dd991.netlify.app/biography/) και [Μελέτες Περίπτωσης](https://wondrous-paletas-7dd991.netlify.app/case-study/) το βιβλίου του οργανισμού μας. Αυτό έγινε μέσω Pull Request προς τους αντίστοιχους φακέλους `biography` και `case-study` του `site` repository του οργανισμού μας. 
-Αναλυτικό ιστορικό των Pull Request φαίνεται [εδώ](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed).
+Αναλυτικό ιστορικό των Pull Request φαίνεται [εδώ](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3Aakimo13).
 
 | Aspen Movie Map |Michael Naimark | 
 | -------- | -------- | 
@@ -143,7 +143,7 @@ To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κ
 
 ## Συνολικά Pull Requests
 
-| [site repository Pull Requests](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed) | [gallery repository Pull Requests](https://github.com/upatras-HCI-2022/_gallery/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed ) | [images repository Pull Requests](https://github.com/upatras-HCI-2022/images/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed) | [webring repositry Pull Requests](https://github.com/upatras-HCI-2022/webring/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed)|
+| [site repository Pull Requests](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3Aakimo13) | [gallery repository Pull Requests](https://github.com/upatras-HCI-2022/_gallery/pulls?q=is%3Apr+author%3Aakimo13) | [images repository Pull Requests](https://github.com/upatras-HCI-2022/images/pulls?q=is%3Apr+author%3Aakimo13) | [webring repositry Pull Requests](https://github.com/upatras-HCI-2022/webring/pulls?q=is%3Apr+author%3Aakimo13)|
 | -------- | -------- | -------- | -------- |
 
 
