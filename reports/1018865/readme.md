@@ -328,8 +328,8 @@ Images Pull request|  Site Pull requests | Pibook link |
 
 
 ## 7.CvB-Convert Yaml file to PDF
-For this deliverable,I made a `git clone` (with ArchLinux command line) of the repository [simple-cv](https://github.com/plain-plain-text/simple-cv) referring to [pronunciation](https://courses-ionio.github.io/help/cv/) of exercise. After installing pandoc & latex, I ran the process file to convert it to pdf. The above steps can be seen in the following asciinema. Also to update the changes every time I ran the command sh process.sh.
-[![asciicast](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R.svg)](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R) that generates a [pdf file](https://evangeliachatz.github.io/simple-cv).In order to change the elements in the pdf file, I had to change the md files.Also, to upload the changes I make each time to a file in the repository, I following the following instructions: `git add.`, `git commit` and finally `git push`. Then, a workflow must be created to make the changes automatically when a git push was made(Continous Integration). </br>
+For this deliverable,I made a `git clone` (with ArchLinux command line) of the repository [simple-cv](https://github.com/plain-plain-text/simple-cv) referring to [pronunciation](https://courses-ionio.github.io/help/cv/) of exercise. After installing pandoc & latex, I ran the process file to convert it to pdf. The above steps can be seen in the following asciinema. Also to update the changes every time I ran the command sh process.sh. <br>
+[![asciicast](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R.svg)](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R) <br>that generates a [pdf file](https://evangeliachatz.github.io/simple-cv).In order to change the elements in the pdf file, I had to change the md files.Also, to upload the changes I make each time to a file in the repository, I following the following instructions: `git add.`, `git commit` and finally `git push`. Then, a workflow must be created to make the changes automatically when a git push was made(Continous Integration). </br>
 
 
 ## 11.Participatory content 2B
