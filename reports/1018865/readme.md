@@ -14,7 +14,7 @@
 | 8 | γραμμή εντολών (iv cli) |[pastel package](https://asciinema.org/a/Jo6RRXTym6GYFDs1A3S39tEcz) | |
 | 9 | συμμετοχικό περιεχόμενο 1Β |[Case Study-Voice chess Challenger](https://wondrous-paletas-7dd991.netlify.app/case-study/voice-chess-challenger/),[Biography-Dudley Homer](https://wondrous-paletas-7dd991.netlify.app/biography/homer-dudley/) | |
 | 10 | γραμμή εντολών (iv cli) |[icons-in-terminal package](https://asciinema.org/a/9JSwQZbRVRszRvT5XDb9FItZQ) | |
-| 11 | συμμετοχικό περιεχόμενο 2Β | | |
+| 11 | συμμετοχικό περιεχόμενο 2Β |Not delivered | |
 | 12 | Τελική αναφορά* | | |
 
 
@@ -57,11 +57,15 @@ In this part of the lesson we the [Human - Computer Interaction 2022 - 2023 Orga
 
 
 
-## 2.CV Site-Convert Yaml file to Site & PDF
-At first,we wanted to create an online site that CV ,will to created automatically from a [yaml](https://learnxinyminutes.com/docs/yaml/.) file,  using Jekyll.  <br />
-I create a branch 
-* [link online CV](https://evangeliachatz.github.io/online-cv/) <br />
-* [link CV repository](https://github.com/sharu725/online-cv) 
+## 2.CV Site-Convert Yaml file to Site
+At first,we wanted to create an online site that CV ,will to created automatically from a [yaml](https://github.com/EvangeliaChatz/online-cv/blob/gh-pages/_data/data.yml) file,  using Jekyll.  <br />
+I create a branch.
+
+| Link onlive CV | My CV repository | Link of initial repository |
+| --- | ----------- | --- |
+| [CV Site](https://evangeliachatz.github.io/online-cv/) | [repository](https://github.com/EvangeliaChatz/online-cv) | [repository origin](https://github.com/sharu725/online-cv)|
+
+
 
 ## 3.Command Line -ArchLinux Installation
 Firsty, I tried to install Arch Linux with USB, but I couldn't input characters in terminale
@@ -323,15 +327,13 @@ Images Pull request|  Site Pull requests | Pibook link |
 [biography photos](https://github.com/upatras-HCI-2022/images/pull/15)| [Biography](https://github.com/upatras-HCI-2022/site/pull/22) | [Biography](https://wondrous-paletas-7dd991.netlify.app/biography/homer-dudley/) |
 
 
-## 7.CvB
-Σε αυτό το παραδοτέο χρησιμοποίησα το [simple-cv](https://github.com/plain-plain-text/simple-cv) που αναφέρεται στην [εκφώνηση](https://courses-ionio.github.io/help/cv/) της άσκησης.Αφού εγκατέστησα το pandoc & το latex, έτρεξα το αρχείο process, για να μετατραπεί σε pdf. Τα παραπάνω βήματα φαίνονται στο asciinema που ακολουθεί.Επίσης για να ανανεώνω κάθε φορά τις αλλαγές έτρεχα την εντολή sh process.sh
-[![asciicast](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R.svg)](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R) </br>
+## 7.CvB-Convert Yaml file to PDF
+For this deliverable,I made a `git clone` (with ArchLinux command line) of the repository [simple-cv](https://github.com/plain-plain-text/simple-cv) referring to [pronunciation](https://courses-ionio.github.io/help/cv/) of exercise. After installing pandoc & latex, I ran the process file to convert it to pdf. The above steps can be seen in the following asciinema. Also to update the changes every time I ran the command sh process.sh.
+[![asciicast](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R.svg)](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R) that generates a [pdf file](https://evangeliachatz.github.io/simple-cv).In order to change the elements in the pdf file, I had to change the md files.Also, to upload the changes I make each time to a file in the repository, I following the following instructions: `git add.`, `git commit` and finally `git push`. Then, a workflow must be created to make the changes automatically when a git push was made(Continous Integration). </br>
 
 
 ## 11.Participatory content 2B
 
-
-
-## 12.Final Report
+Not delivered
 
 
