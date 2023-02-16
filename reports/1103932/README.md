@@ -30,11 +30,20 @@ As about the ***Information Visualization*** course I chose to take it since it 
 
 ## CV-site
 
-Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
+Having used @elipapa 's `Jekyll` markdown-cv theme I've published my CV on GitHub pages.
 
-- **[repository link](https://github.com/akimo13/akimo13.github.io)** 
+[markdown cv repository](https://github.com/elipapa/markdown-cv) | [repository link](https://github.com/akimo13/akimo13.github.io) | [GitHub Page link](https://akimo13.github.io/)
+-------------------------|-------------------------|-------------------------
 
-- **[GitHub Page link](https://akimo13.github.io/)**
+
+*Ενημέρωση, 16/2/2023*  
+Στην πρoσπάθεια μου το παραδοτέο να ανταποκρίνεται όσο γίνεται περισσότερο στα ζητούμενα επέλεξα να δουλέψω με το resume-template repository στο οποίο τα data του βιογραφικού κρατιούνται σε αρχεία YAML. Παραμετροποίησα τα διάφορα αρχεία ενώ προσέθεσα και μια κατηγορία επιλέον, τη languages, προκειμένου να κρατά τις ξένες γλώσσες που γνωρίζει ο χρήστης. Ανέβασα το CV σε GitHub Page.
+
+Στη συνέχεια, προκειμένου να ανταποκριθώ και στα ζητούμενα της άσκησης 7 Βιογραφικό Β, ακολούθησα τη διαδικασία που βρήκα [εδώ](https://github.com/jglovier/resume-template/issues/102). Προσπάθησα μέσω GitHub actions να ενεργοποιήσω το CI στο GitHub Pages. Η διαδικασία είναι συνέχεια σε κατάσταση `Build` χωρίς να βγάζει κάποιο μήνυμα σφάλματος, περισσότερα μπορείτε να δείτε [εδώ](https://github.com/akimo13/resume-template/actions).
+
+[resume template repository](https://github.com/jglovier/resume-template) | [ προσωπικό repository του resume template ](https://github.com/akimo13/resume-template) |[Το CV σε GitHub Page](https://akimo13.github.io/resume-template/) 
+-------------------------|-------------------------|-------------------------
+
 
 ## CommandLine-1
 
@@ -58,10 +67,13 @@ Having used @elipapa 's `Jekyll` theme I've published my CV on GitHub pages.
 
 ### Οι εικόνες των δύο συνεισφορών 
 
-[Articulated Head (AH) 2.0](https://aquamarine-unicorn-d025d3.netlify.app/gallery/articulated-head/) | [meSch project](https://aquamarine-unicorn-d025d3.netlify.app/gallery/mesch-project/)
+[Articulated Head 2.0 site gallery](https://wondrous-paletas-7dd991.netlify.app/gallery/articulated-head/) | [meSch project site gallery](https://wondrous-paletas-7dd991.netlify.app/gallery/mesch-project/) |
 -------------------------|-------------------------
-![IMAGE1.jpg](https://github.com/akimo13/images/blob/master/articulated-head.jpg)|![IMAGE1.jpg](https://github.com/akimo13/images/blob/master/mesch-project.jpg)
-
+![IMAGE1.jpg](https://github.com/akimo13/images/blob/master/articulated-head.jpg)|![IMAGE1.jpg](https://github.com/akimo13/images/blob/master/mesch-project.jpg) |
+[προσωπικό repository](https://github.com/akimo13/_gallery/blob/master/articulated-head.md) | [προσωπικό repository](https://github.com/akimo13/_gallery/blob/master/mesch-project.md) |
+[repository οργανισμού](https://github.com/upatras-HCI-2022/_gallery/blob/master/articulated-head.md) | [repository οργανισμού](https://github.com/upatras-HCI-2022/_gallery/blob/master/mesch-project.md) |
+[slides repository](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md)|[timeline repository](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md) |
+[Site slides](https://wondrous-paletas-7dd991.netlify.app/slides/art/)|[Site timeline](https://wondrous-paletas-7dd991.netlify.app/timeline/art/)|
 
 ## CommandLine-2
 
@@ -95,9 +107,10 @@ To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κ
 
 ## CV-pdf
 
-Για τις απαιτήσεις της συγκεκριμένης άσκησης έγινε fork το repository του [simple-cv](https://github.com/plain-plain-text/simple-cv). Δουλεύοντας σε περιβάλλον Windows, στο terminal του Visual Studio Code μέσω της εντολής `git clone` κατέβασα τα αρχεία locally. Κάνοντας edit στα αρχεία .md του φακέλου sections και τα .yml του φακέλου metadata διαμόρφωσα το βιογραφικό σύμφωνα με τα δικά μου στοιχεία. Για τη μεταροπή των αρχείων σε ένα ενιαίο αρχείο .pdf εγκαταστήσα το `pandoc` και το `MiKTeX`. Στη συνέχεια τρέχοντας την εντολή `sh process.sh` έκανα export σε ένα αρχείο .pdf. Με `git push` προώθησα όλα τα αρχεία στο repository μου.
+Για τις απαιτήσεις της συγκεκριμένης άσκησης έγινε fork το repository του [simple-cv](https://github.com/plain-plain-text/simple-cv). Δουλεύοντας σε περιβάλλον Windows, στο terminal του Visual Studio Code μέσω της εντολής `git clone` κατέβασα τα αρχεία locally. Κάνοντας edit στα αρχεία .md του φακέλου sections και τα .yml του φακέλου metadata διαμόρφωσα το βιογραφικό σύμφωνα με τα δικά μου στοιχεία. Για τη μεταροπή των αρχείων σε ένα ενιαίο αρχείο .pdf εγκαταστήσα το `pandoc` και το `MiKTeX`. Στη συνέχεια τρέχοντας την εντολή `sh process.sh` έκανα export σε ένα αρχείο .pdf. Με `git push` προώθησα όλα τα αρχεία στο repository μου.  
+Στη συνέχεια συνέδεσα το repository με το Netlify προκειμένου κάθε φορά που γίνεται push να γίνεται και ένα νέο deploy χάρη στην ενσωματωμένη τεχνολογία Continous Integration του Netlify.  
 
-Στη συνέχεια συνέδεσα το repository με το Netlify προκειμένου κάθε φορά που γίνεται push να γίνεται και ένα νέο deploy χάρη στην ενσωματωμένη τεχνολογία Continous Integration του Netlify.
+Ουσιαστικά το PDF δεν παράγεται αυτόματα με CI. Για την παραγωγή του PDF χρειάζεται κάθε φορά που γίνονται αλλαγές στα αρχεία να τρέξει η εντολή `sh process.sh` η οποία και παράγει αρχεία .pdf και .html . Στη συνέχεια με `git push` το Netlify κάνει deploy, ενφανίζει το έγγραφο ως σελίδα HTML και επιτρέπει το κατέβασμα του αρχείου .pdf
 
 | [Netlify link](https://main--ornate-naiad-b24f19.netlify.app/) |[PDF link](https://main--ornate-naiad-b24f19.netlify.app/Dimitris-Karatsoulas-CV.pdf) | 
 | -------- | -------- | 
@@ -139,9 +152,10 @@ To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κ
 | [![asciicast](https://asciinema.org/a/0PNdOW5BdCEGdIkt6I0zsgYfj.svg)](https://asciinema.org/a/0PNdOW5BdCEGdIkt6I0zsgYfj) | ![image](https://user-images.githubusercontent.com/17239674/206559831-a6ef15fc-956c-42a5-8054-c8f0ca2feb85.png) |
 
 
+## Content-1B
+Για τη συγκεκριμένη άσκηση δεν υπήρξε σημαντική πρόοδος
 
-
-## Συνολικά Pull Requests
+## Συγκεντρωτικά Pull Requests
 
 | [site repository Pull Requests](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3Aakimo13) | [gallery repository Pull Requests](https://github.com/upatras-HCI-2022/_gallery/pulls?q=is%3Apr+author%3Aakimo13) | [images repository Pull Requests](https://github.com/upatras-HCI-2022/images/pulls?q=is%3Apr+author%3Aakimo13) | [webring repositry Pull Requests](https://github.com/upatras-HCI-2022/webring/pulls?q=is%3Apr+author%3Aakimo13)|
 | -------- | -------- | -------- | -------- |
