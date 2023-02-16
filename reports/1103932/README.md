@@ -17,7 +17,7 @@ Name: Karatsoulas Dimitrios</br>
 | 8 | [γραμμή εντολών (iv cli)](#CommandLine-3) |[CommandLine-3](https://github.com/upatras-hci/iv/discussions/63) | |
 | 9 | [συμμετοχικό περιεχόμενο 1Β](#Content-1B) |[Content 1Β](https://github.com/upatras-hci/iv/discussions/75) | |
 | 10 | [γραμμή εντολών (iv cli)](#CommandLine-4) |[CommandLine-4](https://github.com/upatras-hci/iv/discussions/63) | |
-| 11 | συμμετοχικό περιεχόμενο 2Β | | |
+| 11 | [συμμετοχικό περιεχόμενο 2Β](#Content-1B) | Δεν σημειώθηκε πρόοδος | |
 | 12 | Τελική αναφορά* | | |
 
 ## Introduction
@@ -93,17 +93,17 @@ Having used @elipapa 's `Jekyll` markdown-cv theme I've published my CV on GitHu
 
 Για τη συγκεκριμένη άσκηση, μετά τη μελέτη των παραδειγμάτων του βιβλίου κατέληξα να παρουσίασω δύο διαφορετικά παραδείγματα. Τον αρχικό κώδικα τον βρήκα σε αποθετήρια του [CodePen](https://codepen.io/) και του [GitHub](https://github.com/) τον οποίο και παραμετροποίησα για να εξυπηρετεί καλύτερα τις ανάγκες μου. 
 
-To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κουμπί, το οποίο αποτελεί ένα βασικό στοιχείο διάδρασης ανθρώπου-υπολογιστή.
+- To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κουμπί, το οποίο αποτελεί ένα βασικό στοιχείο διάδρασης ανθρώπου-υπολογιστή.
 
-| [Hamburger Button](https://codepen.io/akimo13/pen/JjBobRr)|[Το αρχικό παράδειγμα στο CodePen](https://codepen.io/kevinpowell/pen/gOKpOyy)| [Το παράδειγμα όπως εμφανίζεται στο βιβλίο του οργανισμού](https://wondrous-paletas-7dd991.netlify.app/remix/animated-hamburger-button/)|
-|-------------------------|------------------------- | -------------------------|
+| [Hamburger Button](https://codepen.io/akimo13/pen/JjBobRr)|[Το αρχικό παράδειγμα στο CodePen](https://codepen.io/kevinpowell/pen/gOKpOyy)| [Link στο remix repository του οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_remix/animated-hamburger-button.md) |[Το παράδειγμα όπως εμφανίζεται στο βιβλίο του οργανισμού](https://wondrous-paletas-7dd991.netlify.app/remix/animated-hamburger-button/)|
+|-------------------------|------------------------- | -------------------------|-------------------------|
 
 ***Σημείωση:*** Το παράδειγμα λειτουργεί σωστά στους browser Crome, Edge και Opera αλλά όχι στο Firefox.
 
-Το δεύτερο αφορά ένα μοντέλο, ένα πιάνο που εμφανίζεται στην οθόνη και προσπαθεί να προσομοιώσει την εμφάνιση και λειτουργία του μουσικού οργάνου στον ψηφιακό κόσμο.
+- Το δεύτερο αφορά ένα μοντέλο, ένα πιάνο που εμφανίζεται στην οθόνη και προσπαθεί να προσομοιώσει την εμφάνιση και λειτουργία του μουσικού οργάνου στον ψηφιακό κόσμο.
 
-| [JavaScript Piano](https://codepen.io/akimo13/pen/KKBwYxJ)|[Το GitHub repository με τον αρχικό κώδικα](https://github.com/kubowania/javascript-playing-piano)| [Το παράδειγμα όπως εμφανίζεται στο βιβλίο](https://aquamarine-unicorn-d025d3.netlify.app/remix/piano-javascript/)|
-|-------------------------|------------------------- | -------------------------|
+| [JavaScript Piano](https://codepen.io/akimo13/pen/KKBwYxJ)|[Το GitHub repository με τον αρχικό κώδικα](https://github.com/kubowania/javascript-playing-piano)|[Link στο remix repository του οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_remix/piano-javascript.md)| [Το παράδειγμα όπως εμφανίζεται στο βιβλίο](https://aquamarine-unicorn-d025d3.netlify.app/remix/piano-javascript/)|
+|-------------------------|------------------------- | -------------------------|-------------------------|
 
 -  **[Link με τα commits](https://github.com/upatras-HCI-2022/site/pull/9/commits)** 
 
@@ -114,7 +114,7 @@ To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κ
 Για τις απαιτήσεις της συγκεκριμένης άσκησης έγινε fork το repository του [simple-cv](https://github.com/plain-plain-text/simple-cv). Δουλεύοντας σε περιβάλλον Windows, στο terminal του Visual Studio Code μέσω της εντολής `git clone` κατέβασα τα αρχεία locally. Κάνοντας edit στα αρχεία .md του φακέλου sections και τα .yml του φακέλου metadata διαμόρφωσα το βιογραφικό σύμφωνα με τα δικά μου στοιχεία. Για τη μεταροπή των αρχείων σε ένα ενιαίο αρχείο .pdf εγκαταστήσα το `pandoc` και το `MiKTeX`. Στη συνέχεια τρέχοντας την εντολή `sh process.sh` έκανα export σε ένα αρχείο .pdf. Με `git push` προώθησα όλα τα αρχεία στο repository μου.  
 Στη συνέχεια συνέδεσα το repository με το Netlify προκειμένου κάθε φορά που γίνεται push να γίνεται και ένα νέο deploy χάρη στην ενσωματωμένη τεχνολογία Continous Integration του Netlify.  
 
-Ουσιαστικά το PDF δεν παράγεται αυτόματα με CI. Για την παραγωγή του PDF χρειάζεται κάθε φορά που γίνονται αλλαγές στα αρχεία να τρέξει η εντολή `sh process.sh` η οποία και παράγει αρχεία .pdf και .html . Στη συνέχεια με `git push` το Netlify κάνει deploy, ενφανίζει το έγγραφο ως σελίδα HTML και επιτρέπει το κατέβασμα του αρχείου .pdf
+Ουσιαστικά το PDF δεν παράγεται αυτόματα με CI. Για την παραγωγή του PDF χρειάζεται κάθε φορά που γίνονται αλλαγές στα αρχεία να τρέξει η εντολή `sh process.sh` η οποία και παράγει αρχεία .pdf και .html . Στη συνέχεια με `git push` το Netlify κάνει deploy, εμφανίζει το έγγραφο ως σελίδα HTML και επιτρέπει το κατέβασμα του αρχείου .pdf
 
 |[commits link](https://github.com/akimo13/Dimitris-Karatsoulas-simple-cv/commits?author=akimo13)| [Netlify link](https://main--ornate-naiad-b24f19.netlify.app/) |[PDF link](https://main--ornate-naiad-b24f19.netlify.app/Dimitris-Karatsoulas-CV.pdf) | 
 | -------- | -------- | -------- |
@@ -164,10 +164,26 @@ To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κ
 Για τη συγκεκριμένη άσκηση δεν υπήρξε σημαντική πρόοδος
 
 
-
 ## Συγκεντρωτικά Pull Requests
 
 | [site repository Pull Requests](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3Aakimo13) | [gallery submodule repository Pull Requests](https://github.com/upatras-HCI-2022/_gallery/pulls?q=is%3Apr+author%3Aakimo13) | [images submodule repository Pull Requests](https://github.com/upatras-HCI-2022/images/pulls?q=is%3Apr+author%3Aakimo13) | [webring repository Pull Requests](https://github.com/upatras-HCI-2022/webring/pulls?q=is%3Apr+author%3Aakimo13)|
 | -------- | -------- | -------- | -------- |
 
+## Βιβλιογραφία
+| meSch project | Articulated Head (AH) 2.0 |
+| -------- | -------- | 
+|https://dl.acm.org/doi/10.1145/3349268| https://www.timeshighereducation.com/hub/university-canberra/p/talk-articulated-head-20 |
+|https://www.suggesto.eu/en/progetto-mesch|http://www.kornmaaler-ux.dk/AH2.html|
+|https://www.mesch-project.eu/|https://projekter.aau.dk/projekter/files/307198882/Exploring_User_Interactions_with_the_Articulated_Head_in_Different_Settings.pdf|
+|https://blogs.arts.gla.ac.uk/hatii/wp-content/uploads/2014/10/meSchHATIIAreti.pdf|https://www.canberra.edu.au/uncover/news-archive/2019/september/talk-to-the-articulated-head-2.0|
 
+| Aspen Movie Map | Michael Naimark |
+| -------- | -------- | 
+|https://computerhistory.org/blog/going-places-a-history-of-google-maps-with-street-view/| http://www.naimark.net/bio.html |
+|https://rebeccaallen.com/projects/aspen-movie-map|https://www.polygon.com/2016/10/26/13401128/25-vr-greatest-innovators|
+|https://www.vice.com/en/article/vvvqv4/the-aspen-movie-map-beat-google-street-view-by-28-years|https://michaelnaimark.medium.com/about|
+|https://en.wikipedia.org/wiki/Aspen_Movie_Map||
+
+## Συνολική αποτίμηση  
+Το μάθημα με βοήθησε να δω τη διάδραση και την οπτικοποίηση της πληροφορίας από μια άλλη σκοπιά. Ήρθα σε επαφή με τεχνολογίες και προσεγγίσεις που με προβλημάτισαν ως προς το πως μπορεί να γίνεται η μετάδοση της πληροφορίας. Για άλλη μια φορά αντιλήφθηκα πως δεν είναι οι υπερεξελιγμένες συσκευές και εφαρμογές που κάνουν τη διαφορά σε μια διάδραση, αλλά ο τρόπος που προσεγγίζουν τον άνθρωπο. Ένυπωσιάστηκα όταν μέσα από το μάθημα και την έρευνα μου για αυτό ανακάλυψα καινοτόμες τεχνολογίες που ήταν πολύ μπροστά για την εποχή τους όπως το **Aspen Movie Map** καθώς και πως πολλοί πρωτοπόροι των νέων τεχνολογιών προσεγγίζουν την έρευνα τους και μέσα από το πρίσμα της φιλοσοφίας.  
+Η χρήση του GitHub για την περάτωση των εργασιών με βοήθησε να εξοικειωθώ με ένα απαραίτητο εργαλείο για κάθε έναν που ασχολείται με τον τομέα της Πληροφορικής. Η συνεργασία δε με τους συμφοιτητές μου για τις ανάγκες του συμμετοχικού περιεχομένου αφενός ήταν μια καλή προσομείωση των συνθηκών που ισχύουν κατά την ολοκλήρωση ενός πρότζεκτ αφετέρου συνέδραμε στο δέσιμο μας ως ομάδα.
