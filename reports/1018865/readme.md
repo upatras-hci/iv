@@ -330,6 +330,10 @@ Images Pull request|  Site Pull requests | Pibook link |
 ## 7.CvB-Convert Yaml file to PDF
 For this deliverable,I made a `git clone` (with ArchLinux command line) of the repository [simple-cv](https://github.com/plain-plain-text/simple-cv) referring to [pronunciation](https://courses-ionio.github.io/help/cv/) of exercise. After installing pandoc & latex, I ran the process file to convert it to pdf. The above steps can be seen in the following asciinema. Also to update the changes every time I ran the command sh process.sh. <br>
 [![asciicast](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R.svg)](https://asciinema.org/a/AyARrivlbN1rfJdCAfLY0Ku0R) <br>that generates a [pdf file](https://evangeliachatz.github.io/simple-cv).In order to change the elements in the pdf file, I had to change the md files.Also, to upload the changes I make each time to a file in the repository, I following the following instructions: `git add.`, `git commit` and finally `git push`. Then, a workflow must be created to make the changes automatically when a git push was made(Continous Integration). </br>
+Finally, I understand that this template don't generate pdf from yaml and I decided to make another one call [resume-template](https://github.com/EvangeliaChatz/resume-template) , but haven't finish yet.Next steps:activate github actions to make a workflow that renders and commits a PDF every time a change is done on the repository, change [yaml files](https://github.com/EvangeliaChatz/resume-template/tree/gh-pages/_data) with my personal information.This deliverable haven't finish yet.
+
+<br>
+Thank you for your time!
 
 
 ## 11.Participatory content 2B
