@@ -169,22 +169,24 @@ PR στο `_gallery`: [εδώ](https://github.com/upatras-HCI-2022/_gallery/pull
 
 ### Case Study
 
-Συνεχίζοντας τη θεματική για την Τέχνη, επέλεξα να αναλύσω τον όρο "New Media Art".  
-Πρόσθεσα τα αρχεία [_case-study/new-media-art.md](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/new-media-art.md) &  [_includes/cs-new-media-art.md](https://github.com/upatras-HCI-2022/site/blob/master/_includes/cs-new-media-art.md).  
-Καθώς και 4 εικόνες ως παραδείγματα:  
+Συνεχίζοντας τη θεματική για την Τέχνη, αρχικά είχα επιλέξει να αναλύσω τον όρο "New Media Art".  
+Όμως μετά από σχόλια επικεντρώθηκα σε κάτι πιο συσγκεκριμένο, καταλήγοντας έτσι να αναλύσω ένα έργο τέχνης αυτού του είδους.  
+Ονομάζεται Making visible the invisible και ουσιαστικά οπτικοποιεί τα μεταδεδομένα από τη βάση δεδομένων μιας βιβλιοθήκης, σε ψηφιακή μορφή με διάφορα χρώματα και σχέδια, κάνοντας το ένα αξιοθαύμαστο έργο τέχνης, ειδικά αν συλλογιστούμε και το μέγεθος τις πληροφορίας που απεικονίζει σε πραγματικό χρόνο.  
 
- 
-[electronic-superhighway.jpeg](https://github.com/upatras-HCI-2022/images/blob/master/electronic-superhighway.jpeg)  
-[extruding-circos.jpg](https://github.com/upatras-HCI-2022/images/blob/master/extruding-circos.jpg)  
-[ifnoyes.png](https://github.com/upatras-HCI-2022/images/blob/master/ifnoyes.png)  
-[making-visible-the-invisible.jpg](https://github.com/upatras-HCI-2022/images/blob/master/making-visible-the-invisible.jpg)  
+Πρόσθεσα τα αρχεία [_case-study/making-visible-the-invisible.md](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/making-visible-the-invisible.md) &  [_includes/cs-making-visible-the-invisible.md](https://github.com/upatras-HCI-2022/site/blob/master/_includes/cs-making-visible-the-invisible.md).  
+Καθώς και 11 εικόνες ως παραδείγματα με ονομασία `making-visible-the-invisible`.  
 
-Έγινε ένα [PR για την προσθήκη εικόνων](https://github.com/upatras-HCI-2022/images/pull/23), και ένα [για την προσθήκη των αρχεών Md](https://github.com/upatras-HCI-2022/site/pull/30). 
+Έγινε ένα [PR για την προσθήκη εικόνων](https://github.com/upatras-HCI-2022/images/pull/26), και ένα [για την προσθήκη των αρχείων Md](https://github.com/upatras-HCI-2022/site/pull/36). 
 
-[Σύνδεσμος στο site.](https://wondrous-paletas-7dd991.netlify.app/case-study/new-media-art/)
+[Σύνδεσμος στο site.](https://wondrous-paletas-7dd991.netlify.app/case-study/making-visible-the-invisible/)
 
 
 ### Biography
+
+Επέλεξα να γράψω τη βιογραφία του `George Legrady` ο οποίος είναι ο δημιουργός του Making Visible the Invisible.   
+Περισσότερα για αυτόν μπορούμε να μάθουμε στο [link από το site](https://wondrous-paletas-7dd991.netlify.app/biography/george-legrady/).
+
+Τα αντίστοιχα PRs για τα [αρχεία](https://github.com/upatras-HCI-2022/site/pull/37) και τις [εικόνες](https://github.com/upatras-HCI-2022/images/pull/27).
 
 ## Γραμμή εντολών 2		
 
