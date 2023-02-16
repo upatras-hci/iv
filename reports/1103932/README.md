@@ -32,7 +32,7 @@ As about the ***Information Visualization*** course I chose to take it since it 
 
 Having used @elipapa 's `Jekyll` markdown-cv theme I've published my CV on GitHub pages.
 
-[markdown cv repository](https://github.com/elipapa/markdown-cv) | [repository link](https://github.com/akimo13/akimo13.github.io) | [GitHub Page link](https://akimo13.github.io/)
+| [markdown cv repository](https://github.com/elipapa/markdown-cv) | [repository link](https://github.com/akimo13/akimo13.github.io) | [GitHub Page link](https://akimo13.github.io/)
 -------------------------|-------------------------|-------------------------
 
 
@@ -41,8 +41,12 @@ Having used @elipapa 's `Jekyll` markdown-cv theme I've published my CV on GitHu
 
 Στη συνέχεια, προκειμένου να ανταποκριθώ και στα ζητούμενα της άσκησης 7 Βιογραφικό Β, ακολούθησα τη διαδικασία που βρήκα [εδώ](https://github.com/jglovier/resume-template/issues/102). Προσπάθησα μέσω GitHub actions να ενεργοποιήσω το CI στο GitHub Pages. Η διαδικασία είναι συνέχεια σε κατάσταση `Build` χωρίς να βγάζει κάποιο μήνυμα σφάλματος, περισσότερα μπορείτε να δείτε [εδώ](https://github.com/akimo13/resume-template/actions).
 
-[resume template repository](https://github.com/jglovier/resume-template) | [ προσωπικό repository του resume template ](https://github.com/akimo13/resume-template) |[Το CV σε GitHub Page](https://akimo13.github.io/resume-template/) 
+*Για μια μερική λύση της άσκησης 7 [δείτε](#CV-pdf) παρακάτω.*
+
+| [resume template repository](https://github.com/jglovier/resume-template) | [ προσωπικό repository του resume template ](https://github.com/akimo13/resume-template) |[Το CV σε GitHub Page](https://akimo13.github.io/resume-template/) 
 -------------------------|-------------------------|-------------------------
+
+- Και στα δύο παραπάνω onlile CV έχει προστεθεί link προς το [webring](https://upatras-hci-2022.github.io/webring/) του [οργανισμού](https://github.com/upatras-HCI-2022) μας.
 
 
 ## CommandLine-1
@@ -65,15 +69,15 @@ Having used @elipapa 's `Jekyll` markdown-cv theme I've published my CV on GitHu
 - Για τις παραπάνω συνεισφορές έχουν γίνει διάφορες αλλαγές και διορθώσεις προκειμένου η τελική τους μορφή να ανταποκρίνεται στα ζητούμενα και να μην προξενεί προβλήματα στο site του οργανισμού. Κάθε φορά οι αλλαγές γίνονταν με Pull Request προς το gallery submodule του οργανισμού. 
 Αναλυτικό ιστορικό των Pull Requst φαίνεται [εδώ](https://github.com/upatras-HCI-2022/_gallery/pulls?q=is%3Apr+author%3Aakimo13).
 
-### Οι εικόνες των δύο συνεισφορών 
+### Πίνακας με λεπτομέρειες για τις συνεισφορές 
 
-[Articulated Head 2.0 site gallery](https://wondrous-paletas-7dd991.netlify.app/gallery/articulated-head/) | [meSch project site gallery](https://wondrous-paletas-7dd991.netlify.app/gallery/mesch-project/) |
+| [Articulated Head 2.0 site gallery](https://wondrous-paletas-7dd991.netlify.app/gallery/articulated-head/) | [meSch project site gallery](https://wondrous-paletas-7dd991.netlify.app/gallery/mesch-project/) |
 -------------------------|-------------------------
-![IMAGE1.jpg](https://github.com/akimo13/images/blob/master/articulated-head.jpg)|![IMAGE1.jpg](https://github.com/akimo13/images/blob/master/mesch-project.jpg) |
-[προσωπικό repository](https://github.com/akimo13/_gallery/blob/master/articulated-head.md) | [προσωπικό repository](https://github.com/akimo13/_gallery/blob/master/mesch-project.md) |
-[repository οργανισμού](https://github.com/upatras-HCI-2022/_gallery/blob/master/articulated-head.md) | [repository οργανισμού](https://github.com/upatras-HCI-2022/_gallery/blob/master/mesch-project.md) |
-[slides repository](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md)|[timeline repository](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md) |
-[Site slides](https://wondrous-paletas-7dd991.netlify.app/slides/art/)|[Site timeline](https://wondrous-paletas-7dd991.netlify.app/timeline/art/)|
+| ![IMAGE1.jpg](https://github.com/akimo13/images/blob/master/articulated-head.jpg)|![IMAGE1.jpg](https://github.com/akimo13/images/blob/master/mesch-project.jpg) |
+| [προσωπικό repository](https://github.com/akimo13/_gallery/blob/master/articulated-head.md) | [προσωπικό repository](https://github.com/akimo13/_gallery/blob/master/mesch-project.md) |
+| [repository οργανισμού](https://github.com/upatras-HCI-2022/_gallery/blob/master/articulated-head.md) | [repository οργανισμού](https://github.com/upatras-HCI-2022/_gallery/blob/master/mesch-project.md) |
+| [slides repository](https://github.com/upatras-HCI-2022/site/blob/master/_slides/art.md)|[timeline repository](https://github.com/upatras-HCI-2022/site/blob/master/_timeline/art.md) |
+| [Site slides](https://wondrous-paletas-7dd991.netlify.app/slides/art/)|[Site timeline](https://wondrous-paletas-7dd991.netlify.app/timeline/art/)|
 
 ## CommandLine-2
 
@@ -91,14 +95,14 @@ Having used @elipapa 's `Jekyll` markdown-cv theme I've published my CV on GitHu
 
 To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κουμπί, το οποίο αποτελεί ένα βασικό στοιχείο διάδρασης ανθρώπου-υπολογιστή.
 
-[Hamburger Button](https://codepen.io/akimo13/pen/JjBobRr)|[Το αρχικό παράδειγμα στο CodePen](https://codepen.io/kevinpowell/pen/gOKpOyy)| [Το παράδειγμα όπως εμφανίζεται στο βιβλίο του οργανισμού](https://wondrous-paletas-7dd991.netlify.app/remix/animated-hamburger-button/)|
+| [Hamburger Button](https://codepen.io/akimo13/pen/JjBobRr)|[Το αρχικό παράδειγμα στο CodePen](https://codepen.io/kevinpowell/pen/gOKpOyy)| [Το παράδειγμα όπως εμφανίζεται στο βιβλίο του οργανισμού](https://wondrous-paletas-7dd991.netlify.app/remix/animated-hamburger-button/)|
 |-------------------------|------------------------- | -------------------------|
 
 ***Σημείωση:*** Το παράδειγμα λειτουργεί σωστά στους browser Crome, Edge και Opera αλλά όχι στο Firefox.
 
 Το δεύτερο αφορά ένα μοντέλο, ένα πιάνο που εμφανίζεται στην οθόνη και προσπαθεί να προσομοιώσει την εμφάνιση και λειτουργία του μουσικού οργάνου στον ψηφιακό κόσμο.
 
-[JavaScript Piano](https://codepen.io/akimo13/pen/KKBwYxJ)|[Το GitHub repository με τον αρχικό κώδικα](https://github.com/kubowania/javascript-playing-piano)| [Το παράδειγμα όπως εμφανίζεται στο βιβλίο](https://aquamarine-unicorn-d025d3.netlify.app/remix/piano-javascript/)|
+| [JavaScript Piano](https://codepen.io/akimo13/pen/KKBwYxJ)|[Το GitHub repository με τον αρχικό κώδικα](https://github.com/kubowania/javascript-playing-piano)| [Το παράδειγμα όπως εμφανίζεται στο βιβλίο](https://aquamarine-unicorn-d025d3.netlify.app/remix/piano-javascript/)|
 |-------------------------|------------------------- | -------------------------|
 
 -  **[Link με τα commits](https://github.com/upatras-HCI-2022/site/pull/9/commits)** 
@@ -131,14 +135,17 @@ To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κ
   
 - Για το μέρος Β2, της βιογραφίας επέλεξα να ασχοληθώ με τον **Michael Naimark**, έναν πρωτοπόρο των τεχνολογιών διάδρασης του οποίου το ευρύτερο έργο αφορά στην κατανόηση της δυναμικής μεταξύ τέχνης και τεχνολογίας. Υπήρξε εξάλλου, ο ιθύνων νούς πίσω από το **Aspen Movie Map**, με το οποίο ασχολήθηκα στην μελέτη περίπτωσης.
  
-- Οι δυο παραπάνω συνεισφορές προστέθηκαν στα κεφάλαια [Βιογραφίες](https://wondrous-paletas-7dd991.netlify.app/biography/) και [Μελέτες Περίπτωσης](https://wondrous-paletas-7dd991.netlify.app/case-study/) το βιβλίου του οργανισμού μας. Αυτό έγινε μέσω Pull Request προς τους αντίστοιχους φακέλους `biography` και `case-study` του `site` repository του οργανισμού μας. 
+- Οι δυο παραπάνω συνεισφορές προστέθηκαν στα κεφάλαια [Βιογραφίες](https://wondrous-paletas-7dd991.netlify.app/biography/) και [Μελέτες Περίπτωσης](https://wondrous-paletas-7dd991.netlify.app/case-study/) το βιβλίου του οργανισμού μας. Αυτό έγινε μέσω Pull Request προς τους αντίστοιχους φακέλους `biography` και `case-study` του `site` repository του οργανισμού μας καθώς και προς το φάκελο `includes` που φιλοξενεί τα αρχεία που φέρουν τον κύριο όγκο της κάθε εργασίας. 
 Αναλυτικό ιστορικό των Pull Request φαίνεται [εδώ](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3Aakimo13).
 
 | Aspen Movie Map |Michael Naimark | 
-| -------- | -------- | 
-|[Link στο βιβλίο](https://wondrous-paletas-7dd991.netlify.app/case-study/movie-map/)|[Link στο βιβλίο](https://wondrous-paletas-7dd991.netlify.app/biography/michael-naimark/)|
-|[Link στο repository της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/movie-map.md)|[Link στο repository της ομάδας](https://github.com/upatras-HCI-2022/site/blob/master/_biography/michael-naimark.md)|
+| -------- | -------- |
+|[Link στο προσωπικό includes repositοry](https://github.com/akimo13/site/blob/master/_includes/cs-movie-map.md)| [Link στο προσωπικό includes repositοry](https://github.com/akimo13/site/blob/master/_includes/bio-naimark.md)|
+|[Link στο προσωπικό case-study repositοry](https://github.com/akimo13/site/blob/master/_case-study/movie-map.md)| [Link στο προσωπικό biography repositοry](https://github.com/akimo13/site/blob/master/_biography/michael-naimark.md)|
+|[Link στο includes repositοry του οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_includes/cs-movie-map.md)| [Link στο includes repositοry του οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_includes/bio-naimark.md)|
+|[Link στο repository του οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_case-study/movie-map.md)|[Link στο repository του οργανισμού](https://github.com/upatras-HCI-2022/site/blob/master/_biography/michael-naimark.md)|
 |[Pull Request](https://github.com/upatras-HCI-2022/site/pull/25)|[Pull Request](https://github.com/upatras-HCI-2022/site/pull/35)|
+|[Link στο βιβλίο](https://wondrous-paletas-7dd991.netlify.app/case-study/movie-map/)|[Link στο βιβλίο](https://wondrous-paletas-7dd991.netlify.app/biography/michael-naimark/)|
 
 *Ως προς τη μελέτη περίπτωσης έγινε πλήρης αναθεώρηση του περιεχομένου προκειμένου να ταιριάζει καλύτερα στα ζητούμενα της άσκησης.*
 
@@ -155,9 +162,11 @@ To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κ
 ## Content-1B
 Για τη συγκεκριμένη άσκηση δεν υπήρξε σημαντική πρόοδος
 
+
+
 ## Συγκεντρωτικά Pull Requests
 
-| [site repository Pull Requests](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3Aakimo13) | [gallery repository Pull Requests](https://github.com/upatras-HCI-2022/_gallery/pulls?q=is%3Apr+author%3Aakimo13) | [images repository Pull Requests](https://github.com/upatras-HCI-2022/images/pulls?q=is%3Apr+author%3Aakimo13) | [webring repositry Pull Requests](https://github.com/upatras-HCI-2022/webring/pulls?q=is%3Apr+author%3Aakimo13)|
+| [site repository Pull Requests](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3Aakimo13) | [gallery submodule repository Pull Requests](https://github.com/upatras-HCI-2022/_gallery/pulls?q=is%3Apr+author%3Aakimo13) | [images submodule repository Pull Requests](https://github.com/upatras-HCI-2022/images/pulls?q=is%3Apr+author%3Aakimo13) | [webring repository Pull Requests](https://github.com/upatras-HCI-2022/webring/pulls?q=is%3Apr+author%3Aakimo13)|
 | -------- | -------- | -------- | -------- |
 
 
