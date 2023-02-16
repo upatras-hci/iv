@@ -136,5 +136,14 @@ To πρώτο αφορά ένα hamburger button, ουσιαστικά ένα κ
 
 | Asciinema | Συννεφόλεξο | 
 | -------- | -------- | 
-| [![asciicast](https://asciinema.org/a/0PNdOW5BdCEGdIkt6I0zsgYfj.svg)](https://asciinema.org/a/0PNdOW5BdCEGdIkt6I0zsgYfj) | ![image](https://user-images.githubusercontent.com/17239674/206559831-a6ef15fc-956c-42a5-8054-c8f0ca2feb85.png) | 
+| [![asciicast](https://asciinema.org/a/0PNdOW5BdCEGdIkt6I0zsgYfj.svg)](https://asciinema.org/a/0PNdOW5BdCEGdIkt6I0zsgYfj) | ![image](https://user-images.githubusercontent.com/17239674/206559831-a6ef15fc-956c-42a5-8054-c8f0ca2feb85.png) |
+
+
+
+
+## Συνολικά Pull Requests
+
+| [site repository Pull Requests](https://github.com/upatras-HCI-2022/site/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed) | [gallery repository Pull Requests](https://github.com/upatras-HCI-2022/_gallery/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed ) | [images repository Pull Requests](https://github.com/upatras-HCI-2022/images/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed) | [webring repositry Pull Requests](https://github.com/upatras-HCI-2022/webring/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed)|
+| -------- | -------- | -------- | -------- |
+
 
