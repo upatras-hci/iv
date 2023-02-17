@@ -170,7 +170,8 @@ PR στο `_gallery`: [εδώ](https://github.com/upatras-HCI-2022/_gallery/pull
 
 <img src="https://user-images.githubusercontent.com/50808232/219812225-3e8bb13c-5122-43d1-bad5-150991b494b1.png" width="30%" height="30%">  
 
-Αφού σταμάτησαν να εμφανίζονται νέα πακέτα προς εγκατάσταση, ξεκίνησαν τα errors. Κάποια από τα πιο επίμονα ήταν αυτό με το πακέτο `polyglossia` το οποίο είχε πρόβλημα στον καθορισμό της γλώσσας: ![image](https://user-images.githubusercontent.com/50808232/219812486-ecdc3d34-402d-4ca4-99de-a85ede7310d5.png)
+Αφού σταμάτησαν να εμφανίζονται νέα πακέτα προς εγκατάσταση, ξεκίνησαν τα errors. Κάποια από τα πιο επίμονα ήταν αυτό με το πακέτο `polyglossia` το οποίο είχε πρόβλημα στον καθορισμό της γλώσσας: ![image](https://user-images.githubusercontent.com/50808232/219812486-ecdc3d34-402d-4ca4-99de-a85ede7310d5.png)  
+
 Με μια μικρή μετατροπή, όπως φαίνεται παρακάτω, έβαλα να παίρνει πάντα ως γλώσσα τα αγγλικά, και έτσι το πρόβλημα λύθηκε.  
 
 <img src="https://user-images.githubusercontent.com/50808232/219812614-605879d6-e461-4cad-9537-e4be650b6e38.png" width="40%" height="40%">  
