@@ -41,7 +41,6 @@ AM: 1043819
 Αρχικά έφτιαξα ένα πολύ απλό βιογραφικό, αλλά δεν ήμουν αρκετά ικανοποιημένη.  
 Μπορούμε να το δούμε παρακάτω:  
 [Repository Link](https://github.com/MairySs/OldCV)   
-[OLD CV site Link](https://mairyss.github.io/OldCV/)  
 Εικόνα:  
 <img src="https://user-images.githubusercontent.com/50808232/218255983-7703a625-69d4-4c63-b3d4-869115af7120.png" width="35%" height="35%">
 
