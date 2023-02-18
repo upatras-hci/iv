@@ -200,7 +200,7 @@ PR στο `_gallery`: [εδώ](https://github.com/upatras-HCI-2022/_gallery/pull
 Έπειτα είχα προβλήματα με το token, τα οποία και επέλυσα μετά από σχετική έρευνα. 
 
 Το build & deploy γίνονται κανονικά κάθε φορά που υπάρχει ένα νέο commit με οποιαδήποτε αλλαγή. 
-Το html αρχείο γίνεται published [εδώ](https://mairyss.github.io/yaml-cv/)
+Το html αρχείο γίνεται published [εδώ](https://mairyss.github.io/yaml-cv/) και περιέχει και ένα Link προς το pdf αρχείο.
 
 [Repository](https://github.com/MairySs/yaml-cv)
 
