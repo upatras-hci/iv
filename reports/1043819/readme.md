@@ -190,7 +190,7 @@ PR στο `_gallery`: [εδώ](https://github.com/upatras-HCI-2022/_gallery/pull
 - Αρχείο `.html` template για τη μετατροπή σε html
 
 Αφού δοκίμασα τοπικά με τις εντολές:  
-`pandoc my-cv.yaml -o my-cv.html --template=my-template.html`  
+`pandoc my-cv.yaml -o index.html --template=my-template.html`  
 `pandoc my-cv.yaml -o my-cv.pdf --template=my-template3.tex`  
 Όλα δούλευαν όπως έπρεπε. Οπότε είχε έρθει η στιγμή να τα ανεβάσω στο github και να ξεκινήσει η αυτοματοποίηση.  
 
