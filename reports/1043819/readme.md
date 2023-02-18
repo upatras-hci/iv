@@ -264,7 +264,20 @@ PR στο `_gallery`: [εδώ](https://github.com/upatras-HCI-2022/_gallery/pull
 [![asciicast](https://asciinema.org/a/DTHATCT7uzTznal4BNFG1U0F3.svg)](https://asciinema.org/a/DTHATCT7uzTznal4BNFG1U0F3)
 
 
-
-
 ## Συμμετοχικό περιεχόμενο 2Β
+
+Για την οπτικοποίηση του βιβλίου, έκανα fork το repository του και το έκανα clone τοπικά στον υπολογιστή μου.  
+Χρησμοποίησα την εντολή `git submodule update --init --recursive` για να κατεβάσω όλα τα submodules.  
+Έπειτα αφού ήδη είχα δουλέψει με το pandoc, αλλά το αναφέρει και στο readme του repository, έκανα μια έρευνα και είδα πως για να εφαρμόσω τα φίλτρα θα έπρεπε να εγκαταστήσω το πακέτο `pandoc-fignos`.  
+Τα αρχεία αυτού του βιβλίου είναι σε μορφή `.txt`. Για να μετατραπεί σε `.epub`, θα  έρπεπε να μετατραπούν σε `.md`, μέσω του Pandoc, εφαρμόζοντας τα υπάρχων φίλτρα.  
+
+Αρχικά για τη μετατροπή σε mardown αλλά και την εφαρμογή των φίλτρων έτρεξα την εντολή:  
+`pandoc --lua-filter=extras.lua text/ch01.txt --to markdown | pandoc --lua-filter=extras.lua --to markdown | pandoc --lua-filter=epigraph.lua --to markdown | pandoc --lua-filter=figure.lua --to markdown | pandoc --lua-filter=remove-notes.lua --to markdown | pandoc --metadata-file=meta.yml --citeproc --bibliography=bibliography/ch01.bib --reference-location=section --wrap=none --to markdown_strict > ch01.md` 
+
+Εάν τη σπάσουμε σε κομμάτια, αυτή η εντολή παίρνει το αρχείο `text/ch01.txt` και σειριακά του περνάει τα φίλτρα 
+`extras.lua`, `epigraph.lua`, `figure.lua`, `remove-notes.lua`, του περνάει τα Metadata του `meta.yml`, προσθέτει τη βιβλιογραφία μέσω του `citeproc`, φτιάχνει τα sections και το τελικό αρχείο το αποθηκεύει στο `ch01.md`.  
+
+Αυτή η διαδικασία επαναλαμβανεται για όλα τα `.txt`. Έπειτα όλα τα generated markdown αρχεία εννώνονται σε ένα, μέσω της εντολής: `Get-Content pre.md, intro.md, ch01.md, ch02.md, ch03.md, ch04.md, ch05.md, ch06.md, ch07.md, ch08.md, bio.md, apx01.md, web.md -Raw > book.md` 
+
+Σε αυτό το σημείο παρατήρησα πως όλα τα αρχεία md τα οποία περιέχουν ελληνικούς χαρακτήρες, δείχνουν πολλαπλά ερωτηματικά στη θέση τους. Πιστεύω υπάρχει κάποιο πρόβλημα με το encoding των ελληνικών χαρακτήρων καθώς οι αγγλικοί φαίνονται κανονικά. 
 
