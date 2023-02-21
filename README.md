@@ -78,7 +78,3 @@
 - At the end of the course, make a pull-request.
 
 [Detailed instructions with gifs and links to official documentation](https://courses-ionio.github.io/help/guide/)
-
-
-
-
