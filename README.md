@@ -6,7 +6,7 @@
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://courses-ionio.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
 | 2 | βιογραφικό Α | | |
 | 3 | γραμμή εντολών (arch linux) | | |
 | 4 | συμμετοχικό περιεχόμενο 1A | | |
@@ -21,11 +21,9 @@
 
 >> Η συμπλήρωση της εβδομάδας ορίζεται ως η μέρα πριν το επόμενο μάθημα, π.χ., για την 1η εβδομάδα η παράδοση είναι την ημέρα πριν το 2ο μάθημα. Η 1η και η 12η εβδομάδα είναι σημαντικές προθεσμίες, γιατί μπορεί να μην αντιστοιχούν σε κάποιο ποσοστό βαθμού, αλλά είναι το σημείο αναφοράς για όλους τους άλλους βαθμούς. Η άσκηση γραμμής εντολών έχει περισσότερες εβδομάδες παραδοτέων για να σας δώσει την ευκαιρία να βελτιώσετε το λειτουργικό σύστημα.
 
-[Οδηγίες και απαντήσεις σε συχνές απορίες](https://courses-ionio.github.io/help/) για την παράδοση της εργασίας.
+[Οδηγίες και απαντήσεις σε συχνές απορίες](https://epidrome.github.io/teaching/) για την παράδοση της εργασίας.
 
-[Νέες απορίες και εβδομαδιαία ομαδικότητα](https://github.com/courses-ionio/help/discussions)
-
-[Ανακοινώσεις](https://github.com/upatras-hci/iv/discussions)
+[Ανακοινώσεις απορίες και εβδομαδιαία ομαδικότητα](https://github.com/upatras-hci/iv/discussions)
 
 >> Πατήστε το κουμπί `Watch` στην κορυφή αυτής της σελίδας για να καθορίσετε τις προτιμήσεις των ειδοποιήσεων, έτσι ώστε να λαμβάνετε τουλάχιστον τα νέα για τις συζητήσεις, όπου βρίσκονται όλες οι ανακοινώσεις του μαθήματος.
 
@@ -37,7 +35,7 @@
 
 **Μέθοδος διδασκαλίας:** Συναντήσεις, ασκήσεις, συνεχής ανατροφοδότηση.
 
-**Κριτήρια βαθμολογίας:** 10% [βιογραφικό](https://courses-ionio.github.io/help/cv/) + 40% [Συμμετοχικό περιεχόμενο: 1 + 2](https://courses-ionio.github.io/help/social)* + 30% [2 ασκήσεις γραμμής εντολών](https://courses-ionio.github.io/help/cli/) + 20% [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork)
+**Κριτήρια βαθμολογίας:** 10% [βιογραφικό](https://epidrome.github.io/teaching/cv/) + 40% [Συμμετοχικό περιεχόμενο: 1 + 2](https://epidrome.github.io/teaching/social)* + 30% [2 ασκήσεις γραμμής εντολών](https://epidrome.github.io/teaching/cli/) + 20% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork)
 
 *υποχρεωτική συμπλήρωση της βάσης σε όλα τα κριτήρια για να γίνει τελική βαθμολόγηση
 
@@ -66,7 +64,7 @@
 [Olin](https://github.com/MimiOnuoha/Impossible-Maps): readings
 
 ---
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [αναλυτικές οδηγίες](https://courses-ionio.github.io/help/guide/).
+Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [αναλυτικές οδηγίες](https://epidrome.github.io/teaching/guide/).
 
 ## Σύντομες οδηγίες δημιουργίας αποθετηρίου για την αναφορά σας
 
