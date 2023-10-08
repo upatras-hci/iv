@@ -30,52 +30,9 @@ AM:
 
 >> Πατήστε το κουμπί `Watch` στην κορυφή αυτής της σελίδας για να καθορίσετε τις προτιμήσεις των ειδοποιήσεων, έτσι ώστε να λαμβάνετε τουλάχιστον τα νέα για τις συζητήσεις, όπου βρίσκονται όλες οι ανακοινώσεις του μαθήματος.
 
-## Syllabus
+## Introduction:
 
-**Περιγραφή:** Οπτικοποίηση της πληροφορίας και διάδραση, Ορισμός και ιστορική εξέλιξη, σχεδίαση της οπτικοποίησης, τεχνολογίες οπτικοποίησης: Γραφικά, Εικόνες, Βίντεο, Κείμενο, Ηχος, Σύγχρονες εφαρμογές οπτικοποίησης: Ψηφιακή δημοσιογραφία, οπτικοποίηση δεδομένων, ψηφιακές συλλογές, παιχνιδοποίηση.
-
-**Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην ανάπτυξη μιας εφαρμογής οπτικοποίησης της πληροφορίας. Η θεωρία και ασκήσεις καλύπτουν πολλά διαφορετικά πεδία με έμφαση σε επίκαιρες εφαρμογές όπως η συγγραφή περιεχομένου και οι ψηφιακές συλλογές.
-
-**Μέθοδος διδασκαλίας:** Συναντήσεις, ασκήσεις, συνεχής ανατροφοδότηση.
-
-**Κριτήρια βαθμολογίας:** 10% [βιογραφικό](https://epidrome.github.io/teaching/cv/) + 40% [Συμμετοχικό περιεχόμενο: 1 + 2](https://epidrome.github.io/teaching/social)* + 30% [2 ασκήσεις γραμμής εντολών](https://epidrome.github.io/teaching/cli/) + 20% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork)
-
-*υποχρεωτική συμπλήρωση της βάσης σε όλα τα κριτήρια για να γίνει τελική βαθμολόγηση
-
-**Συμπληρωματική βιβλιογραφία** 
-
-* Fry, B. (2008). Visualizing data: Exploring and explaining data with the processing environment. " O'Reilly Media, Inc.". ch1
-* Steele, J., & Iliinsky, N. (2010). Beautiful visualization: Looking at data through the eyes of experts. " O'Reilly Media, Inc."., ch1, ch11
-* [Multimedia: from Wagner to Virtual Reality](https://web.archive.org/web/20180731072917/http://w2vr.com/concepts/concepts.html), concepts, pioneers
-* [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ. 6 Σύνθεση και Κλίμακα
-* [How to learn D3.js](https://wattenberger.com/blog/d3)
-* [DataVizForAll TextBook](https://github.com/DataVizForAll/datavizforall-bookdown)
-* [Visual representation](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-representation)
-* [Data visualization for human perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
-
-**Εργαλεία και βιβλιοθήκες ανάπτυξης**
-* [Observable](https://observablehq.com)
-* [d3.js](https://d3js.org)
-* [glitch d3](https://glitch.com/@guides/guide-to-d-3)
-* [timelineJS](https://timeline.knightlab.com)
-* [pollen](https://docs.racket-lang.org/pollen/)
-
-**Συμπληρωματικά μαθήματα**
-
-[KTH](https://www.kth.se/social/course/DH2321/): student projects
-[UTAH](http://www.sci.utah.edu/~miriah/cs6964/): lectures, readings
-[Olin](https://github.com/MimiOnuoha/Impossible-Maps): readings
-
----
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [αναλυτικές οδηγίες](https://epidrome.github.io/teaching/guide/).
-
-## Σύντομες οδηγίες δημιουργίας αποθετηρίου για την αναφορά σας
-
-- Fork this repo.
-- Create a new branch (named with your studentID).
-- Create a new README.md file inside a folder (inside the reports folder) named with your studentID.
-- Edit the README.md file with your name and [add a table of contents with the deliverables](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md).
-- Edit (and commit) your report according to the above deliverables table of contents.
-- At the end of the course, make a pull-request.
-
-[Detailed instructions with gifs and links to official documentation](https://courses-ionio.github.io/help/guide/)
+Ονομάζομαι Αντώνης κοντονάσιος και είμαι απόφοιτος του τμήματος μηχανικών πληροφορικής του Πανεπιστημίου Ιωαννίνω.<br>
+Μετά την αποφοίτηση μου ξεκίνησα να εργάζομαι ως web developer. Η φύση της δουλειάς πολλές φορές με ώθησε να ασχοληθώ και με το web design και είναι κάτι που τον τελευταίο καιρό θέλω να ψάξω περισσότερο και να γίνω καλύτερος σε αυτό. Για αυτό το λέω εγώ και επέλεξα να συμμετέχω στο μεταπτυχιακό πρόγραμμα αλληλεπίδραση ανθρώπου υπολογιστή.<br>
+Το μάθημα της οπτικοποιησης πληροφορίας που κέντρισε το ενδιαφέρον τόσο για την δεξιότητα του Github που θα ήθελα πολύ να αποκτήσω όσο και για το κομμάτι της οπτικοποίησης πληροφορίας που ανυπομονώ να μάθω περισσότερα για αυτό όσο και για τη διαφορά που έχει με την οπτικοποίηση δεδομένων.<br>
+Στον ελεύθερό μου χρόνο μου αρέσει να κάνω ταξίδια και να παρακολουθώ ταινίες και σειρές. Μέχρι στιγμής έχω ταξιδέψει τόσο στην Ελλάδα όσο και στο εξωτερικό και ευελπιστώ μελλοντικά να έχω γυρίσει όλο τον κόσμο.
