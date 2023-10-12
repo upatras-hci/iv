@@ -6,7 +6,7 @@
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/94| |
 | 2 | βιογραφικό Α | | |
 | 3 | γραμμή εντολών (arch linux) | | |
 | 4 | συμμετοχικό περιεχόμενο 1A | | |
@@ -27,58 +27,23 @@
 
 >> Πατήστε το κουμπί `Watch` στην κορυφή αυτής της σελίδας για να καθορίσετε τις προτιμήσεις των ειδοποιήσεων, έτσι ώστε να λαμβάνετε τουλάχιστον τα νέα για τις συζητήσεις, όπου βρίσκονται όλες οι ανακοινώσεις του μαθήματος.
 
-## Syllabus
+## Εισαγωγή:
 
-**Περιγραφή:** Οπτικοποίηση της πληροφορίας και διάδραση, Ορισμός και ιστορική εξέλιξη, σχεδίαση της οπτικοποίησης, τεχνολογίες οπτικοποίησης: Γραφικά, Εικόνες, Βίντεο, Κείμενο, Ηχος, Σύγχρονες εφαρμογές οπτικοποίησης: Ψηφιακή δημοσιογραφία, οπτικοποίηση δεδομένων, ψηφιακές συλλογές, παιχνιδοποίηση.
+Ονομάζομαι Παναγιωτοπούλου Χρύσα και είμαι απόφοιτη του τμήματος Μηχανικών Η/Υ και Πληροφορικής του πανεπιστημίου Πατρών. Μέσα από τα μαθήματα της σχολής, ανέπτυξα μια σταθερή βάση στον προγραμματισμό, τους αλγόριθμους και
+ανάπτυξη λογισμικού. Ωστόσο κατά τη διάρκεια των μαθημάτων μου στην αλληλεπίδραση ανθρώπου-υπολογιστή,
+ειδικά στο μάθημα «Προγραμματισμός και Συστήματα στον Παγκόσμιο Ιστό» ανακάλυψα το πάθος μου για αυτόν τον τομέα. Αυτή η περιέργεια με οδήγησε να εξερευνήσω και να παρακολουθήσω αργότερα κάποια σεμινάρια πάνω στην
+"Σχεδίαση και ανάπτυξη Ιστού" όπου εκεί κατάλαβα πως θέλω να ασχοληθώ ενεργά με αυτόν τον τομέα.
+Έτσι μετά την ολοκλήρωση των σπουδών μου, συνέχισα την επαγγελματική δραστηριότητα στον τομέα ως Web Developer και από τότε ασχολούμαι ενεργά με το Web development και design δημιουργώντας στατικές αλλά και δυναμικές ιστοσελίδες όπως και e-shops.
+Για αυτό έτσι πήρα την απόφαση να ασχοληθώ με το μεταπτυχιακό "Αλληλεπίδραση Ανθρώπου- Υπολογιστή" γιατί πιστεύω πως θα μπορέσει να με βοηθήσει στην εξέλιξη μου και θα μου δώσει παραπάνω γνώσεις και εφόδεια στην πορεία της καριέρας μου.
 
-**Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην ανάπτυξη μιας εφαρμογής οπτικοποίησης της πληροφορίας. Η θεωρία και ασκήσεις καλύπτουν πολλά διαφορετικά πεδία με έμφαση σε επίκαιρες εφαρμογές όπως η συγγραφή περιεχομένου και οι ψηφιακές συλλογές.
+Τι είναι ο άνθρωπος;<br> 
+Ο άνθρωπος είναι ένα είδος θηλαστικού που ανήκει στην οικογένεια των ανθρωπίδων (Hominidae) και στο γένος Homo. Χαρακτηρίζεται από την ικανότητα για σκέψη, γλωσσική επικοινωνία, συναισθήματα και κοινωνική συνεργασία. Ο άνθρωπος έχει εξελιχθεί σε μια ποικιλία πολιτισμών και κοινωνιών, χρησιμοποιώντας εργαλεία και τεχνολογία για να προσαρμοστεί στο περιβάλλον του. Επίσης, ο άνθρωπος έχει την ικανότητα να αναπτύσσει πολιτισμικές, κοινωνικές και ηθικές αξίες.
 
-**Μέθοδος διδασκαλίας:** Συναντήσεις, ασκήσεις, συνεχής ανατροφοδότηση.
+Τι είναι ο υπολογιστής;<br>
+Ο υπολογιστής είναι μια ηλεκτρονική συσκευή που εκτελεί επεξεργασία πληροφοριών. Αποτελείται από υλικό (hardware) και λογισμικό (software) που συνεργάζονται για να εκτελέσουν διάφορες λειτουργίες. Ο υπολογιστής μπορεί να πραγματοποιήσει αριθμητικές, λογικές, και επικοινωνιακές διεργασίες, καθώς και να αποθηκεύει, επεξεργάζεται και ανακτά πληροφορίες. Μπορεί να χρησιμοποιηθεί για διάφορους σκοπούς, όπως, η εκπαίδευση, η ψυχική, η επιχειρηματική και η επιστημονική έρευνα.
 
-**Κριτήρια βαθμολογίας:** 10% [βιογραφικό](https://epidrome.github.io/teaching/cv/) + 40% [Συμμετοχικό περιεχόμενο: 1 + 2](https://epidrome.github.io/teaching/social)* + 30% [2 ασκήσεις γραμμής εντολών](https://epidrome.github.io/teaching/cli/) + 20% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork)
+Τι είναι η διάδραση ανθρώπου-υπολογιστή;<br>
+Η διάδραση ανθρώπου-υπολογιστή αναφέρεται στον τρόπο με τον οποίο οι άνθρωποι αλληλεπιδρούν με τους υπολογιστές και τα συστήματα υπολογιστών. Αυτή η διάδραση μπορεί να γίνεται μέσω διάφορων τρόπων, όπως πληκτρολόγηση, κλικ, φωνητικές εντολές, αφή, κίνηση και άλλες μορφές εισόδου. Σκοπός της διάδρασης ανθρώπου-υπολογιστή είναι να επιτρέψει στους χρήστες να επικοινωνούν με τους υπολογιστές και να αλληλοεπιδρούν με τα προγράμματα και τις εφαρμογές τους με έναν ευχρηστό τρόπο.
 
-*υποχρεωτική συμπλήρωση της βάσης σε όλα τα κριτήρια για να γίνει τελική βαθμολόγηση
-
-**Συμπληρωματική βιβλιογραφία** 
-
-* Fry, B. (2008). Visualizing data: Exploring and explaining data with the processing environment. " O'Reilly Media, Inc.". ch1
-* Steele, J., & Iliinsky, N. (2010). Beautiful visualization: Looking at data through the eyes of experts. " O'Reilly Media, Inc."., ch1, ch11
-* [Multimedia: from Wagner to Virtual Reality](https://web.archive.org/web/20180731072917/http://w2vr.com/concepts/concepts.html), concepts, pioneers
-* [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ. 6 Σύνθεση και Κλίμακα
-* [How to learn D3.js](https://wattenberger.com/blog/d3)
-* [DataVizForAll TextBook](https://github.com/DataVizForAll/datavizforall-bookdown)
-* [Visual representation](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-representation)
-* [Data visualization for human perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
-
-**Εργαλεία και βιβλιοθήκες ανάπτυξης**
-* [Observable](https://observablehq.com)
-* [d3.js](https://d3js.org)
-* [glitch d3](https://glitch.com/@guides/guide-to-d-3)
-* [timelineJS](https://timeline.knightlab.com)
-* [pollen](https://docs.racket-lang.org/pollen/)
-
-**Συμπληρωματικά μαθήματα**
-
-[KTH](https://www.kth.se/social/course/DH2321/): student projects
-[UTAH](http://www.sci.utah.edu/~miriah/cs6964/): lectures, readings
-[Olin](https://github.com/MimiOnuoha/Impossible-Maps): readings
-
----
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [αναλυτικές οδηγίες](https://epidrome.github.io/teaching/guide/).
-
-## Σύντομες οδηγίες δημιουργίας αποθετηρίου για την αναφορά σας
-
-- Fork this repo.
-- Create a new branch (named with your studentID).
-- Create a new README.md file inside a folder (inside the reports folder) named with your studentID.
-- Edit the README.md file with your name and [add a table of contents with the deliverables](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md).
-- Edit (and commit) your report according to the above deliverables table of contents.
-- At the end of the course, make a pull-request.
-
-[Detailed instructions with gifs and links to official documentation](https://courses-ionio.github.io/help/guide/)
-- Create a new README.md file inside a folder (inside the reports folder) named with your studentID.
-- Edit the README.md file with your name and [add a table of contents with the deliverables](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md).
-- Edit (and commit) your report according to the above deliverables table of contents.
-- At the end of the course, make a pull-request.
-
-[Detailed instructions with gifs and links to official documentation](https://courses-ionio.github.io/help/guide/)
+Ποια είναι μια αναλογία για τον υπολογιστή πέρα από εργαλείο;<br>
+Μια αναλογία του υπολογιστή πέρα από εργαλείο είναι το γεγονός πως είναι μια πηγή επικοινωνίας, έκφρασης συναισθημάτων και διασκέδασης.
