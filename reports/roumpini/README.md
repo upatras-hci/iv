@@ -1,3 +1,5 @@
+**Σταθοπούλου Ρουμπίνη ΑΜ:1059667**
+
 # Οπτικοποίηση της Πληροφορίας
 
 Κωδικός τηλεδιάσκεψης: 975879
@@ -6,7 +8,7 @@
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/92| |
 | 2 | βιογραφικό Α | | |
 | 3 | γραμμή εντολών (arch linux) | | |
 | 4 | συμμετοχικό περιεχόμενο 1A | | |
@@ -27,52 +29,24 @@
 
 >> Πατήστε το κουμπί `Watch` στην κορυφή αυτής της σελίδας για να καθορίσετε τις προτιμήσεις των ειδοποιήσεων, έτσι ώστε να λαμβάνετε τουλάχιστον τα νέα για τις συζητήσεις, όπου βρίσκονται όλες οι ανακοινώσεις του μαθήματος.
 
-## Syllabus
 
-**Περιγραφή:** Οπτικοποίηση της πληροφορίας και διάδραση, Ορισμός και ιστορική εξέλιξη, σχεδίαση της οπτικοποίησης, τεχνολογίες οπτικοποίησης: Γραφικά, Εικόνες, Βίντεο, Κείμενο, Ηχος, Σύγχρονες εφαρμογές οπτικοποίησης: Ψηφιακή δημοσιογραφία, οπτικοποίηση δεδομένων, ψηφιακές συλλογές, παιχνιδοποίηση.
+# **Introduction**
 
-**Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην ανάπτυξη μιας εφαρμογής οπτικοποίησης της πληροφορίας. Η θεωρία και ασκήσεις καλύπτουν πολλά διαφορετικά πεδία με έμφαση σε επίκαιρες εφαρμογές όπως η συγγραφή περιεχομένου και οι ψηφιακές συλλογές.
+Ονομάζομαι Σταθοπούλου Ρουμπίνη, κατάγομαι από ένα μικρό χωριό της Μεσσηνίας, το Καρτερόλι και είμαι απόφοιτη του τμήματος [Μηχανικών Η/Υ & Πληροφορικής](https://www.ceid.upatras.gr/) του Πανεπιστήμιου Πατρών.
+Κατά τη διάρκεια των προπτυχιακών σπουδών μου ασχολήθηκα τόσο με τη μελέτη αλγορίθμων και τη βελτιστοποίησή τους στα ενσωματωμένα συστήματα περιορισμένης μνήμης όσο και με την ανάπτυξη εφαργμογών στον παγκόσμιο ιστό. Ακόμα, ασχολήθηκα με την τεχνική υποστήριξη χρηστών σε αντίστοιχη θέση εκπονώνοτας την πρακτική μου άσκηση.
+Τους τελευταίους μήνες εργάζομαι ως Business Analyst και συγκεκριμένα ως Front End Developer το οποίο βρίσκω αρκετά ενδιαφέρον και challenging.
+Επέλεξα το μεταπτυχιακό Human Computer Interaction γιατί πιστεύω ότι θα διευρύνω τις γνώσεις μου πάνω σε έναν συνεχώς αναπτυσσόμενο τομέα το οποίο θα με βοηθήσει τόσο στην επαγγελματική όσο και στην ακαδημαϊκή μου πορεία.
 
-**Μέθοδος διδασκαλίας:** Συναντήσεις, ασκήσεις, συνεχής ανατροφοδότηση.
+**Τι είναι ο άνθρωπος;**
+O άνθρωπος είναι ένας πολύπλοκος οργανισμός με φυσική και ψυχική υπόσταση. Στο πλαίσιο του HCI είναι το ένα μέρος της εξίσωσης που καθορίζει την αμφίδρομη και άρρηκτη αυτή σχέση.
 
-**Κριτήρια βαθμολογίας:** 10% [βιογραφικό](https://epidrome.github.io/teaching/cv/) + 40% [Συμμετοχικό περιεχόμενο: 1 + 2](https://epidrome.github.io/teaching/social)* + 30% [2 ασκήσεις γραμμής εντολών](https://epidrome.github.io/teaching/cli/) + 20% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork)
+**Τι είναι ο υπολογιστής;**
+Ο υπολογιστής είναι μια ηλεκτρονική συσκευή που επεξεργάζεται δεδομένα και εκτελεί ένα ευρύ φάσμα λειτουργιών, από απλούς αριθμητικούς υπολογισμούς έως σύνθετη ανάλυση δεδομένων και προσομοιώσεις.
 
-*υποχρεωτική συμπλήρωση της βάσης σε όλα τα κριτήρια για να γίνει τελική βαθμολόγηση
+**Τι είναι η διάδραση ανθρώπου-υπολογιστή;**
+Η δημιουργία τεχνολογίας που είναι φιλική προς το χρήστη, αποδοτική, αποτελεσματική και βελτιώνει τη συνολική εμπειρία του.
 
-**Συμπληρωματική βιβλιογραφία** 
+**Ποια είναι μια αναλογία για τον υπολογιστή πέρα από εργαλείο;**
+Μπορεί να είναι ένα μέσο εκπαίδευσης, επικοινωνίας, διασκέδασης, δημιουργικότητας, φαντασίας και επίλυσης προβλημάτων.
 
-* Fry, B. (2008). Visualizing data: Exploring and explaining data with the processing environment. " O'Reilly Media, Inc.". ch1
-* Steele, J., & Iliinsky, N. (2010). Beautiful visualization: Looking at data through the eyes of experts. " O'Reilly Media, Inc."., ch1, ch11
-* [Multimedia: from Wagner to Virtual Reality](https://web.archive.org/web/20180731072917/http://w2vr.com/concepts/concepts.html), concepts, pioneers
-* [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ. 6 Σύνθεση και Κλίμακα
-* [How to learn D3.js](https://wattenberger.com/blog/d3)
-* [DataVizForAll TextBook](https://github.com/DataVizForAll/datavizforall-bookdown)
-* [Visual representation](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-representation)
-* [Data visualization for human perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
 
-**Εργαλεία και βιβλιοθήκες ανάπτυξης**
-* [Observable](https://observablehq.com)
-* [d3.js](https://d3js.org)
-* [glitch d3](https://glitch.com/@guides/guide-to-d-3)
-* [timelineJS](https://timeline.knightlab.com)
-* [pollen](https://docs.racket-lang.org/pollen/)
-
-**Συμπληρωματικά μαθήματα**
-
-[KTH](https://www.kth.se/social/course/DH2321/): student projects
-[UTAH](http://www.sci.utah.edu/~miriah/cs6964/): lectures, readings
-[Olin](https://github.com/MimiOnuoha/Impossible-Maps): readings
-
----
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [αναλυτικές οδηγίες](https://epidrome.github.io/teaching/guide/).
-
-## Σύντομες οδηγίες δημιουργίας αποθετηρίου για την αναφορά σας
-
-- Fork this repo.
-- Create a new branch (named with your studentID).
-- Create a new README.md file inside a folder (inside the reports folder) named with your studentID.
-- Edit the README.md file with your name and [add a table of contents with the deliverables](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md).
-- Edit (and commit) your report according to the above deliverables table of contents.
-- At the end of the course, make a pull-request.
-
-[Detailed instructions with gifs and links to official documentation](https://courses-ionio.github.io/help/guide/)
