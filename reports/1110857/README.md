@@ -3,7 +3,7 @@
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Εισαγωγή - Ιωάννης Καραμήτσος](https://github.com/upatras-hci/iv/discussions/90) | Πληρεί τα κριτήρια του Παραδοτέου της 1ης εβδομάδας |
-| 2 | βιογραφικό Α | | |
+| 2 | βιογραφικό Α | [Αποθετήριο του Βιογραφικού μου](https://github.com/IKaramitsos/online-cv) , [Link Ιστοσελίδας Βιογραφικού](https://ikaramitsos.github.io/online-cv/) | |
 | 3 | γραμμή εντολών (arch linux) | | |
 | 4 | συμμετοχικό περιεχόμενο 1A | | |
 | 5 | γραμμή εντολών (custom desktop environment) | | |
@@ -46,3 +46,11 @@
 # Ποια είναι μια αναλογία για τον υπολογιστή πέρα από εργαλείο;
 Ο υπολογιστής εκτός από εργαλείο είναι μια πηγή ενημέρωσης, μάθησης και διασκέδασης.
 ```
+
+### 2η Εβδομάδα - Βιογραφικό Α
+
+Παραδοτέο 2ης εβδομάδας σχετικά με το Βιογραφικό Α.
+
+* Το link του αποθετηρίου που χρησιμοποιήθηκε για την δημιουργία του cv μου είναι το https://github.com/IKaramitsos/online-cv.
+* Το link που παραπέμπει στο βιογραφικό μου είναι το https://ikaramitsos.github.io/online-cv/.
+
