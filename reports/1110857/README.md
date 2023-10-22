@@ -2,9 +2,9 @@
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Εισαγωγή - Ιωάννης Καραμήτσος](https://github.com/upatras-hci/iv/discussions/90) | Πληρεί τα κριτήρια του Παραδοτέου της 1ης εβδομάδας |
-| 2 | βιογραφικό Α | [Αποθετήριο του Βιογραφικού μου](https://github.com/IKaramitsos/online-cv) , [Link Ιστοσελίδας Βιογραφικού](https://ikaramitsos.github.io/online-cv/) | |
-| 3 | γραμμή εντολών (arch linux) | | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [upatras-hci#90](https://github.com/upatras-hci/iv/discussions/90) |  |
+| 2 | βιογραφικό Α | [upatras-hci#102](https://github.com/upatras-hci/iv/discussions/102)  | |
+| 3 | γραμμή εντολών (arch linux) | [upatras-hci#106](https://github.com/upatras-hci/iv/discussions/106) | |
 | 4 | συμμετοχικό περιεχόμενο 1A | | |
 | 5 | γραμμή εντολών (custom desktop environment) | | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | | |
@@ -17,7 +17,7 @@
 
 ### 1110857 , ΙΩΑΝΝΗΣ ΚΑΡΑΜΗΤΣΟΣ
 
-### Introduction
+### 1η Εβδομάδα - Introduction
 
 Ονομάζομαι Ιωάννης Καραμήτσος και είμαι απόφοιτος του τμήματος [Ηλεκτρολόγων Μηχανικών & Μηχανικών Υπολογιστών](https://www.ece.uop.gr/) του Πανεπιστημίου Πελοποννήσου με είδικευση ως μηχανικός λογισμικού.
 
@@ -53,4 +53,17 @@
 
 * Το link του αποθετηρίου που χρησιμοποιήθηκε για την δημιουργία του cv μου είναι το https://github.com/IKaramitsos/online-cv.
 * Το link που παραπέμπει στο βιογραφικό μου είναι το https://ikaramitsos.github.io/online-cv/.
+
+
+## Γραμμή Εντολών
+
+### 3η Εβδομάδα - Arch Linux
+
+* Έγινε η εγκατάσταση του **archlinux-2023.10.14-x86_64**
+* Χρησιμοποιήθηκε **VirtualBox-7.0.12**
+Παρακάτω είναι τα asciinema recordings των logs από τα `neofetch` και `journalctl -b` .
+[![asciicast](https://asciinema.org/a/pPKEddBO1AtXsOsO3iNsCe0CG.svg)](https://asciinema.org/a/pPKEddBO1AtXsOsO3iNsCe0CG)
+[![asciicast](https://asciinema.org/a/pEoFgjTKAcdFckdL0fiPO8shu.svg)](https://asciinema.org/a/pEoFgjTKAcdFckdL0fiPO8shu)
+
+Σημείωση : Το command line `journalctl -b` είναι πολύ μεγάλο μιας και κατέβασα αρκετά πράγματα στο Αrch Linux που ίσως να παίζουν ρόλο στο μεγάλο μέγεθος των logs, όπως κάτι files ώστε να τρέχει πιο γρήγορα το VM κλπ. 
 
