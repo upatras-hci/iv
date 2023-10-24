@@ -52,8 +52,8 @@
 
 Παραδοτέο 2ης εβδομάδας σχετικά με το Βιογραφικό Α.
 
-*Το link του αποθετηρίου που χρησιμοποιήθηκε για την δημιουργία του cv μου είναι το (https://github.com/xrusa-pan/jekyll-cv)
-*Το link που παραπέμπει στο βιογραφικό μου είναι το (https://xrusa-pan.github.io/jekyll-cv/)
+Το link του αποθετηρίου που χρησιμοποιήθηκε για την δημιουργία του cv μου είναι το (https://github.com/xrusa-pan/jekyll-cv)<br>
+Το link που παραπέμπει στο βιογραφικό μου είναι το (https://xrusa-pan.github.io/jekyll-cv/)
 
 
 ## Γραμμή Εντολών
