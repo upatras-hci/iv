@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Εισαγωγή  - Φώτης Ψάρρης](https://github.com/upatras-hci/iv/discussions/89) | |
 | 2 | βιογραφικό Α | [Αποθετήριο Βιογραφικού](https://github.com/psotis/jekyll-cv) - [Link βιογραφικού](https://psotis.github.io/jekyll-cv/)| |
-| 3 | γραμμή εντολών (arch linux) | | |
+| 3 | γραμμή εντολών (arch linux) | (https://github.com/upatras-hci/iv/discussions/108) | |
 | 4 | συμμετοχικό περιεχόμενο 1A | | |
 | 5 | γραμμή εντολών (custom desktop environment) | | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | | |
