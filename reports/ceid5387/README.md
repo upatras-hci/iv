@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/94| |
 | 2 | βιογραφικό Α | https://github.com/upatras-hci/iv/discussions/105| |
-| 3 | γραμμή εντολών (arch linux) | | |
+| 3 | γραμμή εντολών (arch linux) | https://github.com/upatras-hci/iv/discussions/109| |
 | 4 | συμμετοχικό περιεχόμενο 1A | | |
 | 5 | γραμμή εντολών (custom desktop environment) | | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | | |
@@ -27,7 +27,7 @@
 
 >> Πατήστε το κουμπί `Watch` στην κορυφή αυτής της σελίδας για να καθορίσετε τις προτιμήσεις των ειδοποιήσεων, έτσι ώστε να λαμβάνετε τουλάχιστον τα νέα για τις συζητήσεις, όπου βρίσκονται όλες οι ανακοινώσεις του μαθήματος.
 
-## Εισαγωγή:
+### 1η Εβδομάδα - Introduction:
 
 Ονομάζομαι Παναγιωτοπούλου Χρύσα και είμαι απόφοιτη του τμήματος Μηχανικών Η/Υ και Πληροφορικής του πανεπιστημίου Πατρών. Μέσα από τα μαθήματα της σχολής, ανέπτυξα μια σταθερή βάση στον προγραμματισμό, τους αλγόριθμους και
 ανάπτυξη λογισμικού. Ωστόσο κατά τη διάρκεια των μαθημάτων μου στην αλληλεπίδραση ανθρώπου-υπολογιστή,
@@ -47,3 +47,24 @@
 
 Ποια είναι μια αναλογία για τον υπολογιστή πέρα από εργαλείο;<br>
 Μια αναλογία του υπολογιστή πέρα από εργαλείο είναι το γεγονός πως είναι μια πηγή επικοινωνίας, έκφρασης συναισθημάτων και διασκέδασης.
+
+### 2η Εβδομάδα - Βιογραφικό Α
+
+Παραδοτέο 2ης εβδομάδας σχετικά με το Βιογραφικό Α.
+
+*Το link του αποθετηρίου που χρησιμοποιήθηκε για την δημιουργία του cv μου είναι το (https://github.com/xrusa-pan/jekyll-cv)
+*Το link που παραπέμπει στο βιογραφικό μου είναι το (https://xrusa-pan.github.io/jekyll-cv/)
+
+
+## Γραμμή Εντολών
+
+### 3η Εβδομάδα - Arch Linux
+
+Για τις ανάγκες της άσκησης, αρχικά, έγινε εγκατάσταση του ArchLinux σε Oracle VM VirtualBox. Στη συνέχεια, εγκαταστάθηκε το neofetch το οποίο και προστέθηκε στο bash file του Arch Linux προκειμένου να εμφανίζεται κάθε φορά που ανοίγει το τερματικό. Επιπλέον εγκαταστάθηκε το Asciinema για να γίνονται τα απαραίτητα, κάθε φορά, recordings των terminal sessions.
+
+Παρακάτω είναι τα asciinema recordings των logs από τα neofetch και journalctl -b .
+
+<a href="https://asciinema.org/a/43u42QypWWeGKOsCE0hKoogoR" target="_blank"><img src="https://asciinema.org/a/43u42QypWWeGKOsCE0hKoogoR.svg" /></a>
+<a href="https://asciinema.org/a/IGkVs6W3pVv4TsqmhRbOIlxUx" target="_blank"><img src="https://asciinema.org/a/IGkVs6W3pVv4TsqmhRbOIlxUx.svg" /></a>
+
+
