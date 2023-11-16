@@ -59,7 +59,7 @@ https://asciinema.org/a/ZSELdLgjt8Wt59XLkhYGKZlss
 journalctl -b
 https://asciinema.org/a/PkfPifN1BrWeCtgzyiZrKFgiN
 
-# **Εβδομάδα 4 | Συμμετοχικό Περιεχόμενο 1Α **
+# **Εβδομάδα 4 | Συμμετοχικό Περιεχόμενο 1Α** 
 Για το συμμετοχικό περιεχόμενο αποφασίσαμε να ακολουθήσουμε μια [κοινή θεματολογία](https://github.com/orgs/HCI-Masters/discussions/4) που αφορά την χρήση τεχνολογικών μέσων στην πάροδο του χρόνου. 
 Έτσι, επέλεξα τις ακόλουθες φωτογραφίες:
 ![millennium-bug](https://github.com/upatras-hci/iv/assets/79599303/1fd5fe76-92b8-4829-871b-87a3f1c64ee2)
