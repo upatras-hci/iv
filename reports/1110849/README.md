@@ -49,5 +49,44 @@ AM:
 Ποια είναι μια αναλογία για τον υπολογιστή πέρα από εργαλείο;<br>
 Ένας υπολογιστής είναι κάτι περισσότερο από ένα απλό εργαλείο. Ο υπολογιστής μπορεί να είναι ένα μέσω επικοινωνίας, ψυχαγωγίας, εκπαίδευσης, αναζήτησης γνώσης και πολλά άλλα. Είναι ένα ευέλικτο αντικείμενο που μπορεί να διευκολύνει πολλές πτυχές της ζωής μας.<br>
 
+Εβδομάδα 2 | Βιογραφικό Α
+
+1) Το link του αποθετηρίου είναι το ακόλουθο: https://github.com/tonykontos/jekyll-cv.git
+2) Το link του βιογραφικού είναι το ακόλουθο: https://tonykontos.github.io/jekyll-cv/
+
+Εβδομάδα 3 | Γραμμή εντολών (arch linux)
+
+Έγινε εγκατάσταση ArchLinux με τη χρήση του Virtual Box και με την χρήση του εργαλείου asciinema παραθέτω τα παραδοτέα:
+
+neofetch : https://asciinema.org/a/h7takSs7rdrsBsO40jvoQsswu
+journalctl -b : https://asciinema.org/a/7pKnrlPwKDVVaBdkF3Qk8RITR
+
+Εβδομάδα 4η | Συμμετοχικό Περιεχόμενο 1Α
+
+
+Εβδομάδα 5 - Εγκατάσταση WM
+
+Για την εβδομάδα 5 εγκατέστησα το i3 window manager μέσω του λειτουργικού συστήματος Arch Linux.
+Παρακάτω σας επισυνάπτω τις ενέργειες που έκανα για να καταφέρω να εγκαταστήσω ορισμένα πράγματα από αυτά που ζητήθηκαν να κάνουμε.
+
+Εγκατάσταση i3-wm
+![i3-install](https://github.com/upatras-hci/iv/assets/147270230/067292fb-7c86-40c2-9a27-e097047ea1a1)
+
+Polybar terminal
+Ένα γρήγορο και εύκολο στην χρήση status bar, για τη δημιουργία γραμμών κατάστασης στο Linux.
+![install-polybar](https://github.com/upatras-hci/iv/assets/147270230/661a45d0-1526-4f68-85da-79a3b304a7c5)
+
+![polybar](https://github.com/upatras-hci/iv/assets/147270230/27fb6eba-afc5-4825-aaf1-52785f79c379)
+
+Rofi 
+![rofi](https://github.com/upatras-hci/iv/assets/147270230/a4cddf3b-bf6c-4edd-93bf-d139471ae17b)
+
+Firefox
+![firefox](https://github.com/upatras-hci/iv/assets/147270230/9525a65b-be12-4994-a180-87fca8fcf634)
+
+Στην συνέχεια έκανα επιλογή μιας εικόνας για να πάω στην συνέχεια στο netrogen και να την κάνω εγκατάσταση και εφαρμογή σε πλήρες οθόνη
+![netrogen-currently](https://github.com/upatras-hci/iv/assets/147270230/b0f92239-8d1a-4c5f-af79-f978d6d92757)
+![nitrogen-full-screen](https://github.com/upatras-hci/iv/assets/147270230/668b9575-985a-4f62-abb4-3d2cad9ee51b)
+ 
 
 
