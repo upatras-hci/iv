@@ -3,10 +3,10 @@
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/114 | |
-| 2 | βιογραφικό Α | | |
-| 3 | γραμμή εντολών (arch linux) | | |
-| 4 | συμμετοχικό περιεχόμενο 1A | | |
-| 5 | γραμμή εντολών (custom desktop environment) | | |
+| 2 | βιογραφικό Α | https://github.com/upatras-hci/iv/discussions/113| |
+| 3 | γραμμή εντολών (arch linux) |https://github.com/upatras-hci/iv/discussions/112 | |
+| 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/124 | |
+| 5 | γραμμή εντολών (custom desktop environment) |https://github.com/upatras-hci/iv/discussions/127 | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | | |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | | |
