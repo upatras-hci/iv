@@ -58,7 +58,7 @@ AM:
 
 Έγινε εγκατάσταση ArchLinux με τη χρήση του Virtual Box και με την χρήση του εργαλείου asciinema παραθέτω τα παραδοτέα:
 
-neofetch : https://asciinema.org/a/h7takSs7rdrsBsO40jvoQsswu
+neofetch : https://asciinema.org/a/h7takSs7rdrsBsO40jvoQsswu<br>
 journalctl -b : https://asciinema.org/a/7pKnrlPwKDVVaBdkF3Qk8RITR
 
 ## Εβδομάδα 4η | Συμμετοχικό Περιεχόμενο 1Α
