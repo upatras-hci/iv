@@ -90,3 +90,20 @@
 PR στο `Images`: [εδώ](https://github.com/HCI-Masters/images/pull/4)
 PR στο `_gallery`: [εδώ](https://github.com/HCI-Masters/_gallery/pull/4)
 
+### Εβδομάδα 5  γραμμή εντολών (custom desktop environment)
+Για την εβδομάδα 5 εγκατέστησα το i3 window manager μέσω του λειτουργικού συστήματος Arch Linux.
+Παρακάτω σας επισυνάπτω τις ενέργειες που έκανα για να καταφέρω να εγκαταστήσω ορισμένα πράγματα από αυτά που ζητήθηκαν να κάνουμε.
+![i3](https://github.com/upatras-hci/iv/assets/147083278/df576956-46fb-44a5-af5f-d7f060574718)
+Rofi
+Διακόπτης παραθύρου pop-up για το X11, παρόμοιο με το dmenu
+![rofi](https://github.com/upatras-hci/iv/assets/147083278/143aff1e-6357-4945-b464-206cabb71b06)
+Firefox
+![firefox](https://github.com/upatras-hci/iv/assets/147083278/5b49a536-56f1-4b4b-ae0f-1f1dcc72915b)
+Στην συνέχεια έκανα επιλογή μιας εικόνας για να πάω στην συνέχεια στο netrogen και να την κάνω εγκατάσταση και εφαρμογή σε πλήρες οθόνη
+![wallpaper](https://github.com/upatras-hci/iv/assets/147083278/a09d275b-164f-4fea-99b7-1ebe89636c3c)
+
+### 6η Εβδομάδα- Συμμετοχικό Περιεχόμενο 2Α 
+Για το συγκεκριμένο παραδοτέο, αφού μελέτησα τα παραδείγματα του βιβλίου, αποφάσισα να παρουσιάσω δύο διαφορετικές εκδοχές που αφορούν τα παραδειγματα [Mouse form](https://github.com/xrusa-pan/site/blob/739d9319a434b7bf44838423615e4962edf795e8/_remix/mouse-form.md) και [Image zoom](https://github.com/xrusa-pan/site/blob/739d9319a434b7bf44838423615e4962edf795e8/_remix/image-zoom.md). Στην πρώτη περίπτωση τροποποίησα το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί  έχει προεπιλεγμένη τιμή “Gender” και οι διαθέσιμες επιλογές να είναι “Male”,”Female”. Η δεύτερη περίπτωση συνδύασα τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα). 
+
+
+
