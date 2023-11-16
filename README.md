@@ -46,3 +46,67 @@
 
 Ο υπολογιστής πέρα απο εργαλείο είναι και μηχανή. Μπορεί να είναι μια μηχανή ρομποτ, ή μια μηχανή που κάνει μια συγκεκριμένη διεργασία. Επίσης ο υπολογιστής μπορεί να παίξει τον ρόλο του ανθρώπου σε κάποιες εργασίες. Με την βοήθεια της τεχνητής νοημοσύνης μπορούν να γίνουν πολλά που ακόμα και σήμερα ο δημιουργός του - άνθρωπος δεν έχει φανταστεί!
 
+
+
+
+ΕΒΔΟΜΑΔΑ 2:
+
+Επισυνάπτω το βιογραφικό:
+
+το link του αποθετηρίου μου https://github.com/xristostsilis/jekyll-cv/tree/gh-pages και
+
+την ιστοσελίδα του βιογραφικού μου https://xristostsilis.github.io/jekyll-cv/
+
+
+ΕΒΔΟΜΑΔΑ 3:
+
+Με την βοήθεια του Oracle Virtual Box εγκατέστησα το επίσημο iSO του Arch Linux.
+
+Με την χρήση του εργαλείου asciinema παραθέτω τα παραδοτέα:
+
+"neofetch" & "journalctl -b"
+
+https://asciinema.org/a/5Xe2bUCNfY8BoUcx7IbMXOkUw
+
+
+ΕΒΔΟΜΑΔΑ 4:
+
+Για το συμμετοχικό περιεχόμενο τούτης της εβδομάδας αποφάσισα να επιλέξω τις παρακάτω φωτογραφίες: 
+
+![iphone5oneHandUse](https://github.com/upatras-hci/iv/assets/67221281/5ed32a01-d8db-4bec-8add-c977b67ce44c)
+
+Εδώ βλέπουμε έναν χρήστη να αλληλεπιδρά με το iPhone 5, που είναι ένα τηλέφωνο της εταιρίας Apple, που το 2012 ήταν πολύ μπροστά από την εποχή του αφού επέτρεπε την χρήση του με μόνο ένα χέρι σκεπτόμενο την ευκολία χρήσης και την προσβασιμότητα.
+
+![teslaUi](https://github.com/upatras-hci/iv/assets/67221281/849cd66b-80a6-4647-9fcf-34a17d03dda7)
+
+Εδώ βλέπουμε μια πιο πρόσφατη ιστορική αναδρομή που αφορά την αλληλεπίδραση κατά την οδήγηση. Η Tesla, ως πρωτοπόρος στη ηλεκτροκίνηση, αποφάσισε το 2012 να αντικαταστήσει όλα τα "φυσικά" κουμπιά του αυτοκινήτου σε λειτουργίες μέσω της οθόνης πράγμα που είχε πολλές αντιδράσεις απο οργανισμούς ασφαλείας.
+
+Ακολουθούν τα links για τα αντίστοιχα repositories:
+
+**Images:** 
+
+[iPhone 5](https://github.com/xristostsilis/images/blob/5cab6ad8ffdb917f363a9adecffcc340c1fc3deb/iphone5oneHandUse.JPG)
+[Tesla UI](https://github.com/xristostsilis/images/blob/5cab6ad8ffdb917f363a9adecffcc340c1fc3deb/teslaUi.JPG)
+
+
+**Gallery:**
+
+[iPhone 5](https://github.com/xristostsilis/_gallery/blob/65dc0f712ef8147987d5e1ffaff8174917434faa/iphone5oneHandUse.JPG.md)
+[Tesla UI](https://github.com/xristostsilis/_gallery/blob/05707b0eeb9e65f6e88ad595b2b96c65920cd4ef/teslaUi.md)
+
+
+ΕΒΔΟΜΑΔΑ 5:
+
+Αφού εγκατέστησα ξανά το archlinux καθώς σε προηγούμενη φάση ήταν σε virtualbox και στην παρούσα φάση ζητήται real hardware, αποφάσισα να το εγκαταστήσω σε έναν server που τρέχω proxmox όπως φαίνεται παρακάτω: 
+
+![proxmoxcapture](https://github.com/upatras-hci/iv/assets/67221281/76c73767-97d2-4721-81a7-c2d50719cfaf)
+
+
+Ως Windows Manager εγκαταστάθηκε στο Arch Linux το i3.
+
+Εγκατέστησα το nitrogen & το FEH. 
+![arch4](https://github.com/upatras-hci/iv/assets/67221281/ae3431c7-56c4-4c41-99c9-08fc2a00311e)
+![arch3](https://github.com/upatras-hci/iv/assets/67221281/42e1fe5d-7411-4def-9148-94e2f882b3c0)
+
+Μελλοντικά θα αλλάξω το wallpaper μέσω του file manager.
+
