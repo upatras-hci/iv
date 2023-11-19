@@ -14,7 +14,7 @@ AM:
 | 3 | γραμμή εντολών (arch linux) | https://github.com/upatras-hci/iv/discussions/125#discussion-5798938 | |
 | 4 | συμμετοχικό περιεχόμενο 1A | https://github.com/upatras-hci/iv/discussions/138#discussion-5859876 | |
 | 5 | γραμμή εντολών (custom desktop environment) | https://github.com/upatras-hci/iv/discussions/135#discussion-5858884 | |
-| 6 | συμμετοχικό περιεχόμενο 2Α | | |
+| 6 | συμμετοχικό περιεχόμενο 2Α | https://github.com/upatras-hci/iv/discussions/140#discussion-5868064 | |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
@@ -110,3 +110,4 @@ Firefox
  
 ## Εβδομάδα 6η Συμμετοχική Περιεχόμενο 2Α
 
+Για το συγκεκριμένο παραδοτέο, αφού μελέτησα τα παραδείγματα του βιβλίου, αποφάσισα να παρουσιάσω δύο διαφορετικές εκδοχές που αφορούν τα παραδείγματα [Image filter](https://github.com/tonykontos/site/blob/f0cb0d70f47a65941aa56df3c903ada53d57b72d/_remix/image-filter.md) και [SVG Shape Example](https://github.com/tonykontos/site/blob/83aa88c90aaf6c051fcd1d9553fca26f72394819/_remix/image.md). Στο πρώτο παράδειγμα άλλαξα την εικόνα που και προσάρμοσα το μέγεθός της και μετά άλλαξα τα φίλτρα χρησιμοποιώντας το 8 φίλτρο στην σειρά και το δεύτερο παράδειγμα δημιούργησα ένα νέο svg με κώδικα html στο μισώ μέγεθος από το αρχικό svg.
