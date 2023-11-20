@@ -7,7 +7,7 @@
 | 3 | γραμμή εντολών (arch linux) |https://github.com/upatras-hci/iv/discussions/112 | |
 | 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/124 | |
 | 5 | γραμμή εντολών (custom desktop environment) |https://github.com/upatras-hci/iv/discussions/127 | |
-| 6 | συμμετοχικό περιεχόμενο 2Α | | |
+| 6 | συμμετοχικό περιεχόμενο 2Α | https://github.com/upatras-hci/iv/discussions/141| |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
@@ -109,4 +109,12 @@ https://asciinema.org/a/5Xe2bUCNfY8BoUcx7IbMXOkUw
 ![arch3](https://github.com/upatras-hci/iv/assets/67221281/42e1fe5d-7411-4def-9148-94e2f882b3c0)
 
 Μελλοντικά θα αλλάξω το wallpaper μέσω του file manager.
+
+
+ΕΒΔΟΜΑΔΑ 6:
+
+Για το παραδοτέο της 6ης εβδομάδας, θα σας παρουσιάσω τα παραδείγματα: form validation & pibook sortable
+
+Πρώτα έκανα το pibook sortable : https://codepen.io/xristostsilis/pen/LYqQMEG
+Και ύστερα το form Validation: https://codepen.io/xristostsilis/pen/dyadwwV
 
