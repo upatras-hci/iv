@@ -5,7 +5,7 @@
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [upatras-hci#90](https://github.com/upatras-hci/iv/discussions/90) |  |
 | 2 | βιογραφικό Α | [upatras-hci#102](https://github.com/upatras-hci/iv/discussions/102)  | |
 | 3 | γραμμή εντολών (arch linux) | [upatras-hci#106](https://github.com/upatras-hci/iv/discussions/106) | |
-| 4 | συμμετοχικό περιεχόμενο 1A | | |
+| 4 | συμμετοχικό περιεχόμενο 1A | [upatras-hci#121](https://github.com/upatras-hci/iv/discussions/121) | |
 | 5 | γραμμή εντολών (custom desktop environment) | | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | | |
 | 7 | βιογραφικό Β | | |
@@ -67,3 +67,14 @@
 
 Σημείωση : Το command line `journalctl -b` είναι πολύ μεγάλο μιας και κατέβασα αρκετά πράγματα στο Αrch Linux που ίσως να παίζουν ρόλο στο μεγάλο μέγεθος των logs, όπως κάτι files ώστε να τρέχει πιο γρήγορα το VM κλπ. 
 
+### 4η Εβδομάδα - Συμμετοχικό Περιεχόμενο 1Α
+
+Σχετικά με το συμμετοχικό περιεχόμενο, μετά από πρόταση των νέων maintainers του οργανισμού για κοινή θεματολογία για την επιλογή εικόνων, το θέμα που ορίστηκε είναι **"η απεικόνηση της αλληλεπίδρασης του ανθρώπου με διάφορες τεχνολογικές συσκευές στην πάροδο του χρόνου"** . 
+
+Βάση αυτής την θεματολογίας επέλεξα τις δυο επόμενες εικόνες που οι άνθρωποι αλληλεπιδρούν με τεχνολογικές συσκευές : 
+| Εικόνα | Caption | Pull Reqeust |
+| --- | --- | --- |
+| ![Photography-by-Victor-Albert-Grigas](https://github.com/upatras-hci/iv/assets/63364209/75d6649d-089e-4cd3-af8b-e229b7b0b5f8) | Πιο συγκεκριμένα στην φωτογραφία αυτή η οποία έχει τραβηχτεί από τον Victor Grigas τον Ιούνιο του 1968, παρατηρούμε τους φωτογραφούς σε μια έκθεση τέχνης της παλιάς πόλης του Σικάγο. Η φωτογραφία αυτή μας απεικονίζει τους φωτογράφους-ανθρώπους να αλληλεπιδρούν με έναν ας πουμε "παιχνιδιάρικο" τρόπο με την χρήση των τότε τεχνολογικών συσκευών για να βγάζουν φωτογραφίες. |[Images Pull Request](https://github.com/HCI-Masters/images/pull/3) |
+| ![Family-television-1958](https://github.com/upatras-hci/iv/assets/63364209/d861ef95-7575-4964-93c6-132e7629872c) | Η φωτογραφία αυτή χρονολογείται το 1958. Σε αυτήν απεικονίζεται μια οικογένεια να αλληλεπιδρά με μια τηλεόραση της εποχής. Συγκεκριμένα ένα από τα μέλη της οικογένειας χειρίζεται την συσκευή όπως φαίνεται και στην φωτογραφία. | [Gallery Pull Request](https://github.com/HCI-Masters/_gallery/pull/3) |
+
+Οι εικόνες και τα αντίστοιχα .md αρχεία έχουν γίνει pull request κανονικά στα repositories του οργανισμού.
