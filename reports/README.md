@@ -144,7 +144,6 @@ CV
 
 ![285268355-8d719117-c44e-4241-ba79-a9c9508193ef](https://github.com/xristostsilis/1053655/assets/67221281/1fe91c85-8641-42d6-995b-108a47f6172a)
 
-[Εικόνα1](https://github.com/xrusa-pan/images/blob/8c4b68e4d4dc4577c115867150fd5cea98876277/ENIAC-1946.png)
 
 
 
