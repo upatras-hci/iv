@@ -13,7 +13,7 @@
 | 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/119 | |
 | 5 | γραμμή εντολών (custom desktop environment) | https://github.com/upatras-hci/iv/discussions/144 | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | https://github.com/upatras-hci/iv/discussions/134| |
-| 7 | βιογραφικό Β | | |
+| 7 | βιογραφικό Β | https://github.com/upatras-hci/iv/discussions/145 | |
 | 8 | γραμμή εντολών (iv cli) | | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli | | |
@@ -117,3 +117,12 @@ Images | Gallery
 
 - [Link στο repository](https://github.com/ElenaChaidou/site/blob/master/_remix/mouse_button_el.md)
 - [CodePen link](https://codepen.io/elech/pen/YzBQxaz)
+
+  # **Εβδομάδα 7 | Βιογραφικό Β**
+  Για την εβδομάδα 7:
+
+- έχω κάνει fork το repository του [simple-cv](https://github.com/plain-plain-text/simple-cv). 
+- έχω δημιουργήσει τη δική μου σελίδα [my_simple_cv](https://elenachaidou.github.io/simple-cv/)
+- Χρησιμοποιώ το Visual Studio code για να κάνω clone το repository **git clone https://github.com/ElenaChaidou/simple-cv** και **git checkout -b 1059627** για να φτιάξω το δικό μου branch.
+- Ξεκίνησα να επεξεργάζομαι τα στοιχεία τόσο στο index.html όσο και τα .md του φακέλου sections και τα .yml του φακέλου metadata.
+
