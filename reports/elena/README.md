@@ -11,7 +11,7 @@
 | 2 | βιογραφικό Α |https://github.com/upatras-hci/iv/discussions/99 | |
 | 3 | γραμμή εντολών (arch linux) |https://github.com/upatras-hci/iv/discussions/111 | |
 | 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/119 | |
-| 5 | γραμμή εντολών (custom desktop environment) | | |
+| 5 | γραμμή εντολών (custom desktop environment) | https://github.com/upatras-hci/iv/discussions/144 | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | https://github.com/upatras-hci/iv/discussions/134| |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | | |
@@ -85,6 +85,24 @@ Images | Gallery
 [Εικόνα2](https://github.com/ElenaChaidou/images/blob/master/smartwatch_pos.jpg) | [Εικόνα2](https://github.com/ElenaChaidou/_gallery/blob/master/smartwatch_pos.md)
 
 # **Εβδομάδα 5 | Custom Desktop Enviroment**
+Για την εβδομάδα 5 εγκατέστησα το i3 window manager μέσω του λειτουργικού συστήματος Arch Linux.
+Παρακάτω σας επισυνάπτω τις ενέργειες που έκανα για να καταφέρω να εγκαταστήσω ορισμένα πράγματα από αυτά που ζητήθηκαν να κάνουμε.
+Επισυνάπτω παρακάτω κάποια από τα πακέτα που εγκατέστησα σύμφωνα με τα ζητούμενα.
+**polybar**
+![Screenshot (22)](https://github.com/upatras-hci/iv/assets/79599303/efc1fb16-9a31-4434-9b98-e6eb51a55862)
+
+**pywall**
+![Screenshot (21)](https://github.com/upatras-hci/iv/assets/79599303/be764968-bdf4-4f47-9f78-5f40c30f1bda)
+
+**feh**
+![Screenshot (23)](https://github.com/upatras-hci/iv/assets/79599303/5a95d31d-481f-4526-b221-0ffff97d3062)
+
+**Μέσω του Firefox επέλεξα μία φωτογραφία, την οποία έκανα Download.**
+![Screenshot (20)](https://github.com/upatras-hci/iv/assets/79599303/a46bebdb-a33e-40b0-8685-4ff54ba9c2a9)
+
+Με την εντολή **feh --bg-fill /home/elch/Downloads/wallpapers/image.jpg** τοποθέτησα την φωτογραφία που προανέφερα ως φόντο.
+![Screenshot (24)](https://github.com/upatras-hci/iv/assets/79599303/80aef8f8-8685-48fe-b50d-ff7461d58971)
+
 
 # **Εβδομάδα 6 | Συμμετοχικό Περιεχόμενο 2Α**
 Για το συγκεκριμένο παραδοτέο, αφού μελέτησα τα παραδείγματα του βιβλίου, αποφάσισα να παρουσιάσω δύο διαφορετικές εκδοχές που αφορούν τα παραδειγματα [**form_validation**](https://github.com/ElenaChaidou/site/blob/master/_remix/form-validation.md)  και [**mouse_button**](https://github.com/ElenaChaidou/site/blob/master/_remix/mouse-button.md). Στην πρώτη περίπτωση προσέθεσα στην φόρμα την εισαγωγή επιπλέον στοιχείων της κάρτας και το τηλέφωνο. Η δεύτερη περίπτωση αφορά ένα κουμπί που εμφανίζει κάποια μηνύματα στον χρήστη. Η δική μου προσθήκη αφορά ένα ακόμη κουμπί που εμφανίζει κάθε φορά το προηγούμενο μήνυμα.
