@@ -8,7 +8,7 @@
 | 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/124 | |
 | 5 | γραμμή εντολών (custom desktop environment) |https://github.com/upatras-hci/iv/discussions/127 | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | https://github.com/upatras-hci/iv/discussions/141| |
-| 7 | βιογραφικό Β | | |
+| 7 | βιογραφικό Β |https://github.com/upatras-hci/iv/discussions/143 | |
 | 8 | γραμμή εντολών (iv cli) | | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli | | |
