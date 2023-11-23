@@ -1,13 +1,17 @@
 # Οπτικοποίηση της Πληροφορίας
 
+Κωδικός τηλεδιάσκεψης: 975879
+
+>> Μπορείτε να βρείτε τον πηγαίο κώδικα για τον παρακάτω πίνακα στο κουμπί `Raw` και μετά να τον αντιγράψετε στην αναφορά σας ως πίνακα περιεχομένων με σύνδεσμο προς τις υποενότητες-δραστηριότητες κάθε εβδομάδας.
+
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/114 | |
-| 2 | βιογραφικό Α | https://github.com/upatras-hci/iv/discussions/113| |
-| 3 | γραμμή εντολών (arch linux) |https://github.com/upatras-hci/iv/discussions/112 | |
-| 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/124 | |
-| 5 | γραμμή εντολών (custom desktop environment) |https://github.com/upatras-hci/iv/discussions/127 | |
-| 6 | συμμετοχικό περιεχόμενο 2Α | https://github.com/upatras-hci/iv/discussions/141| |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
+| 2 | βιογραφικό Α | | |
+| 3 | γραμμή εντολών (arch linux) | | |
+| 4 | συμμετοχικό περιεχόμενο 1A | | |
+| 5 | γραμμή εντολών (custom desktop environment) | | |
+| 6 | συμμετοχικό περιεχόμενο 2Α | | |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
@@ -15,106 +19,60 @@
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
-### 1053655 , ΤΣΙΛΙΓΙΑΝΝΗΣ ΧΡΗΣΤΟΣ
+>> Η συμπλήρωση της εβδομάδας ορίζεται ως η μέρα πριν το επόμενο μάθημα, π.χ., για την 1η εβδομάδα η παράδοση είναι την ημέρα πριν το 2ο μάθημα. Η 1η και η 12η εβδομάδα είναι σημαντικές προθεσμίες, γιατί μπορεί να μην αντιστοιχούν σε κάποιο ποσοστό βαθμού, αλλά είναι το σημείο αναφοράς για όλους τους άλλους βαθμούς. Η άσκηση γραμμής εντολών έχει περισσότερες εβδομάδες παραδοτέων για να σας δώσει την ευκαιρία να βελτιώσετε το λειτουργικό σύστημα.
 
-Ονομάζομαι Τσιλιγιάννης Χρήστος και είμαι απόφοιτος του τμήματος Ηλεκτρολόγων Μηχανικών & Τεχνολογίας Υπολογιστών του Πανεπιστημίου Πατρών.
+[Οδηγίες και απαντήσεις σε συχνές απορίες](https://epidrome.github.io/teaching/) για την παράδοση της εργασίας.
 
-Αφού ολοκλήρωσα τις προπτυχιακές σπουδές μου αποφάσισα να συνεχίσω με ένα master στο HCI αφού είναι ένα αντικείμενο που θεωρώ θα ολοκληρώσει τις γνώσεις που πήρα απο την προπτυχιακή μου εκπαίδευση με τελικό στόχο να καταφέρω να σχεδιάζω interfaces που θα αφορούν δικτυακό εξοπλισμό. Όπως ο σχεδιασμός ενός tool πρόβλεψης ραδιοκάλυψης μιας κεραίας 5G.
+[Ανακοινώσεις απορίες και εβδομαδιαία ομαδικότητα](https://github.com/upatras-hci/iv/discussions)
 
+>> Πατήστε το κουμπί `Watch` στην κορυφή αυτής της σελίδας για να καθορίσετε τις προτιμήσεις των ειδοποιήσεων, έτσι ώστε να λαμβάνετε τουλάχιστον τα νέα για τις συζητήσεις, όπου βρίσκονται όλες οι ανακοινώσεις του μαθήματος.
 
-```diff
-# Τι είναι ο άνθρωπος;
+## Syllabus
 
-Άνθρωπος ένας οργανισμός με βούληση, ικανός να δημιουργήσει και να φανταστεί ότι επιθυμεί. Στην αλλήλεπίδραση ανθρώπου - υπολογιστή μελετάμε τον άνθρωπο σε όλες του τις διαστάσεις με σκοπό να κάνουμε την αλληλεπίδραση του με την μηχανή πιο φυσική και εύκολη.
+**Περιγραφή:** Οπτικοποίηση της πληροφορίας και διάδραση, Ορισμός και ιστορική εξέλιξη, σχεδίαση της οπτικοποίησης, τεχνολογίες οπτικοποίησης: Γραφικά, Εικόνες, Βίντεο, Κείμενο, Ηχος, Σύγχρονες εφαρμογές οπτικοποίησης: Ψηφιακή δημοσιογραφία, οπτικοποίηση δεδομένων, ψηφιακές συλλογές, παιχνιδοποίηση.
 
-```
+**Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην ανάπτυξη μιας εφαρμογής οπτικοποίησης της πληροφορίας. Η θεωρία και ασκήσεις καλύπτουν πολλά διαφορετικά πεδία με έμφαση σε επίκαιρες εφαρμογές όπως η συγγραφή περιεχομένου και οι ψηφιακές συλλογές.
 
-```diff
-# Τι είναι ο υπολογιστής;
+**Μέθοδος διδασκαλίας:** Συναντήσεις, ασκήσεις, συνεχής ανατροφοδότηση.
 
-Υπολογιστής είναι μια μηχανή που έχει την δυνατότητα να προγραμματιστεί με τελικό στόχο να εξυπηρετεί τον άνθρωπο. Ο υπολογιστής ενώ δημιουργήθηκε αρχικά για την αξιοποίηση της πληροφορίας, σήμερα κατέχει έναν πολύ σημαντικό ρόλο στην καθημερινότητα μας και τον καθιστά αγαθό ανάγκης για πολλούς! Οι περισσότεροι άνθρωποι σήμερα βιοπορίζονται απο αυτήν την μηχανή που κάποτε φτιάχτηκε για εξαιρετικές περιπτώσεις.
+**Κριτήρια βαθμολογίας:** 10% [βιογραφικό](https://epidrome.github.io/teaching/cv/) + 40% [Συμμετοχικό περιεχόμενο: 1 + 2](https://epidrome.github.io/teaching/social)* + 30% [2 ασκήσεις γραμμής εντολών](https://epidrome.github.io/teaching/cli/) + 20% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork)
 
-```
-```diff
-# Τι είναι η διάδραση ανθρώπου-υπολογιστή;
+*υποχρεωτική συμπλήρωση της βάσης σε όλα τα κριτήρια για να γίνει τελική βαθμολόγηση
 
-Ο άνθρωπος είναι ένα ών με βούληση και άποψη. Ενας οργανισμός όπως ο άνθρωπος αλληλεπιδρά με έναν υπολογιστή με τελικό στόχο την λήψη πληροφορίας ή την δημιουργία. Ο τελικός στόχος όμως είναι μόνο ο προορισμός στο ταξίδι της διάδρασης, έτσι λοιπόν ο άνθρωπος αλληλεπιδρά με τον υπολογιστή είτε εισάγωντας πληροφορία για να λάβει κάποια άλλη είτε εξάγωντας πληροφορία απο τον ίδιο τον υπολογιστή. Η διαδικασία αυτή ονομάζεται διάδραση.
+**Συμπληρωματική βιβλιογραφία** 
 
-```
-```diff
-# Ποια είναι μια αναλογία για τον υπολογιστή πέρα από εργαλείο;
+* Fry, B. (2008). Visualizing data: Exploring and explaining data with the processing environment. " O'Reilly Media, Inc.". ch1
+* Steele, J., & Iliinsky, N. (2010). Beautiful visualization: Looking at data through the eyes of experts. " O'Reilly Media, Inc."., ch1, ch11
+* [Multimedia: from Wagner to Virtual Reality](https://web.archive.org/web/20180731072917/http://w2vr.com/concepts/concepts.html), concepts, pioneers
+* [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ. 6 Σύνθεση και Κλίμακα
+* [How to learn D3.js](https://wattenberger.com/blog/d3)
+* [DataVizForAll TextBook](https://github.com/DataVizForAll/datavizforall-bookdown)
+* [Visual representation](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-representation)
+* [Data visualization for human perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
 
-Ο υπολογιστής πέρα απο εργαλείο είναι και μηχανή. Μπορεί να είναι μια μηχανή ρομποτ, ή μια μηχανή που κάνει μια συγκεκριμένη διεργασία. Επίσης ο υπολογιστής μπορεί να παίξει τον ρόλο του ανθρώπου σε κάποιες εργασίες. Με την βοήθεια της τεχνητής νοημοσύνης μπορούν να γίνουν πολλά που ακόμα και σήμερα ο δημιουργός του - άνθρωπος δεν έχει φανταστεί!
+**Εργαλεία και βιβλιοθήκες ανάπτυξης**
+* [Observable](https://observablehq.com)
+* [d3.js](https://d3js.org)
+* [glitch d3](https://glitch.com/@guides/guide-to-d-3)
+* [timelineJS](https://timeline.knightlab.com)
+* [pollen](https://docs.racket-lang.org/pollen/)
 
+**Συμπληρωματικά μαθήματα**
 
+[KTH](https://www.kth.se/social/course/DH2321/): student projects
+[UTAH](http://www.sci.utah.edu/~miriah/cs6964/): lectures, readings
+[Olin](https://github.com/MimiOnuoha/Impossible-Maps): readings
 
+---
+Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [αναλυτικές οδηγίες](https://epidrome.github.io/teaching/guide/).
 
-ΕΒΔΟΜΑΔΑ 2:
+## Σύντομες οδηγίες δημιουργίας αποθετηρίου για την αναφορά σας
 
-Επισυνάπτω το βιογραφικό:
+- Fork this repo.
+- Create a new branch (named with your studentID).
+- Create a new README.md file inside a folder (inside the reports folder) named with your studentID.
+- Edit the README.md file with your name and [add a table of contents with the deliverables](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md).
+- Edit (and commit) your report according to the above deliverables table of contents.
+- At the end of the course, make a pull-request.
 
-το link του αποθετηρίου μου https://github.com/xristostsilis/jekyll-cv/tree/gh-pages και
-
-την ιστοσελίδα του βιογραφικού μου https://xristostsilis.github.io/jekyll-cv/
-
-
-ΕΒΔΟΜΑΔΑ 3:
-
-Με την βοήθεια του Oracle Virtual Box εγκατέστησα το επίσημο iSO του Arch Linux.
-
-Με την χρήση του εργαλείου asciinema παραθέτω τα παραδοτέα:
-
-"neofetch" & "journalctl -b"
-
-https://asciinema.org/a/5Xe2bUCNfY8BoUcx7IbMXOkUw
-
-
-ΕΒΔΟΜΑΔΑ 4:
-
-Για το συμμετοχικό περιεχόμενο τούτης της εβδομάδας αποφάσισα να επιλέξω τις παρακάτω φωτογραφίες: 
-
-![iphone5oneHandUse](https://github.com/upatras-hci/iv/assets/67221281/5ed32a01-d8db-4bec-8add-c977b67ce44c)
-
-Εδώ βλέπουμε έναν χρήστη να αλληλεπιδρά με το iPhone 5, που είναι ένα τηλέφωνο της εταιρίας Apple, που το 2012 ήταν πολύ μπροστά από την εποχή του αφού επέτρεπε την χρήση του με μόνο ένα χέρι σκεπτόμενο την ευκολία χρήσης και την προσβασιμότητα.
-
-![teslaUi](https://github.com/upatras-hci/iv/assets/67221281/849cd66b-80a6-4647-9fcf-34a17d03dda7)
-
-Εδώ βλέπουμε μια πιο πρόσφατη ιστορική αναδρομή που αφορά την αλληλεπίδραση κατά την οδήγηση. Η Tesla, ως πρωτοπόρος στη ηλεκτροκίνηση, αποφάσισε το 2012 να αντικαταστήσει όλα τα "φυσικά" κουμπιά του αυτοκινήτου σε λειτουργίες μέσω της οθόνης πράγμα που είχε πολλές αντιδράσεις απο οργανισμούς ασφαλείας.
-
-Ακολουθούν τα links για τα αντίστοιχα repositories:
-
-**Images:** 
-
-[iPhone 5](https://github.com/xristostsilis/images/blob/5cab6ad8ffdb917f363a9adecffcc340c1fc3deb/iphone5oneHandUse.JPG)
-[Tesla UI](https://github.com/xristostsilis/images/blob/5cab6ad8ffdb917f363a9adecffcc340c1fc3deb/teslaUi.JPG)
-
-
-**Gallery:**
-
-[iPhone 5](https://github.com/xristostsilis/_gallery/blob/65dc0f712ef8147987d5e1ffaff8174917434faa/iphone5oneHandUse.JPG.md)
-[Tesla UI](https://github.com/xristostsilis/_gallery/blob/05707b0eeb9e65f6e88ad595b2b96c65920cd4ef/teslaUi.md)
-
-
-ΕΒΔΟΜΑΔΑ 5:
-
-Αφού εγκατέστησα ξανά το archlinux καθώς σε προηγούμενη φάση ήταν σε virtualbox και στην παρούσα φάση ζητήται real hardware, αποφάσισα να το εγκαταστήσω σε έναν server που τρέχω proxmox όπως φαίνεται παρακάτω: 
-
-![proxmoxcapture](https://github.com/upatras-hci/iv/assets/67221281/76c73767-97d2-4721-81a7-c2d50719cfaf)
-
-
-Ως Windows Manager εγκαταστάθηκε στο Arch Linux το i3.
-
-Εγκατέστησα το nitrogen & το FEH. 
-![arch4](https://github.com/upatras-hci/iv/assets/67221281/ae3431c7-56c4-4c41-99c9-08fc2a00311e)
-![arch3](https://github.com/upatras-hci/iv/assets/67221281/42e1fe5d-7411-4def-9148-94e2f882b3c0)
-
-Μελλοντικά θα αλλάξω το wallpaper μέσω του file manager.
-
-
-ΕΒΔΟΜΑΔΑ 6:
-
-Για το παραδοτέο της 6ης εβδομάδας, θα σας παρουσιάσω τα παραδείγματα: form validation & pibook sortable
-
-Πρώτα έκανα το pibook sortable : https://codepen.io/xristostsilis/pen/LYqQMEG
-Και ύστερα το form Validation: https://codepen.io/xristostsilis/pen/dyadwwV
-
+[Detailed instructions with gifs and links to official documentation](https://courses-ionio.github.io/help/guide/)
