@@ -7,7 +7,7 @@
 | 3 | γραμμή εντολών (arch linux) | [upatras-hci#106](https://github.com/upatras-hci/iv/discussions/106) | |
 | 4 | συμμετοχικό περιεχόμενο 1A | [upatras-hci#121](https://github.com/upatras-hci/iv/discussions/121) | |
 | 5 | γραμμή εντολών (custom desktop environment) | [upatras-hci#132](https://github.com/upatras-hci/iv/discussions/132) | |
-| 6 | συμμετοχικό περιεχόμενο 2Α | | |
+| 6 | συμμετοχικό περιεχόμενο 2Α | [upatras-hci#142](https://github.com/upatras-hci/iv/discussions/142) | |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
@@ -143,3 +143,12 @@
 
 Τέλος προστέθηκαν 2 γραμμές κώδικα ώστε κάθε φορά που ανοίγει το σύστημα να γίνετε execute το launch.sh του `polybar` ώστε να φορτώνετε αυτόματα το ανανεωμένο status bar + τρέχει το package `feh` ώστε να τραβάει από το directory που υπάρχει το wallpaper. 
 ![image](https://github.com/upatras-hci/iv/assets/63364209/777e7d09-8d22-46bd-96e0-e9cba5de4462)
+
+### 6η εβδομάδα - Συμμετοχικό Περιεχόμενο 2Α
+
+Για το συμμετοχικό περιεχόμενο 2Α αφού παρατήρησα και εντόπισα διαδραστικά παραδείγματα αλληλεπίδρασης ανθρώπου-υπολογιστή αποφάσισα να υλοποιήσω τις ασκήσεις των παραδειγμάτων του [Sortable-list](https://pibook.epidro.me/remix/sortable-list/) και του [Mouse-draw](https://pibook.epidro.me/remix/mouse-draw/). Συγκεκριμένα:
+
+- Σχετικά με το sortable-list, έγιναν αλλαγές στο χρώμα, ύψος της λίστας και την απόσταση μεταξύ τους.
+https://github.com/IKaramitsos/site/blob/master/_remix/sortable-list.md
+- Σχετικά με το Mouse-draw, έγινε χρήση της μεθόδου του Canvas clearRect() και ενός EventListener ώστε να ικανοποιεί την λειτουργία reset/clear όταν ζωγραφίζει ο άνθρωπος με το πάτημα του 'Space'.
+https://github.com/IKaramitsos/site/blob/master/_remix/mouse-draw.md
