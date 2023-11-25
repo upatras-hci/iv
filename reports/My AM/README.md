@@ -90,8 +90,10 @@ neofetch: [https://asciinema.org/a/3gSIQ6DudmOl9K3CoyO2l0jJ9](https://asciinema.
 
 ### Εβδομάδα 6 - Συμμετοχικο Περιεχόμενο 2Α
 
----
-
+Μετά από μελέτη των παραδειγμάτων του βιβλίου, παρουσιάζονται παρακάτω δυο διαδραστικά στοιχεία ενός website. Στην πρώτη περίπτωση παρουσιάζεται ένα διαδραστικό μενού με icons που ανοίγει δεξιά ή αριστερά της οθόνης, με το πάτημα του αντίστοιχου κουμπιού.
+<br><br>**Slide menu με icons**
+- [Repo link](https://github.com/VasiaBi/site/blob/master/_remix/menu-slide.md)
+- [CodePen link](https://codepen.io/Vasia-Bi/pen/yLZEjKE)
 ### Εβδομάδα 7
 
 ---
