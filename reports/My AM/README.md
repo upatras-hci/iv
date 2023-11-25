@@ -90,10 +90,17 @@ neofetch: [https://asciinema.org/a/3gSIQ6DudmOl9K3CoyO2l0jJ9](https://asciinema.
 
 ### Εβδομάδα 6 - Συμμετοχικο Περιεχόμενο 2Α
 
-Μετά από μελέτη των παραδειγμάτων του βιβλίου, παρουσιάζονται παρακάτω δυο διαδραστικά στοιχεία ενός website. Στην πρώτη περίπτωση παρουσιάζεται ένα διαδραστικό μενού με icons που ανοίγει δεξιά ή αριστερά της οθόνης, με το πάτημα του αντίστοιχου κουμπιού.
-<br><br>**Slide menu με icons**
-- [Repo link](https://github.com/VasiaBi/site/blob/master/_remix/menu-slide.md)
-- [CodePen link](https://codepen.io/Vasia-Bi/pen/yLZEjKE)
+Μετά από μελέτη των παραδειγμάτων του βιβλίου, παρουσιάζονται παρακάτω δυο διαδραστικά στοιχεία ενός website.
+<br>Στην πρώτη περίπτωση παρουσιάζεται ένα διαδραστικό μενού που ανοίγει δεξιά ή αριστερά της οθόνης, με το πάτημα του αντίστοιχου κουμπιού. Τροποποίησα το παράδειγμα αφαιρώντας τον κώδικα που δημιουργεί το μενού στη δεξιά πλευρά της οθόνης. Έπειτα, πρόσθεσα icons στα menu items. Στη δεύτερτη περίπτωση παρουσιάζεται μια εικόνα η οποία μεγενθύνεται όταν ο χρήστης περνάει από πάνω της τον κέρσορα. Το παράδειγμα έχει τροποποιθεί ώστε η εικόνα αρχικά να φαίνεται ασπρόμαυρη και σε κάθε πέρασμα του κέρσορα εκτός από ζουμ αποκτά και χρώμα, δίνοντας στο χρήστη την αίσθηση οτι ενεργοποίησε μια ένα σημείο στην οθόνη που πριν ήταν "ανενεργό".<br>
+1. **Slide menu με icons**
+   - [Repo link](https://github.com/VasiaBi/site/blob/master/_remix/menu-slide.md)
+   - [CodePen link](https://codepen.io/Vasia-Bi/pen/yLZEjKE)
+2. **Zoom & Hover effect on image**
+   - [Repo link](https://github.com/VasiaBi/site/blob/master/_remix/image-zoom.md)
+   - [CodePen link](https://codepen.io/Vasia-Bi/pen/poGKxbG)
+     
+---
+
 ### Εβδομάδα 7
 
 ---
