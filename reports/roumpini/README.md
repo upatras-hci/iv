@@ -12,7 +12,7 @@
 | 2 | βιογραφικό Α |https://github.com/upatras-hci/iv/discussions/100 | |
 | 3 | γραμμή εντολών (arch linux) |https://github.com/upatras-hci/iv/discussions/110 | |
 | 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/120 | |
-| 5 | γραμμή εντολών (custom desktop environment) | | |
+| 5 | γραμμή εντολών (custom desktop environment) |https://github.com/upatras-hci/iv/discussions/148| |
 | 6 | συμμετοχικό περιεχόμενο 2Α |https://github.com/upatras-hci/iv/discussions/133 | |
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | | |
@@ -85,6 +85,30 @@ Images | Gallery
 
 
 # **Εβδομάδα 5 | Custom Desktop Enviroment**
+
+Για την εβδομάδα 5 εγκατέστησα το i3 window manager μέσω του λειτουργικού συστήματος Arch Linux.
+Παρακάτω επισυνάπτω τις λειτουργίες που εγκατέστησα.
+
+**polybar**
+
+![polybar](https://github.com/upatras-hci/iv/assets/147249659/ef99cb87-f7c4-4185-86e8-b4d66073e047)
+
+**pywal**
+
+![pywal](https://github.com/upatras-hci/iv/assets/147249659/e2d3156c-f152-4044-883a-8e54446c8e07)
+
+**feh** 
+
+![feh](https://github.com/upatras-hci/iv/assets/147249659/62387a84-2daf-4baa-af54-2e4ba89d4619)
+
+**firefox**
+
+![firefox](https://github.com/upatras-hci/iv/assets/147249659/985f9f42-dc5b-41de-875e-d2d9be23502b)
+
+**wallpaper**
+Με βοήθεια της εντολής `feh --bg-fill /home/roumpini/Downloads/wallpapers/images.jpg` .  όρισα τη φωτογραφία που κατέβασα από το firefox ως φόντο της επιφάνειας εργασίας.
+
+![wallpaper](https://github.com/upatras-hci/iv/assets/147249659/5f99a04f-e5bd-41a7-b782-d535fc150b6b)
 
 
 # **Εβδομάδα 6 | Συμμετοχικό Περιεχόμενο 2Α**
