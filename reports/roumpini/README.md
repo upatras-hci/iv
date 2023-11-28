@@ -14,7 +14,7 @@
 | 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/120 | |
 | 5 | γραμμή εντολών (custom desktop environment) |https://github.com/upatras-hci/iv/discussions/148| |
 | 6 | συμμετοχικό περιεχόμενο 2Α |https://github.com/upatras-hci/iv/discussions/133 | |
-| 7 | βιογραφικό Β | | |
+| 7 | βιογραφικό Β |https://github.com/upatras-hci/iv/discussions/151 | |
 | 8 | γραμμή εντολών (iv cli) | | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli | | |
@@ -118,3 +118,12 @@ Images | Gallery
 Προσέθεσα στη φόρμα την επιλογή φύλου με τη χρήση radio buttons
 https://github.com/Rstath/site/blob/master/_remix/mouse-form_gender.md
 και  [Code Pen link](https://codepen.io/Roubini-Stathopoulou/pen/XWOgerG) 
+
+
+# **Εβδομάδα 7 | Βιογραφικό Β**
+
+Για τη συγκεκριμένη άσκηση, αρχικά δημιούργησα ένα fork του repository [simple-cv](https://github.com/plain-plain-text/simple-cv) και το έκανα clone τοπικά με τη βοήθεια του Visual Studio Code. Αρχικά, δημιουργήσα ένα δικό μου  branch "1059667" με την εντολή `git checkout -b 1059667` στο terminal. Εκεί τροποποίησα, τα sections, metadata και όλα τα αρχεία του φακέλου templates σύμφωνα με τα στοιχεία μου. Όταν ολοκλήρωσα όλες τις απαραίτητες αλλαγές, με τις εντολές `git commit -m "message"` και `git push --set-upstream origin 1059667` "δημοσίευσα" τις αλλαγές στο repository ( στο branch μου).  Για την παραγωγή του αρχείου .pdf εγκατέστησα στο VSCode τις επεκτάσεις pandoc και MikTex (τις οποίες και όρισα ως global variables) και εκτέλεσα την εντολή `process.sh`. Το repository έχει συνδεθεί με το Netlify προκειμένου κάθε φορά που γίνεται push να γίνεται και ένα νέο deploy χάρη στην ενσωματωμένη τεχνολογία Continous Integration του Netlify. Κάθε φορά που πραγματοποιούνται αλλαγές πρέπει να δημοσιεύονται οι αλλαγές με` git push` και να παράγουμε ξανά το αρχείο.
+
+- [Repository's link](https://github.com/Rstath/simple-cv)
+-  [CV](https://roumpini-simple-cv.netlify.app/docs/)
+-  [pdf](https://roumpini-simple-cv.netlify.app/docs/Stathopoulou-CV.pdf)
