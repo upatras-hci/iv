@@ -85,6 +85,11 @@ neofetch: [https://asciinema.org/a/3gSIQ6DudmOl9K3CoyO2l0jJ9](https://asciinema.
 ---
 
 ### Εβδομάδα 5 - Εγκατάσταση WM
+Εγκατάσταση του i3 window manager
+![282597394-6e9f03ab-8a26-4afe-89f2-62a275af279d](https://github.com/VasiaBi/iv/assets/23505405/104e90da-b47b-4c6f-ae2d-367ac8e3dc3b)
+Εγκατάσταση του polybar
+
+![image](https://github.com/VasiaBi/iv/assets/23505405/66a02f09-3a83-498b-aa5c-78990e6f3a6b)
 
 ---
 
