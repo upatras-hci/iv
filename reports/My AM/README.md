@@ -91,6 +91,13 @@ neofetch: [https://asciinema.org/a/3gSIQ6DudmOl9K3CoyO2l0jJ9](https://asciinema.
 
 ![image](https://github.com/VasiaBi/iv/assets/23505405/66a02f09-3a83-498b-aa5c-78990e6f3a6b)
 
+Άνοιγμα του firefox για να κατεβάσω εικόνα για wallpaper
+![image](https://github.com/VasiaBi/iv/assets/23505405/4318578e-15b4-4a5a-92df-eb1e8306d8e3)
+
+
+Προσθήση wallpaper στην επιφάνεια εργασίας με την εντολή feh 
+![image](https://github.com/VasiaBi/iv/assets/23505405/72a02228-8374-47d3-95f9-b39037adec19)
+
 ---
 
 ### Εβδομάδα 6 - Συμμετοχικο Περιεχόμενο 2Α
