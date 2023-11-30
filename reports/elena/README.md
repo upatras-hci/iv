@@ -121,8 +121,14 @@ Images | Gallery
   # **Εβδομάδα 7 | Βιογραφικό Β**
   Για την εβδομάδα 7:
 
+Για την εβδομάδα 7:
+
 - έχω κάνει fork το repository του [simple-cv](https://github.com/plain-plain-text/simple-cv). 
 - έχω δημιουργήσει τη δική μου σελίδα [my_simple_cv](https://elenachaidou.github.io/simple-cv/)
 - Χρησιμοποιώ το Visual Studio code για να κάνω clone το repository **git clone https://github.com/ElenaChaidou/simple-cv** και **git checkout -b 1059627** για να φτιάξω το δικό μου branch.
-- Ξεκίνησα να επεξεργάζομαι τα στοιχεία τόσο στο index.html όσο και τα .md του φακέλου sections και τα .yml του φακέλου metadata.
+- Εκεί τροποποίησα, τα sections, metadata και όλα τα αρχεία του φακέλου templates σύμφωνα με τα στοιχεία μου. Όταν ολοκλήρωσα όλες τις απαραίτητες αλλαγές, με τις εντολές git commit -m "message" και git push --set-upstream origin 1059667 "δημοσίευσα" τις αλλαγές στο repository ( στο branch μου). Για την παραγωγή του αρχείου .pdf εγκατέστησα στο VSCode τις επεκτάσεις pandoc και MikTex (τις οποίες και όρισα ως global variables) και εκτέλεσα την εντολή process.sh. Το repository έχει συνδεθεί με το Netlify προκειμένου κάθε φορά που γίνεται push να γίνεται και ένα νέο deploy.
+
+1. [Repository Link](https://github.com/ElenaChaidou/simple-cv)
+2. [CV](https://elena-simple-cv.netlify.app/docs/)
+3. PDF
 
