@@ -15,7 +15,7 @@
 | 6 | συμμετοχικό περιεχόμενο 2Α | https://github.com/upatras-hci/iv/discussions/134| |
 | 7 | βιογραφικό Β | https://github.com/upatras-hci/iv/discussions/145 | |
 | 8 | γραμμή εντολών (iv cli) |https://github.com/upatras-hci/iv/discussions/153 | |
-| 9 | συμμετοχικό περιεχόμενο 1Β | | |
+| 9 | συμμετοχικό περιεχόμενο 1Β |https://github.com/upatras-hci/iv/discussions/156 | |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -137,3 +137,24 @@ Images | Gallery
 
 Με την βοήθεια του Asciinema κατέγραψα τα αποτελέσματα:
 https://asciinema.org/a/KgaqxR4Snq3eP494q0JYQzTVP
+
+# **Εβδομάδα 9 | Συμμετοχικό Περιεχόμενο 1Β**
+**Για το Συμμετοχικό Περιεχόμενο 1Β:**
+
+**Μελέτη Περίπτωσης**
+Για την μελέτη περίπτωσης αποφάσισα να παρθέσω πληροφορίες σχετικά με το Nintendo DS. 
+Το Nintendo DS είναι μια φορητή κονσόλα βιντεοπαιχνιδιών που κυκλοφόρησε από την Nintendo το 2004. Γνωστή για την καινοτόμα της σχεδίαση με δύο οθόνες, το Nintendo DS έφερε την έννοια του "Dual Screen" στον κόσμο των παιχνιδιών. Η κονσόλα διαθέτει μια κύρια οθόνη και μια αφής οθόνη στο κάτω μέρος, ενθαρρύνοντας νέες μορφές αλληλεπίδρασης και δημιουργώντας μια πλούσια εμπειρία παιχνιδιού. Με μια εκτεταμένη βιβλιοθήκη παιχνιδιών και καινοτόμες λειτουργίες, το Nintendo DS έγινε αγαπητό από εκατομμύρια παίκτες παγκοσμίως και συνέβαλε σημαντικά στην εξέλιξη της φορητής gaming εμπειρίας.
+
+![Nintendo_DS](https://github.com/upatras-hci/iv/assets/79599303/09f88977-e145-4128-8ba1-fc240d19055e)
+
+- [link από τον φάκελο _case-study](https://github.com/ElenaChaidou/site/blob/master/_case-study/NintendoDS.md)
+- [link από τον φάλελο _includes](https://github.com/ElenaChaidou/site/blob/master/_includes/cs-NintendoDS.md)
+
+**Βιογραφία**
+Για την Βιογραφία αποφάσισα να παραθέσω πληροφορίες σχετικά με τον Don Norman. Ο Don Norman είναι ένας επιδραστικός γνωστικός επιστήμονας, σχεδιαστής και μηχανικός χρηστικότητας, γνωστός για τις σημαντικές συνεισφορές του στον τομέα της αλληλεπίδρασης ανθρώπου-υπολογιστή. Είναι συγγραφέας του βιβλίου "The Design of Everyday Things," το οποίο έχει καθιερωθεί ως κλασικό στον χώρο του σχεδιασμού και ανθρώπινης αλληλεπίδρασης.
+
+![Norman](https://github.com/upatras-hci/iv/assets/79599303/89dab3b7-351a-48e7-95c4-6339c68842ee)
+
+
+- [link από τον φάκελο _biography](https://github.com/ElenaChaidou/site/blob/master/_biography/Norman.md)
+- [link από τον φάλελο _includes](https://github.com/ElenaChaidou/site/blob/master/_includes/bio-norman.md)
