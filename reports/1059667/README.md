@@ -16,7 +16,7 @@
 | 6 | συμμετοχικό περιεχόμενο 2Α |https://github.com/upatras-hci/iv/discussions/133 | |
 | 7 | βιογραφικό Β |https://github.com/upatras-hci/iv/discussions/151 | |
 | 8 | γραμμή εντολών (iv cli) |https://github.com/upatras-hci/iv/discussions/155 | |
-| 9 | συμμετοχικό περιεχόμενο 1Β | | |
+| 9 | συμμετοχικό περιεχόμενο 1Β |https://github.com/upatras-hci/iv/discussions/157 | |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -136,3 +136,18 @@ https://github.com/Rstath/site/blob/master/_remix/mouse-form_gender.md
 - [Τελευταίος Μήνας](https://asciinema.org/a/SQFOq1ssJXDK10nuwxnPoyUVe)
 
 - [Τελευταία Εβδομάδα](https://asciinema.org/a/fLFXx9imG07H24g6YsNA9TCHL)
+
+
+# **Εβδομάδα 9 | Συμμετοχικό Περιεχόμενο 1Β**
+
+Για τη συγκεκριμένη δραστηριότητα επέλεξα να ασχοληθώ:
+
+- **στην περίπτωση μελέτης**: με το Raspberry Pi που είναι ένας μικρός υπολογιστής σε μέγεθος πιστωτικής κάρτας. Διαθέτει πολλές λειτουργίες και διεπαφές παρόμοιες με αυτές που γνωρίζουμε και αναγνωρίζουμε από "μεγαλύτερους υπολογιστές".
+1.  [Προσωπικό repository](https://github.com/Rstath/site/blob/master/_case-study/raspberry_pi.md) 
+2. [Περιγραφή](https://github.com/Rstath/site/blob/master/_includes/cs-raspberry-pi.md)
+
+- **στη βιογραφία**: με τον Jakob Nielsen διεθνούς φήμης ερευνητή της αλληλεπίδρασης ανθρώπου-υπολογιστή και συνιδρυτή του Ομίλου Nielsen Norman.
+1.  [Προσωπικό repository](https://github.com/Rstath/site/blob/master/_biography/nielsen.md) 
+2. [Περιγραφή](https://github.com/Rstath/site/blob/master/_includes/bio-nielsen.md)
+
+Οι αλλαγές πραγματοποιήθηκαν στους φακέλους _case-study, _biography και _includes αντίστοιχα.
