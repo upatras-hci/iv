@@ -16,7 +16,7 @@
 | 7 | βιογραφικό Β | https://github.com/upatras-hci/iv/discussions/145 | |
 | 8 | γραμμή εντολών (iv cli) |https://github.com/upatras-hci/iv/discussions/153 | |
 | 9 | συμμετοχικό περιεχόμενο 1Β |https://github.com/upatras-hci/iv/discussions/156 | |
-| 10 | γραμμή εντολών (iv cli | | |
+| 10 | γραμμή εντολών (iv cli) | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
