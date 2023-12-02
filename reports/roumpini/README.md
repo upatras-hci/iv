@@ -15,7 +15,7 @@
 | 5 | γραμμή εντολών (custom desktop environment) |https://github.com/upatras-hci/iv/discussions/148| |
 | 6 | συμμετοχικό περιεχόμενο 2Α |https://github.com/upatras-hci/iv/discussions/133 | |
 | 7 | βιογραφικό Β |https://github.com/upatras-hci/iv/discussions/151 | |
-| 8 | γραμμή εντολών (iv cli) | | |
+| 8 | γραμμή εντολών (iv cli) |https://github.com/upatras-hci/iv/discussions/155 | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
@@ -127,3 +127,12 @@ https://github.com/Rstath/site/blob/master/_remix/mouse-form_gender.md
 - [Repository's link](https://github.com/Rstath/simple-cv)
 -  [CV](https://roumpini-simple-cv.netlify.app/docs/)
 -  [pdf](https://roumpini-simple-cv.netlify.app/docs/Stathopoulou-CV.pdf)
+
+
+# **Εβδομάδα 8 | Γραμμή Εντολών 3**
+
+Για τη συγκεκριμένη δραστηριότητα χρησιμοποιήθηκε το [GitHub repository του Holman](https://github.com/holman/spark). Με τη χρήση του κατάλληλου αρχείου και των κατάλληλων παραμέτρων, έγινε οπτικοποίηση των δεδομένων που αφορούν στους σεισμούς άνω του 1.0 βαθμού στην κλίμακα Ρίχτερ που έγιναν τον τελευταίο μήνα καθώς και την τελευταία εβδομάδα παγκοσμίως όπως φαίνεται και από τα links του asciinema.
+
+- [Τελευταίος Μήνας](https://asciinema.org/a/SQFOq1ssJXDK10nuwxnPoyUVe)
+
+- [Τελευταία Εβδομάδα](https://asciinema.org/a/fLFXx9imG07H24g6YsNA9TCHL)
