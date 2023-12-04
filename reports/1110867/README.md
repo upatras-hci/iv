@@ -9,7 +9,7 @@
 | 5 | γραμμή εντολών (custom desktop environment) | [Virtual Machine - Arch Linux I3](https://github.com/upatras-hci/iv/discussions/131) | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | [Συμμετοχικό περιεχόμενο 6ης εβδομάδας](https://github.com/upatras-hci/iv/discussions/139)| |
 | 7 | βιογραφικό Β | [Fotis CV](https://fotis-cv.netlify.app/) - [Repo URL](https://github.com/psotis/fotis) | |
-| 8 | γραμμή εντολών (iv cli) | | |
+| 8 | γραμμή εντολών (iv cli) | [Εγκατάσταση γραφικού περιβάλλοντος deepin](https://github.com/upatras-hci/iv/discussions/158)| |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
@@ -111,3 +111,14 @@
 
 Εδώ βάζω το link για το νέο repository που έφτιαξα μέσα στο
 οποίο είναι η ιστοσελίδα που δημιούργησα μέσω Netlify: [Repo URL](https://github.com/psotis/fotis)
+
+<h2>Εβδομάδα 8</h2>
+
+Για την εγκατάσταση νέου γραφικού περιβάλλοντος, επέλεξα το deepin. Το γραφικό αυτό περιβάλλον το επέλεξα έπειτα από έρευνα που έκανα χωρίς να κάνω fork κάποιο άλλο απο κάποιο repository. Ξεκίνησα κάνοντας ένα update του συστήματος μέσω της γραμμής εντολών (sudo pacman -Syu).  Έπειτα γραφοντας την εντολη (sudo pacman -S deepin deepin-extra), εγκατέστησα το deepin μαζί με κάποια πακέτα του. Η εγκατάσταση αποδείχθηκε τελικά λίγο πιο δύσκολη απ' ότι περίμενα γιατί έπρεπε να εγκαταστήσω και κάποια άλλα packages αλλά πέτυχε.
+
+Ο σύνδεσμος απο το asciinema: [Εγκατάσταση deepin](https://asciinema.org/a/jKRaDevmlP6DsVmi0heRBecFP)
+
+Και ένα screenshot από το γραφικό περιβάλλον που εγκαταστήθηκε: 
+
+![deepin](https://github.com/upatras-hci/iv/assets/77319413/a163c625-a0f7-4f80-8f98-abdcf255263b)
+
