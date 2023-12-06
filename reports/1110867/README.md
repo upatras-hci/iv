@@ -10,7 +10,7 @@
 | 6 | συμμετοχικό περιεχόμενο 2Α | [Συμμετοχικό περιεχόμενο 6ης εβδομάδας](https://github.com/upatras-hci/iv/discussions/139)| |
 | 7 | βιογραφικό Β | [Fotis CV](https://fotis-cv.netlify.app/) - [Repo URL](https://github.com/psotis/fotis) | |
 | 8 | γραμμή εντολών (iv cli) | [Εγκατάσταση γραφικού περιβάλλοντος deepin](https://github.com/upatras-hci/iv/discussions/158)| |
-| 9 | συμμετοχικό περιεχόμενο 1Β | | |
+| 9 | συμμετοχικό περιεχόμενο 1Β | [Μελέτη και βιογραφία - συμμετοχικό Β1](https://github.com/upatras-hci/iv/discussions/159)| |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -122,3 +122,14 @@
 
 ![deepin](https://github.com/upatras-hci/iv/assets/77319413/a163c625-a0f7-4f80-8f98-abdcf255263b)
 
+<h2>Εβδομάδα 9</h2>
+
+Για την περίπτωση της βιογραφίας επέλεξα τον Mark Zuckerberg και την ιδρυση του Facebook:
+
+- [Repository](https://github.com/psotis/site/blob/master/_case-study/facebook.md)
+- [Description](https://github.com/psotis/site/blob/master/_includes/face.md)
+
+Για την περίπτωση της μελέτης επέλεξα την διάδραση της  συσκευής Ipod που ίδρυσε η Apple:
+
+- [Repository](https://github.com/psotis/site/blob/master/_case-study/ipod.md)
+- [Description](https://github.com/psotis/site/blob/master/_includes/ipod.md)
