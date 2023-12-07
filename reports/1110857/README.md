@@ -166,3 +166,25 @@ GitHub Repository  που χρησιμοποιήθηκε : [Simple-CV](https://g
 Το δικό μου GitHub Repository : [CV Repo](https://github.com/IKaramitsos/simple-cv)
 
 Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
+
+### 8η εβδομάδα  - Γραμμή Εντολών (iv cli)
+
+Για την **8η Εβδομάδα** και την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσαρμογές και  στο υποσύστημα της γραμμής εντολών πειραματίστηκα με την χρήση των console services. Συγκεκριμένα, χρησιμοποιόντας το [awesome-console-services](https://github.com/chubin/awesome-console-services) προσπάθησα να βρω σημαντικές πληροφορίες για να οπτικοποιήσω.
+Έκανα εγκατάσταση μερικών packages συγκεκριμένα:
+
+`sudo pacman -S curl`, Retrieving, Downloading, Streaming Data
+`sudo pacman -S inetutils`, Network Utilities Package
+`sudo pacman -S nmap`, Νetwork Εxploration, Ηost Discovery`
+
+Αρχικά έγινε προσπάθεια οπτικοποίησης ενώς zoomable map ( mapscii.me ) με την χρήση του command line:
+`telnet mapscii.me`, το οποίο για κάποιον λόγο αδυνατούσε να φορτώσει, πιθανόν για κάποιο package που δεν είχα κατεβάσει.
+![image](https://github.com/upatras-hci/iv/assets/63364209/2585f52d-c9b9-4a55-ac31-905318b91d32)
+Στην συνέχεια προσπάθησα να πάρω κάποια δεδομένα σχετικά με τον Covid-19 αλλά υπήρχε πρόβλημα, μιας και χρειαζόταν κάποιο "Payment" οπότε δεν γινόταν κάποιο deploy.
+
+### Οπότε οι πληροφορίες που κατάφερα να οπτικοποιήσω ήταν :
+
+| Cryptocurrencies Exchange Rates | UNIX/Linux Cheat Sheets | Snake Game in Terminal | 
+| --- | --- | --- | 
+| Με την χρήση του `curl rate.sx` πήρα δεδομένα σχετικά με τα exchange rates των cryptocurrencies | Με την χρήση του `curl cheat.sh` οπτικοποίησα ένα cheat sheet με την χρήση curl σχετικά με commands σε UNIX/Linux | Τέλος οπτικοποίησα ένα snake game, με την χρήση του `ssh sshtron.zachlatta.com` | 
+| [![asciicast](https://asciinema.org/a/625662.svg)](https://asciinema.org/a/625662) | [![asciicast](https://asciinema.org/a/625664.svg)](https://asciinema.org/a/625664)  | [![asciicast](https://asciinema.org/a/625666.svg)](https://asciinema.org/a/625666) | 
+
