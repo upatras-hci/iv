@@ -9,7 +9,7 @@
 | 5 | γραμμή εντολών (custom desktop environment) | [upatras-hci#132](https://github.com/upatras-hci/iv/discussions/132) | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | [upatras-hci#142](https://github.com/upatras-hci/iv/discussions/142) | |
 | 7 | βιογραφικό Β | [upatras-hci#152](https://github.com/upatras-hci/iv/discussions/152) | |
-| 8 | γραμμή εντολών (iv cli) | | |
+| 8 | γραμμή εντολών (iv cli) | [upatras-hci#160](https://github.com/upatras-hci/iv/discussions/160) | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
@@ -179,6 +179,7 @@ Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 Αρχικά έγινε προσπάθεια οπτικοποίησης ενώς zoomable map ( mapscii.me ) με την χρήση του command line:
 `telnet mapscii.me`, το οποίο για κάποιον λόγο αδυνατούσε να φορτώσει, πιθανόν για κάποιο package που δεν είχα κατεβάσει.
 ![image](https://github.com/upatras-hci/iv/assets/63364209/2585f52d-c9b9-4a55-ac31-905318b91d32)
+
 Στην συνέχεια προσπάθησα να πάρω κάποια δεδομένα σχετικά με τον Covid-19 αλλά υπήρχε πρόβλημα, μιας και χρειαζόταν κάποιο "Payment" οπότε δεν γινόταν κάποιο deploy.
 
 ### Οπότε οι πληροφορίες που κατάφερα να οπτικοποιήσω ήταν :
