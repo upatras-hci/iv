@@ -10,7 +10,7 @@
 | 6 | συμμετοχικό περιεχόμενο 2Α | [upatras-hci#142](https://github.com/upatras-hci/iv/discussions/142) | |
 | 7 | βιογραφικό Β | [upatras-hci#152](https://github.com/upatras-hci/iv/discussions/152) | |
 | 8 | γραμμή εντολών (iv cli) | [upatras-hci#160](https://github.com/upatras-hci/iv/discussions/160) | |
-| 9 | συμμετοχικό περιεχόμενο 1Β | | |
+| 9 | συμμετοχικό περιεχόμενο 1Β | [upatras-hci#161](https://github.com/upatras-hci/iv/discussions/161) | |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -189,3 +189,16 @@ Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 | Με την χρήση του `curl rate.sx` πήρα δεδομένα σχετικά με τα exchange rates των cryptocurrencies | Με την χρήση του `curl cheat.sh` οπτικοποίησα ένα cheat sheet με την χρήση curl σχετικά με commands σε UNIX/Linux | Τέλος οπτικοποίησα ένα snake game, με την χρήση του `ssh sshtron.zachlatta.com` | 
 | [![asciicast](https://asciinema.org/a/625662.svg)](https://asciinema.org/a/625662) | [![asciicast](https://asciinema.org/a/625664.svg)](https://asciinema.org/a/625664)  | [![asciicast](https://asciinema.org/a/625666.svg)](https://asciinema.org/a/625666) | 
 
+### 9η εβδομάδα  - Συμμετοχικό Περιεχόμενο 1Β
+
+Με βάση την θεματολογία που επιλεχτηκε : 
+> η απεικόνηση της αλληλεπίδρασης του ανθρώπου με διάφορες τεχνολογικές συσκευές στην πάροδο του χρόνου
+
+
+| Μελέτη Περίπτωσης | Βιογραφία |
+| ---- | ---- |
+| Μια νέα μελέτη περίπτωσης όσον αναφορά την θεματολογία της φωτογραφίας και της τηλεόρασης  είναι το **Adobe Photoshop**. Σύμφωνα με την Wikipedia το 1987 ο Τόμας Κνολ, ένας φοιτητής του Πανεπιστημίου του Μίσιγκαν, ανέπτυξε ένα πρόγραμμα που εμφάνιζε εικόνες σε αποχρώσεις του γκρίζου (grayscale) σε μονοχρωματικό περιβάλλον. Αυτό το πρόγραμμα, το οποίο ονόμασε Display, τράβηξε την προσοχή του αδελφού του, Τζον Κνολ, ο οποίος πρότεινε στον Τόμας να αναπτύξει ένα πλήρες πρόγραμμα επεξεργασίας εικόνας. Ο Τόμας έκανε διάλειμμα έξι μηνών από τις σπουδές του το 1988 και, σε συνεργασία με τον αδελφό του, ανέπτυξε το πρόγραμμα, το οποίο ονόμασαν ImagePro. Αργότερα το ίδιο έτος, ο Τόμας μετονόμασε το πρόγραμμα του σε Photoshop και έπειτα από συμφωνία με την κατασκευάστρια εταιρία σαρωτών Barneyscan, το πρόγραμμα διανεμήθηκε μαζί με μερικούς σαρωτές. Η πρώτη του  επίσημη έκδοση βγήκε  στο 1988 με ένα στιγμιότυπο του  παρακάτω. Με αυτόν τον τρόπο κατάφερε να κάνει και την λέξη Photoshop ένα generic trademark μιας και όλοι την χρησιμοποιούν μέχρι και σήμερα. Για την περίοδο από το  1958 έως το 1970 δεν υπήρχαν  οι ψηφιακές φωτογραφικές μηχανές ή λογισμικό επεξεργασίας εικόνας οπότε το κοντινότερο λογισμικό σχετικά με την επεξεργασία της φωτογραφίας ήρθε το 1987-1990. Προηγουμένος  οι φωτογράφοι είχαν την αναλογική επεξεργασία. | Τέλος, πραγματοποιήθηκε μιας βιογραφική ανασκόπηση του Thomas Knoll, μιας και η ανάπτυξη του προγράμματος αυτού βοήθησε σημαντικό στο κομμάτι της αλληλεπίδρασης ανθρώπου υπολογιστή. Η ανάπτυξη αυτή, άλλαξε τον τρόπο με τον οποίο οι άνθρωποι αλληλεπιδρούν με τις εικόνες και την τεχνολογία, ξεκινόντας από υπορουτίνες επεξεργασίας  εικόνων ονομάζοντας το λογισμικό αυτό ως  Display, σε ImagePro και τελικά Photoshop. |
+| ![image](https://github.com/upatras-hci/iv/assets/63364209/3e476b66-c2de-4432-a768-b7684e349115) | ![ThomasKnoll](https://github.com/upatras-hci/iv/assets/63364209/ebda3335-748e-4352-bd6e-3950d6b8f83a) |
+| [_case-study/AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_case-study/AdobePhotoshop.md) | [_biography/Thomas-Knoll](https://github.com/IKaramitsos/site/blob/master/_biography/Thomas-Knoll.md) |
+| [_includes/cs-AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_includes/cs-AdobePhotoshop.md) | [_includes/bio-knoll](https://github.com/IKaramitsos/site/blob/master/_includes/bio-knoll.md) |
+| **Sources:** https://el.wikipedia.org/wiki/Adobe_Photoshop, https://kimon.hosting.nyu.edu/physical-electrical-digital/items/show/1517, https://www.fastprint.co.uk/blog/the-evolution-of-photoshop-25-years-in-the-making.html | **Sources:** https://en.wikipedia.org/wiki/Thomas_Knoll, https://iphf.org/inductees/thomas-knoll/,  https://history-computer.com/thomas-knoll-complete-biography/  |
