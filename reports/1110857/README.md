@@ -202,3 +202,19 @@ Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 | [_case-study/AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_case-study/AdobePhotoshop.md) | [_biography/Thomas-Knoll](https://github.com/IKaramitsos/site/blob/master/_biography/Thomas-Knoll.md) |
 | [_includes/cs-AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_includes/cs-AdobePhotoshop.md) | [_includes/bio-knoll](https://github.com/IKaramitsos/site/blob/master/_includes/bio-knoll.md) |
 | **Sources:** https://el.wikipedia.org/wiki/Adobe_Photoshop, https://kimon.hosting.nyu.edu/physical-electrical-digital/items/show/1517, https://www.fastprint.co.uk/blog/the-evolution-of-photoshop-25-years-in-the-making.html | **Sources:** https://en.wikipedia.org/wiki/Thomas_Knoll, https://iphf.org/inductees/thomas-knoll/,  https://history-computer.com/thomas-knoll-complete-biography/  |
+
+### 10η εβδομάδα - Γραμμή Εντολών (iv cli)
+
+Για την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσαρμογές και στο υποσύστημα της γραμμής εντολών πειραματίστηκα με το [git-bars](https://github.com/knadh/git-bars) και με το [pastel](https://github.com/sharkdp/pastel).
+
+## git-bars
+
+| git-bars | asciinema |
+| ---- | ---- |
+| Στο παράδειγμα που φαίνεται παρακάτω αποφάσισα να κάνω μια προσωπική οπτικοποιήση του repository μου σχετικά με τα commits που έχω κάνει μέχρι στιγμής στην τελική αναφορά που πρέπει να ετοιμάσουμε. Οπότε έκανα εγκατάσταση του git-bars στο arch Linux i3 περιβάλλον (μετά από λίγο ψάξιμο μιας και υπήρχαν κάποια προβλήματα) και ακολούθησε την διαδικάσια που φαίνεται και στην καταγραφή που έκανα  με το asciinema. | [![asciicast](https://asciinema.org/a/626131.svg)](https://asciinema.org/a/626131) |
+
+## pastel
+
+| pastel | asciinema |
+| ---- | ---- |
+| Στο παράδειγμα που φαίνεται παρακάτω αποφάσισα να δοκιμάσω το pastel. Το pastel είχε πολλούς τρόπους να συνδιάσεις και να χρησιμοποιήσεις το χρώμα ακόμη και να κάνεις mix. Αποφάσισα να κάνω ένα shell script και να δοκιμάσω επιγραμματικά μερικά χρώματα σε text, υπογράμμιση και bold. | [![asciicast](https://asciinema.org/a/626158.svg)](https://asciinema.org/a/626158) |
