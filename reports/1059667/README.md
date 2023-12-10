@@ -153,8 +153,8 @@ https://github.com/Rstath/site/blob/master/_remix/mouse-form_gender.md
 Οι αλλαγές πραγματοποιήθηκαν στους φακέλους _case-study, _biography και _includes αντίστοιχα.
 
 
-# **Εβδομάδα 10 | Γραμμή Εντολών 4
-**
+# **Εβδομάδα 10 | Γραμμή Εντολών 4**
+
 Για τις ανάγκες της συγκεκριμένης δραστηριότητας εγκατέστησα σε virtual environment του Arch Linux το [python wordcloud](https://github.com/amueller/word_cloud). Ως πηγή για κείμενο επέλεξα το βιβλίο Harry Potter & The Half Blood Prince σε μορφή .txt και σαν mask όρισα το χαρακτηριστικό σήμα του ήρωα τον κεραυνό. Παρακάτω επισυνάπτω τη διαδικασία δημιουργίας του customized συννεφόλεξου και την τελική εικόνα που δημιουργήθηκε.
 [Δημιουργία συννεφόλεξου](https://asciinema.org/a/CAu0sBjax2ArG9UKFmaqZQNZV)
 
