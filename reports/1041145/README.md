@@ -13,7 +13,7 @@
 | 5 | γραμμή εντολών (custom desktop environment) | https://github.com/upatras-hci/iv/discussions/137| |
 | 6 | συμμετοχικό περιεχόμενο 2Α | https://github.com/upatras-hci/iv/discussions/136 | |
 | 7 | βιογραφικό Β | | |
-| 8 | γραμμή εντολών (iv cli) | | |
+| 8 | γραμμή εντολών (iv cli) | https://github.com/upatras-hci/iv/discussions/167 | |
 | 9 | συμμετοχικό περιεχόμενο 1Β |https://github.com/upatras-hci/iv/discussions/164 | |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
@@ -104,6 +104,19 @@ Firefox
 
 ### 6η Εβδομάδα- Συμμετοχικό Περιεχόμενο 2Α 
 Για το συγκεκριμένο παραδοτέο, αφού μελέτησα τα παραδείγματα του βιβλίου, αποφάσισα να παρουσιάσω δύο διαφορετικές εκδοχές που αφορούν τα παραδειγματα [Mouse form](https://github.com/xrusa-pan/site/blob/739d9319a434b7bf44838423615e4962edf795e8/_remix/mouse-form.md) και [Image zoom](https://github.com/xrusa-pan/site/blob/739d9319a434b7bf44838423615e4962edf795e8/_remix/image-zoom.md). Στην πρώτη περίπτωση τροποποίησα το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί  έχει προεπιλεγμένη τιμή “Gender” και οι διαθέσιμες επιλογές να είναι “Male”,”Female”. Η δεύτερη περίπτωση συνδύασα τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα). 
+
+### Εβδομάδα 8η | Γραμμή Εντολών (iv cli) |
+Σε αυτή την άσκηση χρησιμοποίησα την εντολή [pastel](https://github.com/sharkdp/pastel)  από τις [διαθέσιμες ασκήσεις γραμμής εντολών](https://github.com/epidrome/dokey). Αυτό το πακέτο χρησιμοποιεί χρώματα για να βελτιώσει τοCommand Line Interface), δηλαδή εκτυπώνει έγχρωμα κείμενα για να τα κάνει πιο όμορφα και αναγνωρίσιμα. Ακολούθησα προσεκτικά τις οδηγίες του αποθετηρίου. Το Pastel είναι ένα εργαλείο γραμμής εντολών για τη δημιουργία και την επεξεργασία χρωμάτων σε εφαρμογές τερματικού. 
+
+Χρησιμοποιώ χρώμα για να βελτιώσω τα εργαλεία cli:
+
+Στο παρακάτω βίντεο φαίνονται οι δοκιμές που έχω κάνει με την χρήση του pastel:
+<a href="https://asciinema.org/a/cJ2Feh9c9tPLHkmsw5R1GW0TF" target="_blank"><img src="https://asciinema.org/a/cJ2Feh9c9tPLHkmsw5R1GW0TF.svg" /></a>
+
+Επιπλέον με την χρήση του curl rate.sx πήρα δεδομένα σχετικά με τα exchange rates των cryptocurrencies
+<a href="https://asciinema.org/a/gqJv9e7XvmPj0GcoomUg1FUWX" target="_blank"><img src="https://asciinema.org/a/gqJv9e7XvmPj0GcoomUg1FUWX.svg" /></a>
+Τέλος οπτικοποίησα ένα snake game, με την χρήση του ssh sshtron.zachlatta.com
+<a href="https://asciinema.org/a/IVzgRkom5u7BmtFOvp79B239l" target="_blank"><img src="https://asciinema.org/a/IVzgRkom5u7BmtFOvp79B239l.svg" /></a>
 
 ### Εβδομάδα 9η | Συμμετοχικό Περιεχόμενο 1Β |
 Για τη συγκεκριμένη δραστηριότητα επέλεξα να ασχοληθώ:
