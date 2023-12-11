@@ -114,7 +114,7 @@ Firefox
 <a href="https://asciinema.org/a/cJ2Feh9c9tPLHkmsw5R1GW0TF" target="_blank"><img src="https://asciinema.org/a/cJ2Feh9c9tPLHkmsw5R1GW0TF.svg" /></a>
 
 Επιπλέον με την χρήση του curl rate.sx πήρα δεδομένα σχετικά με τα exchange rates των cryptocurrencies
-<a href="https://asciinema.org/a/gqJv9e7XvmPj0GcoomUg1FUWX" target="_blank"><img src="https://asciinema.org/a/gqJv9e7XvmPj0GcoomUg1FUWX.svg" /></a>
+<a href="https://asciinema.org/a/gqJv9e7XvmPj0GcoomUg1FUWX" target="_blank"><img src="https://asciinema.org/a/gqJv9e7XvmPj0GcoomUg1FUWX.svg" /></a><br>
 Τέλος οπτικοποίησα ένα snake game, με την χρήση του ssh sshtron.zachlatta.com
 <a href="https://asciinema.org/a/IVzgRkom5u7BmtFOvp79B239l" target="_blank"><img src="https://asciinema.org/a/IVzgRkom5u7BmtFOvp79B239l.svg" /></a>
 
