@@ -15,7 +15,7 @@
 | 7 | βιογραφικό Β | | |
 | 8 | γραμμή εντολών (iv cli) | https://github.com/upatras-hci/iv/discussions/167 | |
 | 9 | συμμετοχικό περιεχόμενο 1Β |https://github.com/upatras-hci/iv/discussions/164 | |
-| 10 | γραμμή εντολών (iv cli | | |
+| 10 | γραμμή εντολών (iv cli | https://github.com/upatras-hci/iv/discussions/168 | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -132,5 +132,21 @@ Firefox
 [Περιγραφή](https://github.com/xrusa-pan/site/blob/master/_includes/bio-sutherland.md)<br>
 Οι αλλαγές πραγματοποιήθηκαν στους φακέλους _case-study, _biography και _includes αντίστοιχα.
 
+### Εβδομάδα 10η | iv cli |
 
+Για την οπτικοποίηση πληροφορίας σε αυτή την άσκηση γραμμής εντολών που έχω κάνει είναι τα εικονίδια στο τερματικό:
+
+1. Δημιουργώ έναν κλώνο εικονιδίων στο τερματικό με την παρακάτω εντολή:
+
+$ git clone https://github.com/sebastiencs/icons-in-terminal.git
+
+Όταν κλείνω το τερματικό και το ανοίγω ξανά, εμφανίστηκαν εικονίδια όπως το στιγμιότυπο οθόνης παρακάτω.
+
+**SCREENSHOT**
+![VirtualBox_Archlinux_12_12_2023_01_47_46](https://github.com/upatras-hci/iv/assets/147083278/52f3634c-fd3a-496e-a10d-efe8ef19b428)
+Icons in terminal package
+
+**VIDEO ΕΓΚΑΤΑΣΤΑΣΗΣ**<a href="https://asciinema.org/a/AG5ExzIe69gcioEIMNU64JFqe" target="_blank"><img src="https://asciinema.org/a/AG5ExzIe69gcioEIMNU64JFqe.svg" /></a>
+
+<a href="https://asciinema.org/a/JREpO0VPXOoe9wvx9l5H147i7" target="_blank"><img src="https://asciinema.org/a/JREpO0VPXOoe9wvx9l5H147i7.svg" /></a>
 
