@@ -11,7 +11,7 @@
 | 7 | βιογραφικό Β | [Fotis CV](https://fotis-cv.netlify.app/) - [Repo URL](https://github.com/psotis/fotis) | |
 | 8 | γραμμή εντολών (iv cli) | [Εγκατάσταση γραφικού περιβάλλοντος deepin](https://github.com/upatras-hci/iv/discussions/158)| |
 | 9 | συμμετοχικό περιεχόμενο 1Β | [Μελέτη και βιογραφία - συμμετοχικό Β1](https://github.com/upatras-hci/iv/discussions/159)| |
-| 10 | γραμμή εντολών (iv cli | | |
+| 10 | γραμμή εντολών (iv cli | [Γραμμή εντολών icons-in-terminal](https://github.com/upatras-hci/iv/discussions/170)| |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -133,3 +133,9 @@
 
 - [Repository](https://github.com/psotis/site/blob/master/_case-study/ipod.md)
 - [Description](https://github.com/psotis/site/blob/master/_includes/ipod.md)
+
+<h2>Εβδομάδα 10</h2>
+
+Για την άσκηση της εβδομάδας 10 για την γραμμή εντολών χρησιμοποίησα το repository icons-in-terminal, για να παρουσιάσω την σωστή οπτικοποίηση της πληροφορίας με την εγκατάσταση τους στα ArchLinux. Δημιούργησα έναν κλώνο απο το repository και στην γραμμή εντολών έτρεξα την εγκατάσταση. 
+
+[Asciinema](https://asciinema.org/a/DygnlcXQNyl9kECcQ1egmXtmr)
