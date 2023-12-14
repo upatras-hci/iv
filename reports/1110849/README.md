@@ -142,3 +142,8 @@ Firefox
 
 Οι αλλαγές πραγματοποιήθηκαν στους φακέλους _case-study, _biography και _includes αντίστοιχα.
 
+## Εβδομάδα 10η | iv cli
+
+Σε αυτήν την άσκηση, χρησιμοποίησα την εντολή pastel από τις διαθέσιμες ασκήσεις γραμμής εντολών, το οποίο είναι ένα πακέτο για την βελτίωση της διεπαφής γραμμής εντολών.
+
+<a href="https://asciinema.org/a/fgCSifzdWWaEeuOhjKxux2Raj" target="_blank"><img src="https://asciinema.org/a/fgCSifzdWWaEeuOhjKxux2Raj.svg" /></a>
