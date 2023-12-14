@@ -111,3 +111,14 @@ Firefox
 ## Εβδομάδα 6η Συμμετοχική Περιεχόμενο 2Α
 
 Για το συγκεκριμένο παραδοτέο, αφού μελέτησα τα παραδείγματα του βιβλίου, αποφάσισα να παρουσιάσω δύο διαφορετικές εκδοχές που αφορούν τα παραδείγματα [Image filter](https://github.com/tonykontos/site/blob/f0cb0d70f47a65941aa56df3c903ada53d57b72d/_remix/image-filter.md) και [SVG Shape Example](https://github.com/tonykontos/site/blob/83aa88c90aaf6c051fcd1d9553fca26f72394819/_remix/image.md). Στο πρώτο παράδειγμα άλλαξα την εικόνα που και προσάρμοσα το μέγεθός της και μετά άλλαξα τα φίλτρα χρησιμοποιώντας το 8 φίλτρο στην σειρά και το δεύτερο παράδειγμα δημιούργησα ένα νέο svg με κώδικα html στο μισώ μέγεθος από το αρχικό svg.
+
+## Εβδομάδα 7η Βιογραφικό Β 
+
+## Εβδομάδα 8η Γραμμή Εντολών (iv cli)
+
+Για την εβδομάδα 8 και την απεικόνιση πληροφοριών και δεδομένων σε εναλλακτικά προσαρμογές και υποσυστήματα γραμμής εντολών, επεξεργάστηκα τα console services.
+
+<a href="https://asciinema.org/a/4qyrKYXzWdHOetEwHZ5L84wsG" target="_blank"><img src="https://asciinema.org/a/4qyrKYXzWdHOetEwHZ5L84wsG.svg" /></a>
+
+<a href="https://asciinema.org/a/DEDwS1eoIkLW1JMnjXSmV9xGM" target="_blank"><img src="https://asciinema.org/a/DEDwS1eoIkLW1JMnjXSmV9xGM.svg" /></a>
+
