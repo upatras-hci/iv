@@ -118,9 +118,9 @@ Firefox
 
 Για την εβδομάδα 8 και την απεικόνιση πληροφοριών και δεδομένων σε εναλλακτικά προσαρμογές και υποσυστήματα γραμμής εντολών, επεξεργάστηκα τα console services.
 
-<a href="https://asciinema.org/a/4qyrKYXzWdHOetEwHZ5L84wsG" target="_blank"><img src="https://asciinema.org/a/4qyrKYXzWdHOetEwHZ5L84wsG.svg" /></a>
+<a href="https://asciinema.org/a/znljMkVc2lbqIsopvSIDqTwlG" target="_blank"><img src="https://asciinema.org/a/znljMkVc2lbqIsopvSIDqTwlG.svg" /></a>
 
-<a href="https://asciinema.org/a/DEDwS1eoIkLW1JMnjXSmV9xGM" target="_blank"><img src="https://asciinema.org/a/DEDwS1eoIkLW1JMnjXSmV9xGM.svg" /></a>
+<a href="https://asciinema.org/a/eTu1c0qJD5yDzBWtKQXy1A7Yn" target="_blank"><img src="https://asciinema.org/a/eTu1c0qJD5yDzBWtKQXy1A7Yn.svg" /></a>
 
 ## Εβδομάδα 9η Συμμετοχικό Περιεχόμενο 1Β
 
