@@ -146,4 +146,4 @@ Firefox
 
 Σε αυτήν την άσκηση, χρησιμοποίησα την εντολή pastel από τις διαθέσιμες ασκήσεις γραμμής εντολών, το οποίο είναι ένα πακέτο για την βελτίωση της διεπαφής γραμμής εντολών.
 
-<a href="https://asciinema.org/a/fgCSifzdWWaEeuOhjKxux2Raj" target="_blank"><img src="https://asciinema.org/a/fgCSifzdWWaEeuOhjKxux2Raj.svg" /></a>
+<a href="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU" target="_blank"><img src="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU.svg" /></a>
