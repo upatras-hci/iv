@@ -10,7 +10,7 @@
 | 5 | γραμμή εντολών (custom desktop environment) |[Εγκατάσταση WM](https://github.com/upatras-hci/iv/discussions/130)| |
 | 6 | συμμετοχικό περιεχόμενο 2Α |[Συμμετοχικό 2Α](https://github.com/upatras-hci/iv/discussions/147)| |
 | 7 | βιογραφικό Β | | |
-| 8 | γραμμή εντολών (iv cli) | | |
+| 8 | γραμμή εντολών (iv cli) |[Γραμμή εντολών (iv cli)](https://github.com/upatras-hci/iv/discussions/175)| |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
@@ -118,6 +118,18 @@ neofetch: [https://asciinema.org/a/3gSIQ6DudmOl9K3CoyO2l0jJ9](https://asciinema.
 ---
 
 ### Εβδομάδα 8
+
+Για την εβδομάδα 8 μας ζητήθηκε να τρέξουμε 2 ασκήσεις από τον πίνακα visualization, στη σελίδα με τις [διαθέσιμες ασκήσεις γραμμής εντολών](https://github.com/epidrome/dokey?tab=readme-ov-file#visualization).
+
+1. Για την πρώτη άσκηση εγκατέστησα αρχικά το πακέτο rich της python. Στη συνέχεια, δημιούργησα ένα code.html αρχείο μέσα στο φάκελο Downloads, στο οποίο πρόσθεσα ένα μέρος του κώδικα html της άσκησης "slide menu με icons" της [εβδομάδας 6](https://github.com/upatras-hci/iv/discussions/147). Στη συνέχεια, τροποποίησα το χρώμα του κειμένου που φαίνεται στην οθόνη όταν ανοίγεις το αρχείο με την εντολή pygmentize.
+
+Με την βοήθεια του Asciinema κατέγραψα τα αποτελέσματα:
+[https://asciinema.org/a/vFZZqu6Fvp8avEKGXHOiU00zI](https://asciinema.org/a/vFZZqu6Fvp8avEKGXHOiU00zI) 
+
+2. Για τη δεύτερη άσκηση εγκατέστησα το πακέτο pastel και στη συνέχεια έκανα διάφορες δοκιμές εκτύπωσης κειμένου με χρώματα. Στη συνέχεια διάλεξα ένα χρώμα και το χρησιμοποίησα ως background για να τυπώσω επάνω το αρχείο της προηγούμενης άσκησης με bold χαρακτήρες.
+
+Η διαδικασία φαίνεται αναλυτικά και στο ακόλουθο recording:
+[https://asciinema.org/a/dSoHHhzmwDrHJAT98GIQSvM3w](https://asciinema.org/a/dSoHHhzmwDrHJAT98GIQSvM3w)
 
 ---
 
