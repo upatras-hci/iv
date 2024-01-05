@@ -9,7 +9,7 @@
 | 4 | συμμετοχικό περιεχόμενο 1A |[Συμμετοχικό 1Α](https://github.com/upatras-hci/iv/discussions/128)| |
 | 5 | γραμμή εντολών (custom desktop environment) |[Εγκατάσταση WM](https://github.com/upatras-hci/iv/discussions/130)| |
 | 6 | συμμετοχικό περιεχόμενο 2Α |[Συμμετοχικό 2Α](https://github.com/upatras-hci/iv/discussions/147)| |
-| 7 | βιογραφικό Β | | |
+| 7 | βιογραφικό Β |[Βιογραφικό Β](https://github.com/upatras-hci/iv/discussions/176)| |
 | 8 | γραμμή εντολών (iv cli) |[Γραμμή εντολών (iv cli)](https://github.com/upatras-hci/iv/discussions/175)| |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli | | |
@@ -114,6 +114,16 @@ neofetch: [https://asciinema.org/a/3gSIQ6DudmOl9K3CoyO2l0jJ9](https://asciinema.
 ---
 
 ### Εβδομάδα 7
+
+Για την άσκηση της εβδομάδας 7 έκανα αρχικά fork το repository του [simple-cv](https://github.com/plain-plain-text/simple-cv).
+Στη συνέχεια έφτιαξα το δικό μου branch (1110848) και επεξεργάστηκα τις ενότητες του βιογραφικού μέσα από το VS studio και το github. Το δικό μου CV παράγεται στο παρακάτω link:
+
+[https://vasiabi.github.io/simple-cv/](https://vasiabi.github.io/simple-cv/)
+
+Για την παραγωγή του αρχείου pdf εγκατέστησα τα pandoc & MikTex και εκτέλεσα την εντολή process.sh. Με κάθε αλλαγή που γίνεται push στο αρχείο index.html, ανανεώνεται το online βιογραφικό και το pdf που παράγεται.<br>
+- [Repository url](https://github.com/VasiaBi/simple-cv)<br>
+- [CV url](https://vasiabi.github.io/simple-cv/)<br>
+- [PDF url](https://vasiabi.github.io/simple-cv/vasiabi-cv.pdf)
 
 ---
 
