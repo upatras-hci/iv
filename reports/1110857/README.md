@@ -55,6 +55,20 @@
 * Το link του αποθετηρίου που χρησιμοποιήθηκε για την δημιουργία του cv μου: https://github.com/IKaramitsos/online-cv.
 * Το link που παραπέμπει στο βιογραφικό μου: https://ikaramitsos.github.io/online-cv/.
 
+## Βιογραφικό Β
+
+Για το Βιογραφικό Β επέλεξα να ακολουθήσω το [παράδειγμα χωρίς jekyll](https://github.com/plain-plain-text/simple-cv) που λένε οι οδηγίες. Δημιούργησα ένα fork και έκανα clone το repo ώστε να δουλέψω locally. Έγιναν οι αλλαγές στα αρχεία yaml και τα folders που χρειαζόντουσαν όπως sections και metadata ( που φαίνονται και στα commits στο [repository](https://github.com/IKaramitsos/simple-cv) ). Εγκατέστησα τα extensions που χρειάζονται, μιας και στην αρχή αντιμετώπιζα πρόβλημα μιας και μου εμφάνιζε προβλήματα με το pdf installation και error για missing xalatex και pdflatex,  τα οποία έφυγαν μετά την εγκατάσταση του MikTex και τα packages που χρειαζόντουσαν.
+Τα οποία με οδήγησαν στο generate των αρχείων που ήθελα.
+![image](https://github.com/upatras-hci/iv/assets/63364209/9a637f27-4fcb-4915-b9b1-71b474104064)
+
+Επίσης αντιμετώπισα μερικά προβλήματα  κατά την προσπάθεια μου να το σηκώσω σε  Netlify οπότε  προτίμησα να σηκώσω  με GitHub Pages.
+
+GitHub Repository  που χρησιμοποιήθηκε : [Simple-CV](https://github.com/plain-plain-text/simple-cv)
+
+Το δικό μου GitHub Repository : [CV Repo](https://github.com/IKaramitsos/simple-cv)
+
+Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
+
 ## Γραμμή Εντολών (Arch Linux)
 
 
@@ -152,20 +166,6 @@
 https://github.com/IKaramitsos/site/blob/master/_remix/sortable-list.md
 - Σχετικά με το Mouse-draw, έγινε χρήση της μεθόδου του Canvas clearRect() και ενός EventListener ώστε να ικανοποιεί την λειτουργία reset/clear όταν ζωγραφίζει ο άνθρωπος με το πάτημα του 'Space'.
 https://github.com/IKaramitsos/site/blob/master/_remix/mouse-draw.md
-
-## Βιογραφικό Β
-
-Για το Βιογραφικό Β επέλεξα να ακολουθήσω το [παράδειγμα χωρίς jekyll](https://github.com/plain-plain-text/simple-cv) που λένε οι οδηγίες. Δημιούργησα ένα fork και έκανα clone το repo ώστε να δουλέψω locally. Έγιναν οι αλλαγές στα αρχεία yaml και τα folders που χρειαζόντουσαν όπως sections και metadata ( που φαίνονται και στα commits στο [repository](https://github.com/IKaramitsos/simple-cv) ). Εγκατέστησα τα extensions που χρειάζονται, μιας και στην αρχή αντιμετώπιζα πρόβλημα μιας και μου εμφάνιζε προβλήματα με το pdf installation και error για missing xalatex και pdflatex,  τα οποία έφυγαν μετά την εγκατάσταση του MikTex και τα packages που χρειαζόντουσαν.
-Τα οποία με οδήγησαν στο generate των αρχείων που ήθελα.
-![image](https://github.com/upatras-hci/iv/assets/63364209/9a637f27-4fcb-4915-b9b1-71b474104064)
-
-Επίσης αντιμετώπισα μερικά προβλήματα  κατά την προσπάθεια μου να το σηκώσω σε  Netlify οπότε  προτίμησα να σηκώσω  με GitHub Pages.
-
-GitHub Repository  που χρησιμοποιήθηκε : [Simple-CV](https://github.com/plain-plain-text/simple-cv)
-
-Το δικό μου GitHub Repository : [CV Repo](https://github.com/IKaramitsos/simple-cv)
-
-Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 
 ## Γραμμή Εντολών (iv cli)
 
