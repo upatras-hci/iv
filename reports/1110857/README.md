@@ -77,16 +77,6 @@ Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 #### Webring
 Για την υλοποίηση του webring αντιμετώπισα αρκετή δυσκολία να βρω κάποιο που ειναι πρακτικό και εύκολο, οπότε αποφάσισα να υλοποιήσω ένα δικό μου με την βοήθεια κάποιου tutorial. Το webring ονομάζεται [L_Webring](https://github.com/IKaramitsos/L_Webring) το οποίο έχει τις αντίστοιχες οδηγίες ώστε να υλοποιηθεί και από κάποιον άλλο. Το link του webring του οργανισμόυ είναι το https://upatras-hci-2023.netlify.app/.
 
-## Γραμμή Εντολών (Arch Linux)
-
-
-| Έγινε η εγκατάσταση του **archlinux-2023.10.14-x86_64** | Χρησιμοποιήθηκε **VirtualBox-7.0.12** | 
-| --- | --- | 
-| `neofetch` | `journalctl -b` |  
-| [![asciicast](https://asciinema.org/a/620428.svg)](https://asciinema.org/a/620428) | [![asciicast](https://asciinema.org/a/620429.svg)](https://asciinema.org/a/620429) |  
-
-Σημείωση : Το command line `journalctl -b` είναι πολύ μεγάλο μιας και κατέβασα αρκετά πράγματα στο Αrch Linux που ίσως να παίζουν ρόλο στο μεγάλο μέγεθος των logs, όπως κάτι files ώστε να τρέχει πιο γρήγορα το VM κλπ. 
-
 ## Συμμετοχικό Περιεχόμενο 1Α
 
 Σχετικά με το συμμετοχικό περιεχόμενο, μετά από πρόταση των νέων maintainers του οργανισμού για κοινή θεματολογία για την επιλογή εικόνων, το θέμα που ορίστηκε είναι **"η απεικόνηση της αλληλεπίδρασης του ανθρώπου με διάφορες τεχνολογικές συσκευές στην πάροδο του χρόνου"** . 
@@ -98,6 +88,40 @@ Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 | ![Family-television-1958](https://github.com/upatras-hci/iv/assets/63364209/d861ef95-7575-4964-93c6-132e7629872c) | Η φωτογραφία “Family watching television 1958” αποτυπώνει την εποχή που η τηλεόραση ήταν ακόμα στα πρώτα της βήματα. Στη φωτογραφία, μια οικογένεια παρακολουθεί τηλεόραση στο σαλόνι τους. Η τηλεόραση ήταν ακόμα αναλογική και οι εικόνες που προβάλλονταν ήταν σε ασπρόμαυρο. Σήμερα, η τηλεόραση έχει εξελιχθεί σημαντικά και έχει γίνει ψηφιακή. Οι τηλεοπτικές συσκευές έχουν γίνει πιο λεπτές και πιο ελαφριές, ενώ οι εικόνες που προβάλλονται είναι σε χρώμα. | [Gallery Pull Request](https://github.com/HCI-Masters/_gallery/pull/3) |
 
 Οι εικόνες και τα αντίστοιχα .md αρχεία έχουν γίνει pull request κανονικά στα repositories του οργανισμού.
+
+## Συμμετοχικό Περιεχόμενο 2Α
+
+Για το συμμετοχικό περιεχόμενο 2Α αφού παρατήρησα και εντόπισα διαδραστικά παραδείγματα αλληλεπίδρασης ανθρώπου-υπολογιστή αποφάσισα να υλοποιήσω τις ασκήσεις των παραδειγμάτων του [Sortable-list](https://pibook.epidro.me/remix/sortable-list/) και του [Mouse-draw](https://pibook.epidro.me/remix/mouse-draw/). Συγκεκριμένα:
+
+- Σχετικά με το sortable-list, έγιναν αλλαγές στο χρώμα, ύψος της λίστας και την απόσταση μεταξύ τους.
+https://github.com/IKaramitsos/site/blob/master/_remix/sortable-list.md
+- Σχετικά με το Mouse-draw, έγινε χρήση της μεθόδου του Canvas clearRect() και ενός EventListener ώστε να ικανοποιεί την λειτουργία reset/clear όταν ζωγραφίζει ο άνθρωπος με το πάτημα του 'Space'.
+https://github.com/IKaramitsos/site/blob/master/_remix/mouse-draw.md
+
+## Συμμετοχικό Περιεχόμενο 1Β
+
+Με βάση την θεματολογία που επιλεχτηκε : 
+> η απεικόνηση της αλληλεπίδρασης του ανθρώπου με διάφορες τεχνολογικές συσκευές στην πάροδο του χρόνου
+
+
+| Μελέτη Περίπτωσης | Βιογραφία |
+| ---- | ---- |
+| Μια νέα μελέτη περίπτωσης όσον αναφορά την θεματολογία της φωτογραφίας και της τηλεόρασης  είναι το **Adobe Photoshop**. Σύμφωνα με την Wikipedia το 1987 ο Τόμας Κνολ, ένας φοιτητής του Πανεπιστημίου του Μίσιγκαν, ανέπτυξε ένα πρόγραμμα που εμφάνιζε εικόνες σε αποχρώσεις του γκρίζου (grayscale) σε μονοχρωματικό περιβάλλον. Αυτό το πρόγραμμα, το οποίο ονόμασε Display, τράβηξε την προσοχή του αδελφού του, Τζον Κνολ, ο οποίος πρότεινε στον Τόμας να αναπτύξει ένα πλήρες πρόγραμμα επεξεργασίας εικόνας. Ο Τόμας έκανε διάλειμμα έξι μηνών από τις σπουδές του το 1988 και, σε συνεργασία με τον αδελφό του, ανέπτυξε το πρόγραμμα, το οποίο ονόμασαν ImagePro. Αργότερα το ίδιο έτος, ο Τόμας μετονόμασε το πρόγραμμα του σε Photoshop και έπειτα από συμφωνία με την κατασκευάστρια εταιρία σαρωτών Barneyscan, το πρόγραμμα διανεμήθηκε μαζί με μερικούς σαρωτές. Η πρώτη του  επίσημη έκδοση βγήκε  στο 1988 με ένα στιγμιότυπο του  παρακάτω. Με αυτόν τον τρόπο κατάφερε να κάνει και την λέξη Photoshop ένα generic trademark μιας και όλοι την χρησιμοποιούν μέχρι και σήμερα. Για την περίοδο από το  1958 έως το 1970 δεν υπήρχαν  οι ψηφιακές φωτογραφικές μηχανές ή λογισμικό επεξεργασίας εικόνας οπότε το κοντινότερο λογισμικό σχετικά με την επεξεργασία της φωτογραφίας ήρθε το 1987-1990. Προηγουμένος  οι φωτογράφοι είχαν την αναλογική επεξεργασία. | Τέλος, πραγματοποιήθηκε μιας βιογραφική ανασκόπηση του Thomas Knoll, μιας και η ανάπτυξη του προγράμματος αυτού βοήθησε σημαντικό στο κομμάτι της αλληλεπίδρασης ανθρώπου υπολογιστή. Η ανάπτυξη αυτή, άλλαξε τον τρόπο με τον οποίο οι άνθρωποι αλληλεπιδρούν με τις εικόνες και την τεχνολογία, ξεκινόντας από υπορουτίνες επεξεργασίας  εικόνων ονομάζοντας το λογισμικό αυτό ως  Display, σε ImagePro και τελικά Photoshop. |
+| ![image](https://github.com/upatras-hci/iv/assets/63364209/3e476b66-c2de-4432-a768-b7684e349115) | ![ThomasKnoll](https://github.com/upatras-hci/iv/assets/63364209/ebda3335-748e-4352-bd6e-3950d6b8f83a) |
+| [_case-study/AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_case-study/AdobePhotoshop.md) | [_biography/Thomas-Knoll](https://github.com/IKaramitsos/site/blob/master/_biography/Thomas-Knoll.md) |
+| [_includes/cs-AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_includes/cs-AdobePhotoshop.md) | [_includes/bio-knoll](https://github.com/IKaramitsos/site/blob/master/_includes/bio-knoll.md) |
+| **Sources:** https://el.wikipedia.org/wiki/Adobe_Photoshop, https://kimon.hosting.nyu.edu/physical-electrical-digital/items/show/1517, https://www.fastprint.co.uk/blog/the-evolution-of-photoshop-25-years-in-the-making.html | **Sources:** https://en.wikipedia.org/wiki/Thomas_Knoll, https://iphf.org/inductees/thomas-knoll/,  https://history-computer.com/thomas-knoll-complete-biography/  |
+
+## Γραμμή Εντολών (Arch Linux)
+
+
+| Έγινε η εγκατάσταση του **archlinux-2023.10.14-x86_64** | Χρησιμοποιήθηκε **VirtualBox-7.0.12** | 
+| --- | --- | 
+| `neofetch` | `journalctl -b` |  
+| [![asciicast](https://asciinema.org/a/620428.svg)](https://asciinema.org/a/620428) | [![asciicast](https://asciinema.org/a/620429.svg)](https://asciinema.org/a/620429) |  
+
+Σημείωση : Το command line `journalctl -b` είναι πολύ μεγάλο μιας και κατέβασα αρκετά πράγματα στο Αrch Linux που ίσως να παίζουν ρόλο στο μεγάλο μέγεθος των logs, όπως κάτι files ώστε να τρέχει πιο γρήγορα το VM κλπ. 
+
 
 ## Custom Desktop Environment 
 
@@ -166,15 +190,6 @@ Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 Τέλος προστέθηκαν 2 γραμμές κώδικα ώστε κάθε φορά που ανοίγει το σύστημα να γίνετε execute το launch.sh του `polybar` ώστε να φορτώνετε αυτόματα το ανανεωμένο status bar + τρέχει το package `feh` ώστε να τραβάει από το directory που υπάρχει το wallpaper. 
 ![image](https://github.com/upatras-hci/iv/assets/63364209/777e7d09-8d22-46bd-96e0-e9cba5de4462)
 
-## Συμμετοχικό Περιεχόμενο 2Α
-
-Για το συμμετοχικό περιεχόμενο 2Α αφού παρατήρησα και εντόπισα διαδραστικά παραδείγματα αλληλεπίδρασης ανθρώπου-υπολογιστή αποφάσισα να υλοποιήσω τις ασκήσεις των παραδειγμάτων του [Sortable-list](https://pibook.epidro.me/remix/sortable-list/) και του [Mouse-draw](https://pibook.epidro.me/remix/mouse-draw/). Συγκεκριμένα:
-
-- Σχετικά με το sortable-list, έγιναν αλλαγές στο χρώμα, ύψος της λίστας και την απόσταση μεταξύ τους.
-https://github.com/IKaramitsos/site/blob/master/_remix/sortable-list.md
-- Σχετικά με το Mouse-draw, έγινε χρήση της μεθόδου του Canvas clearRect() και ενός EventListener ώστε να ικανοποιεί την λειτουργία reset/clear όταν ζωγραφίζει ο άνθρωπος με το πάτημα του 'Space'.
-https://github.com/IKaramitsos/site/blob/master/_remix/mouse-draw.md
-
 ## Γραμμή Εντολών (iv cli)
 
 Για την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσαρμογές και στο υποσύστημα της γραμμής εντολών πειραματίστηκα με την χρήση των console services. Συγκεκριμένα, χρησιμοποιόντας το [awesome-console-services](https://github.com/chubin/awesome-console-services) προσπάθησα να βρω σημαντικές πληροφορίες για να οπτικοποιήσω.
@@ -197,19 +212,6 @@ https://github.com/IKaramitsos/site/blob/master/_remix/mouse-draw.md
 | Με την χρήση του `curl rate.sx` πήρα δεδομένα σχετικά με τα exchange rates των cryptocurrencies | Με την χρήση του `curl cheat.sh` οπτικοποίησα ένα cheat sheet με την χρήση curl σχετικά με commands σε UNIX/Linux | Τέλος οπτικοποίησα ένα snake game, με την χρήση του `ssh sshtron.zachlatta.com` | 
 | [![asciicast](https://asciinema.org/a/625662.svg)](https://asciinema.org/a/625662) | [![asciicast](https://asciinema.org/a/625664.svg)](https://asciinema.org/a/625664)  | [![asciicast](https://asciinema.org/a/625666.svg)](https://asciinema.org/a/625666) | 
 
-## Συμμετοχικό Περιεχόμενο 1Β
-
-Με βάση την θεματολογία που επιλεχτηκε : 
-> η απεικόνηση της αλληλεπίδρασης του ανθρώπου με διάφορες τεχνολογικές συσκευές στην πάροδο του χρόνου
-
-
-| Μελέτη Περίπτωσης | Βιογραφία |
-| ---- | ---- |
-| Μια νέα μελέτη περίπτωσης όσον αναφορά την θεματολογία της φωτογραφίας και της τηλεόρασης  είναι το **Adobe Photoshop**. Σύμφωνα με την Wikipedia το 1987 ο Τόμας Κνολ, ένας φοιτητής του Πανεπιστημίου του Μίσιγκαν, ανέπτυξε ένα πρόγραμμα που εμφάνιζε εικόνες σε αποχρώσεις του γκρίζου (grayscale) σε μονοχρωματικό περιβάλλον. Αυτό το πρόγραμμα, το οποίο ονόμασε Display, τράβηξε την προσοχή του αδελφού του, Τζον Κνολ, ο οποίος πρότεινε στον Τόμας να αναπτύξει ένα πλήρες πρόγραμμα επεξεργασίας εικόνας. Ο Τόμας έκανε διάλειμμα έξι μηνών από τις σπουδές του το 1988 και, σε συνεργασία με τον αδελφό του, ανέπτυξε το πρόγραμμα, το οποίο ονόμασαν ImagePro. Αργότερα το ίδιο έτος, ο Τόμας μετονόμασε το πρόγραμμα του σε Photoshop και έπειτα από συμφωνία με την κατασκευάστρια εταιρία σαρωτών Barneyscan, το πρόγραμμα διανεμήθηκε μαζί με μερικούς σαρωτές. Η πρώτη του  επίσημη έκδοση βγήκε  στο 1988 με ένα στιγμιότυπο του  παρακάτω. Με αυτόν τον τρόπο κατάφερε να κάνει και την λέξη Photoshop ένα generic trademark μιας και όλοι την χρησιμοποιούν μέχρι και σήμερα. Για την περίοδο από το  1958 έως το 1970 δεν υπήρχαν  οι ψηφιακές φωτογραφικές μηχανές ή λογισμικό επεξεργασίας εικόνας οπότε το κοντινότερο λογισμικό σχετικά με την επεξεργασία της φωτογραφίας ήρθε το 1987-1990. Προηγουμένος  οι φωτογράφοι είχαν την αναλογική επεξεργασία. | Τέλος, πραγματοποιήθηκε μιας βιογραφική ανασκόπηση του Thomas Knoll, μιας και η ανάπτυξη του προγράμματος αυτού βοήθησε σημαντικό στο κομμάτι της αλληλεπίδρασης ανθρώπου υπολογιστή. Η ανάπτυξη αυτή, άλλαξε τον τρόπο με τον οποίο οι άνθρωποι αλληλεπιδρούν με τις εικόνες και την τεχνολογία, ξεκινόντας από υπορουτίνες επεξεργασίας  εικόνων ονομάζοντας το λογισμικό αυτό ως  Display, σε ImagePro και τελικά Photoshop. |
-| ![image](https://github.com/upatras-hci/iv/assets/63364209/3e476b66-c2de-4432-a768-b7684e349115) | ![ThomasKnoll](https://github.com/upatras-hci/iv/assets/63364209/ebda3335-748e-4352-bd6e-3950d6b8f83a) |
-| [_case-study/AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_case-study/AdobePhotoshop.md) | [_biography/Thomas-Knoll](https://github.com/IKaramitsos/site/blob/master/_biography/Thomas-Knoll.md) |
-| [_includes/cs-AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_includes/cs-AdobePhotoshop.md) | [_includes/bio-knoll](https://github.com/IKaramitsos/site/blob/master/_includes/bio-knoll.md) |
-| **Sources:** https://el.wikipedia.org/wiki/Adobe_Photoshop, https://kimon.hosting.nyu.edu/physical-electrical-digital/items/show/1517, https://www.fastprint.co.uk/blog/the-evolution-of-photoshop-25-years-in-the-making.html | **Sources:** https://en.wikipedia.org/wiki/Thomas_Knoll, https://iphf.org/inductees/thomas-knoll/,  https://history-computer.com/thomas-knoll-complete-biography/  |
 
 ## Γραμμή Εντολών (iv cli)
 
