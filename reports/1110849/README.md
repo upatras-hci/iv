@@ -15,7 +15,7 @@ AM:
 | 4 | συμμετοχικό περιεχόμενο 1A | https://github.com/upatras-hci/iv/discussions/138#discussion-5859876 | |
 | 5 | γραμμή εντολών (custom desktop environment) | https://github.com/upatras-hci/iv/discussions/135#discussion-5858884 | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | https://github.com/upatras-hci/iv/discussions/140#discussion-5868064 | |
-| 7 | βιογραφικό Β | | |
+| 7 | βιογραφικό Β | https://github.com/upatras-hci/iv/discussions/177#discussion-6060398 | |
 | 8 | γραμμή εντολών (iv cli) | https://github.com/upatras-hci/iv/discussions/166#discussion-5950587 | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | https://github.com/upatras-hci/iv/discussions/165#discussion-5950313 | |
 | 10 | γραμμή εντολών (iv cli | https://github.com/upatras-hci/iv/discussions/169#discussion-5954522 | |
@@ -148,11 +148,14 @@ Firefox
 Οι αλλαγές πραγματοποιήθηκαν στους φακέλους _case-study, _biography και _includes αντίστοιχα.
 
 Update 23/12
+
 Αποφάσισα μετά τα σχόλια σας @epidrome, να αλλάξω τελείως τη θεματολογία μου και έτσι έχω μία νέα μελέτη περίπτωσης που αφορά το πληκτρολόγιο Τ9 και μία νέα βιογραφία αυτή του Gunnar Fant.
 Το T9 πληκτρολόγιο αναφέρεται σε ένα σύστημα εισαγωγής κειμένου που χρησιμοποιείται κυρίως σε κινητές συσκευές, στοχεύοντας στην ευκολία χρήσης κατά την πληκτρολόγηση. Η λέξη "T9" προέρχεται από τη λέξη "Text on 9 keys," καθώς χρησιμοποιεί μόνο 9 πλήκτρα για να αντιστοιχίσει τα γράμματα του αλφαβήτου. 
+
 ![t9-keyboard](https://github.com/upatras-hci/iv/assets/147270230/4af5fc6d-4864-4a30-ac81-60f55dc59e5a)
 
 Ο Gunnar Fant ήταν Σουηδός επιστήμονας και πιο γνωστός για την έρευνά του στον τομέα της φωνητικής και της επεξεργασίας φωνής. Γεννήθηκε στις 9 Ιουνίου 1919 και απεβίωσε στις 17 Ιουλίου 2009. Ήταν ένας από τους πρωτοπόρους στην εφαρμογή των αρχών της μηχανικής της φωνής και της σύνθεσης ομιλίας.
+
 ![gunnar-fant](https://github.com/upatras-hci/iv/assets/147270230/a27ee440-9593-4b61-ae19-a300c28e5685)
   
 [link από τον φάκελο _case-study](https://github.com/tonykontos/site/blob/fa9aaee3650e107678b7ead006d7f100a77cb41c/_case-study/t9keyboard.md)
