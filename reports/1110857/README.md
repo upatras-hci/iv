@@ -55,16 +55,13 @@
 * Το link του αποθετηρίου που χρησιμοποιήθηκε για την δημιουργία του cv μου: https://github.com/IKaramitsos/online-cv.
 * Το link που παραπέμπει στο βιογραφικό μου: https://ikaramitsos.github.io/online-cv/.
 
+## Γραμμή Εντολών (Arch Linux)
 
-## Γραμμή Εντολών
 
-### 3η Εβδομάδα - Arch Linux
-
-* Έγινε η εγκατάσταση του **archlinux-2023.10.14-x86_64**
-* Χρησιμοποιήθηκε **VirtualBox-7.0.12**
-Παρακάτω είναι τα asciinema recordings των logs από τα `neofetch` και `journalctl -b` .
-[![asciicast](https://asciinema.org/a/620428.svg)](https://asciinema.org/a/620428)
-[![asciicast](https://asciinema.org/a/620429.svg)](https://asciinema.org/a/620429)
+| Έγινε η εγκατάσταση του **archlinux-2023.10.14-x86_64** | Χρησιμοποιήθηκε **VirtualBox-7.0.12** | 
+| --- | --- | 
+| `neofetch` | `journalctl -b` |  
+| [![asciicast](https://asciinema.org/a/620428.svg)](https://asciinema.org/a/620428) | [![asciicast](https://asciinema.org/a/620429.svg)](https://asciinema.org/a/620429) |  
 
 Σημείωση : Το command line `journalctl -b` είναι πολύ μεγάλο μιας και κατέβασα αρκετά πράγματα στο Αrch Linux που ίσως να παίζουν ρόλο στο μεγάλο μέγεθος των logs, όπως κάτι files ώστε να τρέχει πιο γρήγορα το VM κλπ. 
 
