@@ -69,6 +69,14 @@ GitHub Repository  που χρησιμοποιήθηκε : [Simple-CV](https://g
 
 Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 
+## Διαχείριση Οργανισμού και Webring
+
+#### Διαχείριση Οργανισμού 
+Η υλοποίηση του οργανισμού έγινε σε συνεννοήση με τους συμφοιτητές και είναι ο [HCI-Masters](https://github.com/HCI-Masters) που αποτελείται απο 9 μέλη. Η λειτουργία και ο τρόπος διαχείρισης αποφασίστηκε μετά από [poll](https://github.com/orgs/HCI-Masters/discussions/2) που πραγματοποιήθηκε τις πρώτες εβδομάδες του μαθήματος. Στο οργανισμό έγιναν συζητήσεις για την [Θεματολογία εικόνων για το συμμετοχικό περιεχόμενο](https://github.com/orgs/HCI-Masters/discussions/4) από την αντίστοιχη ομάδα διαχείρισης, [υπενθύμιση για pull requests](https://github.com/orgs/HCI-Masters/discussions/5) και πίνακας που γινόταν σταδιακά Edit από τον αντίστοιχο διαχειριστή για την ομαλή λειτουργία όσον αφορά το [διαχειριστικό κομμάτι](https://github.com/orgs/HCI-Masters/discussions/3). Ο οργανισμός είχε πολλαπλούς διαχειριστές για καλύτερο maintenance και εκμάθησης. 
+
+#### Webring
+Για την υλοποίηση του webring αντιμετώπισα αρκετή δυσκολία να βρω κάποιο που ειναι πρακτικό και εύκολο, οπότε αποφάσισα να υλοποιήσω ένα δικό μου με την βοήθεια κάποιου tutorial. Το webring ονομάζεται [L_Webring](https://github.com/IKaramitsos/L_Webring) το οποίο έχει τις αντίστοιχες οδηγίες ώστε να υλοποιηθεί και από κάποιον άλλο. Το link του webring του οργανισμόυ είναι το https://upatras-hci-2023.netlify.app/.
+
 ## Γραμμή Εντολών (Arch Linux)
 
 
