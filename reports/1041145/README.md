@@ -111,9 +111,12 @@ Firefox
 έχω κάνει fork το repository του [simple-cv](https://github.com/plain-plain-text/simple-cv).
 έχω δημιουργήσει τη δική μου σελίδα [my_simple_cv](https://xrusa-pan.github.io/simple-cv/)
 Χρησιμοποιώ το Visual Studio code για να κάνω clone το repository git clone https://github.com/xrusa-pan/simple-cv και git checkout -b 1041145 για να φτιάξω το δικό μου branch.
-Εκεί τροποποίησα, τα sections, metadata και όλα τα αρχεία του φακέλου templates σύμφωνα με τα στοιχεία μου. Όταν ολοκλήρωσα όλες τις απαραίτητες αλλαγές, με τις εντολές git commit -m "message" και git push --set-upstream origin 1041145 "δημοσίευσα" τις αλλαγές στο repository ( στο branch μου). Αντιμετώπισα κάποια προβλήματα στο pdf και δεν μπόρεσα να το δημιουργήσω αλλά θα το επεξεργαστώ προκειμένου να σας το παρουσιάσω την επόμενη φορά. Το CV μου φαίνεται στο παρακάτω link:
-[Repository url](https://github.com/χρθσα-παν/simple-cv.git)
-[CV](https://xrusa-pan.github.io/simple-cv/)
+Εκεί τροποποίησα, τα sections, metadata και όλα τα αρχεία του φακέλου templates σύμφωνα με τα στοιχεία μου. Όταν ολοκλήρωσα όλες τις απαραίτητες αλλαγές, με τις εντολές git commit -m "message" και git push --set-upstream origin 1041145 "δημοσίευσα" τις αλλαγές στο repository ( στο branch μου). Αντιμετώπισα κάποια προβλήματα στο pdf και δεν μπόρεσα να το δημιουργήσω αλλά θα το επεξεργαστώ προκειμένου να σας το παρουσιάσω την επόμενη φορά. <br>
+
+Το CV μου φαίνεται στο παρακάτω link: <br>
+
+[Repository url](https://github.com/χρθσα-παν/simple-cv.git)<br>
+[CV](https://xrusa-pan.github.io/simple-cv/) <br>
 PDF εκκρεμεί
 
 ### Εβδομάδα 8η | Γραμμή Εντολών (iv cli) |
