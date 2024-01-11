@@ -144,7 +144,7 @@
 Τέλος προστέθηκαν 2 γραμμές κώδικα ώστε κάθε φορά που ανοίγει το σύστημα να γίνετε execute το launch.sh του `polybar` ώστε να φορτώνετε αυτόματα το ανανεωμένο status bar + τρέχει το package `feh` ώστε να τραβάει από το directory που υπάρχει το wallpaper. 
 ![image](https://github.com/upatras-hci/iv/assets/63364209/777e7d09-8d22-46bd-96e0-e9cba5de4462)
 
-### 6η εβδομάδα - Συμμετοχικό Περιεχόμενο 2Α
+## Συμμετοχικό Περιεχόμενο 2Α
 
 Για το συμμετοχικό περιεχόμενο 2Α αφού παρατήρησα και εντόπισα διαδραστικά παραδείγματα αλληλεπίδρασης ανθρώπου-υπολογιστή αποφάσισα να υλοποιήσω τις ασκήσεις των παραδειγμάτων του [Sortable-list](https://pibook.epidro.me/remix/sortable-list/) και του [Mouse-draw](https://pibook.epidro.me/remix/mouse-draw/). Συγκεκριμένα:
 
@@ -153,9 +153,9 @@ https://github.com/IKaramitsos/site/blob/master/_remix/sortable-list.md
 - Σχετικά με το Mouse-draw, έγινε χρήση της μεθόδου του Canvas clearRect() και ενός EventListener ώστε να ικανοποιεί την λειτουργία reset/clear όταν ζωγραφίζει ο άνθρωπος με το πάτημα του 'Space'.
 https://github.com/IKaramitsos/site/blob/master/_remix/mouse-draw.md
 
-### 7η εβδομάδα  - Βιογραφικό  Β
+## Βιογραφικό Β
 
-Για το Βιογραφικό Β' επέλεξα να ακολουθήσω το [παράδειγμα χωρίς jekyll](https://github.com/plain-plain-text/simple-cv) που λένε οι οδηγίες. Δημιούργησα ένα fork και έκανα clone το repo ώστε να δουλέψω locally. Έγιναν οι αλλαγές στα αρχεία yaml και τα  folders που χρειαζόντουσαν όπως sections και metadata ( που φαίνονται και στα commits στο [repository](https://github.com/IKaramitsos/simple-cv) ). Εγκατέστησα τα extensions που χρειάζονται, μιας και στην αρχή αντιμετώπιζα πρόβλημα μιας και μου εμφάνιζε προβλήματα με το pdf installation και error για missing xalatex και pdflatex,  τα οποία έφυγαν μετά την εγκατάσταση του MikTex και τα packages που χρειαζόντουσαν.
+Για το Βιογραφικό Β επέλεξα να ακολουθήσω το [παράδειγμα χωρίς jekyll](https://github.com/plain-plain-text/simple-cv) που λένε οι οδηγίες. Δημιούργησα ένα fork και έκανα clone το repo ώστε να δουλέψω locally. Έγιναν οι αλλαγές στα αρχεία yaml και τα folders που χρειαζόντουσαν όπως sections και metadata ( που φαίνονται και στα commits στο [repository](https://github.com/IKaramitsos/simple-cv) ). Εγκατέστησα τα extensions που χρειάζονται, μιας και στην αρχή αντιμετώπιζα πρόβλημα μιας και μου εμφάνιζε προβλήματα με το pdf installation και error για missing xalatex και pdflatex,  τα οποία έφυγαν μετά την εγκατάσταση του MikTex και τα packages που χρειαζόντουσαν.
 Τα οποία με οδήγησαν στο generate των αρχείων που ήθελα.
 ![image](https://github.com/upatras-hci/iv/assets/63364209/9a637f27-4fcb-4915-b9b1-71b474104064)
 
@@ -167,9 +167,9 @@ GitHub Repository  που χρησιμοποιήθηκε : [Simple-CV](https://g
 
 Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 
-### 8η εβδομάδα  - Γραμμή Εντολών (iv cli)
+## Γραμμή Εντολών (iv cli)
 
-Για την **8η Εβδομάδα** και την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσαρμογές και  στο υποσύστημα της γραμμής εντολών πειραματίστηκα με την χρήση των console services. Συγκεκριμένα, χρησιμοποιόντας το [awesome-console-services](https://github.com/chubin/awesome-console-services) προσπάθησα να βρω σημαντικές πληροφορίες για να οπτικοποιήσω.
+Για την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσαρμογές και στο υποσύστημα της γραμμής εντολών πειραματίστηκα με την χρήση των console services. Συγκεκριμένα, χρησιμοποιόντας το [awesome-console-services](https://github.com/chubin/awesome-console-services) προσπάθησα να βρω σημαντικές πληροφορίες για να οπτικοποιήσω.
 Έκανα εγκατάσταση μερικών packages συγκεκριμένα:
 
 `sudo pacman -S curl`, Retrieving, Downloading, Streaming Data
@@ -182,14 +182,14 @@ Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 
 Στην συνέχεια προσπάθησα να πάρω κάποια δεδομένα σχετικά με τον Covid-19 αλλά υπήρχε πρόβλημα, μιας και χρειαζόταν κάποιο "Payment" οπότε δεν γινόταν κάποιο deploy.
 
-### Οπότε οι πληροφορίες που κατάφερα να οπτικοποιήσω ήταν :
+### Οπότε οι πληροφορίες που κατάφερα να οπτικοποιήσω ως warmup πριν την βασική υλοποιήση των ασκήσεων ήταν :
 
 | Cryptocurrencies Exchange Rates | UNIX/Linux Cheat Sheets | Snake Game in Terminal | 
 | --- | --- | --- | 
 | Με την χρήση του `curl rate.sx` πήρα δεδομένα σχετικά με τα exchange rates των cryptocurrencies | Με την χρήση του `curl cheat.sh` οπτικοποίησα ένα cheat sheet με την χρήση curl σχετικά με commands σε UNIX/Linux | Τέλος οπτικοποίησα ένα snake game, με την χρήση του `ssh sshtron.zachlatta.com` | 
 | [![asciicast](https://asciinema.org/a/625662.svg)](https://asciinema.org/a/625662) | [![asciicast](https://asciinema.org/a/625664.svg)](https://asciinema.org/a/625664)  | [![asciicast](https://asciinema.org/a/625666.svg)](https://asciinema.org/a/625666) | 
 
-### 9η εβδομάδα  - Συμμετοχικό Περιεχόμενο 1Β
+## Συμμετοχικό Περιεχόμενο 1Β
 
 Με βάση την θεματολογία που επιλεχτηκε : 
 > η απεικόνηση της αλληλεπίδρασης του ανθρώπου με διάφορες τεχνολογικές συσκευές στην πάροδο του χρόνου
@@ -203,9 +203,9 @@ Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 | [_includes/cs-AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_includes/cs-AdobePhotoshop.md) | [_includes/bio-knoll](https://github.com/IKaramitsos/site/blob/master/_includes/bio-knoll.md) |
 | **Sources:** https://el.wikipedia.org/wiki/Adobe_Photoshop, https://kimon.hosting.nyu.edu/physical-electrical-digital/items/show/1517, https://www.fastprint.co.uk/blog/the-evolution-of-photoshop-25-years-in-the-making.html | **Sources:** https://en.wikipedia.org/wiki/Thomas_Knoll, https://iphf.org/inductees/thomas-knoll/,  https://history-computer.com/thomas-knoll-complete-biography/  |
 
-### 10η εβδομάδα - Γραμμή Εντολών (iv cli)
+## Γραμμή Εντολών (iv cli)
 
-Για την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσαρμογές και στο υποσύστημα της γραμμής εντολών πειραματίστηκα με το [git-bars](https://github.com/knadh/git-bars) και με το [pastel](https://github.com/sharkdp/pastel).
+Για την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσαρμογές και στο υποσύστημα της γραμμής εντολών κατάφερα να υλοποιήσω με επιτυχία, μιας και αντιμετώπισα αρκετά προβλήματα με το installation πολλών διαφορετικών εκφωνήσεων, το [git-bars](https://github.com/knadh/git-bars) και με το [pastel](https://github.com/sharkdp/pastel).
 
 ## git-bars
 
