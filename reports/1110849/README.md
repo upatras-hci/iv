@@ -147,6 +147,27 @@ Firefox
 
 Οι αλλαγές πραγματοποιήθηκαν στους φακέλους _case-study, _biography και _includes αντίστοιχα.
 
+Update 23/12
+Αποφάσισα μετά τα σχόλια σας @epidrome, να αλλάξω τελείως τη θεματολογία μου και έτσι έχω μία νέα μελέτη περίπτωσης που αφορά το πληκτρολόγιο Τ9 και μία νέα βιογραφία αυτή του Gunnar Fant.
+Το T9 πληκτρολόγιο αναφέρεται σε ένα σύστημα εισαγωγής κειμένου που χρησιμοποιείται κυρίως σε κινητές συσκευές, στοχεύοντας στην ευκολία χρήσης κατά την πληκτρολόγηση. Η λέξη "T9" προέρχεται από τη λέξη "Text on 9 keys," καθώς χρησιμοποιεί μόνο 9 πλήκτρα για να αντιστοιχίσει τα γράμματα του αλφαβήτου. 
+![t9-keyboard](https://github.com/upatras-hci/iv/assets/147270230/4af5fc6d-4864-4a30-ac81-60f55dc59e5a)
+
+Ο Gunnar Fant ήταν Σουηδός επιστήμονας και πιο γνωστός για την έρευνά του στον τομέα της φωνητικής και της επεξεργασίας φωνής. Γεννήθηκε στις 9 Ιουνίου 1919 και απεβίωσε στις 17 Ιουλίου 2009. Ήταν ένας από τους πρωτοπόρους στην εφαρμογή των αρχών της μηχανικής της φωνής και της σύνθεσης ομιλίας.
+![gunnar-fant](https://github.com/upatras-hci/iv/assets/147270230/a27ee440-9593-4b61-ae19-a300c28e5685)
+  
+[link από τον φάκελο _case-study](https://github.com/tonykontos/site/blob/fa9aaee3650e107678b7ead006d7f100a77cb41c/_case-study/t9keyboard.md)
+[link από τον φάκελο _includes](https://github.com/tonykontos/site/blob/fa9aaee3650e107678b7ead006d7f100a77cb41c/_includes/cs-t9keyboard.md)
+
+[link από τον φάκελο _biography](https://github.com/tonykontos/site/blob/fa9aaee3650e107678b7ead006d7f100a77cb41c/_biography/gunnar-fant.md)
+[link από τον φάκελο _includes](https://github.com/tonykontos/site/blob/fa9aaee3650e107678b7ead006d7f100a77cb41c/_includes/bio-gunnarfant.md)
+
+[link από τον φάκελο _case-study του οργανισμού](https://github.com/HCI-Masters/site/blob/7ab2746e8d93a619cf5a5855d965a85b3b2f5ac5/_case-study/t9keyboard.md)
+[link από τον φάκελο _includes του οργανισμού](https://github.com/HCI-Masters/site/blob/7ab2746e8d93a619cf5a5855d965a85b3b2f5ac5/_includes/cs-t9keyboard.md)
+
+[link από τον φάκελο _biography του οργανισμού](https://github.com/HCI-Masters/site/blob/7ab2746e8d93a619cf5a5855d965a85b3b2f5ac5/_biography/gunnar-fant.md)
+[link από τον φάκελο _includes του οργανισμού](https://github.com/HCI-Masters/site/blob/7ab2746e8d93a619cf5a5855d965a85b3b2f5ac5/_includes/bio-gunnarfant.md)
+
+
 ## Εβδομάδα 10η | iv cli
 
 Σε αυτήν την άσκηση, χρησιμοποίησα την εντολή pastel από τις διαθέσιμες ασκήσεις γραμμής εντολών, το οποίο είναι ένα πακέτο για την βελτίωση της διεπαφής γραμμής εντολών.
