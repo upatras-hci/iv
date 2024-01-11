@@ -13,7 +13,7 @@
 | 8 | γραμμή εντολών (iv cli) | [upatras-hci#160](https://github.com/upatras-hci/iv/discussions/160) | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | [upatras-hci#161](https://github.com/upatras-hci/iv/discussions/161) | |
 | 10 | γραμμή εντολών (iv cli | [upatras-hci#163](https://github.com/upatras-hci/iv/discussions/163) | |
-| 11 | συμμετοχικό περιεχόμενο 2Β | | |
+| 11 | συμμετοχικό περιεχόμενο 2Β | Χωρίς Αποτελέσμα | |
 | 12 | Τελική αναφορά* | | |
 
 
@@ -111,6 +111,10 @@ https://github.com/IKaramitsos/site/blob/master/_remix/mouse-draw.md
 | [_case-study/AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_case-study/AdobePhotoshop.md) | [_biography/Thomas-Knoll](https://github.com/IKaramitsos/site/blob/master/_biography/Thomas-Knoll.md) |
 | [_includes/cs-AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_includes/cs-AdobePhotoshop.md) | [_includes/bio-knoll](https://github.com/IKaramitsos/site/blob/master/_includes/bio-knoll.md) |
 | **Sources:** https://el.wikipedia.org/wiki/Adobe_Photoshop, https://kimon.hosting.nyu.edu/physical-electrical-digital/items/show/1517, https://www.fastprint.co.uk/blog/the-evolution-of-photoshop-25-years-in-the-making.html | **Sources:** https://en.wikipedia.org/wiki/Thomas_Knoll, https://iphf.org/inductees/thomas-knoll/,  https://history-computer.com/thomas-knoll-complete-biography/  |
+
+## Συμμετοχικό Περιεχόμενο 2Β
+
+Για το συμμετοχικό περιεχόμενο 2Β δεν κατάφερα να φτάσω σε κάποιο αποτελέσμα. Έγινε προσπάθεια να ακολουθήσω τις οδηγίες για την οπτικοποιήση και των υπόλοιπων οδηγίων, αλλά μου φάνηκαν αρκετά περίπλοκα.
 
 ## Γραμμή Εντολών (Arch Linux)
 
