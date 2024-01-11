@@ -87,7 +87,8 @@ Link για το github.io : [CV](https://ikaramitsos.github.io/simple-cv/)
 | ![Photography-by-Victor-Albert-Grigas](https://github.com/upatras-hci/iv/assets/63364209/75d6649d-089e-4cd3-af8b-e229b7b0b5f8) | Η αλληλεπίδραση ανθρώπου-υπολογιστή στη φωτογραφία έχει εξελιχθεί σημαντικά τα τελευταία χρόνια. Η φωτογραφία “Photographers at the Chicago Old Town Art Fair in 1968” αποτυπώνει την εποχή που η φωτογραφία ήταν ακόμα αναλογική. Σήμερα, οι ψηφιακές φωτογραφικές μηχανές και οι κινητές συσκευές έχουν αντικαταστήσει τις αναλογικές και έχουν επιταχύνει την εξέλιξη της φωτογραφίας. Η ψηφιακή τεχνολογία έχει δώσει τη δυνατότητα στους φωτογράφους να επεξεργάζονται τις φωτογραφίες τους και να τις βελτιώνουν με τη χρήση λογισμικού επεξεργασίας εικόνας. Επιπλέον, η ψηφιακή τεχνολογία έχει επιτρέψει στους φωτογράφους να αποθηκεύουν τις φωτογραφίες τους σε ψηφιακή μορφή και να τις μοιράζονται εύκολα στο διαδίκτυο. |[Images Pull Request](https://github.com/HCI-Masters/images/pull/3) |
 | ![Family-television-1958](https://github.com/upatras-hci/iv/assets/63364209/d861ef95-7575-4964-93c6-132e7629872c) | Η φωτογραφία “Family watching television 1958” αποτυπώνει την εποχή που η τηλεόραση ήταν ακόμα στα πρώτα της βήματα. Στη φωτογραφία, μια οικογένεια παρακολουθεί τηλεόραση στο σαλόνι τους. Η τηλεόραση ήταν ακόμα αναλογική και οι εικόνες που προβάλλονταν ήταν σε ασπρόμαυρο. Σήμερα, η τηλεόραση έχει εξελιχθεί σημαντικά και έχει γίνει ψηφιακή. Οι τηλεοπτικές συσκευές έχουν γίνει πιο λεπτές και πιο ελαφριές, ενώ οι εικόνες που προβάλλονται είναι σε χρώμα. | [Gallery Pull Request](https://github.com/HCI-Masters/_gallery/pull/3) |
 
-Οι εικόνες και τα αντίστοιχα .md αρχεία έχουν γίνει pull request κανονικά στα repositories του οργανισμού. Το περιεχόμενο των .md files έχει εμπλουτιστεί με edit στα files του οργανισμού μιας και κατά το πρώτο pull reqeust ήταν αρκετά φτωχό σε περιεχόμενο.
+Οι εικόνες και τα αντίστοιχα .md αρχεία έχουν γίνει pull request κανονικά στα repositories του οργανισμού. Το περιεχόμενο των .md files έχει εμπλουτιστεί με edit στα files του οργανισμού μιας και κατά το πρώτο pull reqeust ήταν αρκετά φτωχό σε περιεχόμενο. Μέχρι στιγμής το περιεχόμενο στον οργανισμό δεν εχει ανανεωθεί, με αποτελέσμα να φαίνεται το φτωχό αποτέλεσμα. 
+Link προς τον οργανισμό : https://hci-master-2023-site.netlify.app/gallery/ 
 
 ## Συμμετοχικό Περιεχόμενο 2Α
 
@@ -111,7 +112,7 @@ https://github.com/IKaramitsos/site/blob/master/_remix/mouse-draw.md
 | [_case-study/AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_case-study/AdobePhotoshop.md) | [_biography/Thomas-Knoll](https://github.com/IKaramitsos/site/blob/master/_biography/Thomas-Knoll.md) |
 | [_includes/cs-AdobePhotoshop.md](https://github.com/IKaramitsos/site/blob/master/_includes/cs-AdobePhotoshop.md) | [_includes/bio-knoll](https://github.com/IKaramitsos/site/blob/master/_includes/bio-knoll.md) |
 | **Sources:** https://el.wikipedia.org/wiki/Adobe_Photoshop, https://kimon.hosting.nyu.edu/physical-electrical-digital/items/show/1517, https://www.fastprint.co.uk/blog/the-evolution-of-photoshop-25-years-in-the-making.html | **Sources:** https://en.wikipedia.org/wiki/Thomas_Knoll, https://iphf.org/inductees/thomas-knoll/,  https://history-computer.com/thomas-knoll-complete-biography/  |
-
+| Link προς τον οργανισμό: https://hci-master-2023-site.netlify.app/case-study/adobephotoshop/ | Link προς τον οργανισμό: https://hci-master-2023-site.netlify.app/biography/thomas-knoll/ |
 ## Συμμετοχικό Περιεχόμενο 2Β
 
 Για το συμμετοχικό περιεχόμενο 2Β δεν κατάφερα να φτάσω σε κάποιο αποτελέσμα. Έγινε προσπάθεια να ακολουθήσω τις οδηγίες για την οπτικοποιήση και των υπόλοιπων οδηγίων, αλλά μου φάνηκαν αρκετά περίπλοκα.
