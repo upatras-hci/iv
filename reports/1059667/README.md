@@ -51,9 +51,9 @@ O άνθρωπος είναι ένας πολύπλοκος οργανισμός
 
 
 # **Εβδομάδα 2 | Βιογραφικό Α**
+Links | [Προσωπικό αποθετήριο](https://github.com/Rstath/jekyll-cv) | [Ιστοσελίδα βιογραφικού](https://rstath.github.io/jekyll-cv/)  | [Ιστορικό commits](https://github.com/Rstath/jekyll-cv/commits/gh-pages/) 
+--- | --- | --- | --- 
 
-- το link του αποθετηρίου μου [https://github.com/Rstath/jekyll-cv](https://github.com/Rstath/jekyll-cv) και 
-- την ιστοσελίδα του βιογραφικού μου [https://rstath.github.io/jekyll-cv/](https://rstath.github.io/jekyll-cv/)
 
 # **Εβδομάδα 3 | Γραμμή Εντολών (archLinux)**
 
@@ -77,10 +77,12 @@ Eκτέλεση των εντολών [**neofetch**](https://asciinema.org/a/631
 
 Τα links των repositories είναι τα εξής:
 
-Images | Gallery
+Εικόνα 1 | Εικόνα 2
 -- | --
-[Εικόνα1](https://github.com/Rstath/images/blob/master/human-with-ibm.jpg) | [Εικόνα1](https://github.com/Rstath/_gallery/blob/master/human-with-ibm.md)
-[Εικόνα2](https://github.com/Rstath/images/blob/master/real-life-holograms.jpg) | [Εικόνα2](https://github.com/Rstath/_gallery/blob/master/real-life-holograms.md)
+[Προσωπικό Repository](https://github.com/Rstath/images/blob/master/human-with-ibm.jpg) | [Προσωπικό Repository](https://github.com/Rstath/_gallery/blob/master/human-with-ibm.md)
+[[Περιγραφή στο προσωπικό repository](https://github.com/Rstath/images/blob/master/real-life-holograms.jpg) | [Περιγραφή στο προσωπικό repository](https://github.com/Rstath/_gallery/blob/master/real-life-holograms.md)
+[Slide](https://github.com/Rstath/images/blob/master/real-life-holograms.jpg) | [Slide](https://github.com/Rstath/_gallery/blob/master/real-life-holograms.md)
+[TimeLine](https://github.com/Rstath/images/blob/master/real-life-holograms.jpg) | [Timeline](https://github.com/Rstath/_gallery/blob/master/real-life-holograms.md)
 
 
 # **Εβδομάδα 5 | Custom Desktop Enviroment**
