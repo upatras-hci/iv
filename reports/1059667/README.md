@@ -57,8 +57,7 @@ O άνθρωπος είναι ένας πολύπλοκος οργανισμός
 
 # **Εβδομάδα 3 | Γραμμή Εντολών (archLinux)**
 
-Eκτέλεση των εντολών **neofetch**  και **journalctl -b** στη γραμμή εντολών Arch Linux που εγκαταστάθηκε με τη βοήθεια του Virtual Box.
-https://asciinema.org/a/SCF2KVJY6Px03UiHxPWBXZuP2 .
+Eκτέλεση των εντολών [**neofetch**](https://asciinema.org/a/631457)  και [**journalctl -b**](https://asciinema.org/a/631458) στη γραμμή εντολών Arch Linux που εγκαταστάθηκε με τη βοήθεια του Virtual Box.
 
 # Εβδομάδα 4 | Συμμετοχικό Περιεχόμενο 1Α 
 
