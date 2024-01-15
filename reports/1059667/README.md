@@ -130,12 +130,7 @@ https://github.com/Rstath/site/blob/master/_remix/mouse-form_gender.md
 
 # **Εβδομάδα 8 | Γραμμή Εντολών 3**
 
-Για τη συγκεκριμένη δραστηριότητα χρησιμοποιήθηκε το [GitHub repository του Holman](https://github.com/holman/spark). Με τη χρήση του κατάλληλου αρχείου και των κατάλληλων παραμέτρων, έγινε οπτικοποίηση των δεδομένων που αφορούν στους σεισμούς άνω του 1.0 βαθμού στην κλίμακα Ρίχτερ που έγιναν τον τελευταίο μήνα καθώς και την τελευταία εβδομάδα παγκοσμίως όπως φαίνεται και από τα links του asciinema.
-
-- [Τελευταίος Μήνας](https://asciinema.org/a/SQFOq1ssJXDK10nuwxnPoyUVe)
-
-- [Τελευταία Εβδομάδα](https://asciinema.org/a/fLFXx9imG07H24g6YsNA9TCHL)
-
+Για τη συγκεκριμένη δραστηριότητα χρησιμοποιήθηκε το [GitHub repository του Holman](https://github.com/holman/spark). Με τη χρήση του κατάλληλου αρχείου και των κατάλληλων παραμέτρων, έγινε οπτικοποίηση των δεδομένων που αφορούν στους σεισμούς άνω του 1.0 βαθμού στην κλίμακα Ρίχτερ που έγιναν τον τελευταίο μήνα καθώς και την τελευταία εβδομάδα παγκοσμίως όπως φαίνεται και από το [link](https://asciinema.org/a/631478) του asciinema.
 
 # **Εβδομάδα 9 | Συμμετοχικό Περιεχόμενο 1Β**
 
@@ -154,7 +149,7 @@ https://github.com/Rstath/site/blob/master/_remix/mouse-form_gender.md
 
 # **Εβδομάδα 10 | Γραμμή Εντολών 4**
 
-Για τις ανάγκες της συγκεκριμένης δραστηριότητας εγκατέστησα σε virtual environment του Arch Linux το [python wordcloud](https://github.com/amueller/word_cloud). Ως πηγή για κείμενο επέλεξα το βιβλίο Harry Potter & The Half Blood Prince σε μορφή .txt και σαν mask όρισα το χαρακτηριστικό σήμα του ήρωα τον κεραυνό. Παρακάτω επισυνάπτω τη διαδικασία δημιουργίας του customized συννεφόλεξου και την τελική εικόνα που δημιουργήθηκε.
+Για τις ανάγκες της συγκεκριμένης δραστηριότητας εγκατέστησα σε virtual environment του Arch Linux το [python wordcloud](https://github.com/amueller/word_cloud). Ως πηγή για κείμενο επέλεξα το βιβλίο Harry Potter & The Half Blood Prince σε μορφή .txt και σαν mask όρισα το χαρακτηριστικό σήμα του ήρωα τον κεραυνό. Το customized συννεφόλεξο δημιουργήθηκε με την εντολή `wordcloud_cli --background black --mask /home/roumpini/Downloads/harrypotterBold.png --text /home/roumpini/Downloads/harrypotter.txt --imagefile /home/Downloads/harrypotterImage.png`
 
 ![harryPotter](https://github.com/upatras-hci/iv/assets/147249659/a1cea502-f24b-4766-a7bc-404b2f6370a6)
 
