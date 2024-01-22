@@ -91,8 +91,8 @@ Images | Gallery | site | repository Οργανισμού
 Για το **συμμετοχικό περιεχόμενο 2Α** δημιούργησα ένα σετ από θεματικές διαφάνειες και ένα χρονολόγιο που συνδυάζει τις δύο εικόνες που προσέθεσα παραπάνω με εικόνες που ήδη υπάρχουν. Στο φάκελο slides του site προσέθεσα τον φάκελο [technology_progress.md](https://github.com/ElenaChaidou/site/blob/master/_slides/technology_progress.md) και στον φάκελοο timeline τον φάκελο [technology_progress.md](https://github.com/ElenaChaidou/site/blob/master/_timeline/technology_progress.md).
 
 **Στον οργανισμό**:
-- [slides]()
-- [timeline](https://hci-master-2023-site.netlify.app/timeline/technology_progress/)
+- [slides](https://github.com/HCI-Masters/site/blob/master/_slides/technology_progress.md)
+- [timeline](https://github.com/HCI-Masters/site/blob/master/_timeline/technology_progress.md)
 
 **Στο site:**
 - [slides](https://hci-master-2023-site.netlify.app/slides/technology_progress/)
