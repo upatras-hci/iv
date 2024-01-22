@@ -59,8 +59,9 @@ https://asciinema.org/a/ZSELdLgjt8Wt59XLkhYGKZlss
 journalctl -b
 https://asciinema.org/a/PkfPifN1BrWeCtgzyiZrKFgiN
 
-# Εβδομάδα 4 | Συμμετοχικό Περιεχόμενο 1Α 
+# Εβδομάδα 4 | Συμμετοχικό Περιεχόμενο 1Α & 2A
 Για το συμμετοχικό περιεχόμενο αποφασίσαμε να ακολουθήσουμε μια [κοινή θεματολογία](https://github.com/orgs/HCI-Masters/discussions/4) που αφορά την χρήση τεχνολογικών μέσων στην πάροδο του χρόνου. 
+**1A**
 Έτσι, επέλεξα τις ακόλουθες φωτογραφίες:
 ![millennium-bug](https://github.com/upatras-hci/iv/assets/79599303/1fd5fe76-92b8-4829-871b-87a3f1c64ee2)
 _Η φωτογραφία απεικονίζει τη σημασία του "σφάλματος της χιλιετίας" ή του τρόμου Y2K (έτος 2000) στο πλαίσιο της τεχνολογίας των υπολογιστών. Η εικόνα πιθανότατα αποτυπώνει το άγχος και τις ανησυχίες που περιέβαλλαν αυτό το ζήτημα καθώς πλησίαζε το έτος 2000. Στον πυρήνα του προβλήματος βρισκόταν ένα ελάττωμα του υπολογιστή που προερχόταν από τον τρόπο με τον οποίο γράφτηκαν αρχικά τα πολύπλοκα προγράμματα υπολογιστών τη δεκαετία του 1960. Οι μηχανικοί, σε μια προσπάθεια να εξοικονομήσουν χώρο στη μνήμη, χρησιμοποίησαν έναν διψήφιο κωδικό για το έτος, παραλείποντας το "19". Αυτή η σχεδιαστική απόφαση έγινε ωρολογιακή βόμβα καθώς το ημερολόγιο γύρισε στο έτος 2000.
@@ -83,6 +84,10 @@ Images | Gallery
 -- | --
 [Εικόνα1](https://github.com/ElenaChaidou/images/blob/master/millennium-bug.jpg) | [Εικόνα1](https://github.com/ElenaChaidou/_gallery/blob/master/millennium_bug.md)
 [Εικόνα2](https://github.com/ElenaChaidou/images/blob/master/smartwatch_pos.jpg) | [Εικόνα2](https://github.com/ElenaChaidou/_gallery/blob/master/smartwatch_pos.md)
+
+**2A**
+
+Για το **συμμετοχικό περιεχόμενο 2Α** δημιούργησα ένα σετ από θεματικές διαφάνειες και ένα χρονολόγιο που συνδυάζει τις δύο εικόνες που προσέθεσα παραπάνω με εικόνες που ήδη υπάρχουν. Στο φάκελο slides του site προσέθεσα τον φάκελο [technology_progress.md](https://github.com/ElenaChaidou/site/blob/master/_slides/technology_progress.md) και στον φάκελοο timeline τον φάκελο [technology_progress.md](https://github.com/ElenaChaidou/site/blob/master/_timeline/technology_progress.md).
 
 # **Εβδομάδα 5 | Custom Desktop Enviroment**
 Για την εβδομάδα 5 εγκατέστησα το i3 window manager μέσω του λειτουργικού συστήματος Arch Linux.
