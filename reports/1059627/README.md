@@ -125,9 +125,6 @@ Images | Gallery
 
   # **Εβδομάδα 7 | Βιογραφικό Β**
   Για την εβδομάδα 7:
-
-Για την εβδομάδα 7:
-
 - έχω κάνει fork το repository του [simple-cv](https://github.com/plain-plain-text/simple-cv). 
 - έχω δημιουργήσει τη δική μου σελίδα [my_simple_cv](https://elenachaidou.github.io/simple-cv/)
 - Χρησιμοποιώ το Visual Studio code για να κάνω clone το repository **git clone https://github.com/ElenaChaidou/simple-cv** και **git checkout -b 1059627** για να φτιάξω το δικό μου branch.
