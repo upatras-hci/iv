@@ -79,11 +79,18 @@ Eκτέλεση των εντολών [**neofetch**](https://asciinema.org/a/631
 
 Εικόνα 1 | Εικόνα 2
 -- | --
-[Προσωπικό Repository](https://github.com/Rstath/images/blob/master/human-with-ibm.jpg) | [Προσωπικό Repository](https://github.com/Rstath/_gallery/blob/master/human-with-ibm.md)
-[[Περιγραφή στο προσωπικό repository](https://github.com/Rstath/images/blob/master/real-life-holograms.jpg) | [Περιγραφή στο προσωπικό repository](https://github.com/Rstath/_gallery/blob/master/real-life-holograms.md)
-[Slide](https://github.com/Rstath/images/blob/master/real-life-holograms.jpg) | [Slide](https://github.com/Rstath/_gallery/blob/master/real-life-holograms.md)
-[TimeLine](https://github.com/Rstath/images/blob/master/real-life-holograms.jpg) | [Timeline](https://github.com/Rstath/_gallery/blob/master/real-life-holograms.md)
+[Εικόνα στο προσωπικό Repository](https://github.com/Rstath/images/blob/master/human-with-ibm.jpg) | [Εικόνα στο προσωπικό repository](https://github.com/Rstath/images/blob/master/real-life-holograms.jpg) 
+[Εικόνα στο repository οργανισμού](https://github.com/HCI-Masters/images/blob/master/real-life-holograms.jpg) | [Εικόνα στο repository οργανισμού](https://github.com/HCI-Masters/images/blob/master/real-life-holograms.jpg) 
+[Περιγραφή εικόνας στο προσωπικό Repository](https://github.com/Rstath/_gallery/blob/master/human-with-ibm.md) | [Περιγραφή στο προσωπικό repository](https://github.com/Rstath/_gallery/blob/master/real-life-holograms.md)
+[Περιγραφή εικόνας στο repository οργανισμού](https://github.com/HCI-Masters/_gallery/blob/master/human-with-ibm.md) | [Περιγραφή στο repository οργανισμού](https://github.com/HCI-Masters/_gallery/blob/master/real-life-holograms.md)
+[Slide στο προσωπικό Repository](https://github.com/Rstath/site/blob/master/_slides/evolution.md) | [Slide στο προσωπικό Repository](https://github.com/Rstath/site/blob/master/_slides/holograms.md)
+[Slide στο repository οργανισμού](https://github.com/HCI-Masters/site/blob/master/_slides/evolution.md) | [Slide στο repository οργανισμού](https://github.com/HCI-Masters/site/blob/master/_slides/holograms.md)
+[TimeLine στο προσωπικό Repository](https://github.com/Rstath/site/blob/master/_timeline/evolution.md) | [Timeline στο προσωπικό Repository](https://github.com/Rstath/site/blob/master/_timeline/holograms.md)
+[TimeLine  στο repository οργανισμού](https://github.com/HCI-Masters/site/blob/master/_timeline/evolution.md) | [Timeline  στο repository οργανισμού](https://github.com/HCI-Masters/site/blob/master/_timeline/holograms.md)
+[Εικόνα site οργανισμού](https://hci-master-2023-site.netlify.app/gallery/human-with-ibm/) | [Εικόνα site οργανισμού](https://hci-master-2023-site.netlify.app/gallery/real-life-holograms/)
+[Slide site οργανισμού](https://hci-master-2023-site.netlify.app/slides/evolution/) | [Slide site οργανισμού](https://hci-master-2023-site.netlify.app/slides/holograms/)
 
+[TimeLine site οργανισμού](https://hci-master-2023-site.netlify.app/timeline/evolution/)
 
 # **Εβδομάδα 5 | Custom Desktop Enviroment**
 
@@ -114,20 +121,22 @@ Eκτέλεση των εντολών [**neofetch**](https://asciinema.org/a/631
 
 # **Εβδομάδα 6 | Συμμετοχικό Περιεχόμενο 2Α**
 
-Δημιούργησα ένα διαφορετικό κουμπί που κάνει την αντίθετη λειτουργιία από το ήδη υπάρχον https://github.com/Rstath/site/blob/master/_remix/button_add.md
-και [Code Pen link](https://codepen.io/Roubini-Stathopoulou/pen/WNPOEWX) .
-Προσέθεσα στη φόρμα την επιλογή φύλου με τη χρήση radio buttons
-https://github.com/Rstath/site/blob/master/_remix/mouse-form_gender.md
-και  [Code Pen link](https://codepen.io/Roubini-Stathopoulou/pen/XWOgerG) 
-
+Δημιούργησα ένα διαφορετικό κουμπί που κάνει την αντίθετη λειτουργία από το ήδη υπάρχον και προσέθεσα στη φόρμα την επιλογή φύλου με τη χρήση radio buttons
+Add button | Radio buttons
+-- | --
+[Προσωπικό repository](https://github.com/Rstath/site/blob/master/_remix/button_add.md) | [Προσωπικό repository](https://github.com/Rstath/site/blob/master/_remix/mouse-form_gender.md)
+[Code Pen link](https://codepen.io/Roubini-Stathopoulou/pen/WNPOEWX) |  [Code Pen link](https://codepen.io/Roubini-Stathopoulou/pen/XWOgerG) 
+[Repository οργανισμού](https://github.com/HCI-Masters/site/blob/master/_remix/button_add.md) | [Repository οργανισμού](https://github.com/HCI-Masters/site/blob/master/_remix/mouse-form_gender.md)
+[Site οργανισμού](https://hci-master-2023-site.netlify.app/remix/button_add/) | [Site οργανισμού](https://hci-master-2023-site.netlify.app/remix/mouse-form_gender/)
 
 # **Εβδομάδα 7 | Βιογραφικό Β**
 
 Για τη συγκεκριμένη άσκηση, αρχικά δημιούργησα ένα fork του repository [simple-cv](https://github.com/plain-plain-text/simple-cv) και το έκανα clone τοπικά με τη βοήθεια του Visual Studio Code. Αρχικά, δημιουργήσα ένα δικό μου  branch "1059667" με την εντολή `git checkout -b 1059667` στο terminal. Εκεί τροποποίησα, τα sections, metadata και όλα τα αρχεία του φακέλου templates σύμφωνα με τα στοιχεία μου. Όταν ολοκλήρωσα όλες τις απαραίτητες αλλαγές, με τις εντολές `git commit -m "message"` και `git push --set-upstream origin 1059667` "δημοσίευσα" τις αλλαγές στο repository ( στο branch μου).  Για την παραγωγή του αρχείου .pdf εγκατέστησα στο VSCode τις επεκτάσεις pandoc και MikTex (τις οποίες και όρισα ως global variables) και εκτέλεσα την εντολή `process.sh`. Το repository έχει συνδεθεί με το Netlify προκειμένου κάθε φορά που γίνεται push να γίνεται και ένα νέο deploy χάρη στην ενσωματωμένη τεχνολογία Continous Integration του Netlify. Κάθε φορά που πραγματοποιούνται αλλαγές πρέπει να δημοσιεύονται οι αλλαγές με` git push` και να παράγουμε ξανά το αρχείο.
 
 - [Repository's link](https://github.com/Rstath/simple-cv)
--  [CV](https://roumpini-simple-cv.netlify.app/docs/)
--  [pdf](https://roumpini-simple-cv.netlify.app/docs/Stathopoulou-CV.pdf)
+- [CV](https://roumpini-simple-cv.netlify.app/docs/)
+- [pdf](https://roumpini-simple-cv.netlify.app/docs/Stathopoulou-CV.pdf)
+- [Ιστορικό commits](https://github.com/Rstath/simple-cv/commits/1059667/)
 
 
 # **Εβδομάδα 8 | Γραμμή Εντολών 3**
@@ -139,12 +148,18 @@ https://github.com/Rstath/site/blob/master/_remix/mouse-form_gender.md
 Για τη συγκεκριμένη δραστηριότητα επέλεξα να ασχοληθώ:
 
 - **στην περίπτωση μελέτης**: με το Raspberry Pi που είναι ένας μικρός υπολογιστής σε μέγεθος πιστωτικής κάρτας. Διαθέτει πολλές λειτουργίες και διεπαφές παρόμοιες με αυτές που γνωρίζουμε και αναγνωρίζουμε από "μεγαλύτερους υπολογιστές".
-1.  [Προσωπικό repository](https://github.com/Rstath/site/blob/master/_case-study/raspberry_pi.md) 
-2. [Περιγραφή](https://github.com/Rstath/site/blob/master/_includes/cs-raspberry-pi.md)
+1. [Προσωπικό repository case-study](https://github.com/Rstath/site/blob/master/_case-study/raspberry_pi.md) 
+2. [Προσωπικό repository includes](https://github.com/Rstath/site/blob/master/_includes/cs-raspberry-pi.md)
+3. [Repository οργανισμού case-study](https://github.com/HCI-Masters/site/blob/master/_case-study/raspberry_pi.md)
+4. [Repository οργανισμού includes](https://github.com/HCI-Masters/site/blob/master/_case-study/raspberry_pi.md)
+5. [Site οργανισμού](https://hci-master-2023-site.netlify.app/case-study/raspberry_pi/)
 
 - **στη βιογραφία**: με τον Jakob Nielsen διεθνούς φήμης ερευνητή της αλληλεπίδρασης ανθρώπου-υπολογιστή και συνιδρυτή του Ομίλου Nielsen Norman.
-1.  [Προσωπικό repository](https://github.com/Rstath/site/blob/master/_biography/nielsen.md) 
-2. [Περιγραφή](https://github.com/Rstath/site/blob/master/_includes/bio-nielsen.md)
+1. [Προσωπικό repository biography](https://github.com/Rstath/site/blob/master/_biography/nielsen.md) 
+2. [Προσωπικό repository includes](https://github.com/Rstath/site/blob/master/_includes/bio-nielsen.md)
+3. [Repository οργανισμού biography](https://github.com/HCI-Masters/site/blob/master/_biography/nielsen.md)
+4. [Repository οργανισμού includes](https://github.com/HCI-Masters/site/blob/master/_includes/bio-nielsen.md)
+5. [Site οργανισμού](https://hci-master-2023-site.netlify.app/biography/nielsen/)
 
 Οι αλλαγές πραγματοποιήθηκαν στους φακέλους _case-study, _biography και _includes αντίστοιχα.
 
