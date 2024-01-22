@@ -48,6 +48,7 @@
 # **Εβδομάδα 2 | Βιογραφικό Α**
 Το link του αποθετηρίου είναι το ακόλουθο: https://github.com/ElenaChaidou/jekyll-cv .
 Το link του βιογραφικού είναι το ακόλουθο: https://elenachaidou.github.io/jekyll-cv/ .
+[commits_link](https://github.com/ElenaChaidou/jekyll-cv/commits/gh-pages/)
 
 # **Εβδομάδα 3 | Γραμμή Εντολών (archLinux)**
 Χρησιμοποίησα το Virtual Box και εγκατέστησα την γραμμή εντολών arch Linux.
