@@ -116,12 +116,14 @@ Images | Gallery
 
 - [Link στο repository](https://github.com/ElenaChaidou/site/blob/master/_remix/form-validation_el.md)
 - [CodePen link](https://codepen.io/elech/pen/xxMrXbv)
-
+- [repository Οργανισμού](https://github.com/HCI-Masters/site/blob/master/_remix/mouse_button_el.md)
 
 **Mouse Button**
 
 - [Link στο repository](https://github.com/ElenaChaidou/site/blob/master/_remix/mouse_button_el.md)
 - [CodePen link](https://codepen.io/elech/pen/YzBQxaz)
+- [repository Οργανισμού](https://github.com/HCI-Masters/site/blob/master/_remix/form-validation_el.md)
+
 
   # **Εβδομάδα 7 | Βιογραφικό Β**
   Για την εβδομάδα 7:
@@ -133,6 +135,7 @@ Images | Gallery
 1. [Repository Link](https://github.com/ElenaChaidou/simple-cv)
 2. [CV](https://elena-simple-cv.netlify.app/docs/)
 3. PDF
+4. [commits](https://github.com/ElenaChaidou/simple-cv/commits/1059627/)
 
  # **Εβδομάδα 8 | Γραμμή Εντολών 3**
  Για τις ανάγκες της συγκεκριμένης δραστηριότητας έγινε χρήση στο Arch Linux του εργαλείου spark. Χρησιμοποίησα την εντολή curl για να κατεβάσω το αρχείο spark από το GitHub repository του Holman. Το spark είναι ένα γραφικό εργαλείο γραμμής εντολών που χρησιμοποιείται για την εμφάνιση γραφικών αναπαραστάσεων για σειρές αριθμών. Με τη χρήση του κατάλληλου αρχείου και των κατάλληλων παραμέτρων, έγινε οπτικοποίηση των δεδομένων που αφορούν στους σεισμούς άνω του 1.0 βαθμού στην κλίμακα Ρίχτερ που έγιναν τον τελευταίο μήνα στις Η.Π.Α.
