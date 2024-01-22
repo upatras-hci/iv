@@ -155,6 +155,10 @@ Images | Gallery
 
 - [link από τον φάκελο _case-study](https://github.com/ElenaChaidou/site/blob/master/_case-study/NintendoDS.md)
 - [link από τον φάλελο _includes](https://github.com/ElenaChaidou/site/blob/master/_includes/cs-NintendoDS.md)
+  
+**Στον οργανισμό:**
+- [link στον φάκελο case_study](https://github.com/ElenaChaidou/site/blob/master/_case-study/NintendoDS.md)
+- [link στον φάκελο includes](https://github.com/ElenaChaidou/site/blob/master/_includes/cs-NintendoDS.md)
 
 **Βιογραφία**
 Για την Βιογραφία αποφάσισα να παραθέσω πληροφορίες σχετικά με τον Don Norman. Ο Don Norman είναι ένας επιδραστικός γνωστικός επιστήμονας, σχεδιαστής και μηχανικός χρηστικότητας, γνωστός για τις σημαντικές συνεισφορές του στον τομέα της αλληλεπίδρασης ανθρώπου-υπολογιστή. Είναι συγγραφέας του βιβλίου "The Design of Everyday Things," το οποίο έχει καθιερωθεί ως κλασικό στον χώρο του σχεδιασμού και ανθρώπινης αλληλεπίδρασης.
@@ -164,6 +168,11 @@ Images | Gallery
 
 - [link από τον φάκελο _biography](https://github.com/ElenaChaidou/site/blob/master/_biography/Norman.md)
 - [link από τον φάλελο _includes](https://github.com/ElenaChaidou/site/blob/master/_includes/bio-norman.md)
+
+**Στον οργανισμό:**
+- [link στον φάκελο biography](https://github.com/ElenaChaidou/site/blob/master/_biography/Norman.md)
+- [link στον φάκελο includes](https://github.com/ElenaChaidou/site/blob/master/_includes/bio-norman.md)
+
 
 # **Εβδομάδα 10 | Συμμετοχικό Περιεχόμενο 1Β**
 ** γραμμή εντολών (iv cli)**
