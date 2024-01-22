@@ -81,10 +81,10 @@ _Στην εικόνα απεικονίζεται ένας άνθρωπος να
 <body>
 <!--StartFragment-->
 
-Images | Gallery | site
--- | -- | --
-[Εικόνα1](https://github.com/ElenaChaidou/images/blob/master/millennium-bug.jpg) | [Εικόνα1](https://github.com/ElenaChaidou/_gallery/blob/master/millennium_bug.md) | [Eικόνα1](https://hci-master-2023-site.netlify.app/gallery/millennium_bug/)
-[Εικόνα2](https://github.com/ElenaChaidou/images/blob/master/smartwatch_pos.jpg) | [Εικόνα2](https://github.com/ElenaChaidou/_gallery/blob/master/smartwatch_pos.md) | [Εικόνα2](https://hci-master-2023-site.netlify.app/gallery/smartwatch_pos/)
+Images | Gallery | site | repository Οργανισμού
+-- | -- | -- | --
+[Εικόνα1](https://github.com/ElenaChaidou/images/blob/master/millennium-bug.jpg) | [Εικόνα1](https://github.com/ElenaChaidou/_gallery/blob/master/millennium_bug.md) | [Eικόνα1](https://hci-master-2023-site.netlify.app/gallery/millennium_bug/) | [Εικόνα 1](https://github.com/HCI-Masters/images/blob/master/millennium-bug.jpg)
+[Εικόνα2](https://github.com/ElenaChaidou/images/blob/master/smartwatch_pos.jpg) | [Εικόνα2](https://github.com/ElenaChaidou/_gallery/blob/master/smartwatch_pos.md) | [Εικόνα2](https://hci-master-2023-site.netlify.app/gallery/smartwatch_pos/) | [Εικόνα2](https://github.com/HCI-Masters/images/blob/master/smartwatch_pos.jpg)
 
 **2A**
 
