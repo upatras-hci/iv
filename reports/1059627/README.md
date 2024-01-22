@@ -90,8 +90,13 @@ Images | Gallery | site | repository Οργανισμού
 
 Για το **συμμετοχικό περιεχόμενο 2Α** δημιούργησα ένα σετ από θεματικές διαφάνειες και ένα χρονολόγιο που συνδυάζει τις δύο εικόνες που προσέθεσα παραπάνω με εικόνες που ήδη υπάρχουν. Στο φάκελο slides του site προσέθεσα τον φάκελο [technology_progress.md](https://github.com/ElenaChaidou/site/blob/master/_slides/technology_progress.md) και στον φάκελοο timeline τον φάκελο [technology_progress.md](https://github.com/ElenaChaidou/site/blob/master/_timeline/technology_progress.md).
 
-**Στον οργανισμό**: [slides](https://hci-master-2023-site.netlify.app/slides/technology_progress/)
-                [timeline](https://hci-master-2023-site.netlify.app/timeline/technology_progress/)
+**Στον οργανισμό**:
+- [slides]()
+- [timeline](https://hci-master-2023-site.netlify.app/timeline/technology_progress/)
+
+**Στο site:**
+- [slides](https://hci-master-2023-site.netlify.app/slides/technology_progress/)
+- [timeline](https://hci-master-2023-site.netlify.app/timeline/technology_progress/)
 
 # **Εβδομάδα 5 | Custom Desktop Enviroment**
 Για την εβδομάδα 5 εγκατέστησα το i3 window manager μέσω του λειτουργικού συστήματος Arch Linux.
