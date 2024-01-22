@@ -48,6 +48,7 @@
 # **Εβδομάδα 2 | Βιογραφικό Α**
 Το link του αποθετηρίου είναι το ακόλουθο: https://github.com/ElenaChaidou/jekyll-cv .
 Το link του βιογραφικού είναι το ακόλουθο: https://elenachaidou.github.io/jekyll-cv/ .
+
 [commits_link](https://github.com/ElenaChaidou/jekyll-cv/commits/gh-pages/)
 
 # **Εβδομάδα 3 | Γραμμή Εντολών (archLinux)**
@@ -125,13 +126,15 @@ Images | Gallery | site | repository Οργανισμού
 
 - [Link στο repository](https://github.com/ElenaChaidou/site/blob/master/_remix/form-validation_el.md)
 - [CodePen link](https://codepen.io/elech/pen/xxMrXbv)
-- [repository Οργανισμού](https://github.com/HCI-Masters/site/blob/master/_remix/mouse_button_el.md)
+- [repository Οργανισμού](https://github.com/HCI-Masters/site/blob/master/_remix/form-validation_el.md)
+- [site](https://hci-master-2023-site.netlify.app/remix/form-validation_el/)
 
 **Mouse Button**
 
 - [Link στο repository](https://github.com/ElenaChaidou/site/blob/master/_remix/mouse_button_el.md)
 - [CodePen link](https://codepen.io/elech/pen/YzBQxaz)
-- [repository Οργανισμού](https://github.com/HCI-Masters/site/blob/master/_remix/form-validation_el.md)
+- [repository Οργανισμού](https://github.com/HCI-Masters/site/blob/master/_remix/mouse_button_el.md)
+- [site](https://hci-master-2023-site.netlify.app/remix/mouse_button_el/)
 
 
   # **Εβδομάδα 7 | Βιογραφικό Β**
