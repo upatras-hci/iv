@@ -176,6 +176,9 @@ Images | Gallery | site | repository Οργανισμού
 - [link στον φάκελο biography](https://github.com/ElenaChaidou/site/blob/master/_biography/Norman.md)
 - [link στον φάκελο includes](https://github.com/ElenaChaidou/site/blob/master/_includes/bio-norman.md)
 
+**Στο site:**
+- [NintendoDS](https://hci-master-2023-site.netlify.app/case-study/NintendoDS/)
+- [Norman](https://hci-master-2023-site.netlify.app/biography/Norman/)
 
 # **Εβδομάδα 10 | Συμμετοχικό Περιεχόμενο 1Β**
 ** γραμμή εντολών (iv cli)**
