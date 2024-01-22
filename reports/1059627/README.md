@@ -81,10 +81,10 @@ _Στην εικόνα απεικονίζεται ένας άνθρωπος να
 <body>
 <!--StartFragment-->
 
-Images | Gallery
--- | --
-[Εικόνα1](https://github.com/ElenaChaidou/images/blob/master/millennium-bug.jpg) | [Εικόνα1](https://github.com/ElenaChaidou/_gallery/blob/master/millennium_bug.md)
-[Εικόνα2](https://github.com/ElenaChaidou/images/blob/master/smartwatch_pos.jpg) | [Εικόνα2](https://github.com/ElenaChaidou/_gallery/blob/master/smartwatch_pos.md)
+Images | Gallery | site
+-- | -- | --
+[Εικόνα1](https://github.com/ElenaChaidou/images/blob/master/millennium-bug.jpg) | [Εικόνα1](https://github.com/ElenaChaidou/_gallery/blob/master/millennium_bug.md) | [Eικόνα1](https://hci-master-2023-site.netlify.app/gallery/millennium_bug/)
+[Εικόνα2](https://github.com/ElenaChaidou/images/blob/master/smartwatch_pos.jpg) | [Εικόνα2](https://github.com/ElenaChaidou/_gallery/blob/master/smartwatch_pos.md) | [Εικόνα2](https://hci-master-2023-site.netlify.app/gallery/smartwatch_pos/)
 
 **2A**
 
