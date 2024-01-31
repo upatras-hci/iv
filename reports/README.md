@@ -197,6 +197,12 @@ https://github.com/xristostsilis/site/blob/7957a1a622bb143640d0125f787fed9376a68
 
 https://github.com/xristostsilis/site/blob/21e97d838c5c89ecb5d24be754334ff39ba39099/_includes/bio-jonnyive.md
 
+ΕΒΔΟΜΑΔΑ 10:
+
+Την παρούσα εβδομάδα αποφάσισα να ασχοληθώ με το Package pastel που εγκατέστησα στο archlinux για να χρωματίσω οποιδήποτε κείμενο θέλω στο shell. Παρακάτω φαίνεται το asciinema recording
+
+https://asciinema.org/a/hkyaiekPxUDilQHEHOttRh2Ac
+
 
 
 
