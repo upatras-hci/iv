@@ -170,6 +170,12 @@ CV
 ![ios7](https://github.com/xristostsilis/1053655/assets/67221281/4d408ba9-88ad-46b4-ba63-7c8c279a2c67)
 
 
+https://github.com/xristostsilis/site/blob/a2a84934e73b4a711e9c0b5b680073d97b2eeb42/_case-study/ios7.md
+https://github.com/xristostsilis/images/blob/d4a173d997add21ff7e0434d1be67f8e3422a267/ios7.JPG
+
+https://github.com/xristostsilis/site/blob/78de8db9260f69b8d0fd3deba8bd684fc92bfb6f/_includes/ios7.md
+
+
 
 Βιογραφία: Jony Ive (πλήρες όνομα: Sir Jonathan Paul Ive) είναι Βρετανός σχεδιαστής που γνώρισε παγκόσμια αναγνώριση για τον σημαντικό ρόλο του στον σχεδιασμό προϊόντων της Apple. Είναι γνωστός για τη συμβολή του σε ορισμένα από τα πιο εμβληματικά προϊόντα της εταιρείας και για τη στρατηγική του σχεδιασμού, η οποία έχει επηρεάσει τη βιομηχανία της τεχνολογίας.
 
@@ -186,6 +192,15 @@ CV
 5. **Αναγνώριση και Επικρίσεις:** Ο Ive έλαβε πολλά βραβεία και τιμητικές διακρίσεις για το έργο του, αλλά και αντιμετώπισε επικρίσεις για τον τρόπο με τον οποίο η αντίληψη του για τον σχεδιασμό μπορεί να έχει επηρεάσει τη λειτουργικότητα ορισμένων προϊόντων.
 
 ![jonnyive](https://github.com/xristostsilis/1053655/assets/67221281/c089c8bd-66b6-41d1-83f2-47af062f0bb0)
+
+https://github.com/xristostsilis/site/blob/7957a1a622bb143640d0125f787fed9376a68d70/_biography/jonnyive.md
+
+https://github.com/xristostsilis/site/blob/21e97d838c5c89ecb5d24be754334ff39ba39099/_includes/bio-jonnyive.md
+
+
+
+
+
 
 
 
