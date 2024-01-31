@@ -146,7 +146,9 @@ Images | Gallery | site | repository Οργανισμού
 
 1. [Repository Link](https://github.com/ElenaChaidou/simple-cv)
 2. [CV](https://elena-simple-cv.netlify.app/docs/)
-3. PDF
+3. PDF - εμφανίζεται τοπικά στον υπολογιστή μου
+![image](https://github.com/ElenaChaidou/iv/assets/79599303/b77a6347-1ad3-46f0-b5f1-4b793427ac36)
+
 4. [commits](https://github.com/ElenaChaidou/simple-cv/commits/1059627/)
 
  # **Εβδομάδα 8 | Γραμμή Εντολών 3**
