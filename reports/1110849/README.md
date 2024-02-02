@@ -117,12 +117,10 @@ Firefox
 ![netrogen-currently](https://github.com/upatras-hci/iv/assets/147270230/b0f92239-8d1a-4c5f-af79-f978d6d92757)
 ![nitrogen-full-screen](https://github.com/upatras-hci/iv/assets/147270230/668b9575-985a-4f62-abb4-3d2cad9ee51b)
  
-## Εβδομάδα 6η Συμμετοχική Περιεχόμενο 2Α
-
-Για το συγκεκριμένο παραδοτέο, αφού μελέτησα τα παραδείγματα του βιβλίου, αποφάσισα να παρουσιάσω δύο διαφορετικές εκδοχές που αφορούν τα παραδείγματα [Image filter](https://github.com/tonykontos/site/blob/f0cb0d70f47a65941aa56df3c903ada53d57b72d/_remix/image-filter.md) και [SVG Shape Example](https://github.com/tonykontos/site/blob/83aa88c90aaf6c051fcd1d9553fca26f72394819/_remix/image.md). Στο πρώτο παράδειγμα άλλαξα την εικόνα που και προσάρμοσα το μέγεθός της και μετά άλλαξα τα φίλτρα χρησιμοποιώντας το 8 φίλτρο στην σειρά και το δεύτερο παράδειγμα δημιούργησα ένα νέο svg με κώδικα html στο μισώ μέγεθος από το αρχικό svg.
 
 
-## Εβδομάδα 8η Γραμμή Εντολών (iv cli)
+
+## Γραμμή Εντολών (iv cli)
 
 Για την εβδομάδα 8 και την απεικόνιση πληροφοριών και δεδομένων σε εναλλακτικά προσαρμογές και υποσυστήματα γραμμής εντολών, επεξεργάστηκα τα console services.
 
@@ -130,7 +128,18 @@ Firefox
 
 <a href="https://asciinema.org/a/eTu1c0qJD5yDzBWtKQXy1A7Yn" target="_blank"><img src="https://asciinema.org/a/eTu1c0qJD5yDzBWtKQXy1A7Yn.svg" /></a>
 
-## Εβδομάδα 9η Συμμετοχικό Περιεχόμενο 1Β
+## Συμμετοχική Περιεχόμενο 2Α
+
+Για το συγκεκριμένο παραδοτέο, αφού μελέτησα τα παραδείγματα του βιβλίου, αποφάσισα να παρουσιάσω δύο διαφορετικές εκδοχές που αφορούν τα παραδείγματα [Image filter](https://github.com/tonykontos/site/blob/f0cb0d70f47a65941aa56df3c903ada53d57b72d/_remix/image-filter.md) και [SVG Shape Example](https://github.com/tonykontos/site/blob/83aa88c90aaf6c051fcd1d9553fca26f72394819/_remix/image.md). Στο πρώτο παράδειγμα άλλαξα την εικόνα που και προσάρμοσα το μέγεθός της και μετά άλλαξα τα φίλτρα χρησιμοποιώντας το 8 φίλτρο στην σειρά και το δεύτερο παράδειγμα δημιούργησα ένα νέο svg με κώδικα html στο μισώ μέγεθος από το αρχικό svg.
+
+## Γραμμή εντολών (iv cli)
+
+Σε αυτήν την άσκηση, χρησιμοποίησα την εντολή pastel από τις διαθέσιμες ασκήσεις γραμμής εντολών, το οποίο είναι ένα πακέτο για την βελτίωση της διεπαφής γραμμής εντολών.
+
+<a href="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU" target="_blank"><img src="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU.svg" /></a>
+
+
+## Συμμετοχικό Περιεχόμενο 1Β
 
 Για το Συμμετοχικό Περιεχόμενο 1Β:
 
@@ -178,8 +187,3 @@ Update 23/12
 [link από τον φάκελο _includes του οργανισμού](https://github.com/HCI-Masters/site/blob/7ab2746e8d93a619cf5a5855d965a85b3b2f5ac5/_includes/bio-gunnarfant.md)
 
 
-## Εβδομάδα 10η | iv cli
-
-Σε αυτήν την άσκηση, χρησιμοποίησα την εντολή pastel από τις διαθέσιμες ασκήσεις γραμμής εντολών, το οποίο είναι ένα πακέτο για την βελτίωση της διεπαφής γραμμής εντολών.
-
-<a href="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU" target="_blank"><img src="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU.svg" /></a>
