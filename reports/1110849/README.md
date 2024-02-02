@@ -62,14 +62,6 @@ AM:
 2. [CV](https://tonykontos.github.io/simple-cv/)
 3. [PDF](https://tonykontos.github.io/simple-cv/antonis%20kontonasios%20cv.pdf)
 
-
-## Γραμμή εντολών (arch linux)
-
-Έγινε εγκατάσταση ArchLinux με τη χρήση του Virtual Box και με την χρήση του εργαλείου asciinema παραθέτω τα παραδοτέα:
-
-neofetch : https://asciinema.org/a/h7takSs7rdrsBsO40jvoQsswu<br>
-journalctl -b : https://asciinema.org/a/7pKnrlPwKDVVaBdkF3Qk8RITR
-
 ## Συμμετοχικό Περιεχόμενο 1Α
 
 Σχετικά με το περιεχόμενο αυτής την ενότητας αποφασίσαμε με την ομάδα να ακολουθήσουμε ως κοινή θεματολογία την "απεικόνιση της αλληλεπίδρασης του ανθρώπου με διάφορες τεχνολογικές συσκευές στην πάροδο του χρόνου". Με βάσει αυτής της  θεματολογίας οι 2 εικόνες που επέλεξα είναι οι παρακάτω:
@@ -93,50 +85,9 @@ journalctl -b : https://asciinema.org/a/7pKnrlPwKDVVaBdkF3Qk8RITR
 - [First video game](https://github.com/tonykontos/_gallery/blob/639c1d9d6ea4ce423f50346d512e62d1a326bc81/first-video-game.md)<br>
 - [Video games in our days](https://github.com/tonykontos/_gallery/blob/639c1d9d6ea4ce423f50346d512e62d1a326bc81/video-games-in-our-days.md)
 
-## Εβδομάδα 5η - Εγκατάσταση WM
-
-Για την εβδομάδα 5 εγκατέστησα το i3 window manager μέσω του λειτουργικού συστήματος Arch Linux.
-Παρακάτω σας επισυνάπτω τις ενέργειες που έκανα για να καταφέρω να εγκαταστήσω ορισμένα πράγματα από αυτά που ζητήθηκαν να κάνουμε.
-
-Εγκατάσταση i3-wm
-![i3-install](https://github.com/upatras-hci/iv/assets/147270230/067292fb-7c86-40c2-9a27-e097047ea1a1)
-
-Polybar terminal
-Ένα γρήγορο και εύκολο στην χρήση status bar, για τη δημιουργία γραμμών κατάστασης στο Linux.
-![install-polybar](https://github.com/upatras-hci/iv/assets/147270230/661a45d0-1526-4f68-85da-79a3b304a7c5)
-
-![polybar](https://github.com/upatras-hci/iv/assets/147270230/27fb6eba-afc5-4825-aaf1-52785f79c379)
-
-Rofi 
-![rofi](https://github.com/upatras-hci/iv/assets/147270230/a4cddf3b-bf6c-4edd-93bf-d139471ae17b)
-
-Firefox
-![firefox](https://github.com/upatras-hci/iv/assets/147270230/9525a65b-be12-4994-a180-87fca8fcf634)
-
-Στην συνέχεια έκανα επιλογή μιας εικόνας για να πάω στην συνέχεια στο netrogen και να την κάνω εγκατάσταση και εφαρμογή σε πλήρες οθόνη
-![netrogen-currently](https://github.com/upatras-hci/iv/assets/147270230/b0f92239-8d1a-4c5f-af79-f978d6d92757)
-![nitrogen-full-screen](https://github.com/upatras-hci/iv/assets/147270230/668b9575-985a-4f62-abb4-3d2cad9ee51b)
- 
-
-
-
-## Γραμμή Εντολών (iv cli)
-
-Για την εβδομάδα 8 και την απεικόνιση πληροφοριών και δεδομένων σε εναλλακτικά προσαρμογές και υποσυστήματα γραμμής εντολών, επεξεργάστηκα τα console services.
-
-<a href="https://asciinema.org/a/znljMkVc2lbqIsopvSIDqTwlG" target="_blank"><img src="https://asciinema.org/a/znljMkVc2lbqIsopvSIDqTwlG.svg" /></a>
-
-<a href="https://asciinema.org/a/eTu1c0qJD5yDzBWtKQXy1A7Yn" target="_blank"><img src="https://asciinema.org/a/eTu1c0qJD5yDzBWtKQXy1A7Yn.svg" /></a>
-
 ## Συμμετοχική Περιεχόμενο 2Α
 
 Για το συγκεκριμένο παραδοτέο, αφού μελέτησα τα παραδείγματα του βιβλίου, αποφάσισα να παρουσιάσω δύο διαφορετικές εκδοχές που αφορούν τα παραδείγματα [Image filter](https://github.com/tonykontos/site/blob/f0cb0d70f47a65941aa56df3c903ada53d57b72d/_remix/image-filter.md) και [SVG Shape Example](https://github.com/tonykontos/site/blob/83aa88c90aaf6c051fcd1d9553fca26f72394819/_remix/image.md). Στο πρώτο παράδειγμα άλλαξα την εικόνα που και προσάρμοσα το μέγεθός της και μετά άλλαξα τα φίλτρα χρησιμοποιώντας το 8 φίλτρο στην σειρά και το δεύτερο παράδειγμα δημιούργησα ένα νέο svg με κώδικα html στο μισώ μέγεθος από το αρχικό svg.
-
-## Γραμμή εντολών (iv cli)
-
-Σε αυτήν την άσκηση, χρησιμοποίησα την εντολή pastel από τις διαθέσιμες ασκήσεις γραμμής εντολών, το οποίο είναι ένα πακέτο για την βελτίωση της διεπαφής γραμμής εντολών.
-
-<a href="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU" target="_blank"><img src="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU.svg" /></a>
 
 
 ## Συμμετοχικό Περιεχόμενο 1Β
@@ -185,5 +136,54 @@ Update 23/12
 [link από τον φάκελο _biography του οργανισμού](https://github.com/HCI-Masters/site/blob/7ab2746e8d93a619cf5a5855d965a85b3b2f5ac5/_biography/gunnar-fant.md)
 
 [link από τον φάκελο _includes του οργανισμού](https://github.com/HCI-Masters/site/blob/7ab2746e8d93a619cf5a5855d965a85b3b2f5ac5/_includes/bio-gunnarfant.md)
+
+
+## Γραμμή εντολών (arch linux)
+
+Έγινε εγκατάσταση ArchLinux με τη χρήση του Virtual Box και με την χρήση του εργαλείου asciinema παραθέτω τα παραδοτέα:
+
+neofetch : https://asciinema.org/a/h7takSs7rdrsBsO40jvoQsswu<br>
+journalctl -b : https://asciinema.org/a/7pKnrlPwKDVVaBdkF3Qk8RITR
+
+## Εβδομάδα 5η - Εγκατάσταση WM
+
+Για την εβδομάδα 5 εγκατέστησα το i3 window manager μέσω του λειτουργικού συστήματος Arch Linux.
+Παρακάτω σας επισυνάπτω τις ενέργειες που έκανα για να καταφέρω να εγκαταστήσω ορισμένα πράγματα από αυτά που ζητήθηκαν να κάνουμε.
+
+Εγκατάσταση i3-wm
+![i3-install](https://github.com/upatras-hci/iv/assets/147270230/067292fb-7c86-40c2-9a27-e097047ea1a1)
+
+Polybar terminal
+Ένα γρήγορο και εύκολο στην χρήση status bar, για τη δημιουργία γραμμών κατάστασης στο Linux.
+![install-polybar](https://github.com/upatras-hci/iv/assets/147270230/661a45d0-1526-4f68-85da-79a3b304a7c5)
+
+![polybar](https://github.com/upatras-hci/iv/assets/147270230/27fb6eba-afc5-4825-aaf1-52785f79c379)
+
+Rofi 
+![rofi](https://github.com/upatras-hci/iv/assets/147270230/a4cddf3b-bf6c-4edd-93bf-d139471ae17b)
+
+Firefox
+![firefox](https://github.com/upatras-hci/iv/assets/147270230/9525a65b-be12-4994-a180-87fca8fcf634)
+
+Στην συνέχεια έκανα επιλογή μιας εικόνας για να πάω στην συνέχεια στο netrogen και να την κάνω εγκατάσταση και εφαρμογή σε πλήρες οθόνη
+![netrogen-currently](https://github.com/upatras-hci/iv/assets/147270230/b0f92239-8d1a-4c5f-af79-f978d6d92757)
+![nitrogen-full-screen](https://github.com/upatras-hci/iv/assets/147270230/668b9575-985a-4f62-abb4-3d2cad9ee51b)
+ 
+
+## Γραμμή Εντολών (iv cli)
+
+Για την εβδομάδα 8 και την απεικόνιση πληροφοριών και δεδομένων σε εναλλακτικά προσαρμογές και υποσυστήματα γραμμής εντολών, επεξεργάστηκα τα console services.
+
+<a href="https://asciinema.org/a/znljMkVc2lbqIsopvSIDqTwlG" target="_blank"><img src="https://asciinema.org/a/znljMkVc2lbqIsopvSIDqTwlG.svg" /></a>
+
+<a href="https://asciinema.org/a/eTu1c0qJD5yDzBWtKQXy1A7Yn" target="_blank"><img src="https://asciinema.org/a/eTu1c0qJD5yDzBWtKQXy1A7Yn.svg" /></a>
+
+
+## Γραμμή εντολών (iv cli)
+
+Σε αυτήν την άσκηση, χρησιμοποίησα την εντολή pastel από τις διαθέσιμες ασκήσεις γραμμής εντολών, το οποίο είναι ένα πακέτο για την βελτίωση της διεπαφής γραμμής εντολών.
+
+<a href="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU" target="_blank"><img src="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU.svg" /></a>
+
 
 
