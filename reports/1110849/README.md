@@ -118,6 +118,7 @@ Firefox
 
 1. [Repository url](https://github.com/tonykontos/simple-cv.git)
 2. [CV](https://tonykontos.github.io/simple-cv/)
+3. [PDF](https://tonykontos.github.io/simple-cv/antonis%20kontonasios%20cv.pdf)
 
 ## Εβδομάδα 8η Γραμμή Εντολών (iv cli)
 
