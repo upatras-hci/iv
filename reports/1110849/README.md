@@ -175,5 +175,8 @@ Firefox
 
 <a href="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU" target="_blank"><img src="https://asciinema.org/a/E6sjwOr50cjYL5FTZAZwlu0hU.svg" /></a>
 
+## Συμμετοχικό Περιεχόμενο 1Β
+Δεν σημειώθηκε κάποια πρόοδος.
+
 
 
