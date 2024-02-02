@@ -54,6 +54,15 @@ AM:
 1) Το link του αποθετηρίου είναι το ακόλουθο: https://github.com/tonykontos/jekyll-cv.git
 2) Το link του βιογραφικού είναι το ακόλουθο: https://tonykontos.github.io/jekyll-cv/
 
+## Εβδομάδα 7η Βιογραφικό Β 
+Για την εβδομάδα 7 έκανε fork το repository του [simple-cv](https://github.com/plain-plain-text/simple-cv).
+Έφτιαξα το branch με το ΑΜ(1110848) και έφτιαξα τις ενότητες που χρειαζόταν μέσω του Visual Studio και του github ώστε να φαίνεται σωστά . Αντιμετώπισα κάποια προβλήματα στο pdf και δεν μπόρεσα να το δημιουργήσω αλλά θα το επεξεργαστώ και θα το βγάλω μέα στην εβδομάδα . Το CV μου φαίνεται στο παρακάτω link:
+
+1. [Repository url](https://github.com/tonykontos/simple-cv.git)
+2. [CV](https://tonykontos.github.io/simple-cv/)
+3. [PDF](https://tonykontos.github.io/simple-cv/antonis%20kontonasios%20cv.pdf)
+
+
 ## Εβδομάδα 3η | Γραμμή εντολών (arch linux)
 
 Έγινε εγκατάσταση ArchLinux με τη χρήση του Virtual Box και με την χρήση του εργαλείου asciinema παραθέτω τα παραδοτέα:
@@ -112,13 +121,6 @@ Firefox
 
 Για το συγκεκριμένο παραδοτέο, αφού μελέτησα τα παραδείγματα του βιβλίου, αποφάσισα να παρουσιάσω δύο διαφορετικές εκδοχές που αφορούν τα παραδείγματα [Image filter](https://github.com/tonykontos/site/blob/f0cb0d70f47a65941aa56df3c903ada53d57b72d/_remix/image-filter.md) και [SVG Shape Example](https://github.com/tonykontos/site/blob/83aa88c90aaf6c051fcd1d9553fca26f72394819/_remix/image.md). Στο πρώτο παράδειγμα άλλαξα την εικόνα που και προσάρμοσα το μέγεθός της και μετά άλλαξα τα φίλτρα χρησιμοποιώντας το 8 φίλτρο στην σειρά και το δεύτερο παράδειγμα δημιούργησα ένα νέο svg με κώδικα html στο μισώ μέγεθος από το αρχικό svg.
 
-## Εβδομάδα 7η Βιογραφικό Β 
-Για την εβδομάδα 7 έκανε fork το repository του [simple-cv](https://github.com/plain-plain-text/simple-cv).
-Έφτιαξα το branch με το ΑΜ(1110848) και έφτιαξα τις ενότητες που χρειαζόταν μέσω του Visual Studio και του github ώστε να φαίνεται σωστά . Αντιμετώπισα κάποια προβλήματα στο pdf και δεν μπόρεσα να το δημιουργήσω αλλά θα το επεξεργαστώ και θα το βγάλω μέα στην εβδομάδα . Το CV μου φαίνεται στο παρακάτω link:
-
-1. [Repository url](https://github.com/tonykontos/simple-cv.git)
-2. [CV](https://tonykontos.github.io/simple-cv/)
-3. [PDF](https://tonykontos.github.io/simple-cv/antonis%20kontonasios%20cv.pdf)
 
 ## Εβδομάδα 8η Γραμμή Εντολών (iv cli)
 
