@@ -11,7 +11,7 @@
 | 6 | συμμετοχικό περιεχόμενο 2Α |[Συμμετοχικό 2Α](https://github.com/upatras-hci/iv/discussions/147)| |
 | 7 | βιογραφικό Β |[Βιογραφικό Β](https://github.com/upatras-hci/iv/discussions/176)| |
 | 8 | γραμμή εντολών (iv cli) |[Γραμμή εντολών (iv cli)](https://github.com/upatras-hci/iv/discussions/175)| |
-| 9 | συμμετοχικό περιεχόμενο 1Β | | |
+| 9 | συμμετοχικό περιεχόμενο 1Β |[Συμμετοχικό 1Β](https://github.com/upatras-hci/iv/discussions/193)| |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
