@@ -95,7 +95,7 @@ https://github.com/tonykontos/site/blob/master/_case-study/t9keyboard.md
 
 ![gunnar-fant](https://github.com/upatras-hci/iv/assets/147270230/a27ee440-9593-4b61-ae19-a300c28e5685)
   
-[link από τον φάκελο _case-study](https://github.com/tonykontos/site/blob/fa9aaee3650e107678b7ead006d7f100a77cb41c/_case-study/t9keyboard.md)
+[link από τον φάκελο _case-study](https://github.com/tonykontos/site/blob/master/_case-study/t9keyboard.md)
 
 [link από τον φάκελο _includes](https://github.com/tonykontos/site/blob/fa9aaee3650e107678b7ead006d7f100a77cb41c/_includes/cs-t9keyboard.md)
 
