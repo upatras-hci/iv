@@ -103,7 +103,7 @@ https://github.com/tonykontos/site/blob/master/_case-study/t9keyboard.md
 
 [link από τον φάκελο _includes](https://github.com/tonykontos/site/blob/fa9aaee3650e107678b7ead006d7f100a77cb41c/_includes/bio-gunnarfant.md)
 
-[link από τον φάκελο _case-study του οργανισμού](https://github.com/HCI-Masters/site/blob/7ab2746e8d93a619cf5a5855d965a85b3b2f5ac5/_case-study/t9keyboard.md)
+[link από τον φάκελο _case-study του οργανισμού](https://github.com/HCI-Masters/site/blob/master/_includes/cs-t9keyboard.md)
 
 [link από τον φάκελο _includes του οργανισμού](https://github.com/HCI-Masters/site/blob/7ab2746e8d93a619cf5a5855d965a85b3b2f5ac5/_includes/cs-t9keyboard.md)
 
