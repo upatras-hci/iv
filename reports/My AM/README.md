@@ -12,7 +12,7 @@
 | 7 | βιογραφικό Β |[Βιογραφικό Β](https://github.com/upatras-hci/iv/discussions/176)| |
 | 8 | γραμμή εντολών (iv cli) |[Γραμμή εντολών (iv cli)](https://github.com/upatras-hci/iv/discussions/175)| |
 | 9 | συμμετοχικό περιεχόμενο 1Β |[Συμμετοχικό 1Β](https://github.com/upatras-hci/iv/discussions/193)| |
-| 10 | γραμμή εντολών (iv cli | | |
+| 10 | γραμμή εντολών (iv cli |[Γραμμή εντολών (iv cli)](https://github.com/upatras-hci/iv/discussions/194)| |
 | 11 | συμμετοχικό περιεχόμενο 2Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -164,6 +164,13 @@ neofetch: [https://asciinema.org/a/3gSIQ6DudmOl9K3CoyO2l0jJ9](https://asciinema.
 ---
 
 ### Εβδομάδα 10
+
+Για την εβδομάδα 10 αποφάσια να δοκιμάσω την εντολή icons_in_terminal από τον πίνακα visualization, στη σελίδα με τις [διαθέσιμες ασκήσεις γραμμής εντολών](https://github.com/epidrome/dokey?tab=readme-ov-file#visualization).
+
+Αφού έκανα clone το repository [icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal), κατευθύνθηκα στο αντίστοιχο directory και χρησιμοποίησα τις εντολές $ ./print_icons.sh και $ ./print_icons.sh --names για να εμφανίσω τα icons και τα ονόματά τους στην οθόνη. 
+
+Με την βοήθεια του Asciinema κατέγραψα τα αποτελέσματα:
+[https://asciinema.org/a/YgC6OKNJmTkrdxb8FzIiYXUAN](https://asciinema.org/a/YgC6OKNJmTkrdxb8FzIiYXUAN)
 
 ---
 
