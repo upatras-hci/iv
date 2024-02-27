@@ -22,7 +22,8 @@ AM 1104010
 
 ## Week 1:
 
-Introduction: My name is Vasileios Kakoulidis, I finished my BEng in electrical engineering and electronics at the University of Liverpoool in 2020. My dissertation was on piezoelectric materials and more specifically on how to power a portable mobile device with the aid of piezoelectric sensors. Even though at the time I was pursuing a carreer more power-oriented, during the quarantine I picked an interest in some frontend coding languages and soon after I decided I would want to learn more about UX/UI design. After taking a close look at this particular HCI master programme, I decided it would be extremely beneficial to participate and try to learn more regarding the interaction between humans and computers.
+Introduction: My name is Vasileios Kakoulidis, I finished my BEng in electrical engineering and electronics at the University of Liverpoool in 2020. My dissertation was on piezoelectric materials and more specifically on how to power a portable mobile device with the aid of piezoelectric sensors. 
+Even though at the time I was pursuing a carreer more power-oriented, during the quarantine I picked an interest in some frontend coding languages and soon after I decided I would want to learn more about UX/UI design. After taking a close look at this particular HCI master programme, I decided it would be extremely beneficial to participate and try to learn more regarding the interaction between humans and computers.
 Regarding this module, I believe just the sound of information visualization is intriguing and obviously it must be a challenge for every engineer to portray the information he wishes in a digital manner. Also any knowledge around Github is always valuable.
 This is the second time I am taking this class. Looking forward to learning as much as I can!
 
