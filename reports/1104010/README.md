@@ -95,7 +95,7 @@ Week 8:
 | Cryptocurrencies Exchange Rates | UNIX/Linux Cheat Sheets |
 | --- | --- | 
 | Με την χρήση του `curl rate.sx` πήρα δεδομένα σχετικά με τα exchange rates των cryptocurrencies | Με την χρήση του `curl cheat.sh` έγινε οπτικοποίηση cheat sheet για commands σε UNIX/Linux |
-|https://asciinema.org/a/Y99W3snji4Tjbr7ehu5TAdvxM | https://asciinema.org/a/uOyTN0gcb1edgpSt54rew7xm5 |
+|[![asciicast](https://asciinema.org/a/Y99W3snji4Tjbr7ehu5TAdvxM.svg)](https://asciinema.org/a/Y99W3snji4Tjbr7ehu5TAdvxM)| [![asciicast](https://asciinema.org/a/uOyTN0gcb1edgpSt54rew7xm5.svg)](https://asciinema.org/a/uOyTN0gcb1edgpSt54rew7xm5) |
 
 
 
