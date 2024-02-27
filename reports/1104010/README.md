@@ -86,3 +86,16 @@ Week 5:
 
 ![image](https://github.com/VasilisK23/iv/assets/115342571/c72defcd-99e7-4714-b1c1-575d25b5d456)
 
+Week 8:
+
+Για την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσεγγίσεις έκανα χρήση των console services. Αξιοποιώντας το [awesome-console-services](https://github.com/chubin/awesome-console-services) πειραματίστηκα με ορισμένες.
+
+Συγκεκριμένα με:
+
+| Cryptocurrencies Exchange Rates | UNIX/Linux Cheat Sheets |
+| --- | --- | 
+| Με την χρήση του `curl rate.sx` πήρα δεδομένα σχετικά με τα exchange rates των cryptocurrencies | Με την χρήση του `curl cheat.sh` έγινε οπτικοποίηση cheat sheet για commands σε UNIX/Linux |
+| https://asciinema.org/a/Y99W3snji4Tjbr7ehu5TAdvxM [ [![asciicast](https://asciinema.org/a/625664.svg)]|(https://asciinema.org/a/uOyTN0gcb1edgpSt54rew7xm5)https://asciinema.org/a/uOyTN0gcb1edgpSt54rew7xm5]
+
+
+
