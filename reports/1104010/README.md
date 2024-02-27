@@ -97,5 +97,12 @@ Week 8:
 | Με την χρήση του `curl rate.sx` πήρα δεδομένα σχετικά με τα exchange rates των cryptocurrencies | Με την χρήση του `curl cheat.sh` έγινε οπτικοποίηση cheat sheet για commands σε UNIX/Linux |
 |[![asciicast](https://asciinema.org/a/Y99W3snji4Tjbr7ehu5TAdvxM.svg)](https://asciinema.org/a/Y99W3snji4Tjbr7ehu5TAdvxM)| [![asciicast](https://asciinema.org/a/uOyTN0gcb1edgpSt54rew7xm5.svg)](https://asciinema.org/a/uOyTN0gcb1edgpSt54rew7xm5) |
 
+Week 10:
+
+Στα παρακάτω παραδείγματα κάνω χρήση του pastel που αποτελεί ένα εργαλείο του cmd που σου επιτρέπει να χειριζέσαι με διάφορους τρόπους τα χρώματα. Αφότου κατέβασα το πακέτο του pastel:
+
+| Με τη χρήση του "pastel random" γίνεται ενα τυχαίο generate χρωμάτων τα οποία αναλύονται ως προς τις κωδικές τους ονομασίες | "Με τη χρήση του pastel format name" και προσθέτοντας εναν τυχαίο κωδικό χρώματος το pastel αναγνωριζει το χρώμα και επιστρέφει την ονομασία του χρωματισμένη αντίστοιχα.
+| ---- | ---- |
+[![asciicast](https://asciinema.org/a/pYAzJnoMm0mBWxDNbRVgJwEtr.svg)](https://asciinema.org/a/pYAzJnoMm0mBWxDNbRVgJwEtr)
 
 
