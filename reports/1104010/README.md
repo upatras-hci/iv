@@ -27,14 +27,16 @@ Regarding this module, I believe just the sound of information visualization is 
 This is the second time I am taking this class. Looking forward to learning as much as I can!
 
 
-## Week 2:
+# Week 2:
+
+Για την εβδομάδα 2 έκανα χρή του βιογραφικού "Jekyll"
 
 CV: https://vasilisk23.github.io/jekyll-cv/
 
 CV repo: https://github.com/VasilisK23/jekyll-cv
 
 
-## Week 3:
+# Week 3:
 
 Επιτυχής Εγκατάσταση του ArchLinux μέσω VM 7.0.6
 
@@ -43,7 +45,7 @@ CV repo: https://github.com/VasilisK23/jekyll-cv
 [![asciicast](https://asciinema.org/a/35GsFz2LHsjNHzqhOukFhYLNs.svg)](https://asciinema.org/a/35GsFz2LHsjNHzqhOukFhYLNs)
 
 
-## Week 4:
+# Week 4:
 
 ![image](https://github.com/VasilisK23/iv/assets/115342571/0d602c69-158d-438e-b5a2-8ff2a5f70a7c)
 
@@ -63,7 +65,7 @@ Link to gallery: https://github.com/VasilisK23/_gallery/blob/master/voice-assist
 Link to images commit: https://github.com/HCI-Masters/images/commit/f39d4f7189ffaec068e0b2dac4f2a54468fdd10d
 
 
-## Week 5:
+# Week 5:
 
 Εγκατάσταση του i3 window manager. 
 
@@ -86,7 +88,7 @@ Link to images commit: https://github.com/HCI-Masters/images/commit/f39d4f7189ff
 
 ![image](https://github.com/VasilisK23/iv/assets/115342571/c72defcd-99e7-4714-b1c1-575d25b5d456)
 
-## Week 8:
+# Week 8:
 
 Για την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσεγγίσεις έκανα χρήση των console services. Αξιοποιώντας το [awesome-console-services](https://github.com/chubin/awesome-console-services) πειραματίστηκα με ορισμένες.
 
@@ -97,11 +99,11 @@ Link to images commit: https://github.com/HCI-Masters/images/commit/f39d4f7189ff
 | Με την χρήση του `curl rate.sx` πήρα δεδομένα σχετικά με τα exchange rates των cryptocurrencies | Με την χρήση του `curl cheat.sh` έγινε οπτικοποίηση cheat sheet για commands σε UNIX/Linux |
 |[![asciicast](https://asciinema.org/a/Y99W3snji4Tjbr7ehu5TAdvxM.svg)](https://asciinema.org/a/Y99W3snji4Tjbr7ehu5TAdvxM)| [![asciicast](https://asciinema.org/a/uOyTN0gcb1edgpSt54rew7xm5.svg)](https://asciinema.org/a/uOyTN0gcb1edgpSt54rew7xm5) |
 
-## Week 10:
+# Week 10:
 
 Στα παρακάτω παραδείγματα κάνω χρήση του pastel που αποτελεί ένα εργαλείο του cmd που σου επιτρέπει να χειριζέσαι με διάφορους τρόπους τα χρώματα. Αφότου κατέβασα το πακέτο του pastel:
 
-Με τη χρήση του "pastel random" γίνεται ενα τυχαίο generate χρωμάτων τα οποία αναλύονται ως προς τις κωδικές τους ονομασίες.
+Με τη χρήση του "pastel random" γίνεται ενα τυχαίο generate χρωμάτων τα οποία αναλύονται ως προς τις κωδικές τους ονομασίες, καθώς παραθέτονται και τα πιο παρεμφερή.
 
 Με τη χρήση του "pastel format name" και προσθέτοντας εναν τυχαίο κωδικό χρώματος το pastel αναγνωριζει το χρώμα και επιστρέφει την ονομασία του χρωματισμένη αντίστοιχα.
 
