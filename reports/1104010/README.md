@@ -20,21 +20,21 @@ Name Vasileios Kakoulidis
 AM 1104010
 
 
-Week 1:
+##Week 1:
 
 Introduction: My name is Vasileios Kakoulidis, I finished my BEng in electrical engineering and electronics at the University of Liverpoool in 2020. My dissertation was on piezoelectric materials and more specifically on how to power a portable mobile device with the aid of piezoelectric sensors. Even though at the time I was pursuing a carreer more power-oriented, during the quarantine I picked an interest in some frontend coding languages and soon after I decided I would want to learn more about UX/UI design. After taking a close look at this particular HCI master programme, I decided it would be extremely beneficial to participate and try to learn more regarding the interaction between humans and computers.
 Regarding this module, I believe just the sound of information visualization is intriguing and obviously it must be a challenge for every engineer to portray the information he wishes in a digital manner. Also any knowledge around Github is always valuable.
 This is the second time I am taking this class. Looking forward to learning as much as I can!
 
 
-Week 2:
+##Week 2:
 
 CV: https://vasilisk23.github.io/jekyll-cv/
 
 CV repo: https://github.com/VasilisK23/jekyll-cv
 
 
-Week 3:
+##Week 3:
 
 Επιτυχής Εγκατάσταση του ArchLinux μέσω VM 7.0.6
 
@@ -43,7 +43,7 @@ Week 3:
 [![asciicast](https://asciinema.org/a/35GsFz2LHsjNHzqhOukFhYLNs.svg)](https://asciinema.org/a/35GsFz2LHsjNHzqhOukFhYLNs)
 
 
-Week 4:
+##Week 4:
 
 ![image](https://github.com/VasilisK23/iv/assets/115342571/0d602c69-158d-438e-b5a2-8ff2a5f70a7c)
 
@@ -63,7 +63,7 @@ Link to gallery: https://github.com/VasilisK23/_gallery/blob/master/voice-assist
 Link to images commit: https://github.com/HCI-Masters/images/commit/f39d4f7189ffaec068e0b2dac4f2a54468fdd10d
 
 
-Week 5:
+##Week 5:
 
 Εγκατάσταση του i3 window manager. 
 
@@ -86,7 +86,7 @@ Week 5:
 
 ![image](https://github.com/VasilisK23/iv/assets/115342571/c72defcd-99e7-4714-b1c1-575d25b5d456)
 
-Week 8:
+##Week 8:
 
 Για την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσεγγίσεις έκανα χρήση των console services. Αξιοποιώντας το [awesome-console-services](https://github.com/chubin/awesome-console-services) πειραματίστηκα με ορισμένες.
 
@@ -97,7 +97,7 @@ Week 8:
 | Με την χρήση του `curl rate.sx` πήρα δεδομένα σχετικά με τα exchange rates των cryptocurrencies | Με την χρήση του `curl cheat.sh` έγινε οπτικοποίηση cheat sheet για commands σε UNIX/Linux |
 |[![asciicast](https://asciinema.org/a/Y99W3snji4Tjbr7ehu5TAdvxM.svg)](https://asciinema.org/a/Y99W3snji4Tjbr7ehu5TAdvxM)| [![asciicast](https://asciinema.org/a/uOyTN0gcb1edgpSt54rew7xm5.svg)](https://asciinema.org/a/uOyTN0gcb1edgpSt54rew7xm5) |
 
-Week 10:
+##Week 10:
 
 Στα παρακάτω παραδείγματα κάνω χρήση του pastel που αποτελεί ένα εργαλείο του cmd που σου επιτρέπει να χειριζέσαι με διάφορους τρόπους τα χρώματα. Αφότου κατέβασα το πακέτο του pastel:
 
