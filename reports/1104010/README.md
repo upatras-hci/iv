@@ -115,8 +115,9 @@ Link to images commit: https://github.com/HCI-Masters/images/commit/f39d4f7189ff
 
 | ![image](https://github.com/VasilisK23/iv/assets/115342571/27a0d6e1-9d05-4f8f-93f4-55c982c56c0b) | ![image](https://github.com/VasilisK23/iv/assets/115342571/f69feb3a-bf4d-441d-b332-d2dbfd2e71cb) |
 
+
+| Repositories για τη Μελέτη Περίπτωσης | Repositories για τη Βιογραφία |
 | ---- | ---- |
-| Repositories για  | Βιογραφία |
 | https://github.com/VasilisK23/site/blob/master/_includes/cs-eyetap.md | 
 | https://github.com/VasilisK23/site/blob/master/_case-study/eyetap.md |
  https://github.com/VasilisK23/site/blob/master/_includes/bio-mann.md |
