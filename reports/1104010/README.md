@@ -19,6 +19,18 @@
 Name Vasileios Kakoulidis
 AM 1104010
 
+
+
+## Week 1:
+
+Introduction: My name is Vasileios Kakoulidis, I finished my BEng in electrical engineering and electronics at the University of Liverpoool in 2020. My dissertation was on piezoelectric materials and more specifically on how to power a portable mobile device with the aid of piezoelectric sensors. 
+
+Even though at the time I was pursuing a carreer more power-oriented, during the quarantine I picked an interest in some frontend coding languages and soon after I decided I would want to learn more about UX/UI design. After taking a close look at this particular HCI master programme, I decided it would be extremely beneficial to participate and try to learn more regarding the interaction between humans and computers.
+
+Regarding this module, I believe just the sound of information visualization is intriguing and obviously it must be a challenge for every engineer to portray the information he wishes in a digital manner. Also any knowledge around Github is always valuable.
+
+This is the second time I am taking this class. Looking forward to learning as much as I can!
+
 ```diff
 # Τι είναι ο άνθρωπος;
 Ο όρος άνθρωπος μπορεί να περιγραφεί ανάλογα με τον αριθμό των χαρακτηριστικών και των συμπεριφορών του. 
@@ -38,16 +50,6 @@ AM 1104010
 # Ποια είναι μια αναλογία για τον υπολογιστή πέρα από εργαλείο;
 Ένας υπολογιστής μπορεί να προσφέρει συντροφικότητα και να αποτελέσει πηγή χαράς και ψυχαγωγίας.
 ```
-
-## Week 1:
-
-Introduction: My name is Vasileios Kakoulidis, I finished my BEng in electrical engineering and electronics at the University of Liverpoool in 2020. My dissertation was on piezoelectric materials and more specifically on how to power a portable mobile device with the aid of piezoelectric sensors. 
-
-Even though at the time I was pursuing a carreer more power-oriented, during the quarantine I picked an interest in some frontend coding languages and soon after I decided I would want to learn more about UX/UI design. After taking a close look at this particular HCI master programme, I decided it would be extremely beneficial to participate and try to learn more regarding the interaction between humans and computers.
-
-Regarding this module, I believe just the sound of information visualization is intriguing and obviously it must be a challenge for every engineer to portray the information he wishes in a digital manner. Also any knowledge around Github is always valuable.
-
-This is the second time I am taking this class. Looking forward to learning as much as I can!
 
 
 # Week 2:
@@ -111,6 +113,15 @@ Link to images commit: https://github.com/HCI-Masters/images/commit/f39d4f7189ff
 
 ![image](https://github.com/VasilisK23/iv/assets/115342571/c72defcd-99e7-4714-b1c1-575d25b5d456)
 
+# Week 6:
+
+Για το συμμετοχικό περιέχομενο 2Α κατόπιν μελέτης του υλικού του βιβλίου συγκέντρωσα 2 καινούρια διαδραστικά παραδείγματα.
+
+Στο πρώτο παράδειγμα κώδικα προβάλεται με διάδραση η εναλλαγή απο login σε sign up screen με τη βοήθεια ενος arrow button : https://codepen.io/VasilisK23/pen/rNZBZPr. 
+Στο παράδειγμα έχω αφαιρέσει κάποια περιττά Ultralinks και έχω αλλάξει και τα χρώματα του backround και του βέλους.
+
+Το 2ο παράδειγμα διαδραστικό παράδειγμα κώδικα μεγενθύνει τα εικονίδια σε μια μπάρα όταν επιλεχθούν. Τους δίνει ειδικό χρωματισμό και χρωματίζει αντιστοίχως το background. https://codepen.io/abxlfazl/pen/VwKzaEm
+
 # Week 8:
 
 Για την οπτικοποίηση πληροφορίας και δεδομένων με εναλλακτικές προσεγγίσεις έκανα χρήση των console services. Αξιοποιώντας το [awesome-console-services](https://github.com/chubin/awesome-console-services) πειραματίστηκα με ορισμένες.
@@ -158,4 +169,11 @@ Link to images commit: https://github.com/HCI-Masters/images/commit/f39d4f7189ff
 
 [![asciicast](https://asciinema.org/a/pYAzJnoMm0mBWxDNbRVgJwEtr.svg)](https://asciinema.org/a/pYAzJnoMm0mBWxDNbRVgJwEtr)
 
+
+# Σύνοψη:
+
+Το μάθημα του IV ήταν πολύ ενδαφέρον και η φιλοσοφία και προσέγγιση τους διαφορετικές από το συνηθισμένο. Απέκτησα χρήσιμες δεξιότητες όσον αφορά την κατανόηση και το χειρισμό του github. Έμαθα να φτιάχνω και να εξατομικέυω ένα  βιογραφικό με βάση τις ανάγκες μου. Δεν μπόρεσα ωστόσο να καταφέρω να το προβάλλω σε pdf,ικανότητα που θεωρώ ουσιώδη, και θα προσπαθήσω να πετύχω στην πορεία. Με την εγκατάσταση του i3 και το setup ενός desktop manager παρόλο που δυσκολεύτηκα- με αποτέλεσμα να το παράτησω, να το ξαναπιάσω ξανά και ξανά- καταφέρα να το φέρω εις πέρας, το οποίο μου εδώσε γνώσεις. Καθώς πρόκειται για ένα περιβάλλον που εξατομικεύεται πολύ, το έφερα στα μέτρα μου και το χρησιμοποίησα πολύ και εκτος του scope του μαθήματος, πράγμα που δεν το περίμενα και με ικανοποιεί. Αντίστοιχα το συμμετοχικό περιεχομενο ήταν εκείνο που μου "ευχαριστηθήκα" το περισσότερο. Στα πλαίσια της φετινής κοινής θεματολογίας μπόρεσα και συνείσφερα στο αντίγραφο του pibook στον οργανισμό μας με ωραίες πληροφοριές και θεωρώ σε κάποια κομμάτια εναλλακτικές-όπως το 1Α που πρότεινα μια σύγχρονη διάδραση ανθρώπου υπολογιστή την εισαγωγή φωνής ως information input. Γενικότερα η προσέγγιση που χρειάστηκε να ακολουθηθεί( μελέτη του βιβλίου, κατανόηση του περιεχομένου και εύρεση των σημείων που χρειάζονται εμπλουτισμό) ήταν πολύ αποτελεσματική και ευχάριστη για μένα και θεωρώ οι συνεισφορές μου είναι δικαιολογημένες και ως ένα βαθμό ακριβείς. Δυστυχώς δεν μπόρεσα να ολοκληρώσω το συμμετοχικό 2Β. Συγκεντρωτικά, το πρόσημο του μαθήματος ήταν θετικό για μένα. 
+
+Ευχαριστώ πολύ,
+Κακουλίδης Βασίλειος
 
