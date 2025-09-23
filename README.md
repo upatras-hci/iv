@@ -75,4 +75,4 @@
 - Edit (and commit) your report according to the above deliverables table of contents.
 - At the end of the course, make a pull-request.
 
-[Detailed instructions with gifs and links to official documentation](https://courses-ionio.github.io/help/guide/)
+[Detailed instructions with gifs and links to official documentation](https://epidrome.github.io/teaching/guide/)
