@@ -13,7 +13,7 @@
 | Εβδομάδα\* | Παραδοτέο                                                                                                                                                                                                                                                                                                                                                                                                                                        | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | -------------- |
 | **1**      | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Fork και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή εισαγωγής [για σχολιασμό](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | [CV Introduction](https://github.com/upatras-hci/iv/discussions/207)                                                    |                |
-| **2**      | [Βιογραφικό Α](https://epidrome.github.io/teaching/cv/)                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                         |                |
+| **2**      | [Βιογραφικό Α](https://epidrome.github.io/teaching/cv/)                                                                                                                                                                                                                                                                                                                                                                                          | [CV-Site](https://mstephanidhs.github.io/)                                                                              |                |
 | **3**      | [Γραμμή εντολών (Arch Linux)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                         |                |
 | **4**      | [Συμμετοχικό περιεχόμενο 1Α](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                         |                |
 | **5**      | [Γραμμή εντολών (Custom Desktop Environment)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                         |                |
@@ -46,3 +46,65 @@
 #### Ποια είναι μια αναλογία για τον υπολογιστή πέρα από εργαλείο;
 
 Ο υπολογιστής είναι σαν ένας συνεργάτης που ακολουθεί τις οδηγίες σου, επεξεργάζεται μεγάλες ποσότητες πληροφοριών και σε βοηθά να ολοκληρώνεις σύνθετες εργασίες πιο γρήγορα, αποτελεσματικά και με μεγαλύτερη ακρίβεια.
+
+## CV Site
+
+Το ζητούμενο της συγκεριμένης άσκησης αποτελούσε την εγκατάσταση και εκτέλεση ενός jekyll site με χρήση Github Pages. Αποφάσισα να χρησιμοποιήσω το [CV Jekyll Theme](https://github.com/sharu725/online-cv), ένα από τα προτεινόμενα θέματα που αναφέρονταν στην εκφώνηση της άσκησης.
+
+- Ξεκίνησα κάνοντας fork το συγκεκριμένο repository και ονομάζοντάς το <b>mstephanidhs.github.io</b>, ώστε το URL που θα προκύψει μέσω του GitHub Pages να είναι πιο καθαρό.
+
+- Προκειμένου να τρέξει το <b>Jekyll</b>, εγκατέστησα Ruby για Windows μέσω του [RubyInstaller](https://rubyinstaller.org/). Στη συνέχεια, έτρεξα την εντολή
+
+  `gem install bundler`'
+
+  μιας και το bundler είναι απαραίτητο για τη διαχείριση των εξαρτήσεων των Gems. Στο repo εντοπίζεται το αρχείο <b>Gemfile</b> που καθορίζει όλα τα απαραίτητα Gems για το Jekyll site και Github Pages. Έγινε μία αρχική προσπάθεια εγκατάστασης των Gems μέσω της εντολής
+
+  `bundle install`
+
+  Το bundler προσπάθησε να εγκαταστήσει όλα τα Gems αλλά απέτυχε όταν έφτασε στο <b>Nokogiri</b> λόγω native extensions που χρειάζονται compilation.
+
+- Μετά από αρκετές αποτυχημένες προσπάθειες, αποφάσισα να μεταβώ σε Linux περιβάλλον (<b>WSL</b>). Το repo ξανά έγινε cloned (υπήρχε ήδη το git εγκατεστημένο) και εκτέλεστηκαν οι παρακάτω εντολές προκειμένου να διασφαλιστεί ότι η Ruby και όλα τα εργαλεία compilation είναι διαθέσιμα.
+
+  `sudo apt update`
+
+  `sudo apt install ruby-full build-essential zlib1g-dev`
+
+  `gem install bundler`
+
+  Στο folder του project εκτελέστηκε
+
+  `bundle install`
+
+  όπου όλα τα Gems εγκαταστάθηκαν επιτυχώς.
+
+- Στη συνέχεια, προχώρησα με κάποια ρυθμίσεις στο <b>\_config.yml</b> ενώ έκανα και τις απαραίτητες αλλαγές στο <b>\_data/data.yml</b>, εισάγοντας τα προσωπικά μου στοιχεία για το βιογραφικό και προσθέτοντας την φωτογραφία μου για το βιογραφικό στο <b>assets/images</b>.
+
+- Επιπλέον, έκανα μια μικρή τροποποίηση για το LinkedIn. Το αρχικό πεδίο ζητούσε μόνο το όνομα που χρησιμοποιείται στο URL αλλά για μένα το URL ήταν <i>marios-stefanidis-522444249</i>, κάτι που δεν φαινόταν όμορφο. Έτσι, στο <b>data.yml</b> το διαχώρισα σε <i>linkedinLinkName</i> και <i>linkedinShowcaseName</i>. Στη συνέχεια, έκανα τον κατάλληλο έλεγχο στο <b>contact.html</b> με:
+
+  `{% if sidebar.linkedinLinkName and sidebar.linkedinShowcaseName %}
+`
+
+  `
+      <a
+        href="https://linkedin.com/in/{{ sidebar.linkedinLinkName }}"
+        target="_blank"
+        >{{ sidebar.linkedinShowcaseName }}</a
+      >`
+
+- Για να ξεκινήσει το site τοπικά, εκτελέστηκε η εντολή
+
+  `sudo bundle exec jekyll server`
+
+  με αποτέλεσμα να είναι εφικτή η πρόσβαση σε αυτό πληκτρολογώντας <b>http://localhost:4000</b> στο Chrome.
+
+- Το site είναι προσβάσιμο online μέσω GitHub Pages.
+
+<b>Σημείωση:</b> Τα παραπάνω έγιναν με εντολές όπως:
+
+`git add .`
+`git commit -m <commit_message>`
+`git push`
+`git clone`
+`nano <file_name>`
+
+μέσα στο WSL.
