@@ -11,7 +11,7 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/203 | |
 | 2 | [βιογραφικό Α](https://epidrome.github.io/teaching/cv/) Α | https://github.com/upatras-hci/iv/discussions/215 | |
-| 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | | |
+| 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/222 | |
 | 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | | |
 | 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | | |
 | 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | | |
