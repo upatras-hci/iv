@@ -139,7 +139,7 @@
   2. n - Νέο partition για EFI (π.χ. 512M)
   3. t - Αλλαγή τύπου σε EFI System (1)
   4. n - Νέο partition για root (υπόλοιπος χώρος)
-  5. w - Αποθήκευση αλλαγών
+  5. w - Αποθήκευση
 
   ```
   # Format partitions
