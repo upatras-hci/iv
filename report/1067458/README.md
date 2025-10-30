@@ -1,7 +1,7 @@
 ## Personal Data:
 
 Ονοματεπώνυμο: Στεφανίδης Μάριος <br />
-ΑΜ: -
+ΑΜ: 1067458
 
 <b>Information Visualization:</b><br>
 Δημιουργία Αναφοράς (README.md) και υποβολή παραδοτέου<br>
