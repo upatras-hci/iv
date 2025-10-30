@@ -14,7 +14,7 @@
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | -------------- |
 | **1**      | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Fork και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή εισαγωγής [για σχολιασμό](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | [CV Introduction](https://github.com/upatras-hci/iv/discussions/207)                                                    |                |
 | **2**      | [Βιογραφικό Α](https://epidrome.github.io/teaching/cv/)                                                                                                                                                                                                                                                                                                                                                                                          | [CV-Site](https://github.com/upatras-hci/iv/discussions/213)                                                            |                |
-| **3**      | [Γραμμή εντολών (Arch Linux)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                         |                |
+| **3**      | [Γραμμή εντολών (Arch Linux)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                          | [Arch Linux](https://github.com/upatras-hci/iv/discussions/235)                                                         |                |
 | **4**      | [Συμμετοχικό περιεχόμενο 1Α](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                         |                |
 | **5**      | [Γραμμή εντολών (Custom Desktop Environment)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                         |                |
 | **6**      | [Συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                         |                |
@@ -108,3 +108,152 @@
 `nano <file_name>`
 
 μέσα στο WSL.
+
+## Arch Linux
+
+Για την εγκατάσταση Arch Linux σε VMWare ακολούθησα τα παρακάτω βήματα:
+
+- Boot από το Arch Linux ISO
+
+  ```
+  # Έλεγχος σύνδεσης δικτύου
+  ping -c 3 archlinux.org
+
+  # Συγχρονισμός ρολογιού συστήματος
+  timedatectl set-ntp true
+  ```
+
+- Διαμόρφωση Δίσκου
+
+  ```
+  # Προβολή διαθέσιμων δίσκων
+  fdisk -l
+
+  # Δημιουργία partitions
+  fdisk /dev/sda
+  ```
+
+  Εντός του fdisk
+
+  1. g - Δημιουργία νέου GPT partition table
+  2. n - Νέο partition για EFI (π.χ. 512M)
+  3. t - Αλλαγή τύπου σε EFI System (1)
+  4. n - Νέο partition για root (υπόλοιπος χώρος)
+  5. w - Αποθήκευση αλλαγών
+
+  ```
+  # Format partitions
+  mkfs.fat -F32 /dev/sda1 # EFI partition
+  mkfs.ext4 /dev/sda2 # Root partition
+
+  # Mount filesystems
+  mount /dev/sda2 /mnt
+  mkdir -p /mnt/boot
+  mount /dev/sda1 /mnt/boot
+  ```
+
+- Εγκατάσταση Βασικού Συστήματος
+
+  ```
+  # Εγκατάσταση βασικών πακέτων
+  pacstrap /mnt base linux linux-firmware
+  ```
+
+- Διαμόρφωση Συστήματος
+
+  ```
+  # Δημιουργία fstab
+  genfstab -U /mnt >> /mnt/etc/fstab
+
+  # Chroot στο νέο σύστημα
+  arch-chroot /mnt
+  ```
+
+- Ρυθμίσεις Βασικού Συστήματος
+
+  ```
+  # Ορισμός timezone
+  ln -sf /usr/share/zoneinfo/Europe/Athens /etc/localtime
+  hwclock --systohc
+
+  # Εγκατάσταση απαραίτητων πακέτων
+  pacman -S nano vim networkmanager grub efibootmgr
+
+  # Διαμόρφωση locale
+  nano /etc/locale.gen
+
+  locale-gen
+
+  echo "LANG=en_US.UTF-8" > /etc/locale.conf
+
+  # Ορισμός hostname
+  echo "1067458" > /etc/hostname
+
+  # Διαμόρφωση /etc/hosts
+  nano /etc/hosts
+  ```
+
+  Περιέχομενο /etc/hosts:
+
+  ```
+  127.0.0.1   localhost
+  ::1         localhost
+  127.0.1.1   1067458.localdomain 1067458
+  ```
+
+- Χρήστες και Κωδικοί
+
+  ```
+  # Ορισμός κωδικού root
+  passwd
+
+  # Δημιουργία χρήστη
+  useradd -m -G wheel -s /bin/bash <username>
+  passwd <username>
+
+  # Ενεργοποίηση sudo για wheel group
+  EDITOR=nano visudo
+  ```
+
+- Εγκατάσταση Bootloader
+
+  ```
+  # Εγκατάσταση GRUB για UEFI
+  grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB
+
+  # Δημιουργία GRUB configuration
+  grub-mkconfig -o /boot/grub/grub.cfg
+  ```
+
+- Ενεργοποίηση Υπηρεσιών
+
+  ```
+  # Ενεργοποίηση NetworkManager
+  systemctl enable NetworkMamager
+  ```
+
+- Ολοκλήρωση Εγκατάστασης
+
+  ```
+  # Έξοδος από chroot
+  exit
+
+  # Unmount partitions
+  unmount -R /mnt
+
+  # Επανεκκίνηση
+  reboot
+  ```
+
+Μετά την ολοκλήρωση της εγκατάστασης εκτέλεσα τις εξής εντολής προκειμένου να δημιουργήσω τα παραδοτέα της άσκησης και το ζητούμενο [recording](https://asciinema.org/a/jWhEtznf8YjU4ADmGQlJm7kGG).
+
+```
+# Ενημέρωση του συστήματος και των πακέτων
+pacman -Syu
+
+# Εγκατάσταση του asciinema για καταγραφή terminal sessions
+pacman -S asciinema
+
+# Εγκατάσταση του fastfetch για εμφάνιση πληροφοριών συστήματος
+pacman -S fastfetch
+```
