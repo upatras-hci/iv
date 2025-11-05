@@ -109,7 +109,7 @@
 
 μέσα στο WSL.
 
-## Arch Linux
+## Γραμμή Εντολών (Arch Linux)
 
 Για την εγκατάσταση Arch Linux σε VMWare ακολούθησα τα παρακάτω βήματα:
 
@@ -277,3 +277,293 @@ pacman -S fastfetch
 ![Light Pen](https://upload.wikimedia.org/wikipedia/commons/c/cd/HypertextEditingSystemConsoleBrownUniv1969.jpg)
 
 Το light pen δημιουργήθηκε γύρω στο 1951-1955 ως μέρος του έργου Whirlwind I στο MIT και χρησιμοποιήθηκε στο σύστημα SAGE για στρατιωτική επιτήρηση του εναέριου χώρου. Στη δεκαετία του 1960, τα light pens ήταν συνηθισμένα σε γραφικά τερματικά όπως το IBM 2250. Ωστόσο, επειδή ο χρήστης έπρεπε να κρατά το χέρι του μπροστά στην οθόνη για μεγάλα χρονικά διαστήματα (προκαλώντας "gorilla arm"), το light pen έπεσε σε αχρησία. Η ιδέα παρουσιάζει πώς η εργονομία είναι εξίσου σημαντική με την τεχνολογική καινοτομία.
+
+## Γραμμή εντολών (Custom Desktop Environment)
+
+Αρχικά, ολοκλήρωσα την εγκατάσταση του i3 εκτελώντας τις ακόλουθες εντολές
+
+```bash
+# Ενημέρωση Συστήματος
+pacman -Syu
+
+# Εγκατάσταση i3
+pacman -S i3-wm i3status i3lock dmenu
+```
+
+Το i3-wm είναι ο window manager, το i3status για το status bar, το i3lock για το screen locking, και το dmenu για launcher εφαρμογών.
+
+Έπειτα, εγκατέστησα τα εξής:
+
+1. X Server
+
+```bash
+pacman -S xorg-server xorg-xinit
+```
+
+2. Terminal Emulator
+
+```bash
+pacman -S alacritty
+```
+
+και προχώρησα με τις κατάλληλες ρυθμίσεις ώστε να ξεκινάει το i3
+
+```bash
+echo "exec i3" > ~/.xinitrc
+```
+
+#### Προσαρμογες στο i3
+
+- Προσθήκες και αλλαγές στο <b>~/.config/i3/config</b>
+
+  ```bash
+  # Όρισα το terminal
+  set $term alacritty
+  bindsym $mod+Return exec $term
+
+  # Πρόσθεσα launcher rofi)
+  bindsym $mod+d exec rofi -show drun
+  ```
+
+- Εγκατάσταση <b>i3blocks</b> για καλύτερο status bar
+
+  ```bash
+  pacman -S i3blocks
+
+  # Δημιούργησα config για i3blocks
+  mkdir -p ~/.config/i3blocks
+  cp /etc/i3blocks.conf ~/.config/i3blocks/config
+  ```
+
+  - Ενεργοποίηση i3blocks στο i3 config (~/.config/i3/config) και αλλαγή της γραμμής "bar {" με
+
+    ```bash
+    bar {
+      status_command i3blocks
+    }
+    ```
+
+#### Εξατομίκευση i3
+
+- Color Theme (Solarized)
+
+  Προσθήκη στο τέλος του αρχείου ~/.config/i3/config
+
+  ```bash
+  # Solarized Dark colors
+  set $base03    #002b36
+  set $base02    #073642
+  set $base01    #586e75
+  set $base00    #657b83
+  set $base0     #839496
+  set $base1     #93a1a1
+  set $base2     #eee8d5
+  set $base3     #fdf6e3
+  set $yellow    #b58900
+  set $orange    #cb4b16
+  set $red       #dc322f
+  set $magenta   #d33682
+  set $violet    #6c71c4
+  set $blue      #268bd2
+  set $cyan      #2aa198
+  set $green     #859900
+
+  # Window colors
+  #                       border     background text       indicator
+  client.focused          $blue      $blue      $base3     $blue
+  client.focused_inactive $base02    $base02    $base1     $base02
+  client.unfocused        $base02    $base02    $base01    $base02
+  client.urgent           $red       $red       $base3     $red
+
+  # Bar colors
+  bar {
+      status_command i3blocks
+      position top
+
+      colors {
+          background $base03
+          statusline $base1
+          separator  $base01
+
+          #                  border     background text
+          focused_workspace  $blue      $blue      $base3
+          active_workspace   $base02    $base02    $base1
+          inactive_workspace $base03    $base03    $base01
+          urgent_workspace   $red       $red       $base3
+      }
+  }
+  ```
+
+- Status Bar (i3blocks) με custom modules
+
+  Δημιούργησα custom config
+
+  ```bash
+  mkdir -p ~/.config/i3blocks
+  nano ~/.config/i3blocks/config
+  ```
+
+  και πρόσθεσα
+
+  ```bash
+  [time]
+  command=date '+%H:%M:%S'
+  interval=1
+  color=#2aa198
+
+  [date]
+  command=date '+%Y-%m-%d'
+  interval=60
+  color=#268bd2
+
+  [battery]
+  command=acpi | grep -oP '\d+(?=%)'
+  interval=30
+  label=BAT:
+  color=#859900
+
+  [volume]
+  command=amixer get Master | grep -oP '\d+(?=%)' | head -1
+  interval=5
+  label=SOUND:
+  color=#b58900
+
+  [memory]
+  command=free -h | awk '/^Mem:/ {print $3 "/" $2}'
+  interval=10
+  label=MEM:
+  color=#d33682
+
+  [cpu]
+  command=top -bn1 | grep "Cpu(s)" | awk '{print $2}' | cut -d'%' -f1
+  interval=5
+  label=CPU:
+  color=#dc322f
+
+  [disk]
+  command=df -h / | awk 'NR==2 {print $3 "/" $2}'
+  interval=30
+  label=DISK:
+  color=#6c71c4
+  ```
+
+- Wallpaper
+
+  Εγκατάσταση feh (για wallpaper)
+
+  ```bash
+  pacman -S feh
+  ```
+
+  Κατέβασμα wallpaper
+
+  ```bash
+  mkdir -p ~/Pictures/wallpapers
+  cd ~/Pictures/wallpapers
+  # Κατέβασμα κάποιου wallpaper
+  curl -o wallpaper.jpg "URL_του_wallpaper"
+  ```
+
+  Ρύθμιση στο i3 config (nano ~/.config/i3/config)
+
+  ```bash
+  # Wallpaper
+  exec_always --no-startup-id feh --bg-scale ~/Pictures/wallpapers/wallpaper.jpg
+  ```
+
+- Application Launcher (Rofi)
+
+  Εγκατάσταση
+
+  ```bash
+  pacman -S rofi
+  ```
+
+  Ρύθμιση στο i3 config
+
+  ```bash
+  # Αντικατάσταση με rofi
+  bindsym $mod+d exec rofi -show drun -theme solarized
+  ```
+
+- Notifications (Dunst)
+
+  Εγκατάσταση
+
+  ```bash
+  pacman -S dunst
+  ```
+
+  Ρύθμιση
+
+  ```bash
+  mkdir -p ~/.config/dunst
+  cp /etc/dunst/dunstrc ~/.config/dunst/dunstrc
+  nano ~/.config/dunst/dunstrc
+  ```
+
+  Προσθέτω τα εξής
+
+  ```bash
+    [global]
+        font = Monospace 10
+
+    [urgency_low]
+        background = "#002b36"
+        foreground = "#839496"
+
+    [urgency_normal]
+        background = "#268bd2"
+        foreground = "#fdf6e3"
+
+    [urgency_critical]
+        background = "#dc322f"
+        foreground = "#fdf6e3"
+  ```
+
+  Προσθέτω στο ~/.config/i3/config για αυτόματη εκκίνηση
+
+  ```bash
+  exec_always --no-startup-id dunst
+  ```
+
+- Screensaver & Lock
+
+  Εγκατάσταση
+
+  ```bash
+  pacman -S xautolock i3lock
+  ```
+
+  Ρύθμιση στο i3 config
+
+  ```bash
+    # Auto lock after 10 minutes
+    exec --no-startup-id xautolock -time 10 -locker 'i3lock -c 002b36'
+    # Manual lock με Mod+Shift+x
+    bindsym $mod+Shift+x exec i3lock -c 002b36
+  ```
+
+- Extra tweaks
+
+  Εγκατάσταση
+
+  ```bash
+  #Gaps
+  pacman -S i3-gaps
+  # Compositor
+  pacman -S picom
+  # Fonts
+  pacman -S ttf-dejavu ttf-liberation noto-fonts
+  ```
+
+  Ρύθμιση στο i3 config
+
+  ```bash
+  # Gaps
+  gaps inner 10
+  gaps outer 5
+
+  # Compositor
+  exec_always --no-startup-id picom
+  ```
