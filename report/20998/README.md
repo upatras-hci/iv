@@ -17,7 +17,7 @@
 | 2 | [βιογραφικό Α](https://epidrome.github.io/teaching/cv/) Α |https://github.com/upatras-hci/iv/discussions/214 | |
 | 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/224 | |
 | 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/239 | |
-| 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | | |
+| 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) |https://github.com/upatras-hci/iv/discussions/240 | |
 | 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | | |
 | 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | | |
 | 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | | |
