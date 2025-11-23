@@ -7,17 +7,104 @@
 
 ## 📅 Εβδομαδιαία Παραδοτέα
 
-| Εβδομάδα\* | Παραδοτέο                                                                                                                                                                                                                                                                                                                                                                                                                                        | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
+| Εβδομάδα\* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | -------------- |
-| **1**      | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Fork και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή εισαγωγής [για σχολιασμό](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | [Παραδοτέο #1](https://github.com/upatras-hci/iv/discussions/208)                                                       |                |
-| **2**      | [Βιογραφικό Α](https://epidrome.github.io/teaching/cv/)                                                                                                                                                                                                                                                                                                                                                                                          |   [Παραδοτέο #2](https://github.com/upatras-hci/iv/discussions/218)                                                                                                                       |                |
-| **3**      | [Γραμμή εντολών (Arch Linux)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                          |   [Παραδοτέο #3](https://github.com/upatras-hci/iv/discussions/226)                                                                                                                      |                |
-| **4**      | [Συμμετοχικό περιεχόμενο 1Α](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |  [Παραδοτέο #4](https://github.com/upatras-hci/iv/discussions/228)                                                                                                                       |                |
-| **5**      | [Γραμμή εντολών (Custom Desktop Environment)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                         |                |
-| **6**      | [Συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                         |                |
-| **7**      | [Βιογραφικό Β](https://epidrome.github.io/teaching/cv/)                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                         |                |
-| **8**      | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                         |                |
-| **9**      | [Συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                         |                |
-| **10**     | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                         |                |
-| **11**     | [Συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                         |                |
-| **12**     | [Τελική αναφορά](https://epidrome.github.io/teaching/guide/)                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                         |                |
+| **1**| [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Fork και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή εισαγωγής [για σχολιασμό](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | [Παραδοτέο #1](https://github.com/upatras-hci/iv/discussions/208) | |
+| **2**| [Βιογραφικό Α](https://epidrome.github.io/teaching/cv/)|[Παραδοτέο #2](https://github.com/upatras-hci/iv/discussions/218)  | |
+| **3**| [Γραμμή εντολών (Arch Linux)](https://epidrome.github.io/teaching/cli/)  |[Παραδοτέο #3](https://github.com/upatras-hci/iv/discussions/226) | |
+| **4**| [Συμμετοχικό περιεχόμενο 1Α](https://epidrome.github.io/teaching/social) |  [Παραδοτέο #4](https://github.com/upatras-hci/iv/discussions/228)  | |
+| **5**| [Γραμμή εντολών (Custom Desktop Environment)](https://epidrome.github.io/teaching/cli/) | | |
+| **6**| [Συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | | |
+| **7**| [Βιογραφικό Β](https://epidrome.github.io/teaching/cv/)| [Παραδοτέο #7](https://github.com/upatras-hci/iv/discussions/255)| |
+| **8**| [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)| | |
+| **9**| [Συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | | |
+| **10**  | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)| | |
+| **11**  | [Συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social) | | |
+| **12**  | [Τελική αναφορά](https://epidrome.github.io/teaching/guide/) | | |
+
+---
+
+## 🗂 Αναλυτικές Ενότητες Παραδοτέων
+
+## 📑 Πίνακας Περιεχομένων
+- [Εβδομάδα 1 – Εισαγωγή & Οργάνωση](#week-1)
+- [Εβδομάδα 2 – Βιογραφικό Α](#week-2)
+- [Εβδομάδα 3 – Γραμμή Εντολών (Arch Linux)](#week-3)
+- [Εβδομάδα 4 – Συμμετοχικό Περιεχόμενο 1Α](#week-4)
+- [Εβδομάδα 5 – Γραμμή Εντολών (Custom Desktop Environment)](#week-5)
+- [Εβδομάδα 6 – Συμμετοχικό Περιεχόμενο 2Α](#week-6)
+- [Εβδομάδα 7 – Βιογραφικό Β (YAML + PDF Automation)](#week-7)
+- [Εβδομάδα 8 – Γραμμή Εντολών (IV CLI #1)](#week-8)
+- [Εβδομάδα 9 – Συμμετοχικό Περιεχόμενο 1Β](#week-9)
+- [Εβδομάδα 10 – Γραμμή Εντολών (IV CLI #2)](#week-10)
+- [Εβδομάδα 11 – Συμμετοχικό Περιεχόμενο 2Β](#week-11)
+- [Εβδομάδα 12 – Τελική Αναφορά](#week-12)
+
+### <a id="week-1"></a>Εβδομάδα 1 – Εισαγωγή & Οργάνωση
+**Σύνδεσμος Συζήτησης:** https://github.com/upatras-hci/iv/discussions/208  
+**Περιγραφή:** Θεμελιώδεις έννοιες: άνθρωπος, υπολογιστής, διάδραση ανθρώπου–υπολογιστή. Προσωπικό κίνητρο επιλογής του μεταπτυχιακού HCI και στόχος συνδυασμού τεχνικής γνώσης με εστίαση στον χρήστη.  
+**Κύρια Σημεία:** Ο υπολογιστής ως «περιβάλλον» αντί απλού εργαλείου, διεπιστημονική φύση της διάδρασης, σημασία ενσυναίσθησης για σχεδίαση συστημάτων.  
+**Μαθήματα / Στόχοι:** Κατανόηση πλαισίου, διατύπωση προσωπικών στόχων μάθησης, ευθυγράμμιση με φιλοσοφία μαθήματος.  
+
+### <a id="week-2"></a>Εβδομάδα 2 – Βιογραφικό Α (Online Site)
+**Σύνδεσμος Συζήτησης:** https://github.com/upatras-hci/iv/discussions/218  
+**Περιγραφή:** Δημιουργία και δημοσίευση στα GitHub Pages πλήρως στατικού βιογραφικού. Χρήση απλής δομής και οπτικής καθαρότητας.  
+**Σύνδεσμοι:** Repository & σελίδα παραγωγής (βλ. πίνακα).  
+**Σχόλια / Ανατροφοδότηση:** Προτάσεις βελτίωσης ορατότητας εικονιδίων και διόρθωση μικρο-λαθών χρονολογίας.  
+**Τι Βελτιώθηκε:** Οπτική ιεραρχία, μικρά UI στοιχεία, προσοχή στη λεπτομέρεια πριν την επόμενη έκδοση (Βιογραφικό Β).  
+
+### <a id="week-3"></a>Εβδομάδα 3 – Γραμμή Εντολών (Arch Linux)
+**Σύνδεσμος Συζήτησης:** https://github.com/upatras-hci/iv/discussions/226  
+**Περιγραφή:** Εγκατάσταση Arch Linux σε VM. Καταγραφή εντολών `journalctl -b` και `fastfetch` με asciinema.  
+**Εστίαση:** Παρατηρήσεις συστήματος, βασική τεκμηρίωση περιβάλλοντος, κατανόηση του low-level log/boot pipeline.  
+**Αποτέλεσμα:** Απόκτηση άνεσης σε monitoring και βασικό system introspection.  
+
+### <a id="week-4"></a>Εβδομάδα 4 – Συμμετοχικό Περιεχόμενο 1Α
+**Σύνδεσμος Συζήτησης:** https://github.com/upatras-hci/iv/discussions/228  
+**Θεματολογία Ομάδας:** «Εξέλιξη συσκευών εισόδου: από το ποντίκι στο άγγιγμα & τη χειρονομία».  
+**Εικόνα 1 – Apple Lisa Mouse (1983):** Πρώτο εμπορικά διαθέσιμο mouse σε προσωπικό υπολογιστή. Βάση για μοντέλο άμεσης οπτικής αλληλεπίδρασης (GUI).  
+**Εικόνα 2 – Microsoft Surface Table (2008):** Πρώιμη μεγάλη multi-touch επιφάνεια. Συνεργατική διάδραση, αναγνώριση πολλαπλών επαφών & αντικειμένων.  
+**Στόχος:** Ανάδειξη ιστορικής μετάβασης από μονοδιάστατη σημειακή είσοδο σε πολυδαφεική/χειρονομιακή αλληλεπίδραση.  
+
+### <a id="week-5"></a>Εβδομάδα 5 – Γραμμή Εντολών (Custom Desktop Environment)
+**Κατάσταση:** Περιεχόμενο θα προστεθεί (customization WM, status bar, fonts, scripts).  
+**Placeholder:** Θα τεκμηριωθεί η επιλογή πακέτων και η βελτίωση παραγωγικότητας/χρηστικότητας μέσω CLI αυτοματοποίησης.  
+
+### <a id="week-6"></a>Εβδομάδα 6 – Συμμετοχικό Περιεχόμενο 2Α
+**Κατάσταση:** Σε εξέλιξη.  
+**Placeholder:** Στόχος: δύο διαδραστικά παραδείγματα (Remix/UI interaction) με τεκμηρίωση αλλαγών και rationale σχεδίασης.  
+
+### <a id="week-7"></a>Εβδομάδα 7 – Βιογραφικό Β (YAML + PDF Automation)
+**Σύνδεσμος Συζήτησης:** https://github.com/upatras-hci/iv/discussions/255  
+**Περιγραφή:** Refactor βιογραφικού σε data-driven μοντέλο (YAML). Script σε Ruby μετατρέπει YAML → Markdown → δύο PDF εκδόσεις (Pandoc & wkhtmltopdf).  
+**CI/CD:** GitHub Actions workflow για αυτόματη αναδημιουργία PDFs σε κάθε αλλαγή περιεχομένου/διαμόρφωσης.  
+**Αρχές:** Διαχωρισμός περιεχομένου/παρουσίασης, reproducible builds, πολυμορφικές έξοδοι (web/print).  
+**Οφέλη:** Συντήρηση σε ένα σημείο δεδομένων, ελαχιστοποίηση χειροκίνητων βημάτων, δυνατότητα επεκτάσεων (π.χ. JSON export).  
+
+### <a id="week-8"></a>Εβδομάδα 8 – Γραμμή Εντολών (IV CLI #1)
+**Κατάσταση:** Δεν έχει τεκμηριωθεί ακόμη.  
+**Placeholder:** Προσθήκη παραδειγμάτων χρήσης πακέτων (π.χ. χρώματα, βελτίωση εμπειρίας terminal).  
+
+### <a id="week-9"></a>Εβδομάδα 9 – Συμμετοχικό Περιεχόμενο 1Β
+**Κατάσταση:** Σε αναμονή.  
+**Placeholder:** Case study + Biography επέκταση (σύνδεση με ιστορικά έργα HCI / πρόσωπα).  
+
+### <a id="week-10"></a>Εβδομάδα 10 – Γραμμή Εντολών (IV CLI #2)
+**Κατάσταση:** Δεν έχει προστεθεί.  
+**Placeholder:** Δεύτερο πακέτο/εργαλείο – εστίαση σε παραγωγικότητα ή visual git history.  
+
+### <a id="week-11"></a>Εβδομάδα 11 – Συμμετοχικό Περιεχόμενο 2Β
+**Κατάσταση:** Εκκρεμεί.  
+**Placeholder:** Οπτικοποίηση βιβλίου / συνδυασμός φίλτρων (pandoc, metadata, assets).  
+
+### <a id="week-12"></a>Εβδομάδα 12 – Τελική Αναφορά
+**Κατάσταση:** Θα συνταχθεί σύνοψη μαθησιακής πορείας, αναστοχασμός & αξιολόγηση επίτευξης στόχων από Εβδομάδα 1.  
+**Προβλεπόμενα Στοιχεία:** Συγκεντρωτικός πίνακας δεξιοτήτων, τεχνικές αυτοματοποίησης, βελτιώσεις συνεργασίας/κώδικα.  
+
+---
+
+### 🔄 Επόμενα Βήματα
+1. Συμπλήρωση περιεχομένου placeholders (Εβδ. 5–12) με συγκεκριμένα links & media μόλις ολοκληρωθούν.  
+2. Προσθήκη εσωτερικών αγκυρών (TOC) εφόσον χρειαστεί για γρήγορη πλοήγηση.  
+3. Προαιρετικά: Αυτόματο extract συζήτησης → markdown με script (μελλοντική βελτίωση).  
+
