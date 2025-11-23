@@ -18,7 +18,7 @@
 | **4**      | [Συμμετοχικό περιεχόμενο 1Α](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         | [Συμμετοχικό Περιεχόμενο 1Α](https://github.com/upatras-hci/iv/discussions/238)                                         |                |
 | **5**      | [Γραμμή εντολών (Custom Desktop Environment)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                          | [Arch Linux (Desktop Environment)](https://github.com/upatras-hci/iv/discussions/244)                                   |                |
 | **6**      | [Συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         | [Συμμετοχικό Περιεχόμενο 2Α](https://github.com/upatras-hci/iv/discussions/254)                                         |                |
-| **7**      | [Βιογραφικό Β](https://epidrome.github.io/teaching/cv/)                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                         |                |
+| **7**      | [Βιογραφικό Β](https://epidrome.github.io/teaching/cv/)                                                                                                                                                                                                                                                                                                                                                                                          | [Βιογραφικό Β](https://github.com/upatras-hci/iv/discussions/256)                                                       |                |
 | **8**      | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                         |                |
 | **9**      | [Συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                         |                |
 | **10**     | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                         |                |
@@ -649,3 +649,57 @@ echo "exec i3" > ~/.xinitrc
   - πως η απτικότητα, ο χρόνος απόκρισης και η εργονομία καθορίζουν την υποκειμενική ευχρηστία
 
 Ουσιαστικά προσφέρει το θεωρητικό πλαίσιο που "δένεται" με τις αποτυχίες του Power Glove, τα προβλήματα του Light Pen αλλά και την επιτυχία των multitouch συσκευών.
+
+## Βιογραφικό Β
+
+Σχετικά με το παραδοτέο Β υλοποιήθηκε μια διαδικασία πλήρους Continuous Integration (CI) που παράγει αυτόματα ένα εκτυπώσιμο PDF A4 του βιογραφικού, κάθε φορά που αλλάζουν τα δεδομένα της ιστοσελίδας.
+
+- Παραγωγή του PDF με wkhtmltopdf
+
+  Η ιστοσελίδα του βιογραφικού μου βασίζεται στο Jekyll, επομένως δημιουργήθηκε μία ειδική σελίδα (/print), η οποία περιέχει την εκτυπώσιμη μορφή του CV. Το εργαλείο wkhtmltopdf χρησιμοποιείται για να μετατρέπει το τελικό HTML της σελίδας σε PDF Α4. Η εντολή που χρησιμοποιείται στο CI είναι:
+
+  ```
+  wkhtmltopdf -s A4 https://<username>.github.io/print assets/cv.pdf
+  ```
+
+  Κατά αυτόν τον τρόπο, το PDF παράγεται πάντα από την τελευταία δημοσιευμένη έκδοση της σελίδας.
+
+- Αυτόματο build και deploy του Github Pages
+
+  Το Github Pages χτίζει αυτόματα το site σε κάθε αλλαγή στο repository. Όταν ολοκληρωθεί με επιτυχία το build, καταγράφεται στο Github Actions ως workflow run.
+
+- Χρήση του workflow_run για συγχρονισμένη παραγωγή PDF
+
+  Δημιουργήθηκε ένα δεύτερο Github Actions workflow που ενεργοποιείται μόνο όταν ολοκληρωθεί επιτυχώς το Pages build:
+
+  ```
+  on:
+    workflow_run:
+      workflows: ['pages-build-deployment']
+      types: [completed]
+  ```
+
+  Έτσι, εξασφαλίζεται ότι το PDF δημιουργείται μόνο αφού έχει ενημερωθεί το site.
+
+- Αποφυγή Infinite Loop
+
+  Για να αποτραπεί το φαινόμενο infinite loop (το οποίο προκαλείται όταν το bot κάνει commit το παραγόμενο PDF και πυροδοτεί νέο Pages build), στο workflow προστέθηκε συνθήκη ώστε να παραλείπεται η εκτέλεση αν το τελευταίο commit έχει μήνυμα Update CV PDF (auto).
+  Με τη χρήση του contains(github.event.workflow_run.head_commit.message, 'Update CV PDF (auto)') το σύστημα αναγνωρίζει τα auto-commits του bot και δεν επανεκκινεί το pipeline. Έτσι το PDF παράγεται μόνο όταν υπάρχουν πραγματικές αλλαγές στα δεδομένα.
+
+  ```
+  if: |
+  github.event.workflow_run.conclusion == 'success' &&
+  !contains(github.event.workflow_run.head_commit.message, 'Update CV PDF (auto)')
+  ```
+
+- Αυτόματο commit του PDF στο repository
+
+  Το workflow, αφού δημιουργήσει το νεό PDF, το αποθηκεύει στο φάκελo assets/ και πραγματοποιεί commit αυτόματα:
+
+  ```
+  git add assets/cv.pdf
+  git commit -m "Update CV PDF (auto)"
+  git push
+  ```
+
+  Το PDF είναι πλέον διαθέσιμο στο site μέσω απλού link.
