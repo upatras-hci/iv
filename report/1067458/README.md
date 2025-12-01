@@ -19,7 +19,7 @@
 | **5**      | [Γραμμή εντολών (Custom Desktop Environment)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                          | [Arch Linux (Desktop Environment)](https://github.com/upatras-hci/iv/discussions/244)                                   |                |
 | **6**      | [Συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         | [Συμμετοχικό Περιεχόμενο 2Α](https://github.com/upatras-hci/iv/discussions/254)                                         |                |
 | **7**      | [Βιογραφικό Β](https://epidrome.github.io/teaching/cv/)                                                                                                                                                                                                                                                                                                                                                                                          | [Βιογραφικό Β](https://github.com/upatras-hci/iv/discussions/256)                                                       |                |
-| **8**      | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                         |                |
+| **8**      | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                              | [Γραμμή εντολών (IV CLI)](https://github.com/upatras-hci/iv/discussions/257)                                            |                |
 | **9**      | [Συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                         |                |
 | **10**     | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                         |                |
 | **11**     | [Συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                         |                |
@@ -703,3 +703,102 @@ echo "exec i3" > ~/.xinitrc
   ```
 
   Το PDF είναι πλέον διαθέσιμο στο site μέσω απλού link.
+
+## Γραμμή εντολών (IV CLI)
+
+Στο πλαίσιο της άσκησης του μαθήματος HCI ανέπτυξα ένα προσωπικό εργαλείο γραμμής εντολών με στόχο τη βελτίωση της καθημερινής διάδρασης με τον υπολογιστή μου.
+
+Το εργαλείο ονομάζεται <strong>SmartFileSort</strong> και αυτοματοποιεί την οργάνωση του φακέλου Downloads ή άλλων φακέλων, ταξινομώντας αρχεία σε κατηγορίες και βελτιώνοντας σημαντικά την ευχρηστία και καθαρότητα του προσωπικού μου workflow.
+
+### Asciinema Demo
+
+Η καταγραφή παρουσιάζει preview, dry-run, verbose sorting και undo:
+
+https://asciinema.org/a/u5KFJVo3lPyUnFyX5YShfbQmB
+
+### Περιγραφή λειτουργικότητας εργαλείου
+
+Το <strong>SmartFileSort</strong> είναι ένα CLI εργαλείο Python που οργανώνει αυτόματα τα αρχεία ενός φακέλου. Υποστηρίζει:
+
+- Προεπισκόπηση (preview): Δείχνει πόσα αρχεία ανήκουν σε κάθε κατηγορία χωρίς να αλλάξει τίποτα
+
+- Dry-run mode: Προσομοιώνει την ταξινόμηση χωρίς μετακίνηση αρχείων.
+
+- Κανονική ταξινόμηση
+
+  - Images
+  - PDFs
+  - Videos
+  - Archives
+  - Code
+  - Misc
+  - ή χρησιμοποιεί προσωπικό configuration αν υπάρχει το αρχείο: ~/.smartfilesort.conf
+
+### Προχωρημένες Λειτουργίες
+
+Πρόσθεσα τρία advanced features:
+
+1. Undo
+
+   - Επαναφέρει τα αρχεία στην αρχική τους θέση χρησιμοποιώντας το detailed log
+
+2. Verbose Mode + timestamps
+   - Κατάλληλο για καταγραφή σε asciinema και debugging
+   - Δείχνει ακριβή ώρα κάθε ενέργειας
+3. Custom configuration file
+
+   - Επιτρέπει 100% προσωποποίηση κατηγοριών
+
+   Παράδειγμα config:
+
+   ```
+   Images=.png,.jpg,.jpeg
+   Documents=.pdf,.docx,.txt
+   Videos=.mp4,.mkv
+   Music=.mp3,.wav
+
+   ```
+
+### Διάδραση με δικά μου Δεδομένα
+
+Χρησιμοποίηση τον προσωπικό μου φάκελο ~/Downloads, ο οποίος περιείχε μια εικόνα.
+
+Το εργαλείο
+
+- αναγνώρισε σωστά τις κατηγορίες (με preview)
+- προσωμοίωσε την ταξινόμηση (dry-run)
+- ταξινόμησε κανονικά (verbose mode)
+- δημιούργησε log αρχείο
+- επανέφερε όλα τα αρχεία με επιτυχία (undo)
+
+### Ενδεικτική Χρήση
+
+1. Preview
+
+   ```
+   ./smartfilesort --source ~/Downloads --preview
+   ```
+
+2. Dry-run
+
+   ```
+   ./smartfilesort --source ~/Downloads --dry-run
+   ```
+
+3. Κανονική ταξινόμηση με verbose
+
+   ```
+   ./smartfilesort --source ~/Downloads --target ~/Sorted --verbose
+   ```
+
+4. Έλεγχος του log
+
+   ```
+   cat ~/Sorted/sort_log_details.txt
+   ```
+
+5. Undo λειτουργία
+
+   ```
+   ./smartfilesort --undo --target ~/Sorted
+   ```
