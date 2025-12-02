@@ -20,7 +20,7 @@
 | **6**      | [Συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         | [Συμμετοχικό Περιεχόμενο 2Α](https://github.com/upatras-hci/iv/discussions/254)                                         |                |
 | **7**      | [Βιογραφικό Β](https://epidrome.github.io/teaching/cv/)                                                                                                                                                                                                                                                                                                                                                                                          | [Βιογραφικό Β](https://github.com/upatras-hci/iv/discussions/256)                                                       |                |
 | **8**      | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                              | [Γραμμή εντολών (IV CLI)](https://github.com/upatras-hci/iv/discussions/257)                                            |                |
-| **9**      | [Συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                         |                |
+| **9**      | [Συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         | [Συμμετοχικό Περιεχόμενο - 1Β](https://github.com/upatras-hci/iv/discussions/258)                                       |                |
 | **10**     | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                         |                |
 | **11**     | [Συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social)                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                         |                |
 | **12**     | [Τελική αναφορά](https://epidrome.github.io/teaching/guide/)                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                         |                |
@@ -802,3 +802,58 @@ https://asciinema.org/a/u5KFJVo3lPyUnFyX5YShfbQmB
    ```
    ./smartfilesort --undo --target ~/Sorted
    ```
+
+## Συμμετοχικό περιεχόμενο 1Β
+
+Στόχος της άσκησης ήταν να δημιουργηθούν δύο νέα διαδραστικά παραδείγματα που μπορούν να ενσωματωθούν στην ενότητα Remix του pibook και να χρησιμοποιηθούν από άλλους χρήστες ως πρότυπα για περαιτέρω τροποποίηση (remixing).Τα παραδείγματα έπρεπε να σχετίζονται με βασικές έννοιες της Διάδρασης Ανθρώπου - Υπολογιστή (HCI).
+
+Για τη φιλοξενία των παραδειγμάτων χρησιμοποιήθηκε η πλατφόρμα CodePen.
+
+### Παράδειγμα 1: Live Text Editor + Preview
+
+Δημιουργήθηκε ένα διαδραστικό περιβάλλον αποτελούμενο από δύο περιοχές:
+
+- αριστερά: ένας text editor όπου ο χρήστης γράφει HTML κώδικα
+- δεξιά: ένα iframe στο οποίο εμφανίζεται άμεσα το αποτέλεσμα κάθε αλλαγής
+
+Η σύνδεση γίνεται μέσω JavaScript, η οποία ενημερώνει το περιεχόμενο του iframe σε πραγματικό χρόνο όταν ο χρήστης πληκτρολογεί.
+
+Το συγκεκριμένο παράδειγμα επιδεικνύει τις παρακάτω βασικές αρχές HCI:
+
+- Άμεση οπτική ανάδραση (Immediate Feedback): κάθε αλλαγή στο κείμενο εμφανίζεται άμεσα.
+
+- Ορατότητα κατάστασης (Visibility of System Status): ο χρήστης βλέπει καθαρά τι προκαλεί κάθε ενέργειά του.
+
+- Δοκιμή χωρίς ρίσκο (Low-risk exploration): ο χρήστης μπορεί να πειραματίζεται χωρίς να προκαλεί λάθη στο σύστημα.
+
+- Remixability: το παράδειγμα μπορεί εύκολα να επεκταθεί από άλλους χρήστες (π.χ. προσθήκη CSS editor, themes, JS execution).
+
+#### Link Παραδείγματος
+
+https://codepen.io/Marios-Stephanidhs/pen/emZLvpX
+
+### Παράδειγμα 2: Responsive Layout Playground
+
+Υλοποιήθηκε ένα "playground" όπου ο χρήστης μπορεί:
+
+- να αλλάζει το πλάτος ενός container μέσω ενός slider
+- να παρατηρεί πώς αλλάζει η εμφάνιση και τα χρώματα των UI στοιχείων (καρτών)
+- να κατανοεί την έννοια της responsive διεπαφής σε πραγματικό χρόνο
+
+Αρχικά χρησιμοποιήθηκαν CSS media queries. Ωστόσο, επειδή τα media queries λειτουργούν μόνο με βάση το πλάτος ολόκληρου του browser (window) και όχι ενός εσωτερικού div element, τροποποιήθηκε η υλοποίηση ώστε η αλλαγή χρώματος να γίνεται με JavaScript που “ακούει” τις αλλαγές του slider.
+
+Το συγκεκριμένο παράδειγμα επιδεικνύει τις παρακάτω βασικές αρχές HCI:
+
+- Responsive Design: το UI μεταβάλλεται ανάλογα με το διαθέσιμο χώρο.
+
+- Direct Manipulation: ο χρήστης χειρίζεται το slider και βλέπει άμεσο αποτέλεσμα.
+
+- Immediate Feedback: οι αλλαγές εμφανίζονται χωρίς καθυστέρηση.
+
+- Exploratory Interaction: ο χρήστης μπορεί να πειραματιστεί με διαφορετικά πλάτη οθόνης όπως σε κινητές συσκευές.
+
+- Remixability: μπορεί να επεκταθεί εύκολα (π.χ. προσθήκη ύψους, διαφορετικών layouts, αναδιοργάνωση περιεχομένου).
+
+#### Link του παραδείγματος
+
+https://codepen.io/Marios-Stephanidhs/pen/QwNVpBz
