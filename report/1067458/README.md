@@ -857,3 +857,12 @@ https://codepen.io/Marios-Stephanidhs/pen/emZLvpX
 #### Link του παραδείγματος
 
 https://codepen.io/Marios-Stephanidhs/pen/QwNVpBz
+
+## Γραμμή εντολών (IV CLI)
+
+### Pastel
+
+Στην άσκηση αυτή υλοποίησα ένα προσωπικό εργαλείο συστήματος σε Bash το οποίο αξιοποιεί το pastel για χρωματισμό, δυναμικό feedback και βελτίωση της χρηστικότητας της γραμμής εντολών. Το εργαλείο εμφανίζει πληροφορίες για δίσκο, μνήμη, network reachability και την κατάσταση των systemd services, με διαφορετικά χρώματα ανάλογα με τη σοβαρότητα.
+Υποστηρίζει επίσης live mode με συνεχή ανανέωση ανά δευτερόλεπτο (status.sh --live). Η χρήση χρωμάτων (pastel paint), δυναμικών χρωματισμών και custom UI επικεντρωμένων στο CLI βελτιώνει τη δική μου καθημερινή διάδραση με το σύστημα.
+
+Demo: https://asciinema.org/a/M11cydRRaNBfmpeGhomYHGYMn
