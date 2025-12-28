@@ -46,66 +46,110 @@
 
 Ο υπολογιστής μπορεί να θεωρηθεί ως συνεργάτης του ανθρώπου, ένα μέσο που διευκολύνει τη διαχείριση πληροφοριών, υποστηρίζει τη λήψη αποφάσεων και επεκτείνει τις δυνατότητές του, συμβάλλοντας σε εμπειρίες χρήσης που είναι πιο φυσικές και ουσιαστικές.
 
+
 ## Βιογραφικό Α
 
-Για την συγκεκριμένη άσκηση χρησιμοποίησα ένα από τα υπάρχοντα μορφότυπα που αναεφέρονται στην εκφώνηση (λινκ).
+ 
+Για την υλοποίηση του ατομικού μου βιογραφικού χρησιμοποίησα ένα από τα υπάρχοντα μορφότυπα που αναεφέρονται στην εκφώνηση (λινκ) και την υπηρεσία GitHub Pages για τη δημοσίευσή του.
+Αρχικά έκανα fork του υπάρχοντος repository και πραγματοποίησα όλες τις αλλαγές μέσω του web interface του GitHub.
+Το βιογραφικό δημιουργείται αυτόματα από αρχείο δεδομένων YAML, το οποίο τροποποίησα ώστε να προσαρμόσω τόσο το περιεχόμενο όσο και την εμφάνιση της σελίδας.
 
-Έκανα fork το repository και στη συνέχεια έκανα όλες τις αλλαγές στο αρχειο yaml μέσα από το web interface του Github. Άλλαξα το αρχειο το position του sidebar από right σε left. Αφαίρεσα 
-απ το τα skills τα progress bars.
+Συγκεκριμένα:
+
+-Ενημέρωσα τα προσωπικά μου στοιχεία μέσα στο αρχείο YAML
+
+-Άλλαξα τη θέση του sidebar από right σε left
+
+-Αφαίρεσα τα progress bars από το section των skills
+
+-Τροποποίησα το primary color του θέματος
+
+-Αφαίρεσα sections που δεν ήταν απαραίτητα
+
+-Αντικατέστησα τη φωτογραφία προφίλ
+
+Η ιστοσελίδα φιλοξενείται στο GitHub Pages και μπορεί να ενημερώνεται δυναμικά
+
+Repository Link: [Repository Link](https://github.com/fotiniyp/my-cv)
+
+CV Link: [CV Link](https://fotiniyp.github.io/my-cv/)
 
 
 
-[Repository Link](https://github.com/fotiniyp/my-cv)
+## Γραμμή Εντολών (ArchLinux)
 
-[CV Link](https://fotiniyp.github.io/my-cv/)
+Η εγκατάσταση Archlinux πραγματοποήθηκε σε VM μέσω γραμμής εντολών και ακολουθήθηκαν τα παρακάτω βήματα:
+
+1. Εκκίνηση της εικονικής μηχανής από το Arch Linux ISO
+2. Ρύθμιση πληκτρολογίου και ελέγχος σύνδεσης στο διαδίκτυο
+3. Διαμέριση και μορφοποίηση του δίσκου
+4. Εγκατάσταση του βασικού συστήματος
+5. Ρύθμιση locale, timezone και χρήστη
+6. Εγκατάσταση bootloader
+7. Τελικός έλεγχος και επανεκκίνηση του συστήματος
+
+fastfetch: https://asciinema.org/a/qTAoBVyJdx5JvfFHa1OOoLohr
+
+journalctl -b: https://asciinema.org/a/pzvCDfTGSwOb8M9VxNrwcCFZD
 
 
-## Syllabus
 
-**Περιγραφή:** Οπτικοποίηση της πληροφορίας και διάδραση, Ορισμός και ιστορική εξέλιξη, σχεδίαση της οπτικοποίησης, τεχνολογίες οπτικοποίησης: Γραφικά, Εικόνες, Βίντεο, Κείμενο, Ηχος, Σύγχρονες εφαρμογές οπτικοποίησης: Ψηφιακή δημοσιογραφία, οπτικοποίηση δεδομένων, ψηφιακές συλλογές, παιχνιδοποίηση.
+## Συμμετοχικό Περιεχόμενο 1Α
 
-**Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην ανάπτυξη μιας εφαρμογής οπτικοποίησης της πληροφορίας. Η θεωρία και ασκήσεις καλύπτουν πολλά διαφορετικά πεδία με έμφαση σε επίκαιρες εφαρμογές όπως η συγγραφή περιεχομένου και οι ψηφιακές συλλογές.
+Στο πλαίσιο της κοινής θεματολογίας της ομάδας, «Η Εξέλιξη των Συσκευών Εισόδου: Από το Ποντίκι στο Άγγιγμα και τη Χειρονομία», επέλεξα να προσθέσω τις εξής εικόνες:
 
-**Μέθοδος διδασκαλίας:** Συναντήσεις, ασκήσεις, συνεχής ανατροφοδότηση.
+### Εικόνα 1: HP 150 Touchscreen (1983)
 
-**Κριτήρια βαθμολογίας:** 10% [βιογραφικό](https://epidrome.github.io/teaching/cv/) + 40% [Συμμετοχικό περιεχόμενο: 1 + 2](https://epidrome.github.io/teaching/social)* + 30% [2 ασκήσεις γραμμής εντολών](https://epidrome.github.io/teaching/cli/) + 20% [ομαδικότητα και συνεργασία](https://epidrome.github.io/teaching/teamwork)
+Το HP-150 ήταν ένας από τους πρώτους προσωπικούς υπολογιστές με λειτουργία αφής. Χρησιμοποιούσε ένα σύστημα υπέρυθρων ακτίνων γύρω από την οθόνη για να εντοπίζει το σημείο επαφής του χρήστη. Παρόλο που δεν είχε μεγάλη εμπορική επιτυχία, αποτέλεσε σημαντικό βήμα προς τη φυσική διάδραση με τους υπολογιστές και προετοίμασε το έδαφος για τη μετέπειτα ανάπτυξη των touchscreens σε κινητά και tablets.
 
-*υποχρεωτική συμπλήρωση της βάσης σε όλα τα κριτήρια για να γίνει τελική βαθμολόγηση
+![HP-150_touchscreen](https://github.com/HCI-IV-2025/images/blob/master/HP_150_touchscreen.jpg)
 
-**Συμπληρωματική βιβλιογραφία** 
 
-* Fry, B. (2008). Visualizing data: Exploring and explaining data with the processing environment. " O'Reilly Media, Inc.". ch1
-* Steele, J., & Iliinsky, N. (2010). Beautiful visualization: Looking at data through the eyes of experts. " O'Reilly Media, Inc."., ch1, ch11
-* [Multimedia: from Wagner to Virtual Reality](https://web.archive.org/web/20180731072917/http://w2vr.com/concepts/concepts.html), concepts, pioneers
-* [Ο Προγραμματισμός της Διάδρασης](https://pibook.epidro.me), ΕΥΔΟΞΟΣ: 68371436, κεφ. 6 Σύνθεση και Κλίμακα
-* [How to learn D3.js](https://wattenberger.com/blog/d3)
-* [DataVizForAll TextBook](https://github.com/DataVizForAll/datavizforall-bookdown)
-* [Visual representation](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-representation)
-* [Data visualization for human perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
 
-**Εργαλεία και βιβλιοθήκες ανάπτυξης**
-* [Observable](https://observablehq.com)
-* [d3.js](https://d3js.org)
-* [glitch d3](https://glitch.com/@guides/guide-to-d-3)
-* [timelineJS](https://timeline.knightlab.com)
-* [pollen](https://docs.racket-lang.org/pollen/)
+### Εικόνα 2: ΙΒΜ Keyboard Model F (1984)
 
-**Συμπληρωματικά μαθήματα**
+Το IBM Model F ήταν ένα μηχανικό πληκτρολόγιο με τεχνολογία buckling spring, γνωστό για την ανθεκτικότητα και την χαρακτηριστική του αίσθηση και ήχο κατά την πληκτρολόγηση. Χρησιμοποιήθηκε στους πρώτους προσωπικούς υπολογιστές της IBM και έθεσε τα θεμέλια για τη σχεδίαση πληκτρολογίων που επηρέασαν τη διάδραση ανθρώπου-υπολογιστή για δεκαετίες.
 
-[KTH](https://www.kth.se/social/course/DH2321/): student projects
-[UTAH](http://www.sci.utah.edu/~miriah/cs6964/): lectures, readings
-[Olin](https://github.com/MimiOnuoha/Impossible-Maps): readings
+![IBM_Model_F_Keyboard](https://github.com/HCI-IV-2025/images/blob/master/IBM_Model_F_Keyboard.jpg)
 
----
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, αλλά δημιουργήστε νέο στο φάκελο σας σύμφωνα με τις [αναλυτικές οδηγίες](https://epidrome.github.io/teaching/guide/).
+#### Σύνδεσμοι PR
 
-## Σύντομες οδηγίες δημιουργίας αποθετηρίου για την αναφορά σας
+[md files](https://github.com/HCI-IV-2025/figure/pull/4)
 
-- Fork this repo.
-- Create a new branch (named with your studentID).
-- Create a new README.md file inside a folder (inside the reports folder) named with your studentID.
-- Edit the README.md file with your name and [add a table of contents with the deliverables](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md).
-- Edit (and commit) your report according to the above deliverables table of contents.
-- At the end of the course, make a pull-request.
+[images](https://github.com/HCI-IV-2025/images/pull/5)
 
-[Detailed instructions with gifs and links to official documentation](https://epidrome.github.io/teaching/guide/)
+### Slides
+
+### Timeline
+
+### Gallery
+
+
+## Γραμμή Εντολών (Custom Desktop Environment)
+
+Στο λειτουργικό σύστημα Arch Linux εγκαταστάθηκε ο i3 window manager. Κατά τη διαδικασία εγκατάστασης και παραμετροποίησης χρησιμοποιήθηκαν τα παρακάτω πακέτα και αρχεία:
+
+#### polybar - 
+
+<img width="1280" height="800" alt="polybar" src="https://github.com/user-attachments/assets/ccb92370-8009-4861-a749-213584e360cd" />
+
+#### pywal - 
+
+![pywal](https://github.com/user-attachments/assets/2ff8566b-1333-4861-8fa7-67c21d2bafd6)
+
+#### feh -  ορισμός και διαχείριση wallpaper
+
+![feh](https://github.com/user-attachments/assets/449df3f5-a519-4215-b621-dc473120402a)
+
+#### firefox - web browser για βασική χρήση και έλεγχο λειτουργικότητας
+
+<img width="1280" height="800" alt="firefox" src="https://github.com/user-attachments/assets/c2f46c0e-6e55-42da-b025-0870aa667b08" />
+
+#### wallpaper - εικόνα φόντου
+
+![wallpaper](https://github.com/user-attachments/assets/d31c2c9e-86c6-4081-9223-068fb70acafc)
+
+
+
+
+
