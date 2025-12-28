@@ -17,7 +17,7 @@
 | 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | [Εβδομάδα 4](https://github.com/upatras-hci/iv/discussions/231) | |
 | 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | [Εβδομάδα 5](https://github.com/upatras-hci/iv/discussions/242) | | 
 | 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | | |
-| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | | |
+| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | [Εβδομάδα 7] | |
 | 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | | |
 | 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | | |
 | 10 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | | |
@@ -148,6 +148,33 @@ journalctl -b: https://asciinema.org/a/pzvCDfTGSwOb8M9VxNrwcCFZD
 #### wallpaper - εικόνα φόντου
 
 ![wallpaper](https://github.com/user-attachments/assets/d31c2c9e-86c6-4081-9223-068fb70acafc)
+
+
+## Συμμετοχικό Περιεχόμενο 2Α
+
+
+## Βιογραφικό Β
+
+Για το Βιογραφικο Β υλοποιήθηκε η αυτόματη παραγωγή αρχείου PDF από το ίδιο αρχείο δεδομένων YAML που χρησιμοποιείται και για το online βιογραφικό.
+
+Αρχικά, δημιουργήθηκε ένα script σε Ruby το οποίο διαβάζει τα δεδομένα από το αρχείο YAML και με τη χρήση των εργαλείων Pandoc και LaTeX, παράγει το αντίστοιχο αρχείο PDF.
+
+Στη συνέχεια, υλοποιήθηκε διαδικασία Continuous Integration μέσω GitHub Actions, έτσι ώστε κάθε φορά που γίνεται αλλαγή στο YAML να εκτελείται αυτόματα το workflow και να παράγεται εκ νέου το ενημερωμένο PDF.
+
+Το παραγόμενο PDF φιλοξενείται μέσω GitHub Pages και είναι προσβάσιμο από τον ίδιο σύνδεσμο με το βιογραφικό, μέσω ενός αρχείου index.html που παραπέμπει στο PDF.
+
+CV: [CV Link](https://fotiniyp.github.io/cv_b/)
+
+Repository: [Repository Link](https://github.com/fotiniyp/cv_b)
+
+
+## Γραμμή Εντολών (iv cli)
+
+## Συμμετοχικό Περιεχόμενο 1Β
+
+## Γραμμή Εντολών (iv cli)
+
+## Συμμετοχικό Περιεχόμενο 3Β
 
 
 
