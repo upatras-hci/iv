@@ -17,7 +17,7 @@
 | 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | [Εβδομάδα 4](https://github.com/upatras-hci/iv/discussions/231) | |
 | 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | [Εβδομάδα 5](https://github.com/upatras-hci/iv/discussions/242) | | 
 | 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | | |
-| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | [Εβδομάδα 7] | |
+| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | | |
 | 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | | |
 | 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | | |
 | 10 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | | |
@@ -170,9 +170,23 @@ Repository: [Repository Link](https://github.com/fotiniyp/cv_b)
 
 ## Γραμμή Εντολών (iv cli)
 
+Για την συγκεκριμένη άσκηση εγκαταστάθηκαν και παραμετροποιήθηκαν τα παρακάτω εργαλεία:
+
+Picom: compositor που προσθέτει transparency, shadows και smooth animations στα παράθυρα
+
+picom: https://asciinema.org/a/Dm6neSlqYhlnbfkMbIFyJTQjs
+
+Dunst: lightweight notification daemon για εμφάνιση ειδοποιήσεων
+
+dunst: https://asciinema.org/a/8JU5Oh5gL85xjs5Q6bonCPPW3
+
 ## Συμμετοχικό Περιεχόμενο 1Β
 
 ## Γραμμή Εντολών (iv cli)
+
+Conky: εργαλείο παρακολούθησης πόρων συστήματος (CPU, RAM, disk)
+
+conky: https://asciinema.org/a/EWDTZkmqm2WxwjbuZTyyBI1bo
 
 ## Συμμετοχικό Περιεχόμενο 3Β
 
