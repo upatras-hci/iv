@@ -146,7 +146,7 @@ journalctl -b: https://asciinema.org/a/pzvCDfTGSwOb8M9VxNrwcCFZD
 - Plato IV (1972)
   Ένα από τα πρώτα διαδραστικά συστήματα με οθόνη και γραφική διεπαφή, εισάγει πιο άμεσες μορφές αλληλεπίδρασης
 
-- HP_150_touchscreen (1983)
+- hp_150_touchscreen (1983)
   Πρώτος εμπορικός προσωπικός υπολογιστής με λειτουργία αφής
 
 - apple-lisa (1983)
@@ -162,7 +162,7 @@ journalctl -b: https://asciinema.org/a/pzvCDfTGSwOb8M9VxNrwcCFZD
   Καθιερώνει τη πολυ-αφή και τις χειρονομίες ως κυρίαρχο μοντέλο διάδρασης, ενοποιώντας φυσικές κινήσεις και ψηφιακές διεπαφές.
   
   
-
+Book link: https://hci-iv-2025.netlify.app/
 
 ### Gallery
 
