@@ -68,7 +68,7 @@
 
 - Αντικατέστησα τη φωτογραφία προφίλ
 
-Η ιστοσελίδα φιλοξενείται στο GitHub Pages και μπορεί να ενημερώνεται δυναμικά
+Η ιστοσελίδα φιλοξενείται στο GitHub Pages και μπορεί να ενημερώνεται δυναμικά, επιτρέποντας τον διαχωρισμό δεδομένων και παρουσίασης, διευκολύνοντας τη συντήρηση και επαναχρησιμοποίηση του περιεχομένου
 
 Repository Link: [Repository Link](https://github.com/fotiniyp/my-cv)
 
@@ -172,11 +172,11 @@ journalctl -b: https://asciinema.org/a/pzvCDfTGSwOb8M9VxNrwcCFZD
 
 Στο λειτουργικό σύστημα Arch Linux εγκαταστάθηκε ο i3 window manager. Κατά τη διαδικασία εγκατάστασης και παραμετροποίησης χρησιμοποιήθηκαν τα παρακάτω πακέτα και αρχεία:
 
-#### polybar - 
+#### polybar - status bar για εμφάνιση πληροφοριών συστήματος
 
 <img width="1280" height="800" alt="polybar" src="https://github.com/user-attachments/assets/ccb92370-8009-4861-a749-213584e360cd" />
 
-#### pywal - 
+#### pywal - δυναμική δημιουργία color themes από wallpaper
 
 ![pywal](https://github.com/user-attachments/assets/2ff8566b-1333-4861-8fa7-67c21d2bafd6)
 
@@ -226,7 +226,7 @@ Link: https://codepen.io/andreruffert/pen/XJbxVzo
 
 ## Βιογραφικό Β
 
-Για το Βιογραφικο Β υλοποιήθηκε η αυτόματη παραγωγή αρχείου PDF από το ίδιο αρχείο δεδομένων YAML που χρησιμοποιείται και για το online βιογραφικό.
+Για το Βιογραφικο Β υλοποιήθηκε η αυτόματη παραγωγή εκτυπώσιμου αρχείου PDF (A4) από το ίδιο αρχείο δεδομένων YAML που χρησιμοποιείται και για το online βιογραφικό.
 
 Αρχικά, δημιουργήθηκε ένα script σε Ruby το οποίο διαβάζει τα δεδομένα από το αρχείο YAML και με τη χρήση των εργαλείων Pandoc και LaTeX, παράγει το αντίστοιχο αρχείο PDF.
 
@@ -245,9 +245,13 @@ Repository: [Repository Link](https://github.com/fotiniyp/cv_b)
 
 Picom: compositor που προσθέτει transparency, shadows και smooth animations στα παράθυρα
 
+Το picom χρησιμοποιήθηκε για τη βελτίωση της οπτικής αντίληψης των παραθύρων. Τα shadows και η διαφάνεια βοηθούν στον διαχωρισμό ενεργών και ανενεργών παραθύρων, μειώνοντας το γνωστικό φορτίο κατά την εναλλαγή εργασιών.
+
 picom: https://asciinema.org/a/Dm6neSlqYhlnbfkMbIFyJTQjs
 
 Dunst: lightweight notification daemon για εμφάνιση ειδοποιήσεων
+
+Το dunst επιλέχθηκε ως lightweight notification system ώστε οι ειδοποιήσεις να εμφανίζονται χωρίς να διακόπτουν τη ροή εργασίας στη γραμμή εντολών.
 
 dunst: https://asciinema.org/a/8JU5Oh5gL85xjs5Q6bonCPPW3
 
@@ -280,9 +284,13 @@ dunst: https://asciinema.org/a/8JU5Oh5gL85xjs5Q6bonCPPW3
 
 ## Γραμμή Εντολών (iv cli)
 
-Conky: εργαλείο παρακολούθησης πόρων συστήματος (CPU, RAM, disk)
+Conky:
+
+Το conky παρέχει συνεχή οπτικοποίηση βασικών πόρων συστήματος (CPU, μνήμη, δίσκος), επιτρέποντας γρήγορη επίγνωση της κατάστασης του συστήματος κατά την εργασία σε CLI περιβάλλον. Αυτό μειώνει την ανάγκη για επιπλέον εντολές παρακολούθησης.
+
 
 conky: https://asciinema.org/a/EWDTZkmqm2WxwjbuZTyyBI1bo
+
 
 ## Συμμετοχικό Περιεχόμενο 3Β
 
