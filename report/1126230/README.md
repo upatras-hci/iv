@@ -241,6 +241,7 @@ Repository: [Repository Link](https://github.com/fotiniyp/cv_b)
 
 ## Γραμμή Εντολών (iv cli)
 
+
 Για την συγκεκριμένη άσκηση εγκαταστάθηκαν και παραμετροποιήθηκαν τα παρακάτω εργαλεία:
 
 Picom: compositor που προσθέτει transparency, shadows και smooth animations στα παράθυρα
@@ -249,11 +250,26 @@ Picom: compositor που προσθέτει transparency, shadows και smooth 
 
 picom: https://asciinema.org/a/Dm6neSlqYhlnbfkMbIFyJTQjs
 
+![picom](https://github.com/user-attachments/assets/536b753f-3bf3-4aea-85c2-373c45fd7686)
+
+
+![picom](https://github.com/user-attachments/assets/c3419c78-0027-4498-9940-cd8a7043f70e)
+
+
+
+
 Dunst: lightweight notification daemon για εμφάνιση ειδοποιήσεων
 
 Το dunst επιλέχθηκε ως lightweight notification system ώστε οι ειδοποιήσεις να εμφανίζονται χωρίς να διακόπτουν τη ροή εργασίας στη γραμμή εντολών.
 
 dunst: https://asciinema.org/a/8JU5Oh5gL85xjs5Q6bonCPPW3
+
+![dunst](https://github.com/user-attachments/assets/d91c01cd-3a1d-4e76-9db5-c1e8f6b6b7af)
+
+![dunst](https://github.com/user-attachments/assets/5514e4bc-7c0d-4e0d-be77-65ac8a861ad8)
+
+
+
 
 ## Συμμετοχικό Περιεχόμενο 1Β
 
@@ -290,6 +306,11 @@ Conky:
 
 
 conky: https://asciinema.org/a/EWDTZkmqm2WxwjbuZTyyBI1bo
+
+![conky](https://github.com/user-attachments/assets/dcf23559-8c54-4d09-8fd5-f33248470c67)
+
+![conky](https://github.com/user-attachments/assets/3861a437-51f9-4c55-a62e-9be26ab79a64)
+
 
 
 ## Συμμετοχικό Περιεχόμενο 3Β
