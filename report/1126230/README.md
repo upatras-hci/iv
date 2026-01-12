@@ -16,7 +16,7 @@
 | 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (arch linux)](https://github.com/upatras-hci/iv/discussions/229) | |
 | 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | [Συμμετοχικό περιεχόμενο 1A](https://github.com/upatras-hci/iv/discussions/231) | |
 | 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (custom desktop environment)](https://github.com/upatras-hci/iv/discussions/242) | | 
-| 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | | |
+| 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | [Συμμετοχικό περιεχόμενο 2Α](https://github.com/upatras-hci/iv/discussions/269) | |
 | 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | [Βιογραφικό Β](https://github.com/upatras-hci/iv/discussions/269) | |
 | 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (iv cli)](https://github.com/upatras-hci/iv/discussions/270) | |
 | 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | [Συμμετοχικό περιεχόμενο 1Β](https://github.com/upatras-hci/iv/discussions/272) | |
@@ -197,7 +197,7 @@ Book link: https://hci-iv-2025.netlify.app/
 
 Στο πλαίσιο της δραστηριότητας, προστέθηκαν δύο νέα διαδραστικά παραδείγματα που συνδέονται με βασικές έννοιες HCI και διάδρασης ανθρώπου–υπολογιστή:
 
-#### Keyboard Drag-and-Drop (Bucket-to-Bucket)
+#### Drag-and-Drop 
 
 Περιγραφή: Παρουσιάζει έναν μηχανισμό μεταφοράς αντικειμένων (drag & drop) που είναι πλήρως προσβάσιμος τόσο με πληκτρολόγιο όσο και με ποντίκι.
 
@@ -205,7 +205,9 @@ Book link: https://hci-iv-2025.netlify.app/
 
 Άσκηση/Προέκταση: Τροποποιήστε το παράδειγμα ώστε να αλλάζει το χρώμα, το μέγεθος και το styling των στοιχείων όταν είναι επιλεγμένα ή ενεργά τα drop targets, για βελτιωμένη εμπειρία χρήστη.
 
-Link : https://codepen.io/wesbeyrent/pen/ojBgVM
+Link : https://codepen.io/fotiniyp/pen/myEOywW
+
+[md files](https://github.com/fotiniyp/site/blob/master/_remix/drag-and-drob.md)
 
 #### Range Slider
 
@@ -221,7 +223,10 @@ Link : https://codepen.io/wesbeyrent/pen/ojBgVM
 
 71–100 → πράσινο
 
-Link: https://codepen.io/andreruffert/pen/XJbxVzo
+Link: https://codepen.io/fotiniyp/pen/vEKXorm
+
+[md files](https://github.com/fotiniyp/site/blob/master/_remix/range-slider.md)
+
 
 
 ## Βιογραφικό Β
