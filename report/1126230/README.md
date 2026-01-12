@@ -11,17 +11,17 @@
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Εβδομάδα 1](https://github.com/upatras-hci/iv/discussions/247) | |
-| 2 | [βιογραφικό Α](https://epidrome.github.io/teaching/cv/)  | [Εβδομάδα 2](https://github.com/upatras-hci/iv/discussions/221)  | |
-| 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | [Εβδομάδα 3](https://github.com/upatras-hci/iv/discussions/229) | |
-| 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | [Εβδομάδα 4](https://github.com/upatras-hci/iv/discussions/231) | |
-| 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | [Εβδομάδα 5](https://github.com/upatras-hci/iv/discussions/242) | | 
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Εισαγωγή](https://github.com/upatras-hci/iv/discussions/247) | |
+| 2 | [βιογραφικό Α](https://epidrome.github.io/teaching/cv/)  | [Βιογραφικό Α](https://github.com/upatras-hci/iv/discussions/221)  | |
+| 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (arch linux)](https://github.com/upatras-hci/iv/discussions/229) | |
+| 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | [Συμμετοχικό περιεχόμενο 1A](https://github.com/upatras-hci/iv/discussions/231) | |
+| 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (custom desktop environment)](https://github.com/upatras-hci/iv/discussions/242) | | 
 | 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | | |
-| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | | |
-| 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | | |
-| 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | | |
-| 10 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | | |
-| 11 | [συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social) | | |
+| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | [Βιογραφικό Β](https://github.com/upatras-hci/iv/discussions/269) | |
+| 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (iv cli)](https://github.com/upatras-hci/iv/discussions/270) | |
+| 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | [Συμμετοχικό περιεχόμενο 1Β](https://github.com/upatras-hci/iv/discussions/272) | |
+| 10 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (iv cli)](https://github.com/upatras-hci/iv/discussions/271) | |
+| 11 | [συμμετοχικό περιεχόμενο 3Β](https://epidrome.github.io/teaching/social) | | |
 | 12 | [Τελική αναφορά](https://epidrome.github.io/teaching/guide/) | | |
 
 ## Εισαγωγή
@@ -277,15 +277,24 @@ dunst: https://asciinema.org/a/8JU5Oh5gL85xjs5Q6bonCPPW3
 
 Το **Palm Pilot**, κυκλοφορώντας το 1996, ήταν μία από τις πρώτες εμπορικά επιτυχημένες φορητές συσκευές (PDA) με οθόνη αφής και χειρισμό μέσω stylus. Η συσκευή επέτρεπε τη διαχείριση προσωπικών δεδομένων (ημερολόγιο, επαφές, σημειώσεις) και την εκτέλεση απλών εφαρμογών, ενσωματώνοντας **άμεση διάδραση** σε ένα φορητό περιβάλλον.
 
+![palmpilot](https://github.com/user-attachments/assets/e9ce71b3-0328-4680-9b01-36672f929b32)
+
+
 #### Σχέση με τη θεματική
 - Αποτελεί φυσική συνέχεια του **Apple Newton** και των πρώτων touchscreen συσκευών.  
 - Μεταφέρει τον χρήστη από **παραδοσιακό πληκτρολόγιο/εντολές** σε **απευθείας χειρισμό μέσω αφής**.  
 - Εισάγει έννοιες όπως: gesture-based input, stylus interaction, feedback οθόνης.
 
+[md files](https://github.com/fotiniyp/site/blob/master/_case-study/palmplilot.md)
+
+
 
 ### Βιογραφία – Jeff Hawkins
 
 Ο **Jeff Hawkins** (γεν. 1957) είναι Αμερικανός μηχανικός και επιχειρηματίας, γνωστός ως δημιουργός του **Palm Pilot** και του Palm OS. Η δουλειά του εστίασε στη δημιουργία φορητών συσκευών που συνδύαζαν απλή χρήση, άμεση διάδραση μέσω οθόνης αφής και πρακτικές εφαρμογές για προσωπική οργάνωση.
+
+![hawkins-profile](https://github.com/user-attachments/assets/1f260445-f42c-473d-a197-ec60e7092399)
+
 
 #### Συνεισφορά στην HCI
 
@@ -296,6 +305,9 @@ dunst: https://asciinema.org/a/8JU5Oh5gL85xjs5Q6bonCPPW3
 #### Σχέση με τη θεματική
 
 Ο Jeff Hawkins ενσαρκώνει τη μετάβαση από **έμμεση διάδραση (πληκτρολόγιο, stylus-less systems)** σε **άμεση διάδραση μέσω touchscreen**, που είναι το κεντρικό θέμα του timeline και των slides σου.  
+
+
+[md files](https://github.com/fotiniyp/site/blob/master/_biography/jeff-hawkins.md)
 
 
 ## Γραμμή Εντολών (iv cli)
