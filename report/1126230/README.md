@@ -16,7 +16,7 @@
 | 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (arch linux)](https://github.com/upatras-hci/iv/discussions/229) | |
 | 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | [Συμμετοχικό περιεχόμενο 1A](https://github.com/upatras-hci/iv/discussions/231) | |
 | 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (custom desktop environment)](https://github.com/upatras-hci/iv/discussions/242) | | 
-| 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | [Συμμετοχικό περιεχόμενο 2Α](https://github.com/upatras-hci/iv/discussions/269) | |
+| 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | [Συμμετοχικό περιεχόμενο 2Α](https://github.com/upatras-hci/iv/discussions/273) | |
 | 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | [Βιογραφικό Β](https://github.com/upatras-hci/iv/discussions/269) | |
 | 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (iv cli)](https://github.com/upatras-hci/iv/discussions/270) | |
 | 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | [Συμμετοχικό περιεχόμενο 1Β](https://github.com/upatras-hci/iv/discussions/272) | |
