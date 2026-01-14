@@ -114,6 +114,28 @@ PR στο _gallery: [https://github.com/HCI-IV-2025/figure/pull/21](https://gith
 
 **Παραδοτέο 5ης εβδομάδας**
 
+Για το παραδοτέο αυτής της εβδομάδας, αρχικά εγκατέστησα το i3, τα βασικά εργαλεία ανάπτυξης και τον Xorg, ώστε να είναι δυνατή η εκκίνηση του γραφικού περιβάλλοντος μέσω της εντολής startx.
+
+Στη συνέχεια, ρύθμισα το σύστημα ώστε να εκκινεί αυτόματα το i3 και εγκατέστησα το Alacritty ως προεπιλεγμένο τερματικό, επιλέγοντάς το λόγω της ταχύτητας και της απλότητάς του. 
+
+
+Μέσα από το περιβάλλον του i3 χρησιμοποίησα το dmenu για την εκκίνηση εφαρμογών, όπως ο Firefox.
+
+Τέλος, για το φόντο της επιφάνειας εργασίας χρησιμοποίησα το feh, μέσω του οποίου όρισα μόνιμα μια εικόνα ως wallpaper, ενσωματώνοντάς το στο αρχείο ρυθμίσεων του i3.
+
+<img width="1277" height="1416" alt="image" src="https://github.com/user-attachments/assets/43738d8d-19e4-4fd3-986b-d3a986db0cbd" />
+
+
+<img width="1282" height="1422" alt="image" src="https://github.com/user-attachments/assets/026e173e-7754-4e2c-baa8-52ba173ce124" />
+
+<img width="1272" height="1411" alt="image" src="https://github.com/user-attachments/assets/f248e599-04fa-467f-833c-b8490e467b0b" />
+
+
+
+https://github.com/user-attachments/assets/fa5c1490-2289-45e7-99ee-173f18b81ed7
+
+
+
 
 **Παραδοτέο 6ης εβδομάδας**
 
