@@ -58,10 +58,10 @@
 
 
 Για τις ανάγκες της άσκησης, αρχικά πραγματοποιήθηκε εγκατάσταση του Arch Linux σε Oracle VM VirtualBox.
-Στη συνέχεια, προσπάθησα να εγκαταστήσω το neofetch, αλλά εμφανίστηκε σφάλμα. Έπειτα μ[ε τη συνομιλία με τους υπόλοιπους συμφοιτητές μου στο μεταπτυχιακό](https://github.com/upatras-hci/iv/discussions/220), εγκατέστησα κι εγώ το fastfetch.
+Στη συνέχεια, προσπάθησα να εγκαταστήσω το neofetch, αλλά εμφανίστηκε σφάλμα. Έπειτα  [με τη συνομιλία με τους υπόλοιπους συμφοιτητές μου στο μεταπτυχιακό](https://github.com/upatras-hci/iv/discussions/220), εγκατέστησα κι εγώ το fastfetch.
 Επιπλέον, εγκαταστάθηκε το Asciinema, ώστε να πραγματοποιούνται τα απαραίτητα recordings των terminal sessions κάθε φορά.
 Παρακάτω παρατίθενται τα asciinema recordings των logs από τις εντολές
-[recording](https://asciinema.org/connect/89c82075-1a8f-4f3d-bd51-912e9f3060c1)
+[recording](https://asciinema.org/a/Oz1ZOK1Pj993vDh2)
 
 
 **Παραδοτέο 4ης εβδομάδας**
