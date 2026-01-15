@@ -17,7 +17,7 @@
 | **6**| [Συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | | |
 | **7**| [Βιογραφικό Β](https://epidrome.github.io/teaching/cv/)| [Παραδοτέο #7](https://github.com/upatras-hci/iv/discussions/255)| |
 | **8**| [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)| | |
-| **9**| [Συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | | |
+| **9**| [Συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | [Παραδοτέο #9](https://github.com/upatras-hci/iv/discussions/278) | |
 | **10**  | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)| | |
 | **11**  | [Συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social) | | |
 | **12**  | [Τελική αναφορά](https://epidrome.github.io/teaching/guide/) | | |
