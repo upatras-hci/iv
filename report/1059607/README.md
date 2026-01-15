@@ -13,7 +13,7 @@
 | **2**| [Βιογραφικό Α](https://epidrome.github.io/teaching/cv/)|[Παραδοτέο #2](https://github.com/upatras-hci/iv/discussions/218)  | |
 | **3**| [Γραμμή εντολών (Arch Linux)](https://epidrome.github.io/teaching/cli/)  |[Παραδοτέο #3](https://github.com/upatras-hci/iv/discussions/226) | |
 | **4**| [Συμμετοχικό περιεχόμενο 1Α](https://epidrome.github.io/teaching/social) |  [Παραδοτέο #4](https://github.com/upatras-hci/iv/discussions/228)  | |
-| **5**| [Γραμμή εντολών (Custom Desktop Environment)](https://epidrome.github.io/teaching/cli/) | | |
+| **5**| [Γραμμή εντολών (Custom Desktop Environment)](https://epidrome.github.io/teaching/cli/) | [Παραδοτέο #5](https://github.com/upatras-hci/iv/discussions/282) | |
 | **6**| [Συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | [Παραδοτέο #6](https://github.com/upatras-hci/iv/discussions/279) | |
 | **7**| [Βιογραφικό Β](https://epidrome.github.io/teaching/cv/)| [Παραδοτέο #7](https://github.com/upatras-hci/iv/discussions/255)| |
 | **8**| [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)| | |
