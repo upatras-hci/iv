@@ -21,7 +21,7 @@
 | 7 | βιογραφικό Β | https://github.com/upatras-hci/iv/discussions/268| |
 | 8 | γραμμή εντολών (iv cli) | https://github.com/upatras-hci/iv/discussions/283| |
 | 9 | συμμετοχικό περιεχόμενο 1Β |https://github.com/upatras-hci/iv/discussions/267| |
-| 10 | γραμμή εντολών (iv cli |  | |
+| 10 | γραμμή εντολών (iv cli | https://github.com/upatras-hci/iv/discussions/284 | |
 | 11 | συμμετοχικό περιεχόμενο 2Β |  | |
 | 12 | Τελική αναφορά* | |
 
@@ -204,6 +204,12 @@ https://asciinema.org/a/2D5AoGvqTJvUltaL
 Οι αλλαγές πραγματοποιήθηκαν στους φακέλους _case-study, _biography και _includes αντίστοιχα.
 
 **Παραδοτέο 10ης εβδομάδας**
+
+Την παρούσα εβδομάδα αποφάσισα να ασχοληθώ με το package pastel, το οποίο εγκατέστησα στο Arch Linux, με στόχο να χρωματίζω οποιοδήποτε κείμενο εμφανίζεται στο shell. Το εργαλείο αυτό προσφέρει δυνατότητες απλού χρωματισμού, gradients, styling (bold, underline, background) και μπορεί να χρησιμοποιηθεί τόσο σε απλές εντολές όσο και σε pipelines.
+
+Για την τεκμηρίωση της εργασίας, χρησιμοποίησα asciinema για να καταγράψω το workflow σε video του τερματικού.
+
+https://asciinema.org/a/PfEEQMWDfnFQM5Mj
 
 
 
