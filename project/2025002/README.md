@@ -144,15 +144,17 @@ https://github.com/user-attachments/assets/fa5c1490-2289-45e7-99ee-173f18b81ed7
 
 Πρώτα έκανα το mouse-scroll και πρόσθεσα χρώμα στα νούμερα. όταν ο αριθμός είναι θετικό τότε το νούμερο γίνεται πράσινο, όταν είναι αρνητικός γίνεται κόκκινο και στο 0 γίνεται μαύρο: 
 
+[Preview](https://codepen.io/athxim/embed/JoKRxoW?default-tab=result)
+
 https://github.com/athxim1995/site/blob/master/_remix/new_mouse-scroll.md
 https://codepen.io/athxim/pen/JoKRxoW
 
 
 Και ύστερα το responsive_menu όπου  Δημιούργησα μία νέα ενότητα (ο5) και πρόσθεσα στο τέλος της σελίδας κουμπί επιστροφή που οδηγεί πάλι στη πρώτη ενότητα: 
 
+[Preview](https://codepen.io/athxim/embed/JoKRxoW?default-tab=html,css,js,result)
 https://github.com/athxim1995/site/blob/master/_remix/new-responsive_menu.md
 https://codepen.io/athxim/pen/raLMPjL
-
 **Παραδοτέο 7ης εβδομάδας**
 
 Για την εβδομάδα 7:
