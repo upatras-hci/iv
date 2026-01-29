@@ -9,14 +9,14 @@
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/209 | |
 | 2 | [βιογραφικό Α](https://epidrome.github.io/teaching/cv/) Α | https://github.com/upatras-hci/iv/discussions/217 | |
 | 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/223 | |
-| 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | | |
-| 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | | |
-| 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | | |
-| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | | |
-| 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | | |
-| 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | | |
-| 10 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | | |
-| 11 | [συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social) | | |
+| 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/230 | |
+| 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/241 | |
+| 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/290 | |
+| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | https://github.com/upatras-hci/iv/discussions/275 | |
+| 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/253 | |
+| 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/291 | |
+| 10 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/259 | |
+| 11 | [συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social) |  | |
 | 12 | [Τελική αναφορά](https://epidrome.github.io/teaching/guide/) | | |
 
 >> Η συμπλήρωση της εβδομάδας ορίζεται ως η μέρα πριν το επόμενο μάθημα, π.χ., για την 1η εβδομάδα η παράδοση είναι την ημέρα πριν το 2ο μάθημα. Η 1η και η 12η εβδομάδα είναι σημαντικές προθεσμίες, γιατί μπορεί να μην αντιστοιχούν σε κάποιο ποσοστό βαθμού, αλλά είναι το σημείο αναφοράς για όλους τους άλλους βαθμούς. Η άσκηση γραμμής εντολών έχει περισσότερες εβδομάδες παραδοτέων για να σας δώσει την ευκαιρία να βελτιώσετε το λειτουργικό σύστημα.
