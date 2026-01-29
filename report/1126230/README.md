@@ -292,13 +292,15 @@ dunst: https://asciinema.org/a/8JU5Oh5gL85xjs5Q6bonCPPW3
 
 [md files](https://github.com/fotiniyp/site/blob/master/_case-study/palmplilot.md)
 
-
+Case study link (https://hci-iv-2025.netlify.app/case-study/palmpilot/)
 
 ### Βιογραφία – Jeff Hawkins
 
 Ο **Jeff Hawkins** (γεν. 1957) είναι Αμερικανός μηχανικός και επιχειρηματίας, γνωστός ως δημιουργός του **Palm Pilot** και του Palm OS. Η δουλειά του εστίασε στη δημιουργία φορητών συσκευών που συνδύαζαν απλή χρήση, άμεση διάδραση μέσω οθόνης αφής και πρακτικές εφαρμογές για προσωπική οργάνωση.
 
 ![hawkins-profile](https://github.com/user-attachments/assets/1f260445-f42c-473d-a197-ec60e7092399)
+
+
 
 
 #### Συνεισφορά στην HCI
@@ -311,6 +313,7 @@ dunst: https://asciinema.org/a/8JU5Oh5gL85xjs5Q6bonCPPW3
 
 Ο Jeff Hawkins ενσαρκώνει τη μετάβαση από **έμμεση διάδραση (πληκτρολόγιο, stylus-less systems)** σε **άμεση διάδραση μέσω touchscreen**, που είναι το κεντρικό θέμα του timeline και των slides σου.  
 
+Bio link (https://hci-iv-2025.netlify.app/biography/jeff-hawkins/)
 
 [md files](https://github.com/fotiniyp/site/blob/master/_biography/jeff-hawkins.md)
 
