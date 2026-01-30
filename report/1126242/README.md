@@ -83,11 +83,11 @@ https://github.com/HCI-IV-2025/figure/pull/10
 Επίσης έχει γίνει ένα χρονολόγιο, slides  και gallery.
 Παραθέτω τα λινκ από κάτω 
 
-[Joystick](https://hci-iv-2025.netlify.app/figure/Atari-Joystick/)
-[Microsoft Optical Mouse](https://hci-iv-2025.netlify.app/figure/Microsoft-Optical-Mouse/)
-https://hci-iv-2025.netlify.app/slides/mouse-history/
-https://hci-iv-2025.netlify.app/gallery/mouse-to-mouse/
-https://hci-iv-2025.netlify.app/timeline/mouse-history/
+- [Joystick](https://hci-iv-2025.netlify.app/figure/Atari-Joystick/)
+- [Microsoft Optical Mouse](https://hci-iv-2025.netlify.app/figure/Microsoft-Optical-Mouse/)
+- https://hci-iv-2025.netlify.app/slides/mouse-history/
+- https://hci-iv-2025.netlify.app/gallery/mouse-to-mouse/
+- https://hci-iv-2025.netlify.app/timeline/mouse-history/
 
 ## Εβδομάδα 5
 Γραμμή εντολών (custom desktop environment)
