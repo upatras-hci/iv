@@ -79,15 +79,27 @@ https://github.com/HCI-IV-2025/images/pull/12
 https://github.com/HCI-IV-2025/figure/pull/10
 
 
-
 Επίσης έχει γίνει ένα χρονολόγιο, slides  και gallery.
-Παραθέτω τα λινκ από κάτω 
+Παραθέτω τα λινκ του site από κάτω 
 
 - [Joystick](https://hci-iv-2025.netlify.app/figure/Atari-Joystick/)
 - [Microsoft Optical Mouse](https://hci-iv-2025.netlify.app/figure/Microsoft-Optical-Mouse/)
 - https://hci-iv-2025.netlify.app/slides/mouse-history/
 - https://hci-iv-2025.netlify.app/gallery/mouse-to-mouse/
 - https://hci-iv-2025.netlify.app/timeline/mouse-history/
+
+images in repo
+-https://github.com/Themis-Sar/images/blob/master/Atari-XE-joystick.jpg
+-https://github.com/Themis-Sar/images/blob/master/Microsoft-Optical-Mouse-100.jpg
+figures in repo
+-https://github.com/Themis-Sar/figure/blob/master/Atari-Joystick.md
+-https://github.com/Themis-Sar/figure/blob/master/Microsoft-Optical-Mouse.md
+slides in repo
+-https://github.com/Themis-Sar/site/blob/master/_slides/mouse-history.md
+gallery in repo
+-https://github.com/Themis-Sar/site/blob/master/_gallery/mouse-to-mouse.md
+timeline in repo
+https://github.com/Themis-Sar/site/blob/master/_timeline/mouse-history.md
 
 ## Εβδομάδα 5
 Γραμμή εντολών (custom desktop environment)
@@ -119,11 +131,16 @@ https://github.com/HCI-IV-2025/figure/pull/10
 
 Αυτή την βδομάδα είχαμε δύο διαδραστικά παραδείγματα.
 
+
  [Real-Time Input Validation](https://hci-iv-2025.netlify.app/remix/Real-time_validation/)
 Αυτό το παράδειγμα εστιάζει στην Πρόληψη Σφαλμάτων (Error Prevention). Αντί να εμφανίζει σφάλματα αφού ο χρήστης πατήσει “Υποβολή”, το σύστημα παρέχει άμεση οπτική ανατροφοδότηση (real-time feedback) καθώς ο χρήστης πληκτρολογεί, βοηθώντας τον να συμμορφωθεί με τους περιορισμούς (constraints) του κωδικού πρόσβασης.
 
 [State-Aware Button & Feedback](https://hci-iv-2025.netlify.app/remix/save-interactive-button/)
 Το συγκεκριμένο διαδραστικό παράδειγμα παρουσιάζει ένα “έξυπνο” κουμπί που αλλάζει καταστάσεις (states) για να ενημερώνει τον χρήστη. Επιδεικνύει την ευρετική αρχή της Ορατότητας της Κατάστασης του Συστήματος (Visibility of System Status), δείχνοντας πότε το σύστημα “σκέφτεται” (Loading) και πότε ολοκλήρωσε μια εργασία (Success).
+
+interactive ασκήσεις in repo
+-https://github.com/Themis-Sar/site/blob/master/_remix/Real-time_validation.md
+-https://github.com/Themis-Sar/site/blob/master/_remix/save-interactive-button.md
 
 ## Εβδομάδα 7
 
@@ -166,6 +183,14 @@ https://asciinema.org/a/hTsVQ90uriNt9m8VIUspBWmn1
 Ο καλύτερος υπολογιστής είναι ένας ήσυχος, αόρατος υπηρέτης.
 Όσο περισσότερα μπορείς να κάνεις διαισθητικά, τόσο πιο έξυπνος είσαι. Ο υπολογιστής πρέπει να επεκτείνει το ασυνείδητό σου (intuition) και όχι απλά τη συνειδητή σκέψη.
 Η τεχνολογία πρέπει να δημιουργεί ηρεμία (Calm).
+
+case study in repo
+-https://github.com/Themis-Sar/site/blob/master/_case-study/joystick.md
+-https://github.com/Themis-Sar/site/blob/master/_includes/cs-joystick.md
+
+biography in repo 
+-https://github.com/Themis-Sar/site/blob/master/_biography/mark-weiser.md
+-https://github.com/Themis-Sar/site/blob/master/_includes/bio-weiser.md
 
 ## Εβδομάδα 10
 
