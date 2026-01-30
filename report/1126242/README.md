@@ -91,17 +91,23 @@ https://github.com/HCI-IV-2025/figure/pull/10
 images in repo
 
 -https://github.com/Themis-Sar/images/blob/master/Atari-XE-joystick.jpg
+
 -https://github.com/Themis-Sar/images/blob/master/Microsoft-Optical-Mouse-100.jpg
+
 figures in repo
 
 -https://github.com/Themis-Sar/figure/blob/master/Atari-Joystick.md
+
 -https://github.com/Themis-Sar/figure/blob/master/Microsoft-Optical-Mouse.md
+
 slides in repo
 
 -https://github.com/Themis-Sar/site/blob/master/_slides/mouse-history.md
+
 gallery in repo
 
 -https://github.com/Themis-Sar/site/blob/master/_gallery/mouse-to-mouse.md
+
 timeline in repo
 
 https://github.com/Themis-Sar/site/blob/master/_timeline/mouse-history.md
