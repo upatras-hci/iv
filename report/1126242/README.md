@@ -169,7 +169,10 @@ https://asciinema.org/a/hTsVQ90uriNt9m8VIUspBWmn1
 
 ### Εβδομάδα 10
 
-Για αυτή την εβδομάδα διάλεξα να φτιάξω ένα python script το οποίο θα ήθελα να γεφυρώνει το Internet of things, το machine learning και το hci. Εγκαταστάθηκε VS code και χρησιμοποιήθηκαν python βιβλιοθήκες και html. To script κάνει initialize ενα chatbot στο οποίο μπορείς να ρωτήσεις διάφορα πράγματα για καποια σχολεία. αφου κάνεις την ερώτηση γίνεται ένα api call και το ai απαντάει σε φυσική γλώσσα. Παρακάτω έχω κάποια videos και screenshot από επαφή με το chatbot.Να σημειωθεί οτι είναι μέρος της δουλειάς μου και μελλοντική έκδοση θα γίνει deploy κανονικά
+Για αυτή την εβδομάδα διάλεξα να φτιάξω ένα python script το οποίο θα ήθελα να γεφυρώνει το Internet of things, το machine learning και το hci. Εγκαταστάθηκε VS code και χρησιμοποιήθηκαν python βιβλιοθήκες και html. To script κάνει initialize ενα chatbot στο οποίο μπορείς να ρωτήσεις διάφορα πράγματα για καποια σχολεία. αφου κάνεις την ερώτηση γίνεται ένα api call και το ai απαντάει σε φυσική γλώσσα. Παρακάτω έχω κάποια videos και screenshot από επαφή με το chatbot.Να σημειωθεί οτι είναι μέρος της δουλειάς μου και μελλοντική έκδοση θα γίνει deploy κανονικά.Για περισσότερες πληροφορίες εδώ έχω φτιάξει ένα repo με τον κώδικα καθώς και detailed readme για replication της διαδικασίας. https://github.com/Themis-Sar/api-assistant
+
+![Untitled](https://github.com/user-attachments/assets/4faed5f5-0a74-4a71-b9cd-db042e342534)
+
 
 <img width="960" height="925" alt="Screenshot 2025-09-10 015755" src="https://github.com/user-attachments/assets/f9f84c2f-8b5d-45f8-b34d-98e57d0b49e1" />
 
@@ -179,5 +182,5 @@ https://asciinema.org/a/hTsVQ90uriNt9m8VIUspBWmn1
 <img width="691" height="918" alt="Screenshot 2025-09-16 205310" src="https://github.com/user-attachments/assets/e2995144-19d5-4b29-979f-61bde6f5edba" />
 
 
-![Untitled](https://github.com/user-attachments/assets/4faed5f5-0a74-4a71-b9cd-db042e342534)
+
 
