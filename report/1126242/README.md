@@ -150,7 +150,9 @@ https://github.com/Themis-Sar/site/blob/master/_timeline/mouse-history.md
 Το συγκεκριμένο διαδραστικό παράδειγμα παρουσιάζει ένα “έξυπνο” κουμπί που αλλάζει καταστάσεις (states) για να ενημερώνει τον χρήστη. Επιδεικνύει την ευρετική αρχή της Ορατότητας της Κατάστασης του Συστήματος (Visibility of System Status), δείχνοντας πότε το σύστημα “σκέφτεται” (Loading) και πότε ολοκλήρωσε μια εργασία (Success).
 
 interactive ασκήσεις in repo
+
 -https://github.com/Themis-Sar/site/blob/master/_remix/Real-time_validation.md
+
 -https://github.com/Themis-Sar/site/blob/master/_remix/save-interactive-button.md
 
 ## Εβδομάδα 7
@@ -165,7 +167,9 @@ interactive ασκήσεις in repo
 
 
 *repo : https://github.com/Themis-Sar/simple-cv/tree/my-simple-cv
+
 *Βιογραφικό:  https://themis-sar.github.io/simple-cv/
+
 *Βιογραφικό  pdf : https://themis-sar.github.io/simple-cv/themis.pdf
 
 
@@ -196,11 +200,15 @@ https://asciinema.org/a/hTsVQ90uriNt9m8VIUspBWmn1
 Η τεχνολογία πρέπει να δημιουργεί ηρεμία (Calm).
 
 case study in repo
+
 -https://github.com/Themis-Sar/site/blob/master/_case-study/joystick.md
+
 -https://github.com/Themis-Sar/site/blob/master/_includes/cs-joystick.md
 
 biography in repo 
+
 -https://github.com/Themis-Sar/site/blob/master/_biography/mark-weiser.md
+
 -https://github.com/Themis-Sar/site/blob/master/_includes/bio-weiser.md
 
 ## Εβδομάδα 10
