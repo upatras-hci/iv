@@ -209,6 +209,8 @@ Link : https://codepen.io/fotiniyp/pen/myEOywW
 
 [md files](https://github.com/fotiniyp/site/blob/master/_remix/drag-and-drob.md)
 
+Book Link: https://hci-iv-2025.netlify.app/remix/drag-and-drob/
+
 #### Range Slider
 
 Περιγραφή: Παρουσιάζει ένα range slider, ένα από τα πιο συνηθισμένα στοιχεία χειρισμού διεπαφών. Δίνει άμεση ανάδραση και διευκολύνει την επιλογή τιμών σε εύρος 0–100.
@@ -227,6 +229,7 @@ Link: https://codepen.io/fotiniyp/pen/vEKXorm
 
 [md files](https://github.com/fotiniyp/site/blob/master/_remix/range-slider.md)
 
+Book Link: https://hci-iv-2025.netlify.app/remix/range-slider/
 
 
 ## Βιογραφικό Β
@@ -284,6 +287,25 @@ dunst: https://asciinema.org/a/8JU5Oh5gL85xjs5Q6bonCPPW3
 
 ![palmpilot](https://github.com/user-attachments/assets/e9ce71b3-0328-4680-9b01-36672f929b32)
 
+Το PalmPilot ήταν μια από τις πρώτες επιτυχημένες φορητές συσκευές προσωπικής οργάνωσης (PDA) και αποτέλεσε ορόσημο στην εξέλιξη της κινητής υπολογιστικής. Η ανάπτυξή του ξεκίνησε από την Palm Computing, που συνίδρυσαν ο Jeff Hawkins και η Donna Dubinsky, με στόχο τη δημιουργία μιας συσκευής που να συνδυάζει φορητότητα, απλότητα στη χρήση και αποτελεσματική διαχείριση προσωπικών πληροφοριών [1].
+
+Μια από τις σημαντικότερες καινοτομίες του PalmPilot ήταν ο τρόπος γραφής, γνωστός ως Graffiti. Αντί για παραδοσιακή χειρόγραφη εισαγωγή, το Graffiti χρησιμοποιούσε ένα gesture alphabet, δηλαδή ένα σύνολο απλοποιημένων, μονοσήμαντων χειρονομιών για κάθε γράμμα. Κάθε γράμμα αντιστοιχούσε σε μια συγκεκριμένη, σαφή γραμμή ή σχήμα, ώστε η συσκευή να μπορεί να αναγνωρίζει τη γραφή γρήγορα και αξιόπιστα, ακόμα και αν ο χρήστης έκανε μικρές αποκλίσεις [2] [3].
+
+Το PalmPilot ενσωμάτωνε επίσης ένα ειδικό πλαίσιο γραφής (Graffiti Writing Area) στο κάτω μέρος της οθόνης, όπου ο χρήστης σχεδίαζε τα γράμματα με το stylus. Το πλαίσιο ήταν σχεδιασμένο ώστε να μεγιστοποιεί την ακρίβεια αναγνώρισης και να επιτρέπει γρήγορη εισαγωγή κειμένου, μετατρέποντας τις χειρονομίες σε ψηφιακό κείμενο σε πραγματικό χρόνο [4]. Η συνδυασμένη χρήση του gesture alphabet και του πλαισίου γραφής έκανε τη γραφή φυσική, γρήγορη και ευχάριστη στη χρήση, ενώ αποτέλεσε βασικό στοιχείο της επιτυχίας της διεπαφής.
+
+Το PalmPilot περιλάμβανε επίσης βασικές εφαρμογές όπως ημερολόγιο, λίστες επαφών, σημειώσεις και σύστημα συγχρονισμού HotSync για υπολογιστές, που επέτρεπαν την άμεση διαχείριση προσωπικών πληροφοριών. Η προσοχή στη χρηστικότητα, η ευχρηστία του Graffiti και η ομαλή ενσωμάτωσή του στην εμπειρία του χρήστη ήταν παράγοντες καθοριστικής σημασίας για την υιοθέτηση της συσκευής από επαγγελματίες και μαθητές [4].
+
+Η επιρροή του PalmPilot ξεπερνά τα όρια της εποχής του, καθώς έθεσε τα θεμέλια για τη σχεδίαση σύγχρονων φορητών συσκευών και διαδραστικών διεπαφών. Η φιλοσοφία του Jeff Hawkins — να προσαρμόζεται η τεχνολογία στις ανθρώπινες κινήσεις και όχι το αντίστροφο — αντικατοπτρίζεται στην καινοτομία του Graffiti και του πλαισίου γραφής, στοιχεία που παραμένουν αναφορά για τον σχεδιασμό φορητών συσκευών [1][2]
+
+Βιβλιογραφία
+[1] Computer History Museum. (2007). Oral history of Jeff Hawkins. Interviewed by Donna Dubinsky
+
+[2] Buxton, J., & Hawkins, J. (1999). The philosophy of the handheld. Wired. Retrieved January 29, 2026
+
+[3] Graffiti Handbook: Palm Computing. (1996). User guide and developer notes. Palm Computing, Inc.
+
+[4] Pen Computing Magazine. (1999). The Jeff Hawkins story: The PalmPilot and the birth of the handheld industry
+
 
 #### Σχέση με τη θεματική
 - Αποτελεί φυσική συνέχεια του **Apple Newton** και των πρώτων touchscreen συσκευών.  
@@ -291,6 +313,8 @@ dunst: https://asciinema.org/a/8JU5Oh5gL85xjs5Q6bonCPPW3
 - Εισάγει έννοιες όπως: gesture-based input, stylus interaction, feedback οθόνης.
 
 [md files](https://github.com/fotiniyp/site/blob/master/_case-study/palmplilot.md)
+
+Book Link: https://hci-iv-2025.netlify.app/case-study/palmpilot/
 
 Case study link (https://hci-iv-2025.netlify.app/case-study/palmpilot/)
 
@@ -300,8 +324,29 @@ Case study link (https://hci-iv-2025.netlify.app/case-study/palmpilot/)
 
 ![hawkins-profile](https://github.com/user-attachments/assets/1f260445-f42c-473d-a197-ec60e7092399)
 
+Ο Jeff Hawkins ξεκίνησε την καριέρα του με ένα έντονο ενδιαφέρον για τη μηχανική και την επιστήμη του εγκεφάλου. Αν και έγινε ευρύτερα γνωστός ως δημιουργός του PalmPilot και συνιδρυτής της Palm Computing, οι έρευνές του για τη νοημοσύνη και τη λειτουργία την νοημοσύνη ήταν πάντα κεντρικό στοιχείο της σταδιοδρομίας του [1] [2].
+
+Στη δεκαετία του 1990, ο Hawkins και η ομάδα του εισήγαγαν τον PalmPilot, μια φορητή συσκευή προσωπικής οργάνωσης που συνδύαζε απλότητα στη χρήση με τεχνολογική καινοτομία. Το σύστημα Graffiti για αναγνώριση χειρόγραφης γραφής και το HotSync για συγχρονισμό δεδομένων έκαναν τη φορητή υπολογιστική προσιτή σε μεγάλο κοινό, ενώ επηρέασαν τον σχεδιασμό των μελλοντικών smartphones και tablets [3]. Για τον Hawkins, η επιτυχία της συσκευής βασίστηκε στην ευχρηστία και την προσβασιμότητα, παρά στα τεχνικά χαρακτηριστικά μόνο.
+
+Παράλληλα με την επιχειρηματική του δραστηριότητα, ο Hawkins διατήρησε ζωντανό το ενδιαφέρον του για τη νευροεπιστήμη. Στις αρχές της δεκαετίας του 2000 ίδρυσε το Redwood Neuroscience Institute, με στόχο να μελετήσει τις βασικές αρχές της ανθρώπινης νοημοσύνης και να αναπτύξει θεωρητικά μοντέλα που θα μπορούσαν να οδηγήσουν στην κατασκευή «ευφυών» συστημάτων [1][4].
+
+Το 2004 κυκλοφόρησε το βιβλίο On Intelligence, στο οποίο περιγράφει την θεωρία memory‑prediction framework. Σύμφωνα με αυτή, η νοημοσύνη δεν περιορίζεται στην επεξεργασία δεδομένων, αλλά βασίζεται στην ικανότητα του εγκεφάλου να κατασκευάζει εσωτερικά μοντέλα του κόσμου και να προβλέπει γεγονότα [2] [5].
+
+Η σημασία του Hawkins δεν περιορίζεται μόνο στις συσκευές που δημιούργησε ή στις θεωρίες που ανέπτυξε. Η επιρροή του εκτείνεται στον τρόπο που σκεφτόμαστε τη νοημοσύνη, τη μάθηση και την αλληλεπίδραση ανθρώπου και μηχανής. Η πορεία του από τον PalmPilot στη νευροεπιστήμη δείχνει ότι η καινοτομία μπορεί να συνδυάζει επιχειρηματικότητα, μηχανική σκέψη και βαθιά θεωρητική κατανόηση.
+
+Βιβλιογραφία
+[1] Hawkins, Jeff, & Blakeslee, Sandra. On Intelligence: How a New Understanding of the Brain will Lead to the Creation of Truly Intelligent Machines. Times Books, 2004
+
+[2] Hawkins, Jeff. A Thousand Brains: A New Theory of Intelligence. Basic Books, 2021
+
+[3] Pen Computing Magazine: The Jeff Hawkins Story
+
+[4] Oral History of Jeff Hawkins. Interviewed by Donna Dubinsky, Computer History Museum, 2007
+
+[5] Computer History Museum. (n.d.). Profile: Jeff Hawkins
 
 
+Book Link: https://hci-iv-2025.netlify.app/biography/jeff-hawkins/
 
 #### Συνεισφορά στην HCI
 
