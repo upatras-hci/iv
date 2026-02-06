@@ -138,15 +138,134 @@ https://github.com/upatras-hci/iv/discussions/228
 - Figure: https://hci-iv-2025.netlify.app/figure/microsoft-surface-table/
 - Image: https://hci-iv-2025.netlify.app/images/microsoft-surface-table-thumb.jpg
 
+### Διαδικασία Ανάπτυξης & Συνεργασίας
+
+**1. Αρχιτεκτονική Repositories:**  
+- Fork των `pibook/figures`, `pibook/images`, και `pibook/site` στο organization (HCI-IV-2025)
+- Προσωπικό fork από τα repositories του organization
+- Διατήρηση συγχρονισμού μέσω upstream references
+
+**2. Τοπική Ανάπτυξη:**  
+- Εγκατάσταση Ruby και Jekyll για τοπικό build environment
+- Αλλαγές στο προσωπικό clone με ενημέρωση των submodules
+- Εκτέλεση τοπικών builds για validation πριν την υποβολή
+- Εντολές: `git submodule update`, `bundle install`, `jekyll serve`
+
+**3. Workflow Pull Requests:**  
+- Υποβολή PRs από προσωπικό fork → organization repositories
+- Συντονισμός με ομάδα: όλα τα μέλη ακολουθούσαν την ίδια διαδικασία
+- Τοπική εκτέλεση του organization repo για integration testing
+- Παροχή feedback σε συμφοιτητές για πιθανές βελτιώσεις πριν το deployment
+
+**4. Κανόνες Αποδοχής PRs:**  
+Σε συνεννόηση μεταξύ των συμφοιτητών, ορίστηκαν branch protection rules:
+- ❌ **Απαγόρευση self-approval:** Κανένας δεν μπορεί να κάνει approve το δικό του PR
+- ✅ **Mandatory review:** Απαιτείται review και approval από άλλο μέλος της ομάδας
+- 🎯 **Στόχος:** Αποφυγή λαθών, διασφάλιση ποιότητας κώδικα, συνεργατική επαλήθευση
+
+**5. Deployment & Netlify:**  
+- **Setup:** Ρύθμιση Netlify για continuous deployment από το `/site` του organization
+- **Endpoint:** https://hci-iv-2025.netlify.app
+- **Τοπική Επαλήθευση:** Λόγω περιορισμένων deployment tokens στο free πακέτο Netlify, προτιμήθηκε τοπική εκτέλεση για validation πριν κάθε deploy
+- **Build Process:** Automatic builds στο Netlify σε κάθε merge στο main branch
+
+**6. Αποτέλεσμα Συνεργασίας:**  
+- Συγχρονισμένο περιεχόμενο από πολλά μέλη ομάδας
+- Quality assurance μέσω peer review process
+- Reproducible deployments με CI/CD pipeline
+- Επαγγελματική οργάνωση version control workflow
+
+### Τεχνικές Εντολές & Ρυθμίσεις
+
+**Διαχείριση Submodules:**
+```bash
+# Έλεγχος κατάστασης submodules
+git submodule status
+
+# Επαλήθευση προέλευσης submodule
+git remote get-url origin
+
+# Συγχρονισμός submodules με το remote
+git submodule update --init --recursive
+
+# Αλλαγή origin URL (αν χρειαστεί)
+git remote set-url origin <new-url>
+```
+
+**Workflow Submodules:**
+```bash
+# Μετάβαση στο submodule directory
+cd _figure    # ή cd images
+
+# Μετάβαση σε master branch
+git checkout master
+
+# Pull των αλλαγών
+git pull origin master
+
+# Επιστροφή στο root directory και commit του updated submodule
+cd ../
+git add _figure
+git commit -m "Update submodule to latest master"
+git push
+```
+
+**Τοπικό Build με Jekyll:**
+```bash
+# Εγκατάσταση dependencies
+bundle install
+
+# Καθαρισμός προηγούμενων builds
+bundle exec jekyll clean
+
+# Εκτέλεση τοπικού server
+bundle exec jekyll serve
+
+# Εναλλακτικά (σε περίπτωση errors):
+gem install jekyll
+# ή
+bundle add webrick
+```
+
+**Τοπικές Ρυθμίσεις για Compatibility:**
+
+Για να τρέχει το Jekyll τοπικά χωρίς errors, απαιτήθηκαν οι εξής αλλαγές (κρατήθηκαν μόνο τοπικά, δεν έγιναν commit):
+
+`_config.yml`:
+```yaml
+# Σχόλιο της γραμμής jemoji
+# - jemoji
+```
+
+`Gemfile`:
+```ruby
+# Σχόλιο του jemoji gem
+# gem "jemoji"
+
+# Προσθήκη απαιτούμενων dependencies
+gem "bigdecimal"
+gem "webrick", "~> 1.9"
+```
+
+**Rationale:** Οι τοπικές ρυθμίσεις αποφεύγουν dependency conflicts και επιτρέπουν γρήγορα local builds χωρίς να επηρεάζουν το production environment.
+
+**7. Netlify Deployment Strategy:**  
+- **Configuration:** Netlify configured να παρακολουθεί το `/site` του organization (HCI-IV-2025)
+- **Token Constraints:** Το free tier του Netlify έχει περιορισμένα deployment tokens
+- **Λύση:** Εκτεταμένη τοπική επαλήθευση πριν κάθε deployment για οικονομία tokens
+- **Validation Flow:** Local builds → Review → Merge → Netlify auto-deploy
+- **Live Site:** https://hci-iv-2025.netlify.app
+
 ### Σχετικά Deliverables
-- **Pull Requests:** Προσθήκη εικόνων και thumbnails στο αποθετήριο οργανισμού
-- **Προσθήκες:** 
+- **Organization Repositories:** HCI-IV-2025/site, HCI-IV-2025/images, HCI-IV-2025/figures
+- **Pull Requests:** Προσθήκη εικόνων και thumbnails με peer review
+- **Deployed Content:** 
   - [Γκαλερί](https://hci-iv-2025.netlify.app/gallery/mouse-to-surface/)
   - [Διαφάνειες](https://hci-iv-2025.netlify.app/slides/evolution-of-input-devices/)
   - [Χρονολόγιο](https://hci-iv-2025.netlify.app/timeline/mouse-to-surface/)
 
 ### Στόχος
-Ανάδειξη της ιστορικής μετάβασης από τη σημειακή είσοδο (μονό ποντίκι) σε πολυαφή και χειρονομιακή αλληλεπίδραση, δείχνοντας τη σταδιακή εξέλιξη προς φυσικότερες και πιο συνεργατικές διεπαφές.  
+Ανάδειξη της ιστορικής μετάβασης από τη σημειακή είσοδο (μονό ποντίκι) σε πολυαφή και χειρονομιακή αλληλεπίδραση, δείχνοντας τη σταδιακή εξέλιξη προς φυσικότερες και πιο συνεργατικές διεπαφές, μέσω επαγγελματικής συνεργατικής διαδικασίας ανάπτυξης.  
 
 ## <a id="week-5"></a>Εβδομάδα 5 – Γραμμή Εντολών (Custom Desktop Environment)
 ### Συζήτηση
