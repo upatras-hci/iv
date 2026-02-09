@@ -380,7 +380,20 @@ conky: https://asciinema.org/a/EWDTZkmqm2WxwjbuZTyyBI1bo
 
 ## Συμμετοχικό Περιεχόμενο 3Β
 
+- Εγινε μετατροπη της μορφής Latex σε HTML (μορφή Pollen)
+- Με τη χρήση των εντολών raco pollen render -r γινεται render σε html
+- Με τη χρηση της raco pollen start γινεται host το βιβλιο στο url http://localhost:8080
 
+  
+<img width="1919" height="865" alt="Screenshot 2026-02-09 153936" src="https://github.com/user-attachments/assets/c0b36711-0904-4ff9-bdd8-2c72c4eed098" />
+
+
+<img width="1919" height="868" alt="Screenshot 2026-02-09 153917" src="https://github.com/user-attachments/assets/c2c5c4ea-659b-4a27-81c4-2dfe7df54fff" />
+
+
+<img width="1904" height="859" alt="Screenshot 2026-02-09 154031" src="https://github.com/user-attachments/assets/5303da86-5409-4477-ab6c-bf5f6125170b" />
+
+New Book HTML:  https://github.com/fotiniyp/kallipos
 
 ## Τελική Αναφορά
 
