@@ -184,6 +184,8 @@ https://asciinema.org/a/hTsVQ90uriNt9m8VIUspBWmn1
 3. Φιδάκι στο CLI
 4. https://asciinema.org/a/5gayO6tZlqoKNy9eNWgCukWWL
 
+5. Και επιπλέον έφτιαξα ένα custom script το οποίο μπορείτε να βρείτε https://asciinema.org/a/B9BRPjQd0q1TrdZv. Το script παίρνει θερμοκρασια και υγρασία από ένα open api και τις μετατρέπει σε γραφήματα στο CLI. o κώδικας βρίσκεται εδώ https://github.com/Themis-Sar/api-assistant/blob/main/weatherv2.py
+
 ## Εβδομάδα 9
 συμμετοχικό περιεχόμενο 1Β
 
