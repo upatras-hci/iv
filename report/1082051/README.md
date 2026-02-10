@@ -6,18 +6,18 @@
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/209 | |
-| 2 | [βιογραφικό Α](https://epidrome.github.io/teaching/cv/) Α | https://github.com/upatras-hci/iv/discussions/217 | |
-| 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/223 | |
-| 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/230 | |
-| 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/241 | |
-| 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/290 | |
-| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | https://github.com/upatras-hci/iv/discussions/275 | |
-| 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/253 | |
-| 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/291 | |
-| 10 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/259 | |
-| 11 | [συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social) |  | |
-| 12 | [Τελική αναφορά](https://epidrome.github.io/teaching/guide/) | | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/209 | 10 |
+| 2 | [βιογραφικό Α](https://epidrome.github.io/teaching/cv/) Α | https://github.com/upatras-hci/iv/discussions/217 | 7 |
+| 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/223 | 8 |
+| 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/230 | 5 |
+| 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/241 | 10 |
+| 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/290 | 9 |
+| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | https://github.com/upatras-hci/iv/discussions/275 | 8 |
+| 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/253 | 8.5 |
+| 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/291 | 9 |
+| 10 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/259 | 8 |
+| 11 | [συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social) | - | - |
+| 12 | [Τελική αναφορά](https://epidrome.github.io/teaching/guide/) | Βρίσκεται από κάτω | |
 
 >> Η συμπλήρωση της εβδομάδας ορίζεται ως η μέρα πριν το επόμενο μάθημα, π.χ., για την 1η εβδομάδα η παράδοση είναι την ημέρα πριν το 2ο μάθημα. Η 1η και η 12η εβδομάδα είναι σημαντικές προθεσμίες, γιατί μπορεί να μην αντιστοιχούν σε κάποιο ποσοστό βαθμού, αλλά είναι το σημείο αναφοράς για όλους τους άλλους βαθμούς. Η άσκηση γραμμής εντολών έχει περισσότερες εβδομάδες παραδοτέων για να σας δώσει την ευκαιρία να βελτιώσετε το λειτουργικό σύστημα.
 
@@ -30,6 +30,8 @@
 ---
 
 # Τελική Αναφορά
+
+Η Τελική Αναφορά αποτελεί την παρουσίαση της διαδικασίας που ακολούθησα για τη διαμόρφωση και δημιουργία κάθε εβδομαδιαίου περιεχομένου, μαζί με προσωπικές απόψεις και συμπεράσματα για την κάθεμία. Δεν αναπαριστούν το τελικό περιεχόμενο/παραδοτέο, αυτό βρίσκεται στα discussion links στην από πάνω καρτέλα.
 
 ## Εβδομάδα 1 (Εισαγωγή)
 
@@ -67,7 +69,7 @@
 
 Πραγματοποίησα εκτενή και στοχευμένη βιβλιογραφική έρευνα, αναζητώντας «κρυμμένα διαμάντια» στην ιστορία της Αλληλεπίδρασης Ανθρώπου-Υπολογιστή. Αντί να εστιάσω σε τετριμμένα παραδείγματα, έψαξα για λιγότερο γνωστές αλλά θεμελιώδεις συνεισφορές που γεφυρώνουν τον φυσικό με τον ψηφιακό κόσμο. Ανακάλυψα το Project GROPE και τον πρωτοπόρο Frederick Brooks. Συνέλεξα ακαδημαϊκές πηγές και τεκμήρια για να συντάξω δύο πλήρη έγγραφα (Case Study & Biography), τα οποία ενσωμάτωσα στην ιστοσελίδα μας. Στόχος ήταν να συνδέσω ιστορικά την πρώιμη μηχανική ανάδραση (τον βραχίονα Argonne ARM) με τις σύγχρονες συσκευές που μελετάμε, εμπλουτίζοντας ουσιαστικά το ερευνητικό περιεχόμενο του portfolio μας. Η μελέτη αυτή με οδήγησε σε ένα σημαντικό συμπέρασμα: η καινοτομία στο HCI δεν είναι πάντα "νέα", αλλά συχνά αποτελεί σμίκρυνση παλαιότερων ιδεών. Το Project GROPE απέδειξε ότι η ανάγκη για Απτική Ανάδραση (Force Feedback) είχε αναγνωριστεί ήδη από το 1970 ως κρίσιμη για την κατανόηση δεδομένων, πολύ πριν εμφανιστούν τα VR controllers. Επίσης, η φιλοσοφία του Brooks περί Ενίσχυσης Νοημοσύνης (Intelligence Amplification) — ότι ο υπολογιστής πρέπει να ενδυναμώνει και όχι να αντικαθιστά τον άνθρωπο— παραμένει επίκαιρη και αποτελεί πολύτιμο οδηγό για τον σχεδιασμό των σημερινών διεπαφών.
 
-+ Πρόσθεσα στο _includes .md αρχείο (bio-fred.md) και μία παράγραφο για τον Frederick Brooks και το βιβλίο που είχε γράψει, το "The Mythical Man-Month", στην οποία αναφέρομαι στη συγγραφή του βιβλίου και τη συμβολή του στο πεδίο του HCI και γενικότερα στην καριέρα του Frederick Brooks.
+Επιπλέον, πρόσθεσα στο σχετικό .md αρχείο στο _includes (bio-fred.md) μία παράγραφο για τον Frederick Brooks και το βιβλίο που είχε γράψει, το "The Mythical Man-Month", στην οποία αναφέρομαι στη συγγραφή του βιβλίου και τη συμβολή του στο πεδίο του HCI και γενικότερα στην καριέρα του Frederick Brooks, όπως ζητήθηκε.
 
 ## Εβδομάδα 10 (Arch IV 2)
 
