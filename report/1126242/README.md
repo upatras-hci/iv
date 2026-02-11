@@ -14,16 +14,16 @@
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/205| |
-| 2 | [βιογραφικό Α](https://epidrome.github.io/teaching/cv/) Α |https://github.com/upatras-hci/iv/discussions/214 | |
-| 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/224 | |
-| 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/239 | |
-| 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/240 | |
-| 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) |https://github.com/upatras-hci/iv/discussions/292 | |
-| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | https://github.com/upatras-hci/iv/discussions/252 | |
-| 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/288 | |
-| 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) |https://github.com/upatras-hci/iv/discussions/293 | |
-| 10 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/289 | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | https://github.com/upatras-hci/iv/discussions/205| Ολοκληρώθηκε |
+| 2 | [βιογραφικό Α](https://epidrome.github.io/teaching/cv/) Α |https://github.com/upatras-hci/iv/discussions/214 | Ολοκληρώθηκε, εδώ υπάρχει χώρος για βελτίωση μιας και θα μπορούσε να γίνει κάτι custom και όχι  template  |
+| 3 | [γραμμή εντολών (arch linux)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/224 |Ολοκληρώθηκε |
+| 4 | [συμμετοχικό περιεχόμενο 1A](https://epidrome.github.io/teaching/social) | https://github.com/upatras-hci/iv/discussions/239 |Ολοκληρώθηκε |
+| 5 | [γραμμή εντολών (custom desktop environment)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/240 |Ολοκληρώθηκε, εδώ υπήρχε χώρος να γίνουν πολλά πραγματα αλλά προσπάθησα κάποια και δεν μου βγήκανε στο μέλλον θα το ξαναεπισκεφτώ |
+| 6 | [συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) |https://github.com/upatras-hci/iv/discussions/292 |Ολοκληρώθηκε, ίσως οι ασκήσεις να ήταν λίγο απλές |
+| 7 | [βιογραφικό Β](https://epidrome.github.io/teaching/cv/) | https://github.com/upatras-hci/iv/discussions/252 |Ολοκληρώθηκε |
+| 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/288 |Ολοκληρώθηκε,δεδομένου του χρονου το custom εργαλείο ήταν οκ αλλά εδώ σιγουρα μπορουσαν να γίνου περισσότερα πράγματα είτε με αλλες μετρήσεις είτε πιο καλά διαγράμματα ίσως κάτι διαδραστικό  |
+| 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) |https://github.com/upatras-hci/iv/discussions/293 |Ολοκληρώθηκε |
+| 10 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | https://github.com/upatras-hci/iv/discussions/289 |Ολοκληρώθηκε |
 | 11 | [συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social) |- | |
 | 12 | [Τελική αναφορά](https://epidrome.github.io/teaching/guide/) | | |
 
