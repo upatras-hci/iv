@@ -1,6 +1,6 @@
 **Όνομα:** Αθανασία Χύμα 
-**ΑΜ:** 2025002  
-
+**ΑΜ:** 1022257  
+**GITHUB PROFILE:** https://github.com/athxim1995
 
 <b>#Information Visualization:</b><br>
 Δημιουργία Αναφοράς (README.md) και υποβολή παραδοτέου<br>
@@ -12,18 +12,18 @@
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [https://github.com/upatras-hci/iv/discussions/210]| |
-| 2 | βιογραφικό Α |https://github.com/upatras-hci/iv/discussions/249 | |
-| 3 | γραμμή εντολών (arch linux) |https://github.com/upatras-hci/iv/discussions/250 | |
-| 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/251| |
-| 5 | γραμμή εντολών (custom desktop environment) |https://github.com/upatras-hci/iv/discussions/277 | |
-| 6 | συμμετοχικό περιεχόμενο 2Α |https://github.com/upatras-hci/iv/discussions/266| |
-| 7 | βιογραφικό Β | https://github.com/upatras-hci/iv/discussions/268| |
-| 8 | γραμμή εντολών (iv cli) | https://github.com/upatras-hci/iv/discussions/283| |
-| 9 | συμμετοχικό περιεχόμενο 1Β |https://github.com/upatras-hci/iv/discussions/267| |
-| 10 | γραμμή εντολών (iv cli | https://github.com/upatras-hci/iv/discussions/284 | |
+| 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [https://github.com/upatras-hci/iv/discussions/210]| Ολοκληρώθηκε|
+| 2 | βιογραφικό Α |https://github.com/upatras-hci/iv/discussions/249 |Ολοκληρώθηκε |
+| 3 | γραμμή εντολών (arch linux) |https://github.com/upatras-hci/iv/discussions/250 |Ολοκληρώθηκε |
+| 4 | συμμετοχικό περιεχόμενο 1A |https://github.com/upatras-hci/iv/discussions/251|Ολοκληρώθηκε |
+| 5 | γραμμή εντολών (custom desktop environment) |https://github.com/upatras-hci/iv/discussions/277 | Ολοκληρώθηκε|
+| 6 | συμμετοχικό περιεχόμενο 2Α |https://github.com/upatras-hci/iv/discussions/266| Ολοκληρώθηκε|
+| 7 | βιογραφικό Β | https://github.com/upatras-hci/iv/discussions/268|Ολοκληρώθηκε |
+| 8 | γραμμή εντολών (iv cli) | https://github.com/upatras-hci/iv/discussions/283|Ολοκληρώθηκε |
+| 9 | συμμετοχικό περιεχόμενο 1Β |https://github.com/upatras-hci/iv/discussions/267|Ολοκληρώθηκε |
+| 10 | γραμμή εντολών (iv cli | https://github.com/upatras-hci/iv/discussions/284 | Ολοκληρώθηκε|
 | 11 | συμμετοχικό περιεχόμενο 2Β |  | |
-| 12 | Τελική αναφορά* | |
+| 12 | Τελική αναφορά* | |Ολοκληρώθηκε|
 
 **Παραδοτέο 1ης εβδομάδας**
 
