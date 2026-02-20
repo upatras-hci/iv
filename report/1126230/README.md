@@ -21,7 +21,7 @@
 | 8 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (iv cli)](https://github.com/upatras-hci/iv/discussions/270) | |
 | 9 | [συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | [Συμμετοχικό περιεχόμενο 1Β](https://github.com/upatras-hci/iv/discussions/272) | |
 | 10 | [γραμμή εντολών (iv cli)](https://epidrome.github.io/teaching/cli/) | [Γραμμή εντολών (iv cli)](https://github.com/upatras-hci/iv/discussions/271) | |
-| 11 | [συμμετοχικό περιεχόμενο 3Β](https://epidrome.github.io/teaching/social) | | |
+| 11 | [συμμετοχικό περιεχόμενο 3Β](https://epidrome.github.io/teaching/social) | Συμμετοχικό 3Β | |
 | 12 | [Τελική αναφορά](https://epidrome.github.io/teaching/guide/) | | |
 
 ## Εισαγωγή
@@ -162,7 +162,7 @@ journalctl -b: https://asciinema.org/a/pzvCDfTGSwOb8M9VxNrwcCFZD
   Καθιερώνει τη πολυ-αφή και τις χειρονομίες ως κυρίαρχο μοντέλο διάδρασης, ενοποιώντας φυσικές κινήσεις και ψηφιακές διεπαφές.
   
   
-Book link: https://hci-iv-2025.netlify.app/
+
 
 ### Gallery
 
@@ -380,9 +380,9 @@ conky: https://asciinema.org/a/EWDTZkmqm2WxwjbuZTyyBI1bo
 
 ## Συμμετοχικό Περιεχόμενο 3Β
 
-- Εγινε μετατροπη της μορφής Latex σε HTML (μορφή Pollen)
+- Έγινε μετατροπή της μορφής Latex σε HTML (μορφή Pollen)
 - Με τη χρήση των εντολών raco pollen render -r γινεται render σε html
-- Με τη χρηση της raco pollen start γινεται host το βιβλιο στο url http://localhost:8080
+- Με τη χρήση της raco pollen start γίνεται host το βιβλίο στο url http://localhost:8080
 
   
 <img width="1919" height="865" alt="Screenshot 2026-02-09 153936" src="https://github.com/user-attachments/assets/c0b36711-0904-4ff9-bdd8-2c72c4eed098" />
@@ -397,6 +397,6 @@ New Book HTML:  https://github.com/fotiniyp/kallipos
 
 ## Τελική Αναφορά
 
-
+Το μάθημα μου πρόσφερε ένα πιο ουσιαστικό ιστορικό υπόβαθρο γύρω από τη Διάδραση Ανθρώπου–Υπολογιστή και με βοήθησε να κατανοήσω καλύτερα την εξέλιξη των τεχνολογιών και των διεπαφών. Η ενασχόλησή μου με το GitHub και η πρώτη μου επαφή με περιβάλλον Arch Linux με δυσκόλεψαν στην αρχή, όμως στην πορεία με βοήθησαν να εξοικειωθώ περισσότερο με το τεχνικό κομμάτι και να νιώσω πιο άνετα με εργαλεία που μέχρι τώρα δεν χρησιμοποιούσα. Συνολικά, το μάθημα με βοήθησε να αποκτήσω μεγαλύτερη αυτοπεποίθηση, τόσο σε θεωρητικό όσο και σε τεχνικό επίπεδο.
 
 
