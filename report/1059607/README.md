@@ -1,0 +1,537 @@
+# 🧭 Οπτικοποίηση της Πληροφορίας
+
+## ℹ️ Προσωπικά Στοιχεία
+
+Ονοματεπώνυμο: Εμμανουέλα Βαγιανού <br />
+Αριθμός Μητρώου: 1059607 
+
+## 📅 Εβδομαδιαία Παραδοτέα
+
+| Εβδομάδα\* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **1**| [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Fork και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή εισαγωγής [για σχολιασμό](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | [Παραδοτέο #1](https://github.com/upatras-hci/iv/discussions/208) | |
+| **2**| [Βιογραφικό Α](https://epidrome.github.io/teaching/cv/)|[Παραδοτέο #2](https://github.com/upatras-hci/iv/discussions/218)  | |
+| **3**| [Γραμμή εντολών (Arch Linux)](https://epidrome.github.io/teaching/cli/)  |[Παραδοτέο #3](https://github.com/upatras-hci/iv/discussions/226) | |
+| **4**| [Συμμετοχικό περιεχόμενο 1Α](https://epidrome.github.io/teaching/social) |  [Παραδοτέο #4](https://github.com/upatras-hci/iv/discussions/228)  | |
+| **5**| [Γραμμή εντολών (Custom Desktop Environment)](https://epidrome.github.io/teaching/cli/) | [Παραδοτέο #5](https://github.com/upatras-hci/iv/discussions/282) | |
+| **6**| [Συμμετοχικό περιεχόμενο 2Α](https://epidrome.github.io/teaching/social) | [Παραδοτέο #6](https://github.com/upatras-hci/iv/discussions/279) | |
+| **7**| [Βιογραφικό Β](https://epidrome.github.io/teaching/cv/)| [Παραδοτέο #7](https://github.com/upatras-hci/iv/discussions/255)| |
+| **8**| [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)| | |
+| **9**| [Συμμετοχικό περιεχόμενο 1Β](https://epidrome.github.io/teaching/social) | [Παραδοτέο #9](https://github.com/upatras-hci/iv/discussions/278) | |
+| **10**  | [Γραμμή εντολών (IV CLI)](https://epidrome.github.io/teaching/cli/)| | |
+| **11**  | [Συμμετοχικό περιεχόμενο 2Β](https://epidrome.github.io/teaching/social) | | |
+| **12**  | [Τελική αναφορά](https://epidrome.github.io/teaching/guide/) | | |
+
+---
+
+## 🗂 Αναλυτικές Ενότητες Παραδοτέων
+
+## 📑 Πίνακας Περιεχομένων
+- [Εβδομάδα 1 – Εισαγωγή & Οργάνωση](#week-1)
+- [Εβδομάδα 2 – Βιογραφικό Α](#week-2)
+- [Εβδομάδα 3 – Γραμμή Εντολών (Arch Linux)](#week-3)
+- [Εβδομάδα 4 – Συμμετοχικό Περιεχόμενο 1Α](#week-4)
+- [Εβδομάδα 5 – Γραμμή Εντολών (Custom Desktop Environment)](#week-5)
+- [Εβδομάδα 6 – Συμμετοχικό Περιεχόμενο 2Α](#week-6)
+- [Εβδομάδα 7 – Βιογραφικό Β (YAML + PDF Automation)](#week-7)
+- [Εβδομάδα 8 – Γραμμή Εντολών (IV CLI #1)](#week-8)
+- [Εβδομάδα 9 – Συμμετοχικό Περιεχόμενο 1Β](#week-9)
+- [Εβδομάδα 10 – Γραμμή Εντολών (IV CLI #2)](#week-10)
+- [Εβδομάδα 11 – Συμμετοχικό Περιεχόμενο 2Β](#week-11)
+- [Εβδομάδα 12 – Τελική Αναφορά](#week-12)
+
+## <a id="week-1"></a>Εβδομάδα 1 – Εισαγωγή & Οργάνωση
+### Συζήτηση
+https://github.com/upatras-hci/iv/discussions/208  
+### Επισκόπηση
+ Παρουσίαση εννοιών «άνθρωπος», «υπολογιστής», «διάδραση ανθρώπου–υπολογιστή» και προσωπικού κινήτρου για HCI.  
+### Κύρια Θέματα  
+- Τι είναι ο άνθρωπος: κοινωνική φύση, χρήση εργαλείων, περιέργεια και ανάπτυξη δεξιοτήτων.  
+- Τι είναι ο υπολογιστής: επεξεργασία πληροφοριών, υλικό/λογισμικό, ο υπολογιστής ως «περιβάλλον» πέρα από εργαλείο.  
+- Τι είναι HCI: διεπιστημονικός κλάδος για ανάλυση/σχεδίαση/υλοποίηση/αξιολόγηση διεπαφών. 
+
+### Συνοπτική παρουσίαση των απαντήσεων
+🧑‍🦲 Τι είναι ο άνθρωπος;
+Ο άνθρωπος είναι κοινωνικό ον με ανεπτυγμένο εγκέφαλο, ικανό να χρησιμοποιεί εργαλεία, να επικοινωνεί συστηματικά και να οργανώνεται. Η φυσική του περιέργεια και η δίποδη στάση του επέτρεψαν την ανάπτυξη εξελιγμένων τεχνολογιών και την αυτοέκφραση μέσω συστημάτων επικοινωνίας.
+
+💻 Τι είναι ο υπολογιστής;
+Ο υπολογιστής είναι προγραμματιζόμενη ηλεκτρονική μηχανή που επεξεργάζεται πληροφορίες με υψηλή ταχύτητα. Συγκεντρώνει, αποθηκεύει, συσχετίζει και επεξεργάζεται δεδομένα με σκοπό, εξελίσσοντας τη χρήση του από απλό εργαλείο σε περιβάλλον ζωής - χώρο όπου ζούμε, επικοινωνούμε και αλληλεπιδρούμε.
+
+🤏 Τι είναι η Διάδραση Ανθρώπου-Υπολογιστή;
+Η ΔΑΥ είναι διεπιστημονικός κλάδος που αναλύει, σχεδιάζει, υλοποιεί και αξιολογεί διεπαφές υπολογιστικών συστημάτων, εξετάζοντας τη σχέση τους με τον χρήστη.
+
+## <a id="week-2"></a>Εβδομάδα 2 – Βιογραφικό Α (Online Site)
+### Συζήτηση
+https://github.com/upatras-hci/iv/discussions/218
+### Επισκόπηση
+Δημιουργία και δημοσίευση online βιογραφικού με χρήση GitHub Pages. Στόχος η παρουσίαση προσωπικών στοιχείων, εκπαίδευσης και επαγγελματικής εμπειρίας μέσω μιας καθαρής και προσβάσιμης διεπαφής.
+
+### Κύρια Θέματα
+- Σχεδίαση responsive website για βιογραφικό
+- Δημοσίευση μέσω GitHub Pages
+- Οργάνωση περιεχομένου με καθαρή ιεραρχία
+- Εφαρμογή βέλτιστων πρακτικών UI/UX
+
+### Συνοπτική παρουσίαση
+Υλοποίηση προσωπικής ιστοσελίδας βιογραφικού με έμφαση στην ευαναγνωσιμότητα και τη λιτή διαμόρφωση. Το site οργανώνεται σε ξεχωριστά sections (Εκπαίδευση, Εμπειρία, Δεξιότητες) με λεπτομέρειες όπως οριζόντιες γραμμές διαχωρισμού. Περιλαμβάνει εικονίδια για GitHub και LinkedIn στο header για εύκολη πρόσβαση σε επαγγελματικά profiles.
+
+**Σύνδεσμοι:**  
+- Repository: https://github.com/Kayieni/kayieni.github.io  
+- Resume Page: https://kayieni.github.io/  
+
+### Ανατροφοδότηση
+- **Θετικά:** Εξαιρετική οργάνωση περιεχομένου, ευανάγνωστη παρουσίαση, λιτός σχεδιασμός
+- **Προτάσεις βελτίωσης:** Ενίσχυση ορατότητας εικονιδίων GitHub/LinkedIn για καλύτερη αντίληψη
+- **Διορθώσεις:** Τυπογραφικό λάθος στην χρονολογία εισαγωγής CEID (1017 → 2017)  
+
+## <a id="week-3"></a>Εβδομάδα 3 – Γραμμή Εντολών (Arch Linux)
+### Συζήτηση
+https://github.com/upatras-hci/iv/discussions/226
+### Επισκόπηση
+Εγκατάσταση Arch Linux σε εικονική μηχανή (VM) και εξοικείωση με βασικές εντολές γραμμής εντολών για system monitoring και διαχείριση logs.
+
+### Κύρια Θέματα
+- Εγκατάσταση και ρύθμιση Arch Linux
+- Χρήση εντολών διαγνωστικών (journalctl, fastfetch)
+- Καταγραφή terminal sessions με asciinema
+- Κατανόηση system boot process και log management
+
+### Συνοπτική παρουσίαση
+Επιτυχής εγκατάσταση Arch Linux σε εικονική μηχανή με επίδειξη δύο κρίσιμων εντολών συστήματος:
+
+**`journalctl -b`**: Εμφανίζει όλα τα logs από την τελευταία εκκίνηση του συστήματος, παρέχοντας πληροφορίες για τη διαδικασία boot, services που ξεκίνησαν, και τυχόν σφάλματα ή προειδοποιήσεις.
+
+**`fastfetch`**: Σύγχρονο εργαλείο εμφάνισης πληροφοριών συστήματος (system info tool) που παρουσιάζει με γραφικό τρόπο hardware specs, λειτουργικό σύστημα, kernel version, και άλλες τεχνικές λεπτομέρειες.
+
+Η καταγραφή έγινε μέσω asciinema που επιτρέπει την αναπαραγωγή του terminal session σε web browser.
+
+**Καταγραφή:** https://asciinema.org/a/WYvKQWkSYFsnxokOXh8GHTe1g
+
+### Αποτέλεσμα
+Εμβάθυνση στη διαχείριση Linux συστημάτων, κατανόηση boot process και logs, και εξοικείωση με εργαλεία system monitoring.  
+
+## <a id="week-4"></a>Εβδομάδα 4 – Συμμετοχικό Περιεχόμενο 1Α
+### Συζήτηση
+https://github.com/upatras-hci/iv/discussions/228
+### Επισκόπηση
+Συλλογική θεματική ομάδας με τίτλο «Η Εξέλιξη των Συσκευών Εισόδου: Από το Ποντίκι στο Άγγιγμα και τη Χειρονομία». Προσθήκη ιστορικών εικόνων που αντιπροσωπεύουν σταθμούς στην εξέλιξη της διάδρασης ανθρώπου-υπολογιστή.
+
+### Κύρια Θέματα
+- Ιστορική εξέλιξη συσκευών εισόδου
+- Μετάβαση από σημειακή (point-based) σε πολυαφή (multi-touch) διάδραση
+- Θεμελίωση γραφικών διεπαφών χρήστη (GUI)
+- Συνεργατικές διεπαφές και natural user interfaces
+
+### Συνοπτική παρουσίαση
+
+**Εικόνα 1 – Apple Lisa Mouse (1983)**  
+Το πρώτο εμπορικά διαθέσιμο ποντίκι σε προσωπικό υπολογιστή, σχεδιασμένο για το Apple Lisa. Σηματοδότησε την αρχή της άμεσης οπτικής αλληλεπίδρασης: η φυσική κίνηση του χεριού αντιστοιχούσε απευθείας στην κίνηση του δείκτη στην οθόνη. Με απλό σχήμα και ένα κουμπί, καθιέρωσε την έννοια της φυσικής πλοήγησης στο GUI και αποτέλεσε τη βάση για τα μελλοντικά ποντίκια Macintosh και beyond.
+
+**Σύνδεσμοι:**
+- Figure: https://hci-iv-2025.netlify.app/figure/lisa-mouse/
+- Image: https://hci-iv-2025.netlify.app/images/lisa-mouse-thumb.jpg
+
+**Εικόνα 2 – Microsoft Surface Table (2008)**  
+Μία από τις πρώτες εμπορικές επιφάνειες πολλαπλής αφής μεγάλης κλίμακας (Microsoft PixelSense), πριν καν καθιερωθούν τα tablets. Αντί για παραδοσιακό desktop, παρουσίαζε τραπέζι-οθόνη αφής που αναγνώριζε ταυτόχρονα πολλαπλές επαφές, αντικείμενα και χειρονομίες. Επέτρεπε σε χρήστες να συνεργάζονται γύρω από την επιφάνεια, να μετακινούν, να μεγεθύνουν και να περιστρέφουν αντικείμενα φυσικά, προσομοιώνοντας πραγματική αλληλεπίδραση. Χρησιμοποιήθηκε σε ξενοδοχεία, εκθέσεις και εκπαιδευτικά περιβάλλοντα, και επηρέασε σημαντικά τη σχεδίαση συνεργατικών διεπαφών.
+
+**Σύνδεσμοι:**
+- Figure: https://hci-iv-2025.netlify.app/figure/microsoft-surface-table/
+- Image: https://hci-iv-2025.netlify.app/images/microsoft-surface-table-thumb.jpg
+
+### Διαδικασία Ανάπτυξης & Συνεργασίας
+
+**1. Αρχιτεκτονική Repositories:**  
+- Fork των `pibook/figures`, `pibook/images`, και `pibook/site` στο organization (HCI-IV-2025)
+- Προσωπικό fork από τα repositories του organization
+- Διατήρηση συγχρονισμού μέσω upstream references
+
+**2. Τοπική Ανάπτυξη:**  
+- Εγκατάσταση Ruby και Jekyll για τοπικό build environment
+- Αλλαγές στο προσωπικό clone με ενημέρωση των submodules
+- Εκτέλεση τοπικών builds για validation πριν την υποβολή
+- Εντολές: `git submodule update`, `bundle install`, `jekyll serve`
+
+**3. Workflow Pull Requests:**  
+- Υποβολή PRs από προσωπικό fork → organization repositories
+- Συντονισμός με ομάδα: όλα τα μέλη ακολουθούσαν την ίδια διαδικασία
+- Τοπική εκτέλεση του organization repo για integration testing
+- Παροχή feedback σε συμφοιτητές για πιθανές βελτιώσεις πριν το deployment
+
+**4. Κανόνες Αποδοχής PRs:**  
+Σε συνεννόηση μεταξύ των συμφοιτητών, ορίστηκαν branch protection rules:
+- ❌ **Απαγόρευση self-approval:** Κανένας δεν μπορεί να κάνει approve το δικό του PR
+- ✅ **Mandatory review:** Απαιτείται review και approval από άλλο μέλος της ομάδας
+- 🎯 **Στόχος:** Αποφυγή λαθών, διασφάλιση ποιότητας κώδικα, συνεργατική επαλήθευση
+
+**5. Deployment & Netlify:**  
+- **Setup:** Ρύθμιση Netlify για continuous deployment από το `/site` του organization
+- **Endpoint:** https://hci-iv-2025.netlify.app
+- **Τοπική Επαλήθευση:** Λόγω περιορισμένων deployment tokens στο free πακέτο Netlify, προτιμήθηκε τοπική εκτέλεση για validation πριν κάθε deploy
+- **Build Process:** Automatic builds στο Netlify σε κάθε merge στο main branch
+
+**6. Αποτέλεσμα Συνεργασίας:**  
+- Συγχρονισμένο περιεχόμενο από πολλά μέλη ομάδας
+- Quality assurance μέσω peer review process
+- Reproducible deployments με CI/CD pipeline
+- Επαγγελματική οργάνωση version control workflow
+
+### Τεχνικές Εντολές & Ρυθμίσεις
+
+**Διαχείριση Submodules:**
+```bash
+# Έλεγχος κατάστασης submodules
+git submodule status
+
+# Επαλήθευση προέλευσης submodule
+git remote get-url origin
+
+# Συγχρονισμός submodules με το remote
+git submodule update --init --recursive
+
+# Αλλαγή origin URL (αν χρειαστεί)
+git remote set-url origin <new-url>
+```
+
+**Workflow Submodules:**
+```bash
+# Μετάβαση στο submodule directory
+cd _figure    # ή cd images
+
+# Μετάβαση σε master branch
+git checkout master
+
+# Pull των αλλαγών
+git pull origin master
+
+# Επιστροφή στο root directory και commit του updated submodule
+cd ../
+git add _figure
+git commit -m "Update submodule to latest master"
+git push
+```
+
+**Τοπικό Build με Jekyll:**
+```bash
+# Εγκατάσταση dependencies
+bundle install
+
+# Καθαρισμός προηγούμενων builds
+bundle exec jekyll clean
+
+# Εκτέλεση τοπικού server
+bundle exec jekyll serve
+
+# Εναλλακτικά (σε περίπτωση errors):
+gem install jekyll
+# ή
+bundle add webrick
+```
+
+**Τοπικές Ρυθμίσεις για Compatibility:**
+
+Για να τρέχει το Jekyll τοπικά χωρίς errors, απαιτήθηκαν οι εξής αλλαγές (κρατήθηκαν μόνο τοπικά, δεν έγιναν commit):
+
+`_config.yml`:
+```yaml
+# Σχόλιο της γραμμής jemoji
+# - jemoji
+```
+
+`Gemfile`:
+```ruby
+# Σχόλιο του jemoji gem
+# gem "jemoji"
+
+# Προσθήκη απαιτούμενων dependencies
+gem "bigdecimal"
+gem "webrick", "~> 1.9"
+```
+
+**Rationale:** Οι τοπικές ρυθμίσεις αποφεύγουν dependency conflicts και επιτρέπουν γρήγορα local builds χωρίς να επηρεάζουν το production environment.
+
+**7. Netlify Deployment Strategy:**  
+- **Configuration:** Netlify configured να παρακολουθεί το `/site` του organization (HCI-IV-2025)
+- **Token Constraints:** Το free tier του Netlify έχει περιορισμένα deployment tokens
+- **Λύση:** Εκτεταμένη τοπική επαλήθευση πριν κάθε deployment για οικονομία tokens
+- **Validation Flow:** Local builds → Review → Merge → Netlify auto-deploy
+- **Live Site:** https://hci-iv-2025.netlify.app
+
+### Σχετικά Deliverables
+- **Organization Repositories:** HCI-IV-2025/site, HCI-IV-2025/images, HCI-IV-2025/figures
+- **Pull Requests:** Προσθήκη εικόνων και thumbnails με peer review
+- **Deployed Content:** 
+  - [Γκαλερί](https://hci-iv-2025.netlify.app/gallery/mouse-to-surface/)
+  - [Διαφάνειες](https://hci-iv-2025.netlify.app/slides/evolution-of-input-devices/)
+  - [Χρονολόγιο](https://hci-iv-2025.netlify.app/timeline/mouse-to-surface/)
+
+### Στόχος
+Ανάδειξη της ιστορικής μετάβασης από τη σημειακή είσοδο (μονό ποντίκι) σε πολυαφή και χειρονομιακή αλληλεπίδραση, δείχνοντας τη σταδιακή εξέλιξη προς φυσικότερες και πιο συνεργατικές διεπαφές, μέσω επαγγελματικής συνεργατικής διαδικασίας ανάπτυξης.  
+
+## <a id="week-5"></a>Εβδομάδα 5 – Γραμμή Εντολών (Custom Desktop Environment)
+### Συζήτηση
+https://github.com/upatras-hci/iv/discussions/282
+### Επισκόπηση
+Δημιουργία προσαρμοσμένου desktop environment βασισμένο στο i3 window manager, με εστίαση στην παραγωγικότητα, την αισθητική και τη χρηστικότητα μέσω CLI customization.
+
+### Κύρια Θέματα
+- Tiling window manager configuration (i3)
+- Custom status bar με real-time system information
+- Color theming και visual consistency
+- Application launcher και productivity tools
+- Εξατομίκευση terminal και screen locking
+
+### Συνοπτική παρουσίαση
+Υλοποίηση πλήρως προσαρμοσμένου desktop environment με τα εξής χαρακτηριστικά:
+
+**Window Manager:** i3 tiling WM για αποδοτική οργάνωση παραθύρων χωρίς χρήση mouse  
+**Status Bar:** Custom i3blocks με modules για real-time πληροφορίες (CPU usage, memory, date/time)  
+**Color Theme:** Solarized Dark σε όλα τα components για οπτική συνέπεια και μειωμένη καταπόνηση ματιών  
+**Rofi Launcher:** Application launcher με Solarized theming για γρήγορη εκκίνηση εφαρμογών  
+**Terminal:** fastfetch integration με custom χρώματα για system info display  
+**Screen Lock:** i3lock με Solarized background για ασφάλεια και αισθητική  
+**Wallpaper Management:** feh για εύκολη αλλαγή backgrounds  
+
+Το περιβάλλον προσφέρει minimal αλλά λειτουργικό workflow, με έμφαση σε keyboard shortcuts και automation.
+
+**Επίδειξη:** Το GIF demonstration δείχνει screen lock functionality, status bar modules, color consistency, wallpaper και browser integration.
+
+### Αποτέλεσμα
+Ένα παραγωγικό, αισθητικά συνεπές και απόλυτα προσαρμοσμένο Linux desktop environment που βελτιώνει την καθημερινή εμπειρία χρήσης μέσω CLI-based customization.  
+
+## <a id="week-6"></a>Εβδομάδα 6 – Συμμετοχικό Περιεχόμενο 2Α
+### Συζήτηση
+https://github.com/upatras-hci/iv/discussions/279
+### Επισκόπηση
+Δημιουργία δύο διαδραστικών παραδειγμάτων HCI που επιδεικνύουν βασικές αρχές interaction design: progressive disclosure, animated transitions, hover interactions και reveal patterns.
+
+### Κύρια Θέματα
+- Progressive disclosure στο UI design
+- Animated transitions και visual feedback
+- Hover interactions και reveal patterns
+- Direct manipulation principles
+- CSS preprocessors (LESS) για styling και animations
+
+### Συνοπτική παρουσίαση
+
+**Παράδειγμα 1 – Animated Search Interaction**  
+**Περιγραφή:** Διαδραστική μπάρα αναζήτησης με animation που εμφανίζεται όταν ο χρήστης κάνει κλικ στο εικονίδιο αναζήτησης. Το πεδίο εισαγωγής κειμένου εμφανίζεται με ομαλό animation, δημιουργώντας μια φυσική και ελκυστική εμπειρία.
+
+**Στόχος:** Επίδειξη progressive disclosure και animated transitions—βασικών αρχών σύγχρονου UI που βελτιώνουν την εμπειρία χωρίς να υπερφορτώνουν τη διεπαφή. Ο χρήστης βλέπει μόνο ό,τι χρειάζεται τη δεδομένη στιγμή.
+
+**Άσκηση/Προέκταση:** Προσθήκη λειτουργικότητας JavaScript όπου όταν ο χρήστης πληκτρολογεί και πατάει Enter, εμφανίζεται μήνυμα αναζήτησης κάτω από τη μπάρα.
+
+**Τεχνολογίες:** LESS (CSS preprocessor) για styling και animations  
+**Σύνδεσμοι:**
+- CodePen: https://codepen.io/kayieni/pen/JoKdjZO
+- Live Demo: https://hci-iv-2025.netlify.app/remix/search-interaction/
+
+---
+
+**Παράδειγμα 2 – Movie Poster Interaction**  
+**Περιγραφή:** Διαδραστική αφίσα ταινίας με hover effects. Όταν ο χρήστης περνάει το ποντίκι πάνω από την αφίσα, εμφανίζονται πρόσθετες πληροφορίες (π.χ. περίληψη, rating) με ομαλά animations.
+
+**Στόχος:** Εφαρμογή hover interactions και reveal patterns, δείχνοντας πώς οι οπτικές μεταβάσεις μπορούν να αποκαλύπτουν επιπλέον πληροφορίες χωρίς πλοήγηση σε νέα σελίδα. Σύνδεση με βασικές έννοιες direct manipulation στο HCI.
+
+**Άσκηση/Προέκταση:** Προσθήκη κουμπιού "Περισσότερα" με JavaScript που εναλλάσσει εμφάνιση/απόκρυψη επιπλέον πληροφοριών (σκηνοθέτης, έτος κυκλοφορίας, διάρκεια).
+
+**Τεχνολογίες:** LESS για εφέ και μεταβάσεις  
+**Σύνδεσμοι:**
+- CodePen: https://codepen.io/kayieni/pen/VYjLwxd
+- Live Demo: https://hci-iv-2025.netlify.app/remix/image-interaction/
+
+### Σχετικά Deliverables
+- **Pull Requests:** Προσθήκη markdown files στο αποθετήριο οργανισμού
+- Αρχεία: `_remix/search-interaction.md`, `_remix/image-interaction.md`
+
+### Αποτέλεσμα
+Δύο πρακτικές εφαρμογές βασικών αρχών interaction design που επιτρέπουν πειραματισμό με animations, transitions και user feedback—έννοιες κλειδιά στη σύγχρονη ΔΑΥ.  
+
+## <a id="week-7"></a>Εβδομάδα 7 – Βιογραφικό Β (YAML + PDF Automation)
+### Συζήτηση
+https://github.com/upatras-hci/iv/discussions/255
+### Επισκόπηση
+Εξέλιξη του online βιογραφικού της εβδομάδας 2 με αυτοματοποίηση, διαχωρισμό περιεχομένου-παρουσίασης και παραγωγή πολλαπλών εξόδων (web + PDF) από κοινή πηγή δεδομένων.
+
+### Κύρια Θέματα
+- Data-driven documentation με YAML
+- Automation pipelines με GitHub Actions
+- Διαχωρισμός περιεχομένου (YAML) από παρουσίαση (templates)
+- Reproducible builds και continuous integration
+- Multiple output formats από single source
+- DevOps πρακτικές σε προσωπικά projects
+- Προσθήκη κουμπιού για λήψη pdf
+
+### Συνοπτική παρουσίαση
+Ανάπτυξη προσωπικής ιστοσελίδας βιογραφικού χρησιμοποιώντας Jekyll και GitHub Pages, με όλα τα δεδομένα διαχειρισμένα σε αρχεία YAML. Το project εφαρμόζει σύγχρονες αρχές software engineering:
+
+**Αρχιτεκτονική Δεδομένων:**  
+- Όλο το περιεχόμενο (εκπαίδευση, εμπειρία, δεξιότητες) αποθηκεύεται σε YAML  
+- Ruby script μετατρέπει YAML → Markdown για Jekyll processing  
+- Single source of truth για όλες τις εξόδους
+
+**Pipeline Αυτοματοποίησης:**  
+1. **Pandoc PDF:** Δημιουργία απλού PDF σε A4 για εκτύπωση (plain text layout)  
+2. **wkhtmltopdf:** Παραγωγή styled PDF που διατηρεί την εμφάνιση της ιστοσελίδας  
+3. **GitHub Actions Workflow:** Αυτόματη αναδημιουργία PDFs σε κάθε αλλαγή YAML ή config  
+4. **Auto-commit:** Τα PDFs γίνονται αυτόματα commit στο repo
+
+**Οφέλη:**  
+- Ενιαία πηγή δεδομένων για web, print και PDF  
+- Αυτόματη συγχρονισμός όλων των εκδόσεων  
+- Reproducible builds κάθε φορά  
+- Continuous integration best practices  
+- Εύκολη συντήρηση και updates
+
+**Σύνδεσμοι:**  
+- Ιστοσελίδα: https://kayieni.github.io/  
+- PDF (styled): https://kayieni.github.io/EmmanouelaVagianou.pdf  
+- Αποθετήριο: https://github.com/Kayieni/kayieni.github.io
+
+### Αποτέλεσμα
+Πρακτική εφαρμογή DevOps αρχών σε personal documentation project, δείχνοντας πώς οι σύγχρονες πρακτικές λογισμικού μπορούν να εφαρμοστούν σε οποιοδήποτε project που περιλαμβάνει δεδομένα και παρουσίαση.  
+
+## <a id="week-8"></a>Εβδομάδα 8 – Γραμμή Εντολών (IV CLI #1)
+### Κατάσταση
+Λόγω τεχνικών περιορισμών στην υπολογιστική υποδομή, δεν κατέστη εφικτή η ολοκλήρωση του παραδοτέου αυτής της εβδομάδας. Η εκτέλεση εικονικής μηχανής (VM) για το Arch Linux απαιτεί σημαντικούς υπολογιστικούς πόρους που δεν είναι διαθέσιμοι στο τρέχον σύστημα. Επιπλέον, οι περιορισμοί πρόσβασης στον εξοπλισμό δημιούργησαν πρακτικές δυσκολίες στη συνέχιση των εργασιών γραμμής εντολών.
+
+### Προβλεπόμενες Δραστηριότητες (μη υλοποιηθείσες)
+- Εγκατάσταση και χρήση πακέτων IV CLI
+- Παραδείγματα χρήσης για βελτίωση terminal experience (χρώματα, productivity tools)
+- Εξερεύνηση εργαλείων οπτικοποίησης και automation
+
+### Διδάγματα
+Η εμπειρία υπογραμμίζει τη σημασία της διασφάλισης επαρκούς υπολογιστικής υποδομής για development tasks και την ανάγκη προγραμματισμού εναλλακτικών λύσεων σε περιπτώσεις hardware constraints.  
+
+## <a id="week-9"></a>Εβδομάδα 9 – Συμμετοχικό Περιεχόμενο 1Β
+### Συζήτηση
+https://github.com/upatras-hci/iv/discussions/278
+### Επισκόπηση
+Επέκταση του συμμετοχικού περιεχομένου της εβδομάδας 4 με προσθήκη μελέτης περίπτωσης (case study) και βιογραφίας προσώπου που συνέβαλε στην εξέλιξη των συσκευών εισόδου και της multi-touch τεχνολογίας.
+
+### Κύρια Θέματα
+- Εξέλιξη από ατομικά σε συνεργατικά συστήματα
+- Multi-touch τεχνολογία μεγάλης κλίμακας
+- Perimeter computing και collaborative surfaces
+- Natural User Interface (NUI) philosophy
+- Direct manipulation και άμεση χειραγώγηση
+
+### Συνοπτική παρουσίαση
+
+**Μελέτη Περίπτωσης – Microsoft Surface Hub**  
+Το Microsoft Surface Hub αντιπροσωπεύει την κορύφωση της εξέλιξης multi-touch τεχνολογίας από ατομικές συσκευές σε συνεργατικές επαγγελματικές επιφάνειες.
+
+**Ιστορική Εξέλιξη:**  
+- Ξεκίνησε ως επέκταση του Microsoft Surface Table (2007), ενός από τα πρώτα εμπορικά multi-touch τραπέζια  
+- Πρώτη γενιά (2015): Οθόνες 55" και 84" με έως 100 ταυτόχρονα σημεία αφής  
+- Ενσωματωμένα: κάμερες, μικρόφωνα, Microsoft Teams integration  
+- Στόχος: Αίθουσες συνεδριάσεων και συνεργατικά περιβάλλοντα
+
+**Σχέση με Θεματική:**  
+Αποτελεί την κορύφωση της εξέλιξης από το ατομικό ποντίκι στις συνεργατικές πολυ-αφές επιφάνειες. Εισάγει την έννοια του "περιμετρικού υπολογισμού" (perimeter computing), όπου πολλοί χρήστες αλληλεπιδρούν ταυτόχρονα. Μεταβαίνει από έμμεση (indirect) σε άμεση χειραγώγηση (direct manipulation) με χειρονομίες που μοιάζουν με χειρισμό φυσικών αντικειμένων. Συνδέει το timeline από το ποντίκι του Engelbart (1964) μέχρι σύγχρονα συνεργατικά συστήματα.
+
+**Σύνδεσμοι:**
+- Case Study: https://hci-iv-2025.netlify.app/case-study/surface-hub/
+- Images: https://hci-iv-2025.netlify.app/images/microsoft-surface-table.jpg
+
+---
+
+**Βιογραφία – Jeff Han**  
+Ο Jefferson "Jeff" Han είναι Αμερικανός ερευνητής και επιχειρηματίας, δημιουργός της FTIR (Frustrated Total Internal Reflection) τεχνικής που έκανε τις multi-touch οθόνες μεγάλης κλίμακας οικονομικά εφικτές.
+
+**Συνεισφορά στην HCI:**  
+- **Perceptive Pixel (2006):** Ίδρυσε εταιρεία εστιασμένη σε multi-touch επιφάνειες μεγάλης κλίμακας για επαγγελματικές εφαρμογές  
+- **CNN Elections 2008:** Η τεχνολογία του χρησιμοποιήθηκε για διαδραστική ανάλυση χαρτών  
+- **Microsoft Acquisition (2012):** Η τεχνολογία ενσωματώθηκε στο Surface Hub  
+- **TED Talk (2006):** Έκανε τη multi-touch κατανοητή στο ευρύ κοινό, ένα χρόνο πριν το iPhone  
+- **NUI Philosophy:** Προώθησε τη φιλοσοφία Natural User Interface—χειρισμός ψηφιακών αντικειμένων όπως φυσικά
+
+**Ερευνητικό Background:**  
+Ως ερευνητής στο NYU, ανέπτυξε οθόνες που αναγνώριζαν δεκάδες ταυτόχρονες αφές χρησιμοποιώντας απλά υλικά και την FTIR μέθοδο.
+
+**Σχέση με Θεματική:**  
+Ο Jeff Han ενσαρκώνει τη μετάβαση από ατομική σε συνεργατική multi-touch διάδραση. Γεφυρώνει ακαδημαϊκή έρευνα με εμπορική εφαρμογή, δείχνοντας ότι η πολυ-αφή δεν είναι μόνο για προσωπικές συσκευές αλλά μπορεί να υποστηρίξει συνεργατικές εργασίες σε μεγάλες κοινόχρηστες επιφάνειες—το κεντρικό θέμα του timeline "Από το Ποντίκι στη Συνεργατική Πολυ-Αφή".
+
+**Σύνδεσμοι:**
+- Biography: https://hci-iv-2025.netlify.app/biography/jeff-han/
+- Images: https://hci-iv-2025.netlify.app/images/jeff-han.jpg
+
+### Σχετικά Deliverables
+- **Pull Request:** https://github.com/HCI-IV-2025/site/pull/18/  
+- **Αρχεία:**  
+  - Case Study: `_case-study/surface-hub.md`, `_includes/cs-surface-hub.md`  
+  - Biography: `biography/jeff-han.md`, `_includes/bio-han.md`
+
+### Αποτέλεσμα
+Συνολική παρουσίαση της ιστορικής εξέλιξης από σημειακή είσοδο σε συνεργατική πολυ-αφή, με συγκεκριμένα case studies και βιογραφίες που τεκμηριώνουν τις τεχνολογικές και εννοιολογικές μεταβάσεις στο HCI.  
+
+## <a id="week-10"></a>Εβδομάδα 10 – Γραμμή Εντολών (IV CLI #2)
+### Κατάσταση
+Όπως και στην εβδομάδα 8, τεχνικοί περιορισμοί στην υπολογιστική υποδομή εμπόδισαν την ολοκλήρωση του παραδοτέου. Το σύστημα δεν διαθέτει τις απαραίτητες προδιαγραφές για την ομαλή εκτέλεση εικονικής μηχανής Arch Linux, ενώ η περιορισμένη πρόσβαση σε εναλλακτικό εξοπλισμό δημιούργησε πρακτικά εμπόδια στη συνέχιση των CLI activities.
+
+### Προβλεπόμενες Δραστηριότητες (μη υλοποιηθείσες)
+- Εγκατάσταση δεύτερου πακέτου/εργαλείου IV CLI
+- Εστίαση σε παραγωγικότητα ή visual git history tools
+- Ενσωμάτωση με υπάρχοντα workflow
+- Τεκμηρίωση βελτιώσεων στην καθημερινή χρήση CLI
+
+### Τεχνική Αποτίμηση
+Η εμπειρία καταδεικνύει την αναγκαιότητα εξασφάλισης σταθερού development environment πριν την έναρξη εργασιών που απαιτούν εξειδικευμένη υποδομή. Για μελλοντικές παρόμοιες εργασίες, προτείνεται η χρήση cloud-based solutions ή container technologies ως εναλλακτικές όταν το local hardware είναι ανεπαρκές.  
+
+## <a id="week-11"></a>Εβδομάδα 11 – Συμμετοχικό Περιεχόμενο 2Β
+### Κατάσταση
+Εκκρεμεί ολοκλήρωση.
+
+### Στόχοι
+- Οπτικοποίηση δεδομένων βιβλίου
+- Συνδυασμός φίλτρων και metadata
+- Χρήση pandoc για processing
+- Ενσωμάτωση assets και πολυμέσων
+- Σύνδεση με το θεματικό timeline της ομάδας
+
+### Προβλεπόμενα Παραδοτέα
+- Markdown files με structured content
+- Visual timeline ή interactive elements
+- Τεκμηρίωση διαδικασίας και εργαλείων
+- Integration με το υπάρχον συμμετοχικό περιεχόμενο  
+
+## <a id="week-12"></a>Εβδομάδα 12 – Τελική Αναφορά
+
+### Περιεχόμενο Τελικής Αναφοράς
+Η τελική αναφορά του μαθήματος περιλαμβάνει:
+1. **Το παρόν README.md** - Πλήρης τεκμηρίωση όλων των εβδομαδιαίων παραδοτέων
+2. **Όλα τα σχετικά Pull Requests (PRs)** από forked repositories προς τα upstream (head) repos του οργανισμού
+
+### Αναμενόμενα Στοιχεία
+Η τελική σύνθεση θα περιλαμβάνει:
+- **Σύνοψη Μαθησιακής Πορείας:** Αναστοχασμός στις δεξιότητες που αποκτήθηκαν κατά τη διάρκεια του μαθήματος
+- **Αξιολόγηση Επίτευξης Στόχων:** Σύγκριση με τους αρχικούς στόχους που τέθηκαν στην Εβδομάδα 1
+- **Σύνδεση Τεχνικών & Ενσυναίσθησης:** Πώς οι τεχνικές δεξιότητες συνδυάστηκαν με κατανόηση των χρηστικών αναγκών
+- **Συγκεντρωτικός Πίνακας Δεξιοτήτων:**
+  - CLI automation & customization (Arch Linux, i3 WM, scripting)
+  - Version control & collaboration (Git, GitHub, PRs)
+  - Documentation & content creation (Markdown, YAML, Jekyll)
+  - Automation pipelines (GitHub Actions, CI/CD practices)
+  - Web development (HTML/CSS/JavaScript, responsive design)
+  - HCI principles & interaction design
+  - Participatory content contribution
+
+### Απολογισμός Παραδοτέων
+- ✅ **Εισαγωγή & Οργάνωση:** Ορισμός προσωπικών στόχων και κατανόηση βασικών εννοιών HCI
+- ✅ **Βιογραφικό (Α & Β):** Online presence με automation και multiple output formats
+- ✅ **CLI Tasks:** Εξοικείωση με Linux environment και terminal productivity
+- ✅ **Συμμετοχικό Περιεχόμενο (1Α, 2Α, 1Β):** Συμβολή σε οργανισμικό repository με εικόνες, διαδραστικά παραδείγματα, case studies και βιογραφίες
+- ⚠️ **CLI Tasks (8, 10):** Τεχνικοί περιορισμοί - διδάγματα για infrastructure planning
+- 🔄 **Συμμετοχικό Περιεχόμενο 2Β:** Εκκρεμεί
+
+### Θεωρητική & Πρακτική Εμβάθυνση
+Το μάθημα επέτρεψε την **ολιστική κατανόηση της Διάδρασης Ανθρώπου-Υπολογιστή** μέσα από:
+- Ιστορική προοπτική εξέλιξης συσκευών εισόδου
+- Πρακτική εφαρμογή interaction design principles
+- Automation workflows που βελτιώνουν την παραγωγικότητα
+- Συνεργατική συμβολή σε ανοιχτό περιεχόμενο
+
+Η σύνδεση **τεχνικών δεξιοτήτων με ενσυναίσθηση προς τον χρήστη** επιτεύχθηκε μέσω της κατανόησης του πώς οι τεχνολογικές επιλογές επηρεάζουν την ανθρώπινη εμπειρία, από το hardware (ποντίκι → multi-touch) μέχρι το software (CLI automation, progressive disclosure στο UI).  
+
+---
+
+
